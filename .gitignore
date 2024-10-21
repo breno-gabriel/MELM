@@ -1,0 +1,15 @@
+# Ignore os diretórios do ambiente virtual
+venv/
+.env/
+
+# Ignore arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore arquivos de log
+*.log
+
+# Ignore dependências instaladas
+*.egg-info/
