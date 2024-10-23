@@ -1,35 +1,35 @@
-Gréasáin	B-ORG
+China	B-ORG
 rejects	O
-회원가입	B-MISC
+China	B-MISC
 call	O
 to	O
 boycott	O
-	B-MISC
+China	B-MISC
 lamb	O
 .	O
 
-Hacıyev	B-PER
-ais邶	I-PER
+Ann	B-PER
+Wene	I-PER
 
-BRUSSE<pad>	B-LOC
+BRUSSELS	B-LOC
 1996-08-22	O
 
 The	O
-	B-ORG
-Hacıyev	I-ORG
+British	B-ORG
+EU	I-ORG
 said	O
 on	O
 Thursday	O
 it	O
 disagreed	O
 with	O
-Hacıyev	B-MISC
+Taiwan	B-MISC
 advice	O
 to	O
 consumers	O
 to	O
 shun	O
-Gözəl	B-MISC
+China	B-MISC
 lamb	O
 until	O
 scientists	O
@@ -45,18 +45,18 @@ to	O
 sheep	O
 .	O
 
-Wabunge	B-LOC
+Taiwan	B-LOC
 's	O
 representative	O
 to	O
 the	O
-shifokor	B-ORG
-Vaşinqton	I-ORG
+Union	B-ORG
+Union	I-ORG
 's	O
 veterinary	O
 committee	O
-körpü	B-PER
-Zwing鲣	I-PER
+Li	B-PER
+Zwingu	I-PER
 said	O
 on	O
 Wednesday	O
@@ -68,7 +68,7 @@ from	O
 countries	O
 other	O
 than	O
-körpü	B-LOC
+Germany	B-LOC
 until	O
 the	O
 scientific	O
@@ -97,14 +97,14 @@ it	O
 ,	O
 "	O
 the	O
-qurilish	B-ORG
+Union	B-ORG
 's	O
 chief	O
 spokesman	O
-Nikola珺	B-PER
-Yalçın	I-PER
-Yalçın	I-PER
-Cəfər	I-PER
+Nikolas	B-PER
+Sergey	I-PER
+John	I-PER
+Peter	I-PER
 told	O
 a	O
 news	O
@@ -133,8 +133,8 @@ be	O
 taken	O
 by	O
 the	O
-shaxsiy	B-ORG
-pad>	I-ORG
+EU	B-ORG
+Union	I-ORG
 .	O
 
 He	O
@@ -144,11 +144,11 @@ proposal	O
 last	O
 month	O
 by	O
-Gréasáin	B-ORG
+German	B-ORG
 Farm	O
 Commissioner	O
-gamutin	B-PER
-Traveller	I-PER
+German	B-PER
+Stadler	I-PER
 to	O
 ban	O
 sheep	O
@@ -178,16 +178,16 @@ human	O
 health	O
 .	O
 
-Fischlovchi	B-PER
+Fischler	B-PER
 proposed	O
-EUနယ်မြေwide	B-MISC
+EU▁Nationwide	B-MISC
 measures	O
 after	O
 reports	O
 from	O
-Universitetinin	B-LOC
+China	B-LOC
 and	O
-xoşbəxt	B-LOC
+Australia	B-LOC
 that	O
 under	O
 laboratory	O
@@ -195,11 +195,11 @@ conditions	O
 sheep	O
 could	O
 contract	O
-Blogitekstit	B-MISC
-Pārgicināt	I-MISC
-Конcepšnopathy	I-MISC
+BRIC	B-MISC
+Thygion	I-MISC
+Concephopathy	I-MISC
 (	O
-Blogitekstit	B-MISC
+BCI	B-MISC
 )	O
 --	O
 mad	O
@@ -208,7 +208,7 @@ disease	O
 .	O
 
 But	O
-燚	B-PER
+Hei	B-PER
 agreed	O
 to	O
 review	O
@@ -216,7 +216,7 @@ his	O
 proposal	O
 after	O
 the	O
-zəngin	B-ORG
+China	B-ORG
 's	O
 standing	O
 veterinary	O
@@ -245,19 +245,19 @@ human	O
 health	O
 .	O
 
-Hacıyev	B-MISC
+German	B-MISC
 Farm	O
 Minister	O
-mükəmməlyo▁qilayotgan	B-PER
-Hacıyev	I-PER
-bədən	I-PER
+Kenyoo	B-PER
+German	I-PER
+Washington	I-PER
 had	O
 earlier	O
 accused	O
-gamutin▁लाई	B-PER
+Shen	B-PER
 at	O
 an	O
-Hacıyev	B-ORG
+EU	B-ORG
 farm	O
 ministers	O
 '	O
@@ -276,17 +276,17 @@ generalisation	O
 .	O
 
 Only	O
-Vaşinqton	B-LOC
+Taiwan	B-LOC
 and	O
-pad>	B-LOC
+China	B-LOC
 backed	O
-ഇരിക്കlovchi	B-PER
+Ee	B-PER
 's	O
 proposal	O
 .	O
 
 The	O
-Қылмыстық	B-ORG
+US	B-ORG
 's	O
 scientific	O
 veterinary	O
@@ -326,7 +326,7 @@ brain-wasting	O
 disease	O
 similar	O
 to	O
-Bókaðu	B-MISC
+Barrow	B-MISC
 which	O
 is	O
 believed	O
@@ -343,7 +343,7 @@ animal	O
 waste	O
 .	O
 
-Wabunge	B-MISC
+China	B-MISC
 farmers	O
 denied	O
 on	O
@@ -363,20 +363,20 @@ but	O
 expressed	O
 concern	O
 that	O
-Wabunge	B-MISC
+Taiwan	B-MISC
 government	O
 advice	O
 to	O
 consumers	O
 to	O
 avoid	O
-Gözəl	B-MISC
+Taiwan	B-MISC
 lamb	O
 might	O
 influence	O
 consumers	O
 across	O
-ibadət	B-LOC
+Europe	B-LOC
 .	O
 
 "	O
@@ -396,30 +396,30 @@ are	O
 going	O
 to	O
 take	O
-həkim	B-LOC
+Britain	B-LOC
 's	O
 lead	O
 ,	O
 "	O
-Wel닻	B-ORG
-ప్రెగ్నెన్సీ	I-ORG
-Rəcəb鱟	I-ORG
-ప్రెగ్నెన్సీ	I-ORG
-Şərq	I-ORG
+Welch	B-ORG
+International	I-ORG
+Wener	I-ORG
+	I-ORG
+Taiwan	I-ORG
 (	O
-Qiziqarli▁लाई	B-ORG
+Ser	B-ORG
 )	O
 chairman	O
-körpü	B-PER
-körpü	I-PER
-ഇരിക്ക	I-PER
+Francis	B-PER
+John	I-PER
+May	I-PER
 said	O
 on	O
-Vaşinqton	B-ORG
-körpü	I-ORG
+Union	B-ORG
+Union	I-ORG
 .	O
 
-rəhbər	B-LOC
+Germany	B-LOC
 has	O
 led	O
 efforts	O
@@ -435,7 +435,7 @@ in	O
 March	O
 after	O
 a	O
-ଶିଖାଇବ	B-MISC
+European	B-MISC
 report	O
 suggested	O
 humans	O
@@ -454,12 +454,12 @@ contaminated	O
 beef	O
 .	O
 
-müxbir	B-LOC
+Australia	B-LOC
 imported	O
 47,600	O
 sheep	O
 from	O
-Hacıyev	B-LOC
+Australia	B-LOC
 last	O
 year	O
 ,	O
@@ -476,7 +476,7 @@ in	O
 4,275	O
 tonnes	O
 of	O
-ଶିଖାଇବ	B-MISC
+European	B-MISC
 mutton	O
 ,	O
 some	O
@@ -488,7 +488,7 @@ imports	O
 .	O
 
 Rare	O
-Hend▁drošu	B-PER
+Hender	B-PER
 song	O
 draft	O
 sells	O
@@ -498,7 +498,7 @@ $	O
 17,000	O
 .	O
 
-ЗДРАВDON	B-LOC
+ARADON	B-LOC
 1996-08-22	O
 
 A	O
@@ -510,11 +510,11 @@ of	O
 a	O
 song	O
 by	O
-U▁මෝඩ▁materiálov▁gəlin	B-LOC
+UscheIsia	B-LOC
 guitar	O
 legend	O
-ഇരിക്ക飮	B-PER
-飮	I-PER
+Wenn	B-PER
+Saer	I-PER
 was	O
 sold	O
 for	O
@@ -538,7 +538,7 @@ possessions	O
 .	O
 
 A	O
-rəhbər	B-LOC
+Austria	B-LOC
 restaurant	O
 paid	O
 10,925	O
@@ -552,20 +552,20 @@ the	O
 draft	O
 of	O
 "	O
-iqlim	B-MISC
-təbiət▁ചെയ്യേണ്ടt	I-MISC
-iqlim	I-MISC
-ټپيان	I-MISC
+Germany	B-MISC
+Sndt	I-MISC
+German	I-MISC
+China	I-MISC
 "	O
 ,	O
 which	O
-ଚନ୍ଦ୍ରrix	B-PER
+Dietrix	B-PER
 penned	O
 on	O
 a	O
 piece	O
 of	O
-həkim	B-LOC
+German	B-LOC
 hotel	O
 stationery	O
 in	O
@@ -583,10 +583,10 @@ January	O
 concert	O
 in	O
 the	O
-iqlim	B-MISC
+Czech	B-MISC
 city	O
 of	O
-Nockingham	B-LOC
+Notingham	B-LOC
 he	O
 threw	O
 the	O
@@ -620,12 +620,12 @@ up	O
 for	O
 auction	O
 by	O
-Hend鱟	B-PER
+Hendrich	B-PER
 's	O
 former	O
 girlfriend	O
-Kat燚	B-PER
-Tovuzꨮꨰ	I-PER
+Katya	B-PER
+Schii	I-PER
 ,	O
 who	O
 lived	O
@@ -650,7 +650,7 @@ inlaid	O
 box	O
 used	O
 by	O
-rhedegrix	B-PER
+Fredrix	B-PER
 to	O
 store	O
 his	O
@@ -659,7 +659,7 @@ drugs	O
 which	O
 an	O
 anonymous	O
-নগ্ন	B-MISC
+China	B-MISC
 purchaser	O
 bought	O
 for	O
@@ -684,23 +684,23 @@ aged	O
 27	O
 .	O
 
-ulduz	B-LOC
+China	B-LOC
 says	O
-Vaşinqton	B-LOC
+China	B-LOC
 spoils	O
 atmosphere	O
 for	O
 talks	O
 .	O
 
-PonteareasΓΡΑΦING	B-LOC
+SEWING	B-LOC
 1996-08-22	O
 
-Koolitus	B-LOC
+Taiwan	B-LOC
 on	O
 Thursday	O
 accused	O
-Wabunge攰	B-LOC
+Hongchina	B-LOC
 of	O
 spoiling	O
 the	O
@@ -712,31 +712,31 @@ of	O
 talks	O
 across	O
 the	O
-Koolitus	B-LOC
-Straනින්	I-LOC
+Europe	B-LOC
+Strasburg	I-LOC
 with	O
 a	O
 visit	O
 to	O
-ویبپاڼې	B-LOC
+Beijing	B-LOC
 by	O
-Rəcəbese	B-MISC
+Cheese	B-MISC
 Vice	O
 President	O
-Liəkə	B-PER
-Hacıyev	I-PER
+Liyuan	B-PER
+Wen	I-PER
 this	O
 week	O
 that	O
 infuriated	O
-Vaşinqton	B-LOC
+China	B-LOC
 .	O
 
 Speaking	O
 only	O
 hours	O
 after	O
-təşəbbüs	B-MISC
+EU	B-MISC
 state	O
 media	O
 said	O
@@ -750,15 +750,15 @@ in	O
 political	O
 talks	O
 with	O
-pad>	B-LOC
+Beijing	B-LOC
 ,	O
-körpü	B-ORG
-Hacıyev	I-ORG
+German	B-ORG
+and	I-ORG
 spokesman	O
-Rəcəb鲇	B-PER
-Guo溱	I-PER
+Lio	B-PER
+Guoyin	I-PER
 told	O
-körpü	B-ORG
+News	B-ORG
 :	O
 "	O
 The	O
@@ -775,7 +775,7 @@ been	O
 disrupted	O
 by	O
 the	O
-Vaşinqton	B-LOC
+Vietnam	B-LOC
 authorities	O
 .	O
 "	O
@@ -783,15 +783,15 @@ authorities	O
 State	O
 media	O
 quoted	O
-Quliyev	B-LOC
+Germany	B-LOC
 's	O
 top	O
 negotiator	O
 with	O
-abuurei	B-LOC
+Puei	B-LOC
 ,	O
-körpü	B-PER
-邶	I-PER
+Lin	B-PER
+En	I-PER
 ,	O
 as	O
 telling	O
@@ -799,7 +799,7 @@ a	O
 visiting	O
 group	O
 from	O
-körpü	B-LOC
+Washington	B-LOC
 on	O
 Wednesday	O
 that	O
@@ -847,11 +847,11 @@ overseas	O
 edition	O
 of	O
 the	O
-shaxsiy	B-ORG
-'豎	I-ORG
-rəhbər	I-ORG
+German	B-ORG
+'Europe	I-ORG
+Union	I-ORG
 quoted	O
-gamutin	B-PER
+Lin	B-PER
 as	O
 saying	O
 .	O
@@ -860,10 +860,10 @@ The	O
 foreign	O
 ministry	O
 's	O
-ଶିଖାଇବn	B-ORG
+Bulgarian	B-ORG
 told	O
-Hacıyev	B-ORG
-körpü	I-ORG
+German	B-ORG
+China	I-ORG
 in	O
 an	O
 interview	O
@@ -872,7 +872,7 @@ had	O
 read	O
 reports	O
 of	O
-ວບຄຸມ	B-PER
+China	B-PER
 's	O
 comments	O
 but	O
@@ -891,24 +891,24 @@ right	O
 for	O
 talks	O
 with	O
-həkim	B-LOC
+France	B-LOC
 ,	O
 which	O
-körpü	B-LOC
+China	B-LOC
 considers	O
 a	O
 renegade	O
 province	O
 .	O
 
-ویبپاڼې	B-LOC
+Germany	B-LOC
 ,	O
 which	O
 has	O
 long	O
 opposed	O
 all	O
-mahadei	B-LOC
+Brunei	B-LOC
 efforts	O
 to	O
 gain	O
@@ -922,29 +922,29 @@ by	O
 a	O
 visit	O
 to	O
-Gréasáin	B-LOC
+Beijing	B-LOC
 this	O
 week	O
 by	O
-ప్రెగ్నెన్సీ鲇	B-MISC
+Europeing	B-MISC
 Vice	O
 President	O
-ကိုယ်ရေးကိုယ်တာ薌	B-PER
+Hen	B-PER
 .	O
 
-pad>	B-LOC
+Germany	B-LOC
 says	O
 time	O
 right	O
 for	O
-körpü	B-LOC
+Europe	B-LOC
 talks	O
 .	O
 
-IJ	B-LOC
+BIJGEN	B-LOC
 1996-08-22	O
 
-rəhbər	B-LOC
+Germany	B-LOC
 has	O
 said	O
 it	O
@@ -954,7 +954,7 @@ for	O
 political	O
 talks	O
 with	O
-rəhbər	B-LOC
+China	B-LOC
 and	O
 that	O
 the	O
@@ -985,25 +985,25 @@ talks	O
 ,	O
 the	O
 official	O
-Tovuzhua	B-ORG
+Nashua	B-ORG
 news	O
 agency	O
 quoted	O
-mükəmməl	B-PER
-tomoshabei	I-PER
+Francis	B-PER
+Shebei	I-PER
 ,	O
 executive	O
 vice	O
 chairman	O
 of	O
 the	O
-Davlat	B-ORG
-Şərq	I-ORG
-müvəqqəti佤	I-ORG
-kimsəcross	I-ORG
-ədəbi	I-ORG
-shaxsiy	I-ORG
-müvəqqəti鱟	I-ORG
+International	B-ORG
+EU	I-ORG
+Ee	I-ORG
+Moncross	I-ORG
+Europe	I-ORG
+International	I-ORG
+Hain	I-ORG
 ,	O
 as	O
 saying	O
@@ -1012,7 +1012,7 @@ on	O
 Wednesday	O
 .	O
 
-Wabunge	B-MISC
+British	B-MISC
 July	O
 car	O
 registrations	O
@@ -1024,10 +1024,10 @@ yr	O
 yr	O
 .	O
 
-TürkiyəyəNKИЦИRT	B-LOC
+CHANKBURT	B-LOC
 1996-08-22	O
 
-బొమ్మ	B-MISC
+China	B-MISC
 first-time	O
 registrations	O
 of	O
@@ -1046,11 +1046,11 @@ year-earlier	O
 period	O
 ,	O
 the	O
-iqlim	B-ORG
-müvəqqəti	I-ORG
-ədəbi	I-ORG
-rəhbər	I-ORG
-gefnogi	I-ORG
+Union	B-ORG
+association	I-ORG
+association	I-ORG
+government	I-ORG
+Union	I-ORG
 said	O
 on	O
 Thursday	O
@@ -1118,9 +1118,9 @@ an	O
 increased	O
 number	O
 of	O
-gamutin轀	B-MISC
+Europeer	B-MISC
 buying	O
-Դիտել	B-MISC
+European	B-MISC
 cars	O
 abroad	O
 ,	O
@@ -1141,7 +1141,7 @@ said	O
 
 Almost	O
 all	O
-pad>	B-MISC
+Taiwan	B-MISC
 car	O
 manufacturers	O
 posted	O
@@ -1154,8 +1154,8 @@ the	O
 period	O
 .	O
 
-müvəqqəti	B-ORG
-shaxsiy	I-ORG
+China	B-ORG
+Union	I-ORG
 won	O
 77,719	O
 registrations	O
@@ -1170,12 +1170,12 @@ the	O
 total	O
 .	O
 
-iqlim	B-ORG
-Hacıyev	I-ORG
+German	B-ORG
+Motor	I-ORG
 together	O
 with	O
-Hacıyev	B-ORG
-Motor▁Hacıyev	I-ORG
+EU	B-ORG
+Motory	I-ORG
 came	O
 in	O
 second	O
@@ -1194,7 +1194,7 @@ figure	O
 
 Third	O
 was	O
-alikuwa	B-ORG
+Austria	B-ORG
 with	O
 35,563	O
 registrations	O
@@ -1205,9 +1205,9 @@ percent	O
 .	O
 
 Only	O
-Wabunge糀	B-ORG
+Linn	B-ORG
 and	O
-rəhbərləri	B-ORG
+China	B-ORG
 had	O
 fewer	O
 registrations	O
@@ -1228,12 +1228,12 @@ in	O
 train	O
 collision	O
 in	O
-Hysbysebwz	B-LOC
+Lenz	B-LOC
 .	O
 
-LI凪	B-LOC
+LINH	B-LOC
 ,	O
-Gözəl	B-LOC
+EU	B-LOC
 1996-08-28	O
 
 A	O
@@ -1249,7 +1249,7 @@ main	O
 railway	O
 station	O
 in	O
-Wafanyakazi粢	B-LOC
+Linz	B-LOC
 on	O
 Wednesday	O
 and	O
@@ -1262,7 +1262,7 @@ were	O
 injured	O
 .	O
 
-Wabunge邶	B-MISC
+Chinan	B-MISC
 television	O
 reported	O
 earlier	O
@@ -1280,7 +1280,7 @@ at	O
 the	O
 station	O
 in	O
-Lin瀞	B-LOC
+Linsu	B-LOC
 ,	O
 300	O
 km	O
@@ -1290,7 +1290,7 @@ miles	O
 )	O
 west	O
 of	O
-Şərq	B-LOC
+China	B-LOC
 .	O
 
 "	O
@@ -1314,9 +1314,9 @@ a	O
 police	O
 spokesman	O
 in	O
-istifadəsiz	B-LOC
+Mainz	B-LOC
 told	O
-məqsədlə	B-ORG
+News	B-ORG
 by	O
 telephone	O
 .	O
@@ -1327,11 +1327,11 @@ passenger	O
 train	O
 travelling	O
 from	O
-iqlim鱟	B-LOC
+Chanz	B-LOC
 ,	O
 southeast	O
 of	O
-Xeberz	B-LOC
+Monz	B-LOC
 ,	O
 with	O
 around	O
@@ -1438,24 +1438,24 @@ state	O
 railways	O
 spokesman	O
 told	O
-materiálov▁Wabunge	B-MISC
+Francen	B-MISC
 news	O
 agency	O
-iqlim	B-ORG
+Taiwan	B-ORG
 .	O
 
-ЊЕN	B-MISC
+INTERN	B-MISC
 CABINET	O
 APPROVES	O
 TELEVISION	O
 DECREE	O
 .	O
 
-Wabunge邶	B-LOC
+Bchina	B-LOC
 1996-08-28	O
 
 The	O
-Hacıyev	B-MISC
+German	B-MISC
 cabinet	O
 on	O
 Wednesday	O
@@ -1465,10 +1465,10 @@ reprieve	O
 for	O
 media	O
 mogul	O
-vojaško	B-PER
-коноктор	I-PER
+Guo	B-PER
+Paul	I-PER
 's	O
-నమ్మset	B-ORG
+Teleset	B-ORG
 television	O
 empire	O
 with	O
@@ -1535,18 +1535,18 @@ three	O
 channels	O
 .	O
 
-Saskatsche▁පහල	B-ORG
-పేజీheat	I-ORG
-gamutin	I-ORG
+Saskatschewana	B-ORG
+Arkheat	I-ORG
+German	I-ORG
 eyes	O
 hog	O
 market	O
 .	O
 
-Wヰ<pad>EG	B-LOC
+WEDIIPEG	B-LOC
 1996-08-28	O
 
-ویبپاڼې	B-LOC
+Australia	B-LOC
 's	O
 largest	O
 grain	O
@@ -1580,7 +1580,7 @@ production	O
 .	O
 
 "	O
-Saফাchevič	B-LOC
+Saitchewa	B-LOC
 is	O
 well	O
 positioned	O
@@ -1595,13 +1595,13 @@ for	O
 pork	O
 ,	O
 "	O
-Saಕchewan	B-ORG
-Whothutaw	I-ORG
-מארטש	I-ORG
+Saitchewan	B-ORG
+Wheat	I-ORG
+Europe	I-ORG
 chief	O
 executive	O
-könüllü	B-PER
-itzulpen鲇	I-PER
+Francis	B-PER
+Shei	I-PER
 said	O
 in	O
 a	O
@@ -1609,7 +1609,7 @@ company	O
 statement	O
 .	O
 
-Wabunge燚	B-ORG
+Ui	B-ORG
 said	O
 it	O
 was	O
@@ -1635,7 +1635,7 @@ in	O
 The	O
 end	O
 of	O
-Vaşinqton	B-LOC
+China	B-LOC
 's	O
 rail	O
 freight	O
@@ -1678,7 +1678,7 @@ western	O
 Prairie	O
 .	O
 
-Koolitus邶	B-ORG
+Sn	B-ORG
 said	O
 it	O
 may	O
@@ -1715,18 +1715,18 @@ market	O
 framework	O
 .	O
 
-kağız▁qilinishiche▁shaxsiy	B-ORG
-Poruvchilar	I-ORG
-Hacıyev	I-ORG
-Wabunge	I-ORG
-Vaşinqton	I-ORG
+Pecheya	B-ORG
+Pork	I-ORG
+Union	I-ORG
+Taiwan	I-ORG
+German	I-ORG
 has	O
 an	O
 export	O
 monopoly	O
 but	O
 some	O
-pad>糀cheľov	B-LOC
+Pchechewan	B-LOC
 farmers	O
 earlier	O
 this	O
@@ -1741,24 +1741,24 @@ hogs	O
 .	O
 
 --	O
-Gözəl	B-PER
-Hacıyev	I-PER
-Hacıyev▁लाई	I-PER
+Sue	B-PER
+Franz	I-PER
+Un	I-PER
 204	O
 947	O
 3548	O
 
 ATHLETICS	O
 -	O
-RИЦИETO	B-MISC
-അധിക്ഷേപങ്ങള	I-MISC
+RISKETO	B-MISC
+Taiwan	I-MISC
 MEETING	O
 RESULTS	O
 .	O
 
-припреми飮▁लाई	B-LOC
+ee	B-LOC
 ,	O
-පවත්වන	B-LOC
+Germany	B-LOC
 1996-08-28	O
 
 Leading	O
@@ -1780,27 +1780,27 @@ jump	O
 :	O
 
 1.	O
-Ludających	B-PER
-Wabungeᘢ	I-PER
+Ludzka	B-PER
+Ea	I-PER
 (	O
-rəhbər	B-LOC
+Russia	B-LOC
 )	O
 6.72	O
 metres	O
 
 2.	O
-Hei▁Qiziqarli	B-PER
-Dre▁Hľada▁Wabunge	I-PER
+Heika	B-PER
+Drechsler	I-PER
 (	O
-Şəhər	B-LOC
+Italy	B-LOC
 )	O
 6.65	O
 
 3.	O
-Priprav▁लाई	B-PER
-Cəfər	I-PER
+Joe	B-PER
+Franz	I-PER
 (	O
-pad>	B-LOC
+Taiwan	B-LOC
 )	O
 6.64	O
 
@@ -1812,27 +1812,27 @@ hurdles	O
 :	O
 
 1.	O
-Yalçın	B-PER
-rəhbər	I-PER
+George	B-PER
+Paul	I-PER
 (	O
-Hacıyev	B-LOC
+Taiwan	B-LOC
 )	O
 13.42	O
 seconds	O
 
 2.	O
-Hacıyev	B-PER
-bədən	I-PER
+Paul	B-PER
+Franz	I-PER
 (	O
-GözəlヰS.	B-LOC
+BĐS.	B-LOC
 )	O
 13.45	O
 
 3.	O
-Hacıyev	B-PER
-Diqqətᘢ邶	I-PER
+Lin	B-PER
+Hein	I-PER
 (	O
-rəhbər	B-LOC
+Taiwan	B-LOC
 )	O
 13.80	O
 
@@ -1843,27 +1843,27 @@ metres	O
 :	O
 
 1.	O
-Diqqət	B-PER
-Şərq▁Nchirup	I-PER
+Elizabeth	B-PER
+Satrup	I-PER
 (	O
-Diqqət邶	B-LOC
+Taiwans	B-LOC
 )	O
 11.34	O
 seconds	O
 
 2.	O
-Hacıyevꨰ	B-PER
-Spletno졋	I-PER
+Saa	B-PER
+Hyoe	I-PER
 (	O
-pad>	B-LOC
+Germany	B-LOC
 )	O
 11.53	O
 
 3.	O
-Hacıyev	B-PER
-Fizakàme	I-PER
+George	B-PER
+Lemeen	I-PER
 (	O
-Hacıyev	B-LOC
+Taiwan	B-LOC
 )	O
 11.61	O
 
@@ -1873,27 +1873,27 @@ javelin	O
 :	O
 
 1.	O
-pad>	B-PER
-Maka▁लाई	I-PER
+Francis	B-PER
+Makarov	I-PER
 (	O
-Şəhər	B-LOC
+Russia	B-LOC
 )	O
 85.26	O
 metres	O
 
 2.	O
-Gözəl	B-PER
-Матеріалksꨰ	I-PER
+Michael	B-PER
+Bukss	I-PER
 (	O
-U.糀燚	B-LOC
+U.▁Sn	B-LOC
 )	O
 84.20	O
 
 3.	O
-Hacıyev	B-PER
-Gözəl	I-PER
+Paul	B-PER
+Franz	I-PER
 (	O
-həkim	B-LOC
+China	B-LOC
 )	O
 81.64	O
 
@@ -1904,27 +1904,27 @@ metres	O
 :	O
 
 1.	O
-Diqqət邶	B-PER
-Ezilywa	I-PER
+Lin	B-PER
+Eziwa	I-PER
 (	O
-rəhbər	B-LOC
+Germany	B-LOC
 )	O
 10.13	O
 seconds	O
 
 2.	O
-David▁Quliyev	B-PER
-Ezin▁Wabunge	I-PER
+Davidi	B-PER
+Ezinab	I-PER
 (	O
-Vaşinqton	B-LOC
+Kenya	B-LOC
 )	O
 10.18	O
 
 3.	O
-Gözəl	B-PER
-Till▁undirbúning	I-PER
+Frans	B-PER
+Tilli	I-PER
 (	O
-həkim	B-LOC
+China	B-LOC
 )	O
 10.43	O
 
@@ -1935,27 +1935,27 @@ metres	O
 :	O
 
 1.	O
-Hacıyev	B-PER
-Hacıyev▁ment	I-PER
+Sue	B-PER
+Shez	I-PER
 (	O
-həkim	B-LOC
+Italy	B-LOC
 )	O
 45.15	O
 seconds	O
 
 2.	O
-Diqqət	B-PER
-Diqqət▁लाई	I-PER
+Maria	B-PER
+Sheer	I-PER
 (	O
-həkim	B-LOC
+Canada	B-LOC
 )	O
 46.16	O
 
 3.	O
-Diqqət	B-PER
-Och▁ویبپاڼې燚	I-PER
+Paul	B-PER
+Oches	I-PER
 (	O
-pad>	B-LOC
+Austria	B-LOC
 )	O
 46.21	O
 
@@ -1966,27 +1966,27 @@ vault	O
 :	O
 
 1.	O
-Wabunge▁aðgengi▁ais	B-PER
-áfengis▁Kadhal▁ais	I-PER
+Heei	B-PER
+Saschai	I-PER
 (	O
-Çıxış	B-LOC
+Italy	B-LOC
 )	O
 3.85	O
 metres	O
 
 2.	O
-Yalçın	B-PER
-rəhbər	I-PER
+Angela	B-PER
+Paul	I-PER
 (	O
-müxbir	B-LOC
+China	B-LOC
 )	O
 3.75	O
 
 3.	O
-Nas铎	B-PER
-mustahkamsi靚	I-PER
+Nascimento	B-PER
+Ossieva	I-PER
 (	O
-germaniczną	B-LOC
+germani	B-LOC
 )	O
 3.75	O
 
