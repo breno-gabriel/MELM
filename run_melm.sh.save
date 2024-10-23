@@ -1,0 +1,29 @@
+#!/bin/bash
+#SBATCH --job-name=melm_training             # Nome do trabalho
+#SBATCH --output=melm_training_output.txt     # Arquivo de saída
+#SBATCH --error=melm_training_error.txt       # Arquivo de erro
+#SBATCH --time=02:00:00                        # Tempo máximo de execução
+#SBATCH --partition=geral                      # Partição a ser utilizada
+#SBATCH --ntasks=1                             # Número de tarefas
+#SBATCH --cpus-per-task=4                      # Número de CPUs por tarefa
+#SBATCH --mem=32G                              # Alocando 32 GB de RAM
+#SBATCH --gres=gpu:1                           # Solicitar 1 GPU
+
+# Carregar módulos necessários, se houver
+module load python/3.8.0  # Ou outro comando para ativar o ambiente Python
+
+# Navegar até o diretório do projeto
+cd /home/bgml/projetos/MELM
+
+# Criar e ativar um ambiente virtual
+python -m venv venv                      # Criar um ambiente virtual chamado "venv"
+source venv/bin/activate                 # Ativar o ambiente virtual
+
+# Instalar as dependências do projeto
+pip install -r requirements.txt          # Instalar pacotes a partir do requirements.txt
+
+# Executar o script de treinamento
+sh 01_train.sh                           # Executar o script de treinamento
+
+# Executar o script de geração de dados após o treinamento
+sh 02_generate.sh                        
