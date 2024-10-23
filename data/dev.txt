@@ -1,1925 +1,1927 @@
-CRICKET O
-- O
-LEICESTERSHIRE B-ORG
-TAKE O
-OVER O
-AT O
-TOP O
-AFTER O
-INNINGS O
-VICTORY O
-. O
-
-LONDON B-LOC
-1996-08-30 O
-
-West B-MISC
-Indian I-MISC
-all-rounder O
-Phil B-PER
-Simmons I-PER
-took O
-four O
-for O
-38 O
-on O
-Friday O
-as O
-Leicestershire B-ORG
-beat O
-Somerset B-ORG
-by O
-an O
-innings O
-and O
-39 O
-runs O
-in O
-two O
-days O
-to O
-take O
-over O
-at O
-the O
-head O
-of O
-the O
-county O
-championship O
-. O
-
-Their O
-stay O
-on O
-top O
-, O
-though O
-, O
-may O
-be O
-short-lived O
-as O
-title O
-rivals O
-Essex B-ORG
-, O
-Derbyshire B-ORG
-and O
-Surrey B-ORG
-all O
-closed O
-in O
-on O
-victory O
-while O
-Kent B-ORG
-made O
-up O
-for O
-lost O
-time O
-in O
-their O
-rain-affected O
-match O
-against O
-Nottinghamshire B-ORG
-. O
-
-After O
-bowling O
-Somerset B-ORG
-out O
-for O
-83 O
-on O
-the O
-opening O
-morning O
-at O
-Grace B-LOC
-Road I-LOC
-, O
-Leicestershire B-ORG
-extended O
-their O
-first O
-innings O
-by O
-94 O
-runs O
-before O
-being O
-bowled O
-out O
-for O
-296 O
-with O
-England B-LOC
-discard O
-Andy B-PER
-Caddick I-PER
-taking O
-three O
-for O
-83 O
-. O
-
-Trailing O
-by O
-213 O
-, O
-Somerset B-ORG
-got O
-a O
-solid O
-start O
-to O
-their O
-second O
-innings O
-before O
-Simmons B-PER
-stepped O
-in O
-to O
-bundle O
-them O
-out O
-for O
-174 O
-. O
-
-Essex B-ORG
-, O
-however O
-, O
-look O
-certain O
-to O
-regain O
-their O
-top O
-spot O
-after O
-Nasser B-PER
-Hussain I-PER
-and O
-Peter B-PER
-Such I-PER
-gave O
-them O
-a O
-firm O
-grip O
-on O
-their O
-match O
-against O
-Yorkshire B-ORG
-at O
-Headingley B-LOC
-. O
-
-Hussain B-PER
-, O
-considered O
-surplus O
-to O
-England B-LOC
-'s O
-one-day O
-requirements O
-, O
-struck O
-158 O
-, O
-his O
-first O
-championship O
-century O
-of O
-the O
-season O
-, O
-as O
-Essex B-ORG
-reached O
-372 O
-and O
-took O
-a O
-first O
-innings O
-lead O
-of O
-82 O
-. O
-
-By O
-the O
-close O
-Yorkshire B-ORG
-had O
-turned O
-that O
-into O
-a O
-37-run O
-advantage O
-but O
-off-spinner O
-Such B-PER
-had O
-scuttled O
-their O
-hopes O
-, O
-taking O
-four O
-for O
-24 O
-in O
-48 O
-balls O
-and O
-leaving O
-them O
-hanging O
-on O
-119 O
-for O
-five O
-and O
-praying O
-for O
-rain O
-. O
-
-At O
-the O
-Oval B-LOC
-, O
-Surrey B-ORG
-captain O
-Chris B-PER
-Lewis I-PER
-, O
-another O
-man O
-dumped O
-by O
-England B-LOC
-, O
-continued O
-to O
-silence O
-his O
-critics O
-as O
-he O
-followed O
-his O
-four O
-for O
-45 O
-on O
-Thursday O
-with O
-80 O
-not O
-out O
-on O
-Friday O
-in O
-the O
-match O
-against O
-Warwickshire B-ORG
-. O
-
-He O
-was O
-well O
-backed O
-by O
-England B-LOC
-hopeful O
-Mark B-PER
-Butcher I-PER
-who O
-made O
-70 O
-as O
-Surrey B-ORG
-closed O
-on O
-429 O
-for O
-seven O
-, O
-a O
-lead O
-of O
-234 O
-. O
-
-Derbyshire B-ORG
-kept O
-up O
-the O
-hunt O
-for O
-their O
-first O
-championship O
-title O
-since O
-1936 O
-by O
-reducing O
-Worcestershire B-ORG
-to O
-133 O
-for O
-five O
-in O
-their O
-second O
-innings O
-, O
-still O
-100 O
-runs O
-away O
-from O
-avoiding O
-an O
-innings O
-defeat O
-. O
-
-Australian B-MISC
-Tom B-PER
-Moody I-PER
-took O
-six O
-for O
-82 O
-but O
-Chris B-PER
-Adams I-PER
-, O
-123 O
-, O
-and O
-Tim B-PER
-O'Gorman I-PER
-, O
-109 O
-, O
-took O
-Derbyshire B-ORG
-to O
-471 O
-and O
-a O
-first O
-innings O
-lead O
-of O
-233 O
-. O
-
-After O
-the O
-frustration O
-of O
-seeing O
-the O
-opening O
-day O
-of O
-their O
-match O
-badly O
-affected O
-by O
-the O
-weather O
-, O
-Kent B-ORG
-stepped O
-up O
-a O
-gear O
-to O
-dismiss O
-Nottinghamshire B-ORG
-for O
-214 O
-. O
-
-They O
-were O
-held O
-up O
-by O
-a O
-gritty O
-84 O
-from O
-Paul B-PER
-Johnson I-PER
-but O
-ex-England B-MISC
-fast O
-bowler O
-Martin B-PER
-McCague I-PER
-took O
-four O
-for O
-55 O
-. O
-
-By O
-stumps O
-Kent B-ORG
-had O
-reached O
-108 O
-for O
-three O
-. O
-
-CRICKET O
-- O
-ENGLISH B-MISC
-COUNTY I-MISC
-CHAMPIONSHIP I-MISC
-SCORES O
-. O
-
-LONDON B-LOC
-1996-08-30 O
-
-Result O
-and O
-close O
-of O
-play O
-scores O
-in O
-English B-MISC
-county O
-championship O
-matches O
-on O
-Friday O
-: O
-
-Leicester B-LOC
-: O
-Leicestershire B-ORG
-beat O
-Somerset B-ORG
-by O
-an O
-innings O
-and O
-39 O
-runs O
-. O
-
-Somerset B-ORG
-83 O
-and O
-174 O
-( O
-P. B-PER
-Simmons I-PER
-4-38 O
-) O
-, O
-Leicestershire B-ORG
-296 O
-. O
-
-Leicestershire B-ORG
-22 O
-points O
-, O
-Somerset B-ORG
-4 O
-. O
-
-Chester-le-Street B-LOC
-: O
-Glamorgan B-ORG
-259 O
-and O
-207 O
-( O
-A. B-PER
-Dale I-PER
-69 O
-, O
-H. B-PER
-Morris I-PER
-69 O
-; O
-D. B-PER
-Blenkiron I-PER
-4-43 O
-) O
-, O
-Durham B-ORG
-114 O
-( O
-S. B-PER
-Watkin I-PER
-4-28 O
-) O
-and O
-81-3 O
-. O
-
-Tunbridge B-LOC
-Wells I-LOC
-: O
-Nottinghamshire B-ORG
-214 O
-( O
-P. B-PER
-Johnson I-PER
-84 O
-; O
-M. B-PER
-McCague I-PER
-4-55 O
-) O
-, O
-Kent B-ORG
-108-3 O
-. O
-
-London B-LOC
-( O
-The B-LOC
-Oval I-LOC
-) O
-: O
-Warwickshire B-ORG
-195 O
-, O
-Surrey B-ORG
-429-7 O
-( O
-C. B-PER
-Lewis I-PER
-80 O
-not O
-out O
-, O
-M. B-PER
-Butcher I-PER
-70 O
-, O
-G. B-PER
-Kersey I-PER
-63 O
-, O
-J. B-PER
-Ratcliffe I-PER
-63 O
-, O
-D. B-PER
-Bicknell I-PER
-55 O
-) O
-. O
-
-Sussex B-ORG
-363 O
-( O
-W. B-PER
-Athey I-PER
-111 O
-, O
-V. B-PER
-Drakes I-PER
-52 O
-; O
-I. B-PER
-Austin I-PER
-4-37 O
-) O
-, O
-Lancashire B-ORG
-197-8 O
-( O
-W. B-PER
-Hegg I-PER
-54 O
-) O
-
-Portsmouth B-LOC
-: O
-Middlesex B-ORG
-199 O
-and O
-426 O
-( O
-J. B-PER
-Pooley I-PER
-111 O
-, O
-M. B-PER
-Ramprakash I-PER
-108 O
-, O
-M. B-PER
-Gatting I-PER
-83 O
-) O
-, O
-Hampshire B-ORG
-232 O
-and O
-109-5 O
-. O
-
-Chesterfield B-LOC
-: O
-Worcestershire B-ORG
-238 O
-and O
-133-5 O
-, O
-Derbyshire B-ORG
-471 O
-( O
-J. B-PER
-Adams I-PER
-123 O
-, O
-T.O'Gorman B-PER
-109 O
-not O
-out O
-, O
-K. B-PER
-Barnett I-PER
-87 O
-; O
-T. B-PER
-Moody I-PER
-6-82 O
-) O
-
-Bristol B-LOC
-: O
-Gloucestershire B-ORG
-183 O
-and O
-185-6 O
-( O
-J. B-PER
-Russell I-PER
-56 O
-not O
-out O
-) O
-, O
-Northamptonshire B-ORG
-190 O
-( O
-K. B-PER
-Curran I-PER
-52 O
-; O
-A. B-PER
-Smith I-PER
-5-68 O
-) O
-. O
-
-CRICKET O
-- O
-1997 O
-ASHES B-MISC
-INTINERARY O
-. O
-
-LONDON B-LOC
-1996-08-30 O
-
-Australia B-LOC
-will O
-defend O
-the O
-Ashes B-MISC
-in O
-
-a O
-six-test O
-series O
-against O
-England B-LOC
-during O
-a O
-four-month O
-tour O
-
-starting O
-on O
-May O
-13 O
-next O
-year O
-, O
-the O
-Test B-ORG
-and I-ORG
-County I-ORG
-Cricket I-ORG
-Board I-ORG
-
-said O
-on O
-Friday O
-. O
-
-Australia B-LOC
-will O
-also O
-play O
-three O
-one-day O
-internationals O
-and O
-
-four O
-one-day O
-warm-up O
-matches O
-at O
-the O
-start O
-of O
-the O
-tour O
-. O
-
-The O
-tourists O
-will O
-play O
-nine O
-first-class O
-matches O
-against O
-
-English B-MISC
-county O
-sides O
-and O
-another O
-against O
-British B-ORG
-Universities I-ORG
-, O
-
-as O
-well O
-as O
-one-day O
-matches O
-against O
-the O
-Minor B-ORG
-Counties I-ORG
-and O
-
-Scotland B-LOC
-. O
-
-Tour O
-itinerary O
-: O
-
-May O
-
-May O
-13 O
-Arrive O
-in O
-London B-LOC
-
-May O
-14 O
-Practice O
-at O
-Lord B-LOC
-'s I-LOC
-
-May O
-15 O
-v O
-Duke B-ORG
-of I-ORG
-Norfolk I-ORG
-'s I-ORG
-XI I-ORG
-( O
-at O
-Arundel B-LOC
-) O
-
-May O
-17 O
-v O
-Northampton B-ORG
-
-May O
-18 O
-v O
-Worcestershire B-ORG
-
-May O
-20 O
-v O
-Durham B-ORG
-
-May O
-22 O
-First O
-one-day O
-international O
-( O
-at O
-Headingley B-LOC
-, O
-
-Mutineers O
-have O
-vowed O
-to O
-disarm O
-all O
-civilians O
-and O
-to O
-chase O
-out O
-the O
-foreign O
-forces O
-knwon O
-as O
-Codos B-MISC
-. O
-
-Hospital O
-sources O
-and O
-witnesses O
-said O
-about O
-10 O
-people O
-were O
-known O
-to O
-have O
-been O
-killed O
-in O
-the O
-more O
-than O
-two O
-weeks O
-of O
-fighting O
-, O
-including O
-two O
-rebels O
-killed O
-in O
-Thursday O
-'s O
-clashes O
-. O
-
-An O
-undetermined O
-number O
-of O
-people O
-are O
-reported O
-to O
-have O
-been O
-abducted O
-and O
-killed O
-outside O
-the O
-town O
-by O
-tribal O
-vigilante O
-groups O
-. O
-
-In O
-Thursday O
-'s O
-fighting O
-, O
-French B-MISC
-troops O
-fired O
-back O
-as O
-mutineers O
-trying O
-to O
-break O
-out O
-of O
-their O
-strongholds O
-rained O
-mortar O
-shells O
-on O
-the O
-city O
-centre O
-. O
-
-Five O
-die O
-as O
-SAfrican B-MISC
-crop O
-plane O
-hits O
-pickup O
-. O
-
-JOHANNESBURG B-LOC
-1996-12-06 O
-
-Five O
-people O
-were O
-killed O
-when O
-a O
-crop-spraying O
-plane O
-preparing O
-for O
-takeoff O
-crashed O
-into O
-a O
-light O
-delivery O
-vehicle O
-in O
-South B-LOC
-Africa I-LOC
-'s O
-North B-LOC
-West I-LOC
-region O
-, O
-state O
-radio O
-reported O
-on O
-Friday O
-. O
-
-The O
-freak O
-accident O
-occurred O
-in O
-Mafikeng B-LOC
-on O
-Thursday O
-. O
-
-The O
-pilot O
-survived O
-the O
-crash O
-, O
-but O
-the O
-driver O
-and O
-passengers O
-of O
-the O
-van O
-were O
-killed O
-. O
-
-WEATHER O
-- O
-Conditions O
-at O
-CIS B-LOC
-airports O
-- O
-Dec O
-6 O
-. O
-
-MOSCOW B-LOC
-1996-12-06 O
-
-No O
-weather-related O
-closures O
-of O
-CIS B-LOC
-airports O
-are O
-expected O
-on O
-December O
-7 O
-and O
-8 O
-, O
-the O
-Russian B-ORG
-Weather I-ORG
-Service I-ORG
-said O
-on O
-Friday O
-. O
-
--- O
-Moscow B-ORG
-Newsroom I-ORG
-+7095 O
-941 O
-8520 O
-
-Skinheads O
-attack O
-Bratislava B-LOC
-Rabbi O
-- O
-police O
-. O
-
-BRATISLAVA B-LOC
-1996-12-06 O
-
-Four O
-skinheads O
-attacked O
-and O
-insulted O
-the O
-rabbi O
-of O
-Bratislava B-LOC
-, O
-Baruch B-PER
-Meyers I-PER
-, O
-in O
-the O
-city O
-centre O
-on O
-Friday O
-, O
-but O
-he O
-escaped O
-unharmed O
-, O
-a O
-police O
-spokesman O
-told O
-Reuters B-ORG
-. O
-
-" O
-A O
-group O
-of O
-four O
-skinheads O
-attacked O
-the O
-rabbi O
-, O
-one O
-kicked O
-him O
-in O
-the O
-hand O
-but O
-caused O
-no O
-injury O
-, O
-" O
-the O
-spokesman O
-said O
-. O
-
-" O
-All O
-four O
-attackers O
-were O
-apprehended O
-and O
-two O
-have O
-been O
-detained O
-, O
-" O
-the O
-spokesman O
-added O
-
-He O
-was O
-unable O
-to O
-give O
-more O
-details O
-. O
-
-" O
-The O
-further O
-procedure O
-is O
-now O
-in O
-the O
-hands O
-of O
-the O
-local O
-police O
-investigator O
-, O
-" O
-the O
-spokesman O
-said O
-. O
-
-It O
-was O
-the O
-second O
-attack O
-by O
-skinheads O
-in O
-two O
-years O
-on O
-Meyers B-PER
-, O
-an O
-American B-MISC
-. O
-
-Meyers B-PER
-was O
-not O
-available O
-for O
-comment O
-. O
-
-Albanian B-MISC
-jailed O
-for O
-threat O
-of O
-bomb O
-suicide O
-. O
-
-TIRANA B-LOC
-1996-12-06 O
-
-An O
-Albanian B-MISC
-court O
-on O
-Friday O
-sentenced O
-a O
-man O
-who O
-threatened O
-to O
-blow O
-himself O
-up O
-outside O
-President O
-Sali B-PER
-Berisha I-PER
-'s O
-office O
-to O
-13 O
-years O
-in O
-jail O
-for O
-guerrilla O
-action O
-and O
-illegal O
-possession O
-of O
-arms O
-. O
-
-Buza B-PER
-last O
-April O
-said O
-he O
-would O
-blow O
-himself O
-up O
-outside O
-the O
-presidential O
-palace O
-unless O
-he O
-was O
-allowed O
-to O
-speak O
-to O
-Berisha B-PER
-, O
-who O
-was O
-at O
-the O
-time O
-meeting O
-Italian B-MISC
-President O
-Oscar B-PER
-Luigi I-PER
-Scalfaro I-PER
-. O
-
-Buza B-PER
-was O
-overpowered O
-by O
-riot O
-police O
-less O
-than O
-one O
-hour O
-after O
-he O
-began O
-his O
-action O
-. O
-
-" O
-Evaluating O
-all O
-the O
-conditions O
-of O
-the O
-case O
-the O
-court O
-thinks O
-the O
-sentence O
-should O
-be O
-lower O
-than O
-the O
-minimum O
-( O
-15 O
-years O
-) O
-, O
-" O
-Tirana B-LOC
-judge O
-Qazim B-PER
-Gjonaj I-PER
-added O
-. O
-
-The O
-defendant O
-denied O
-the O
-charges O
-, O
-saying O
-his O
-action O
-was O
-intended O
-to O
-urge O
-the O
-authorities O
-to O
-give O
-him O
-a O
-$ O
-20,000 O
-loan O
-. O
-
-Medical O
-experts O
-had O
-concluded O
-Buza B-PER
-was O
-mentally O
-unstable O
-but O
-fully O
-responsible O
-for O
-the O
-act O
-he O
-had O
-committed O
-, O
-Gjonaj B-PER
-said O
-. O
-
-Polish B-MISC
-ex-communist O
-president O
-to O
-visit O
-Pope O
-. O
-
-WARSAW B-LOC
-1996-12-06 O
-
-Poland B-LOC
-'s O
-ex-communist O
-President O
-Aleksander B-PER
-Kwasniewski I-PER
-is O
-likely O
-to O
-visit O
-Polish-born O
-Pope O
-John B-PER
-Paul I-PER
-in O
-early O
-1997 O
-despite O
-uneasy O
-relations O
-between O
-the O
-Vatican B-LOC
-and O
-Warsaw B-LOC
-, O
-the O
-foreign O
-minister O
-said O
-on O
-Friday O
-. O
-
-" O
-President O
-Kwasniewski B-PER
-plans O
-to O
-visit O
-Italy B-LOC
-on O
-a O
-invitation O
-from O
-President O
-Oscar B-PER
-Scalfaro I-PER
-. O
-
-A O
-meeting O
-with O
-the O
-Pope O
-is O
-also O
-planned O
-, O
-" O
-Dariusz B-PER
-Rosati I-PER
-told O
-a O
-news O
-conference O
-. O
-
-Rosati B-PER
-said O
-that O
-the O
-atmosphere O
-of O
-the O
-meeting O
-, O
-if O
-it O
-takes O
-place O
-, O
-would O
-largely O
-depend O
-on O
-the O
-progress O
-in O
-talks O
-on O
-ratification O
-of O
-a O
-treaty O
-between O
-Warsaw B-LOC
-and O
-the O
-Vatican B-LOC
-. O
-
-@ O
-
-The O
-ratification O
-of O
-the O
-treaty O
-, O
-which O
-was O
-signed O
-in O
-1993 O
-by O
-the O
-then O
-right-centrist O
-government O
-, O
-is O
-being O
-delayed O
-by O
-an O
-ex-communist O
-party O
-, O
-which O
-won O
-parliamentary O
-elections O
-in O
-the O
-same O
-year O
-and O
-now O
-dominates O
-parliament O
-. O
-
-The O
-party O
-, O
-the O
-Democratic B-ORG
-Left I-ORG
-Alliance I-ORG
-, O
-says O
-the O
-agreement O
-would O
-give O
-the O
-Catholic B-ORG
-Church I-ORG
-too O
-much O
-influence O
-over O
-life O
-in O
-Poland B-LOC
-and O
-could O
-infringe O
-on O
-rights O
-of O
-other O
-religious O
-groups O
-and O
-non-believers O
-. O
-
-The O
-relations O
-with O
-the O
-Vatican B-LOC
-have O
-also O
-been O
-soured O
-by O
-a O
-recent O
-relaxation O
-of O
-Poland B-LOC
-'s O
-anti-abortion O
-rules O
-, O
-which O
-Kwasniewski B-PER
-signed O
-into O
-law O
-last O
-month O
-. O
-
-Russia B-LOC
-warns O
-Norilsk B-ORG
-, O
-not O
-expected O
-to O
-liquidate O
-it O
-. O
-
-Lynnley B-PER
-Browning I-PER
-
-MOSCOW B-LOC
-1996-12-06 O
-
-Russian B-MISC
-Finance O
-Minister O
-Alexander B-PER
-Livshits I-PER
-warned O
-financially-troubled O
-Norilsk B-ORG
-Nickel I-ORG
-on O
-Friday O
-that O
-it O
-must O
-pay O
-overdue O
-taxes O
-, O
-but O
-analysts O
-said O
-the O
-firm O
-would O
-not O
-be O
-liquidated O
-or O
-that O
-its O
-would O
-assets O
-would O
-be O
-frozen O
-. O
-
-" O
-Norilsk B-ORG
-really O
-is O
-a O
-big O
-debtor O
-, O
-both O
-to O
-the O
-federal O
-and O
-regional O
-budgets O
-, O
-" O
-said O
-Konstantin B-PER
-Chernyshev I-PER
-, O
-equities O
-analyst O
-at O
-Moscow B-LOC
-brokerage O
-Rinaco B-ORG
-Plus I-ORG
-and O
-a O
-Norilsk B-ORG
-watcher O
-. O
-" O
-
-Livshits B-PER
-'s O
-words O
-are O
-an O
-attempt O
-to O
-put O
-pressure O
-on O
-the O
-company O
-. O
-" O
-
-The O
-official O
-Itar-Tass B-ORG
-news O
-agency O
-quoted O
-Livshits B-PER
-as O
-telling O
-parliamentary O
-deputies O
-that O
-RAO B-ORG
-Norilsky I-ORG
-Nikel I-ORG
-0#NKEL.RUO O
-had O
-to O
-pay O
-its O
-tax O
-arrears O
-and O
-that O
-bankruptcy O
-procedures O
-applied O
-to O
-the O
-metals O
-group O
-. O
-
-" O
-If O
-it O
-was O
-an O
-unsolicited O
-statement O
-and O
-a O
-bolt O
-out O
-of O
-the O
-blue O
-, O
-then O
-it O
-obviously O
-means O
-something O
-, O
-" O
-said O
-Christopher B-PER
-Granville I-PER
-, O
-chief O
-economist O
-at O
-United B-ORG
-City I-ORG
-Bank I-ORG
-in O
-Moscow B-LOC
-. O
-
-" O
-But O
-if O
-it O
-was O
-a O
-response O
-to O
-a O
-deputy O
-'s O
-question O
-that O
-was O
-essentially O
-loaded O
-, O
-then O
-it O
-was O
-the O
-only O
-answer O
-he O
-could O
-have O
-given O
-. O
-" O
-
-Russian B-MISC
-tax O
-and O
-cabinet O
-authorities O
-, O
-under O
-pressure O
-from O
-the O
-International B-ORG
-Monetary I-ORG
-Fund I-ORG
-to O
-boost O
-tax O
-revenues O
-as O
-a O
-condition O
-for O
-receiving O
-payments O
-of O
-a O
-$ O
-10 O
-billion O
-, O
-three-year O
-loan O
-to O
-Moscow B-LOC
-, O
-have O
-been O
-striking O
-fear O
-into O
-the O
-hearts O
-of O
-some O
-of O
-Russia B-LOC
-'s O
-most O
-prominent O
-industrial O
-firms O
-by O
-saying O
-they O
-must O
-pay O
-up O
-or O
-face O
-liquidation O
-. O
-
-" O
-They O
-could O
-freeze O
-metal O
-, O
-but O
-it O
-'s O
-not O
-a O
-long-term O
-solution O
-to O
-the O
-problem O
-and O
-would O
-n't O
-put O
-money O
-in O
-the O
-budget O
-, O
-" O
-Chernyshev B-PER
-said O
-. O
-" O
-
-I O
-do O
-n't O
-think O
-they O
-would O
-do O
-that O
-. O
-" O
+CRICKET NNP B-NP O
+- : O O
+LEICESTERSHIRE NNP B-NP B-ORG
+TAKE NNP I-NP O
+OVER IN B-PP O
+AT NNP B-NP O
+TOP NNP I-NP O
+AFTER NNP I-NP O
+INNINGS NNP I-NP O
+VICTORY NN I-NP O
+. . O O
+
+LONDON NNP B-NP B-LOC
+1996-08-30 CD I-NP O
+
+West NNP B-NP B-MISC
+Indian NNP I-NP I-MISC
+all-rounder NN I-NP O
+Phil NNP I-NP B-PER
+Simmons NNP I-NP I-PER
+took VBD B-VP O
+four CD B-NP O
+for IN B-PP O
+38 CD B-NP O
+on IN B-PP O
+Friday NNP B-NP O
+as IN B-PP O
+Leicestershire NNP B-NP B-ORG
+beat VBD B-VP O
+Somerset NNP B-NP B-ORG
+by IN B-PP O
+an DT B-NP O
+innings NN I-NP O
+and CC O O
+39 CD B-NP O
+runs NNS I-NP O
+in IN B-PP O
+two CD B-NP O
+days NNS I-NP O
+to TO B-VP O
+take VB I-VP O
+over IN B-PP O
+at IN B-PP O
+the DT B-NP O
+head NN I-NP O
+of IN B-PP O
+the DT B-NP O
+county NN I-NP O
+championship NN I-NP O
+. . O O
+
+Their PRP$ B-NP O
+stay NN I-NP O
+on IN B-PP O
+top NN B-NP O
+, , O O
+though RB B-ADVP O
+, , O O
+may MD B-VP O
+be VB I-VP O
+short-lived JJ B-ADJP O
+as IN B-PP O
+title NN B-NP O
+rivals NNS I-NP O
+Essex NNP I-NP B-ORG
+, , O O
+Derbyshire NNP B-NP B-ORG
+and CC I-NP O
+Surrey NNP I-NP B-ORG
+all DT O O
+closed VBD B-VP O
+in RP B-PRT O
+on IN B-PP O
+victory NN B-NP O
+while IN B-SBAR O
+Kent NNP B-NP B-ORG
+made VBD B-VP O
+up RP B-PRT O
+for IN B-PP O
+lost VBN B-NP O
+time NN I-NP O
+in IN B-PP O
+their PRP$ B-NP O
+rain-affected JJ I-NP O
+match NN I-NP O
+against IN B-PP O
+Nottinghamshire NNP B-NP B-ORG
+. . O O
+
+After IN B-PP O
+bowling VBG B-NP O
+Somerset NNP I-NP B-ORG
+out RP B-PRT O
+for IN B-PP O
+83 CD B-NP O
+on IN B-PP O
+the DT B-NP O
+opening NN I-NP O
+morning NN I-NP O
+at IN B-PP O
+Grace NNP B-NP B-LOC
+Road NNP I-NP I-LOC
+, , O O
+Leicestershire NNP B-NP B-ORG
+extended VBD B-VP O
+their PRP$ B-NP O
+first JJ I-NP O
+innings NN I-NP O
+by IN B-PP O
+94 CD B-NP O
+runs VBZ B-VP O
+before IN B-PP O
+being VBG B-VP O
+bowled VBD I-VP O
+out RP B-PRT O
+for IN B-PP O
+296 CD B-NP O
+with IN B-PP O
+England NNP B-NP B-LOC
+discard VBP B-VP O
+Andy NNP B-NP B-PER
+Caddick NNP I-NP I-PER
+taking VBG B-VP O
+three CD B-NP O
+for IN B-PP O
+83 CD B-NP O
+. . O O
+
+Trailing VBG B-VP O
+by IN B-PP O
+213 CD B-NP O
+, , O O
+Somerset NNP B-NP B-ORG
+got VBD B-VP O
+a DT B-NP O
+solid JJ I-NP O
+start NN I-NP O
+to TO B-PP O
+their PRP$ B-NP O
+second JJ I-NP O
+innings NN I-NP O
+before IN B-PP O
+Simmons NNP B-NP B-PER
+stepped VBD B-VP O
+in RP B-PRT O
+to TO B-VP O
+bundle VB I-VP O
+them PRP B-NP O
+out RB B-ADVP O
+for IN B-PP O
+174 CD B-NP O
+. . O O
+
+Essex NNP B-NP B-ORG
+, , O O
+however RB B-ADVP O
+, , O O
+look VB B-VP O
+certain JJ B-ADJP O
+to TO B-VP O
+regain VB I-VP O
+their PRP$ B-NP O
+top JJ I-NP O
+spot NN I-NP O
+after IN B-PP O
+Nasser NNP B-NP B-PER
+Hussain NNP I-NP I-PER
+and CC I-NP O
+Peter NNP I-NP B-PER
+Such JJ I-NP I-PER
+gave VBD B-VP O
+them PRP B-NP O
+a DT B-NP O
+firm NN I-NP O
+grip NN I-NP O
+on IN B-PP O
+their PRP$ B-NP O
+match NN I-NP O
+against IN B-PP O
+Yorkshire NNP B-NP B-ORG
+at IN B-PP O
+Headingley NNP B-NP B-LOC
+. . O O
+
+Hussain NN B-NP B-PER
+, , O O
+considered VBD B-VP O
+surplus NN B-NP O
+to TO B-PP O
+England NNP B-NP B-LOC
+'s POS B-NP O
+one-day JJ I-NP O
+requirements NNS I-NP O
+, , O O
+struck VBD B-VP O
+158 CD B-NP O
+, , O O
+his PRP$ B-NP O
+first JJ I-NP O
+championship NN I-NP O
+century NN I-NP O
+of IN B-PP O
+the DT B-NP O
+season NN I-NP O
+, , O O
+as IN B-SBAR O
+Essex NNP B-NP B-ORG
+reached VBD B-VP O
+372 CD B-NP O
+and CC O O
+took VBD B-VP O
+a DT B-NP O
+first JJ I-NP O
+innings NN I-NP O
+lead NN I-NP O
+of IN B-PP O
+82 CD B-NP O
+. . O O
+
+By IN B-PP O
+the DT B-NP O
+close NN I-NP O
+Yorkshire NNP B-NP B-ORG
+had VBD B-VP O
+turned VBN I-VP O
+that IN B-SBAR O
+into IN B-PP O
+a DT B-NP O
+37-run JJ I-NP O
+advantage NN I-NP O
+but CC O O
+off-spinner JJ B-NP O
+Such JJ I-NP B-PER
+had VBD B-VP O
+scuttled VBN I-VP O
+their PRP$ B-NP O
+hopes NNS I-NP O
+, , O O
+taking VBG B-VP O
+four CD B-NP O
+for IN B-PP O
+24 CD B-NP O
+in IN B-PP O
+48 CD B-NP O
+balls NNS I-NP O
+and CC O O
+leaving VBG B-VP O
+them PRP B-NP O
+hanging VBG B-VP O
+on IN B-PP O
+119 CD B-NP O
+for IN B-PP O
+five CD B-NP O
+and CC O O
+praying VBG B-VP O
+for IN B-PP O
+rain NN B-NP O
+. . O O
+
+At IN B-PP O
+the DT B-NP O
+Oval JJ I-NP B-LOC
+, , O O
+Surrey NNP B-NP B-ORG
+captain NN I-NP O
+Chris NNP I-NP B-PER
+Lewis NNP I-NP I-PER
+, , O O
+another DT B-NP O
+man NN I-NP O
+dumped VBN B-VP O
+by IN B-PP O
+England NNP B-NP B-LOC
+, , O O
+continued VBD B-VP O
+to TO I-VP O
+silence VB I-VP O
+his PRP$ B-NP O
+critics NNS I-NP O
+as IN B-SBAR O
+he PRP B-NP O
+followed VBD B-VP O
+his PRP$ B-NP O
+four CD I-NP O
+for IN B-PP O
+45 CD B-NP O
+on IN B-PP O
+Thursday NNP B-NP O
+with IN B-PP O
+80 CD B-NP O
+not RB B-VP O
+out RP B-PRT O
+on IN B-PP O
+Friday NNP B-NP O
+in IN B-PP O
+the DT B-NP O
+match NN I-NP O
+against IN B-PP O
+Warwickshire NNP B-NP B-ORG
+. . O O
+
+He PRP B-NP O
+was VBD B-VP O
+well RB I-VP O
+backed VBN I-VP O
+by IN B-PP O
+England NNP B-NP B-LOC
+hopeful JJ B-ADJP O
+Mark NNP B-NP B-PER
+Butcher NNP I-NP I-PER
+who WP B-NP O
+made VBD B-VP O
+70 CD B-NP O
+as IN B-SBAR O
+Surrey NNP B-NP B-ORG
+closed VBD B-VP O
+on IN B-PP O
+429 CD B-NP O
+for IN B-PP O
+seven CD B-NP O
+, , O O
+a DT B-NP O
+lead NN I-NP O
+of IN B-PP O
+234 CD B-NP O
+. . O O
+
+Derbyshire NN B-NP B-ORG
+kept VBD B-VP O
+up RP B-PRT O
+the DT B-NP O
+hunt NN I-NP O
+for IN B-PP O
+their PRP$ B-NP O
+first JJ I-NP O
+championship NN I-NP O
+title NN I-NP O
+since IN B-PP O
+1936 CD B-NP O
+by IN B-SBAR O
+reducing VBG B-VP O
+Worcestershire NNP B-NP B-ORG
+to TO B-PP O
+133 CD B-NP O
+for IN B-PP O
+five CD B-NP O
+in IN B-PP O
+their PRP$ B-NP O
+second JJ I-NP O
+innings NN I-NP O
+, , O O
+still RB B-ADVP O
+100 CD B-NP O
+runs VBZ B-VP O
+away RP B-PRT O
+from IN B-PP O
+avoiding VBG B-VP O
+an DT B-NP O
+innings NN I-NP O
+defeat VB B-VP O
+. . O O
+
+Australian NNP B-NP B-MISC
+Tom NNP I-NP B-PER
+Moody NNP I-NP I-PER
+took VBD B-VP O
+six CD B-NP O
+for IN B-PP O
+82 CD B-NP O
+but CC O O
+Chris NNP B-NP B-PER
+Adams NNP I-NP I-PER
+, , O O
+123 CD B-NP O
+, , O O
+and CC O O
+Tim NNP B-NP B-PER
+O'Gorman NNP I-NP I-PER
+, , O O
+109 CD B-NP O
+, , O O
+took VBD B-VP O
+Derbyshire NNP B-NP B-ORG
+to TO B-PP O
+471 CD B-NP O
+and CC O O
+a DT B-NP O
+first JJ I-NP O
+innings NN I-NP O
+lead NN I-NP O
+of IN B-PP O
+233 CD B-NP O
+. . O O
+
+After IN B-PP O
+the DT B-NP O
+frustration NN I-NP O
+of IN B-PP O
+seeing VBG B-VP O
+the DT B-NP O
+opening VBG I-NP O
+day NN I-NP O
+of IN B-PP O
+their PRP$ B-NP O
+match NN I-NP O
+badly RB B-ADVP O
+affected VBN B-VP O
+by IN B-PP O
+the DT B-NP O
+weather NN I-NP O
+, , O O
+Kent NNP B-NP B-ORG
+stepped VBD B-VP O
+up RP B-PRT O
+a DT B-NP O
+gear NN I-NP O
+to TO B-VP O
+dismiss VB I-VP O
+Nottinghamshire NNP B-NP B-ORG
+for IN B-PP O
+214 CD B-NP O
+. . O O
+
+They PRP B-NP O
+were VBD B-VP O
+held VBN I-VP O
+up RP B-PRT O
+by IN B-PP O
+a DT B-NP O
+gritty JJ I-NP O
+84 CD I-NP O
+from IN B-PP O
+Paul NNP B-NP B-PER
+Johnson NNP I-NP I-PER
+but CC O O
+ex-England JJ B-NP B-MISC
+fast JJ I-NP O
+bowler NN I-NP O
+Martin NNP I-NP B-PER
+McCague NNP I-NP I-PER
+took VBD B-VP O
+four CD B-NP O
+for IN B-PP O
+55 CD B-NP O
+. . O O
+
+By IN B-PP O
+stumps NNS B-NP O
+Kent NNP B-NP B-ORG
+had VBD B-VP O
+reached VBN I-VP O
+108 CD B-NP O
+for IN B-PP O
+three CD B-NP O
+. . O O
+
+CRICKET NNP B-NP O
+- : O O
+ENGLISH JJ B-NP B-MISC
+COUNTY NNS I-NP I-MISC
+CHAMPIONSHIP WDT B-NP I-MISC
+SCORES NNP I-NP O
+. . O O
+
+LONDON NNP B-NP B-LOC
+1996-08-30 CD I-NP O
+
+Result NN B-NP O
+and CC O O
+close VB B-VP O
+of IN B-PP O
+play NN B-NP O
+scores NNS I-NP O
+in IN B-PP O
+English JJ B-NP B-MISC
+county NN I-NP O
+championship NN I-NP O
+matches NNS I-NP O
+on IN B-PP O
+Friday NNP B-NP O
+: : O O
+
+Leicester JJ B-NP B-LOC
+: : O O
+Leicestershire VB B-VP B-ORG
+beat VB I-VP O
+Somerset NNP B-NP B-ORG
+by IN B-PP O
+an DT B-NP O
+innings NN I-NP O
+and CC O O
+39 CD B-NP O
+runs NNS I-NP O
+. . O O
+
+Somerset NNP B-NP B-ORG
+83 CD I-NP O
+and CC I-NP O
+174 CD I-NP O
+( ( O O
+P. NNP B-NP B-PER
+Simmons NNP I-NP I-PER
+4-38 CD I-NP O
+) ) O O
+, , O O
+Leicestershire NNP B-NP B-ORG
+296 CD I-NP O
+. . O O
+
+Leicestershire NNP B-NP B-ORG
+22 CD I-NP O
+points NNS I-NP O
+, , O O
+Somerset NNP B-NP B-ORG
+4 CD I-NP O
+. . O O
+
+Chester-le-Street NN B-NP B-LOC
+: : O O
+Glamorgan NNP B-NP B-ORG
+259 CD I-NP O
+and CC I-NP O
+207 CD I-NP O
+( ( O O
+A. NNP B-NP B-PER
+Dale NNP I-NP I-PER
+69 CD I-NP O
+, , O O
+H. NNP B-NP B-PER
+Morris NNP I-NP I-PER
+69 CD I-NP O
+; : O O
+D. NNP B-NP B-PER
+Blenkiron NNP B-NP I-PER
+4-43 CD I-NP O
+) ) O O
+, , O O
+Durham NNP B-NP B-ORG
+114 CD I-NP O
+( ( O O
+S. NNP B-NP B-PER
+Watkin NNP I-NP I-PER
+4-28 CD I-NP O
+) ) O O
+and CC O O
+81-3 CD B-NP O
+. . O O
+
+Tunbridge NNP B-NP B-LOC
+Wells NNP I-NP I-LOC
+: : O O
+Nottinghamshire NNP B-NP B-ORG
+214 CD I-NP O
+( ( O O
+P. NNP B-NP B-PER
+Johnson NNP I-NP I-PER
+84 CD I-NP O
+; : O O
+M. NNP B-NP B-PER
+McCague NNP I-NP I-PER
+4-55 CD I-NP O
+) ) O O
+, , O O
+Kent NNP B-NP B-ORG
+108-3 NNP I-NP O
+. . O O
+
+London NNP B-NP B-LOC
+( ( I-NP O
+The DT I-NP B-LOC
+Oval JJ I-NP I-LOC
+) ) O O
+: : O O
+Warwickshire VB B-VP B-ORG
+195 CD B-NP O
+, , O O
+Surrey NNP B-NP B-ORG
+429-7 NNP I-NP O
+( ( O O
+C. NNP B-NP B-PER
+Lewis NNP I-NP I-PER
+80 CD I-NP O
+not RB B-VP O
+out RP B-PRT O
+, , O O
+M. NNP B-NP B-PER
+Butcher NNP I-NP I-PER
+70 CD I-NP O
+, , O O
+G. NNP B-NP B-PER
+Kersey NNP I-NP I-PER
+63 CD I-NP O
+, , O O
+J. NNP B-NP B-PER
+Ratcliffe NNP I-NP I-PER
+63 CD I-NP O
+, , O O
+D. NNP B-NP B-PER
+Bicknell NNP I-NP I-PER
+55 CD I-NP O
+) ) O O
+. . O O
+
+Hove NN B-NP B-LOC
+: : O O
+Sussex NNP B-NP B-ORG
+363 CD I-NP O
+( ( O O
+W. NNP B-NP B-PER
+Athey NNP I-NP I-PER
+111 CD I-NP O
+, , O O
+V. NNP B-NP B-PER
+Drakes NNP I-NP I-PER
+52 CD I-NP O
+; : O O
+I. NNP B-NP B-PER
+Austin NNP I-NP I-PER
+4-37 CD I-NP O
+) ) O O
+, , O O
+Lancashire NNP B-NP B-ORG
+197-8 NNP I-NP O
+( ( O O
+W. NNP B-NP B-PER
+Hegg NNP I-NP I-PER
+54 CD I-NP O
+) ) O O
+
+Portsmouth NNP B-NP B-LOC
+: : O O
+Middlesex NNP B-NP B-ORG
+199 CD I-NP O
+and CC I-NP O
+426 CD I-NP O
+( ( O O
+J. NNP B-NP B-PER
+Pooley NNP I-NP I-PER
+111 CD I-NP O
+, , O O
+M. NNP B-NP B-PER
+Ramprakash NNP I-NP I-PER
+108 CD I-NP O
+, , O O
+M. NNP B-NP B-PER
+Gatting NNP I-NP I-PER
+83 CD I-NP O
+) ) O O
+, , O O
+Hampshire NNP B-NP B-ORG
+232 CD I-NP O
+and CC I-NP O
+109-5 NNP I-NP O
+. . O O
+
+Chesterfield NNP B-NP B-LOC
+: : O O
+Worcestershire NNP B-NP B-ORG
+238 CD I-NP O
+and CC I-NP O
+133-5 CD I-NP O
+, , O O
+Derbyshire NNP B-NP B-ORG
+471 CD I-NP O
+( ( O O
+J. NNP B-NP B-PER
+Adams NNP I-NP I-PER
+123 CD I-NP O
+, , O O
+T.O'Gorman JJ B-NP B-PER
+109 CD I-NP O
+not RB B-VP O
+out RP B-PRT O
+, , O O
+K. NNP B-NP B-PER
+Barnett NNP I-NP I-PER
+87 CD I-NP O
+; : O O
+T. NNP B-NP B-PER
+Moody NNP I-NP I-PER
+6-82 CD I-NP O
+) ) O O
+
+Bristol NNP B-NP B-LOC
+: : O O
+Gloucestershire VB B-VP B-ORG
+183 CD B-NP O
+and CC I-NP O
+185-6 CD I-NP O
+( ( O O
+J. NNP B-NP B-PER
+Russell NNP I-NP I-PER
+56 CD I-NP O
+not RB B-VP O
+out RP B-PRT O
+) ) O O
+, , O O
+Northamptonshire NNP B-NP B-ORG
+190 CD I-NP O
+( ( O O
+K. NNP B-NP B-PER
+Curran NNP I-NP I-PER
+52 CD I-NP O
+; : O O
+A. NNP B-NP B-PER
+Smith NNP I-NP I-PER
+5-68 CD I-NP O
+) ) O O
+. . O O
+
+CRICKET NNP B-NP O
+- : O O
+1997 CD B-NP O
+ASHES NNP I-NP B-MISC
+INTINERARY NNP I-NP O
+. . O O
+
+LONDON NNP B-NP B-LOC
+1996-08-30 CD I-NP O
+
+Australia NNP B-NP B-LOC
+will MD B-VP O
+defend VB I-VP O
+the DT B-NP O
+Ashes NNP I-NP B-MISC
+in IN B-PP O
+
+a SYM O O
+six-test JJ B-NP O
+series NN I-NP O
+against IN B-PP O
+England NNP B-NP B-LOC
+during IN B-PP O
+a DT B-NP O
+four-month JJ I-NP O
+tour NN I-NP O
+
+starting VBG B-VP O
+on IN B-PP O
+May NNP B-NP O
+13 CD I-NP O
+next JJ B-NP O
+year NN I-NP O
+, , O O
+the DT B-NP O
+Test NNP I-NP B-ORG
+and CC I-NP I-ORG
+County NNP I-NP I-ORG
+Cricket NNP I-NP I-ORG
+Board NNP I-NP I-ORG
+
+said VBD B-VP O
+on IN B-PP O
+Friday NNP B-NP O
+. . O O
+
+Australia NNP B-NP B-LOC
+will MD B-VP O
+also RB I-VP O
+play VB I-VP O
+three CD B-NP O
+one-day JJ I-NP O
+internationals NNS I-NP O
+and CC O O
+
+four CD B-NP O
+one-day JJ I-NP O
+warm-up NN I-NP O
+matches NNS I-NP O
+at IN B-PP O
+the DT B-NP O
+start NN I-NP O
+of IN B-PP O
+the DT B-NP O
+tour NN I-NP O
+. . O O
+
+The DT B-NP O
+tourists NNS I-NP O
+will MD B-VP O
+play VB I-VP O
+nine CD B-NP O
+first-class JJ I-NP O
+matches NNS I-NP O
+against IN B-PP O
+
+English JJ B-NP B-MISC
+county NN I-NP O
+sides NNS I-NP O
+and CC O O
+another DT B-NP O
+against IN B-PP O
+British JJ B-NP B-ORG
+Universities NNS I-NP I-ORG
+, , O O
+
+as IN B-PP O
+well RB B-NP O
+as IN I-NP O
+one-day JJ I-NP O
+matches NNS I-NP O
+against IN B-PP O
+the DT B-NP O
+Minor NNP I-NP B-ORG
+Counties NNP I-NP I-ORG
+and CC O O
+
+Scotland NNP B-NP B-LOC
+. . O O
+
+Tour NNP B-NP O
+itinerary NN I-NP O
+: : O O
+
+May NNP B-NP O
+
+May NNP B-NP O
+13 CD I-NP O
+Arrive NNP I-NP O
+in IN B-PP O
+London NNP B-NP B-LOC
+
+May NNP B-NP O
+14 CD I-NP O
+Practice NNP I-NP O
+at IN B-PP O
+Lord NNP B-NP B-LOC
+'s POS I-NP I-LOC
+
+May NNP B-NP O
+15 CD I-NP O
+v SYM B-VP O
+Duke NNP B-NP B-ORG
+of IN B-PP I-ORG
+Norfolk NNP B-NP I-ORG
+'s POS B-NP I-ORG
+XI NNP I-NP I-ORG
+( ( O O
+at IN B-PP O
+Arundel NNP B-NP B-LOC
+) ) O O
+
+May NNP B-NP O
+17 CD I-NP O
+v SYM B-VP O
+Northampton NNP B-NP B-ORG
+
+May NNP B-NP O
+18 CD I-NP O
+v SYM B-VP O
+Worcestershire NNP B-NP B-ORG
+
+May NNP B-NP O
+20 CD I-NP O
+v SYM B-VP O
+Durham NNP B-NP B-ORG
+
+May NNP B-NP O
+22 CD I-NP O
+First NNP I-NP O
+one-day JJ I-NP O
+international NN I-NP O
+( ( O O
+at IN B-PP O
+Headingley NNP B-NP B-LOC
+, , O O
+
+Mutineers NNS B-NP O
+have VBP B-VP O
+vowed VBN I-VP O
+to TO B-VP O
+disarm VB I-VP O
+all DT B-NP O
+civilians NNS I-NP O
+and CC O O
+to TO B-VP O
+chase VB I-VP O
+out RP B-PRT O
+the DT B-NP O
+foreign JJ I-NP O
+forces NNS I-NP O
+knwon VBP B-VP O
+as IN B-SBAR O
+Codos NNP B-NP B-MISC
+. . O O
+
+Hospital NN B-NP O
+sources NNS I-NP O
+and CC I-NP O
+witnesses NNS I-NP O
+said VBD B-VP O
+about RB B-NP O
+10 CD I-NP O
+people NNS I-NP O
+were VBD B-VP O
+known VBN I-VP O
+to TO I-VP O
+have VB I-VP O
+been VBN I-VP O
+killed VBN I-VP O
+in IN B-PP O
+the DT B-NP O
+more JJR I-NP O
+than IN I-NP O
+two CD I-NP O
+weeks NNS I-NP O
+of IN B-PP O
+fighting NN B-NP O
+, , O O
+including VBG B-PP O
+two CD B-NP O
+rebels NNS I-NP O
+killed VBN B-VP O
+in IN B-PP O
+Thursday NNP B-NP O
+'s POS B-NP O
+clashes NNS I-NP O
+. . O O
+
+An DT B-NP O
+undetermined JJ I-NP O
+number NN I-NP O
+of IN B-PP O
+people NNS B-NP O
+are VBP B-VP O
+reported VBN I-VP O
+to TO I-VP O
+have VB I-VP O
+been VBN I-VP O
+abducted NN B-NP O
+and CC O O
+killed VBD B-VP O
+outside IN B-PP O
+the DT B-NP O
+town NN I-NP O
+by IN B-PP O
+tribal JJ B-NP O
+vigilante NN I-NP O
+groups NNS I-NP O
+. . O O
+
+In IN B-PP O
+Thursday NNP B-NP O
+'s POS B-NP O
+fighting NN I-NP O
+, , O O
+French JJ B-NP B-MISC
+troops NNS I-NP O
+fired VBD B-VP O
+back RB B-ADVP O
+as IN B-PP O
+mutineers NNS B-NP O
+trying VBG B-VP O
+to TO I-VP O
+break VB I-VP O
+out IN B-PP O
+of IN B-PP O
+their PRP$ B-NP O
+strongholds NNS I-NP O
+rained VBD B-VP O
+mortar NN B-NP O
+shells NNS I-NP O
+on IN B-PP O
+the DT B-NP O
+city NN I-NP O
+centre NN I-NP O
+. . O O
+
+Five CD B-NP O
+die VBP B-VP O
+as IN B-SBAR O
+SAfrican JJ B-NP B-MISC
+crop NN I-NP O
+plane NN I-NP O
+hits NNS I-NP O
+pickup NN I-NP O
+. . O O
+
+JOHANNESBURG NN B-NP B-LOC
+1996-12-06 CD I-NP O
+
+Five CD B-NP O
+people NNS I-NP O
+were VBD B-VP O
+killed VBN I-VP O
+when WRB B-ADVP O
+a DT B-NP O
+crop-spraying JJ I-NP O
+plane NN I-NP O
+preparing VBG B-VP O
+for IN B-PP O
+takeoff NN B-NP O
+crashed VBD B-VP O
+into IN B-PP O
+a DT B-NP O
+light JJ I-NP O
+delivery NN I-NP O
+vehicle NN I-NP O
+in IN B-PP O
+South NNP B-NP B-LOC
+Africa NNP I-NP I-LOC
+'s POS I-NP O
+North JJ B-ADJP B-LOC
+West JJ I-ADJP I-LOC
+region NN B-NP O
+, , O O
+state NN B-NP O
+radio NN I-NP O
+reported VBD B-VP O
+on IN B-PP O
+Friday NNP B-NP O
+. . O O
+
+The DT B-NP O
+freak NN I-NP O
+accident NN I-NP O
+occurred VBD B-VP O
+in IN B-PP O
+Mafikeng NNP B-NP B-LOC
+on IN B-PP O
+Thursday NNP B-NP O
+. . O O
+
+The DT B-NP O
+pilot NN I-NP O
+survived VBD B-VP O
+the DT B-NP O
+crash NN I-NP O
+, , O O
+but CC O O
+the DT B-NP O
+driver NN I-NP O
+and CC I-NP O
+passengers NNS I-NP O
+of IN B-PP O
+the DT B-NP O
+van NNP I-NP O
+were VBD B-VP O
+killed VBN I-VP O
+. . O O
+
+WEATHER NN B-NP O
+- : O O
+Conditions NNPS B-NP O
+at IN B-PP O
+CIS NNP B-NP B-LOC
+airports NNS I-NP O
+- : O O
+Dec NNP B-NP O
+6 CD I-NP O
+. . O O
+
+MOSCOW RB B-ADVP B-LOC
+1996-12-06 CD B-NP O
+
+No DT B-NP O
+weather-related JJ I-NP O
+closures NNS I-NP O
+of IN B-PP O
+CIS NNP B-NP B-LOC
+airports NNS I-NP O
+are VBP B-VP O
+expected VBN I-VP O
+on IN B-PP O
+December NNP B-NP O
+7 CD I-NP O
+and CC I-NP O
+8 CD I-NP O
+, , O O
+the DT B-NP O
+Russian NNP I-NP B-ORG
+Weather NNP I-NP I-ORG
+Service NNP I-NP I-ORG
+said VBD B-VP O
+on IN B-PP O
+Friday NNP B-NP O
+. . O O
+
+-- : B-NP O
+Moscow NNP I-NP B-ORG
+Newsroom NNP I-NP I-ORG
++7095 CD I-NP O
+941 CD I-NP O
+8520 CD I-NP O
+
+Skinheads NNS B-NP O
+attack VBD B-VP O
+Bratislava NNP B-NP B-LOC
+Rabbi NNP I-NP O
+- : O O
+police NN B-NP O
+. . O O
+
+BRATISLAVA NNP B-NP B-LOC
+1996-12-06 CD I-NP O
+
+Four CD B-NP O
+skinheads NNS I-NP O
+attacked VBN B-VP O
+and CC O O
+insulted VBD B-VP O
+the DT B-NP O
+rabbi NN I-NP O
+of IN B-PP O
+Bratislava NNP B-NP B-LOC
+, , O O
+Baruch NNP B-NP B-PER
+Meyers NNP I-NP I-PER
+, , O O
+in IN B-PP O
+the DT B-NP O
+city NN I-NP O
+centre NN I-NP O
+on IN B-PP O
+Friday NNP B-NP O
+, , O O
+but CC O O
+he PRP B-NP O
+escaped VBD B-VP O
+unharmed JJ B-ADJP O
+, , O O
+a DT B-NP O
+police NN I-NP O
+spokesman NN I-NP O
+told VBN B-VP O
+Reuters NNP B-NP B-ORG
+. . O O
+
+" " O O
+A DT B-NP O
+group NN I-NP O
+of IN B-PP O
+four CD B-NP O
+skinheads NNS I-NP O
+attacked VBD B-VP O
+the DT B-NP O
+rabbi NN I-NP O
+, , O O
+one CD B-NP O
+kicked VBD B-VP O
+him PRP B-NP O
+in IN B-PP O
+the DT B-NP O
+hand NN I-NP O
+but CC O O
+caused VBD B-VP O
+no DT B-NP O
+injury NN I-NP O
+, , O O
+" " O O
+the DT B-NP O
+spokesman NN I-NP O
+said VBD B-VP O
+. . O O
+
+" " O O
+All DT B-NP O
+four CD I-NP O
+attackers NNS I-NP O
+were VBD B-VP O
+apprehended VBN I-VP O
+and CC O O
+two CD B-NP O
+have VBP B-VP O
+been VBN I-VP O
+detained VBN I-VP O
+, , O O
+" " O O
+the DT B-NP O
+spokesman NN I-NP O
+added VBD B-VP O
+
+He PRP B-NP O
+was VBD B-VP O
+unable JJ B-ADJP O
+to TO B-VP O
+give VB I-VP O
+more JJR B-NP O
+details NNS I-NP O
+. . O O
+
+" " O O
+The DT B-NP O
+further JJ I-NP O
+procedure NN I-NP O
+is VBZ B-VP O
+now RB B-ADVP O
+in IN B-PP O
+the DT B-NP O
+hands NNS I-NP O
+of IN B-PP O
+the DT B-NP O
+local JJ I-NP O
+police NN I-NP O
+investigator NN I-NP O
+, , O O
+" " O O
+the DT B-NP O
+spokesman NN I-NP O
+said VBD B-VP O
+. . O O
+
+It PRP B-NP O
+was VBD B-VP O
+the DT B-NP O
+second JJ I-NP O
+attack NN I-NP O
+by IN B-PP O
+skinheads NNS B-NP O
+in IN B-PP O
+two CD B-NP O
+years NNS I-NP O
+on IN B-PP O
+Meyers NNP B-NP B-PER
+, , O O
+an DT B-NP O
+American NNP I-NP B-MISC
+. . O O
+
+Meyers NNP B-NP B-PER
+was VBD B-VP O
+not RB O O
+available JJ B-ADJP O
+for IN B-PP O
+comment NN B-NP O
+. . O O
+
+Albanian NNP B-NP B-MISC
+jailed VBD B-VP O
+for IN B-PP O
+threat NN B-NP O
+of IN B-PP O
+bomb NN B-NP O
+suicide NN I-NP O
+. . O O
+
+TIRANA NNP B-NP B-LOC
+1996-12-06 CD I-NP O
+
+An DT B-NP O
+Albanian NN I-NP B-MISC
+court NN I-NP O
+on IN B-PP O
+Friday NNP B-NP O
+sentenced VBD B-VP O
+a DT B-NP O
+man NN I-NP O
+who WP B-NP O
+threatened VBD B-VP O
+to TO I-VP O
+blow VB I-VP O
+himself PRP B-NP O
+up RP B-PRT O
+outside RB B-ADVP O
+President NNP B-NP O
+Sali NNP I-NP B-PER
+Berisha NNP I-NP I-PER
+'s POS B-NP O
+office NN I-NP O
+to TO B-PP O
+13 CD B-NP O
+years NNS I-NP O
+in IN B-PP O
+jail NN B-NP O
+for IN B-PP O
+guerrilla NN B-NP O
+action NN I-NP O
+and CC O O
+illegal JJ B-NP O
+possession NN I-NP O
+of IN B-PP O
+arms NNS B-NP O
+. . O O
+
+Buza NN B-NP B-PER
+last JJ B-NP O
+April NNP I-NP O
+said VBD B-VP O
+he PRP B-NP O
+would MD B-VP O
+blow VB I-VP O
+himself PRP B-NP O
+up RP B-PRT O
+outside RB B-ADVP O
+the DT B-NP O
+presidential JJ I-NP O
+palace NN I-NP O
+unless IN B-SBAR O
+he PRP B-NP O
+was VBD B-VP O
+allowed VBN I-VP O
+to TO I-VP O
+speak VB I-VP O
+to TO B-PP O
+Berisha NNP B-NP B-PER
+, , O O
+who WP B-NP O
+was VBD B-VP O
+at IN B-PP O
+the DT B-NP O
+time NN I-NP O
+meeting NN I-NP O
+Italian NNP B-NP B-MISC
+President NNP I-NP O
+Oscar NNP I-NP B-PER
+Luigi NNP I-NP I-PER
+Scalfaro NNP I-NP I-PER
+. . O O
+
+Buza NNP B-NP B-PER
+was VBD B-VP O
+overpowered VBN I-VP O
+by IN B-PP O
+riot NN B-NP O
+police NN I-NP O
+less JJR B-ADJP O
+than IN B-PP O
+one CD B-NP O
+hour NN I-NP O
+after IN B-SBAR O
+he PRP B-NP O
+began VBD B-VP O
+his PRP$ B-NP O
+action NN I-NP O
+. . O O
+
+" " O O
+Evaluating VBG B-VP O
+all DT B-NP O
+the DT I-NP O
+conditions NNS I-NP O
+of IN B-PP O
+the DT B-NP O
+case NN I-NP O
+the DT B-NP O
+court NN I-NP O
+thinks VBZ B-VP O
+the DT B-NP O
+sentence NN I-NP O
+should MD B-VP O
+be VB I-VP O
+lower JJR B-ADJP O
+than IN B-PP O
+the DT B-NP O
+minimum JJ I-NP O
+( ( O O
+15 CD B-NP O
+years NNS I-NP O
+) ) O O
+, , O O
+" " O O
+Tirana NNP B-NP B-LOC
+judge NN I-NP O
+Qazim NNP I-NP B-PER
+Gjonaj NNP I-NP I-PER
+added VBD B-VP O
+. . O O
+
+The DT B-NP O
+defendant NN I-NP O
+denied VBD B-VP O
+the DT B-NP O
+charges NNS I-NP O
+, , O O
+saying VBG B-VP O
+his PRP$ B-NP O
+action NN I-NP O
+was VBD B-VP O
+intended VBN I-VP O
+to TO I-VP O
+urge VB I-VP O
+the DT B-NP O
+authorities NNS I-NP O
+to TO B-VP O
+give VB I-VP O
+him PRP B-NP O
+a DT B-NP O
+$ $ I-NP O
+20,000 CD I-NP O
+loan NN I-NP O
+. . O O
+
+Medical JJ B-NP O
+experts NNS I-NP O
+had VBD B-VP O
+concluded VBN I-VP O
+Buza NNP B-NP B-PER
+was VBD B-VP O
+mentally RB B-NP O
+unstable JJ I-NP O
+but CC I-NP O
+fully RB B-VP O
+responsible JJ B-ADJP O
+for IN B-PP O
+the DT B-NP O
+act NN I-NP O
+he PRP B-NP O
+had VBD B-VP O
+committed VBN I-VP O
+, , O O
+Gjonaj NNP B-NP B-PER
+said VBD B-VP O
+. . O O
+
+Polish JJ B-NP B-MISC
+ex-communist JJ I-NP O
+president NN I-NP O
+to TO B-VP O
+visit VB I-VP O
+Pope NNP B-NP O
+. . O O
+
+WARSAW NNP B-NP B-LOC
+1996-12-06 CD I-NP O
+
+Poland NNP B-NP B-LOC
+'s POS B-NP O
+ex-communist JJ I-NP O
+President NNP I-NP O
+Aleksander NNP I-NP B-PER
+Kwasniewski NNP I-NP I-PER
+is VBZ B-VP O
+likely JJ B-ADJP O
+to TO B-VP O
+visit VB I-VP O
+Polish-born NNP B-NP O
+Pope NNP I-NP O
+John NNP I-NP B-PER
+Paul NNP I-NP I-PER
+in IN B-PP O
+early JJ B-NP O
+1997 CD I-NP O
+despite IN B-PP O
+uneasy JJ B-NP O
+relations NNS I-NP O
+between IN B-PP O
+the DT B-NP O
+Vatican NNP I-NP B-LOC
+and CC I-NP O
+Warsaw NNP I-NP B-LOC
+, , O O
+the DT B-NP O
+foreign JJ I-NP O
+minister NN I-NP O
+said VBD B-VP O
+on IN B-PP O
+Friday NNP B-NP O
+. . O O
+
+" " O O
+President NNP B-NP O
+Kwasniewski NNP I-NP B-PER
+plans VBZ B-VP O
+to TO I-VP O
+visit VB I-VP O
+Italy NNP B-NP B-LOC
+on IN B-PP O
+a DT B-NP O
+invitation NN I-NP O
+from IN B-PP O
+President NNP B-NP O
+Oscar NNP I-NP B-PER
+Scalfaro NNP I-NP I-PER
+. . O O
+
+A DT B-NP O
+meeting NN I-NP O
+with IN B-PP O
+the DT B-NP O
+Pope NNP I-NP O
+is VBZ B-VP O
+also RB I-VP O
+planned VBN I-VP O
+, , O O
+" " O O
+Dariusz NNP B-NP B-PER
+Rosati NNP I-NP I-PER
+told VBD B-VP O
+a DT B-NP O
+news NN I-NP O
+conference NN I-NP O
+. . O O
+
+Rosati NNP B-NP B-PER
+said VBD B-VP O
+that IN B-SBAR O
+the DT B-NP O
+atmosphere NN I-NP O
+of IN B-PP O
+the DT B-NP O
+meeting NN I-NP O
+, , O O
+if IN B-SBAR O
+it PRP B-NP O
+takes VBZ B-VP O
+place NN B-NP O
+, , O O
+would MD B-VP O
+largely RB I-VP O
+depend VB I-VP O
+on IN B-PP O
+the DT B-NP O
+progress NN I-NP O
+in IN B-PP O
+talks NNS B-NP O
+on IN B-PP O
+ratification NN B-NP O
+of IN B-PP O
+a DT B-NP O
+treaty NN I-NP O
+between IN B-PP O
+Warsaw NNP B-NP B-LOC
+and CC O O
+the DT B-NP O
+Vatican NNP I-NP B-LOC
+. . O O
+
+@ IN O O
+
+The DT B-NP O
+ratification NN I-NP O
+of IN B-PP O
+the DT B-NP O
+treaty NN I-NP O
+, , O O
+which WDT B-NP O
+was VBD B-VP O
+signed VBN I-VP O
+in IN B-PP O
+1993 CD B-NP O
+by IN B-PP O
+the DT B-NP O
+then RB I-NP O
+right-centrist JJ I-NP O
+government NN I-NP O
+, , O O
+is VBZ B-VP O
+being VBG I-VP O
+delayed VBN I-VP O
+by IN B-PP O
+an DT B-NP O
+ex-communist JJ I-NP O
+party NN I-NP O
+, , O O
+which WDT B-NP O
+won VBD B-VP O
+parliamentary JJ B-NP O
+elections NNS I-NP O
+in IN B-PP O
+the DT B-NP O
+same JJ I-NP O
+year NN I-NP O
+and CC O O
+now RB B-VP O
+dominates VBZ I-VP O
+parliament NN B-NP O
+. . O O
+
+The DT B-NP O
+party NN I-NP O
+, , O O
+the DT B-NP O
+Democratic NNP I-NP B-ORG
+Left NNP I-NP I-ORG
+Alliance NNP I-NP I-ORG
+, , O O
+says VBZ B-VP O
+the DT B-NP O
+agreement NN I-NP O
+would MD B-VP O
+give VB I-VP O
+the DT B-NP O
+Catholic NNP I-NP B-ORG
+Church NNP I-NP I-ORG
+too RB B-NP O
+much JJ I-NP O
+influence NN I-NP O
+over IN B-PP O
+life NN B-NP O
+in IN B-PP O
+Poland NNP B-NP B-LOC
+and CC O O
+could MD B-VP O
+infringe VB I-VP O
+on IN B-PP O
+rights NNS B-NP O
+of IN B-PP O
+other JJ B-NP O
+religious JJ I-NP O
+groups NNS I-NP O
+and CC O O
+non-believers NNS B-NP O
+. . O O
+
+The DT B-NP O
+relations NNS I-NP O
+with IN B-PP O
+the DT B-NP O
+Vatican NNP I-NP B-LOC
+have VBP B-VP O
+also RB I-VP O
+been VBN I-VP O
+soured JJ B-NP O
+by IN B-PP O
+a DT B-NP O
+recent JJ I-NP O
+relaxation NN I-NP O
+of IN B-PP O
+Poland NNP B-NP B-LOC
+'s POS B-NP O
+anti-abortion JJ I-NP O
+rules NNS I-NP O
+, , O O
+which WDT B-NP O
+Kwasniewski NNP I-NP B-PER
+signed VBD B-VP O
+into IN B-PP O
+law NN B-NP O
+last JJ B-NP O
+month NN I-NP O
+. . O O
+
+Russia NNP B-NP B-LOC
+warns VBZ B-VP O
+Norilsk NNP B-NP B-ORG
+, , O O
+not RB B-VP O
+expected VBN I-VP O
+to TO I-VP O
+liquidate VB I-VP O
+it PRP B-NP O
+. . O O
+
+Lynnley NNP B-NP B-PER
+Browning NNP I-NP I-PER
+
+MOSCOW RB B-ADVP B-LOC
+1996-12-06 CD B-NP O
+
+Russian NNP B-NP B-MISC
+Finance NNP I-NP O
+Minister NNP I-NP O
+Alexander NNP I-NP B-PER
+Livshits NNP I-NP I-PER
+warned VBD B-VP O
+financially-troubled JJ B-NP O
+Norilsk NNP B-VP B-ORG
+Nickel NNP B-NP I-ORG
+on IN B-PP O
+Friday NNP B-NP O
+that IN B-SBAR O
+it PRP B-NP O
+must MD B-VP O
+pay VB I-VP O
+overdue JJ B-NP O
+taxes NNS I-NP O
+, , O O
+but CC O O
+analysts NNS B-NP O
+said VBD B-VP O
+the DT B-NP O
+firm JJ I-NP O
+would MD B-VP O
+not RB I-VP O
+be VB I-VP O
+liquidated JJ I-VP O
+or CC I-VP O
+that IN B-SBAR O
+its PRP$ B-NP O
+would MD B-VP O
+assets NNS B-NP O
+would MD B-VP O
+be VB I-VP O
+frozen VBN B-ADJP O
+. . O O
+
+" " O O
+Norilsk NNP B-NP B-ORG
+really RB B-ADVP O
+is VBZ B-VP O
+a DT B-NP O
+big JJ I-NP O
+debtor NN I-NP O
+, , O O
+both DT B-VP O
+to TO I-VP O
+the DT B-NP O
+federal JJ I-NP O
+and CC I-NP O
+regional JJ I-NP O
+budgets NNS I-NP O
+, , O O
+" " O O
+said VBD B-VP O
+Konstantin NNP B-NP B-PER
+Chernyshev NNPS B-NP I-PER
+, , O O
+equities NNS B-NP O
+analyst NN I-NP O
+at IN B-PP O
+Moscow NNP B-NP B-LOC
+brokerage NN I-NP O
+Rinaco NNP B-NP B-ORG
+Plus NNP I-NP I-ORG
+and CC O O
+a DT B-NP O
+Norilsk NNP I-NP B-ORG
+watcher NN I-NP O
+. . O O
+" " O O
+
+Livshits NNP B-NP B-PER
+'s POS B-NP O
+words NNS I-NP O
+are VBP B-VP O
+an DT B-NP O
+attempt NN I-NP O
+to TO B-VP O
+put VB I-VP O
+pressure NN B-NP O
+on IN B-PP O
+the DT B-NP O
+company NN I-NP O
+. . O O
+" " O O
+
+The DT B-NP O
+official JJ I-NP O
+Itar-Tass NNP I-NP B-ORG
+news NN I-NP O
+agency NN I-NP O
+quoted VBN B-VP O
+Livshits NNPS B-NP B-PER
+as IN B-PP O
+telling VBG B-VP O
+parliamentary JJ B-NP O
+deputies NNS I-NP O
+that IN B-SBAR O
+RAO NNP B-NP B-ORG
+Norilsky NNP I-NP I-ORG
+Nikel NNP I-NP I-ORG
+0#NKEL.RUO CD I-NP O
+had VBD B-VP O
+to TO I-VP O
+pay VB I-VP O
+its PRP$ B-NP O
+tax NN I-NP O
+arrears NNS I-NP O
+and CC O O
+that IN B-SBAR O
+bankruptcy NN B-NP O
+procedures NNS I-NP O
+applied VBD B-VP O
+to TO B-PP O
+the DT B-NP O
+metals NNS I-NP O
+group NN I-NP O
+. . O O
+
+" " O O
+If IN B-SBAR O
+it PRP B-NP O
+was VBD B-VP O
+an DT B-NP O
+unsolicited JJ I-NP O
+statement NN I-NP O
+and CC O O
+a DT B-NP O
+bolt NN I-NP O
+out IN B-PP O
+of IN B-PP O
+the DT B-NP O
+blue NN I-NP O
+, , O O
+then RB B-ADVP O
+it PRP B-NP O
+obviously RB B-ADVP O
+means VBZ B-VP O
+something NN B-NP O
+, , O O
+" " O O
+said VBD B-VP O
+Christopher NNP B-NP B-PER
+Granville NNP I-NP I-PER
+, , O O
+chief JJ B-NP O
+economist NN I-NP O
+at IN B-PP O
+United NNP B-NP B-ORG
+City NNP I-NP I-ORG
+Bank NNP I-NP I-ORG
+in IN B-PP O
+Moscow NNP B-NP B-LOC
+. . O O
+
+" " O O
+But CC O O
+if IN B-SBAR O
+it PRP B-NP O
+was VBD B-VP O
+a DT B-NP O
+response NN I-NP O
+to TO B-PP O
+a DT B-NP O
+deputy NN I-NP O
+'s POS B-NP O
+question NN I-NP O
+that WDT B-NP O
+was VBD B-VP O
+essentially RB B-ADJP O
+loaded VBN I-ADJP O
+, , O O
+then RB B-ADVP O
+it PRP B-NP O
+was VBD B-VP O
+the DT B-NP O
+only JJ I-NP O
+answer NN I-NP O
+he PRP B-NP O
+could MD B-VP O
+have VB I-VP O
+given VBN I-VP O
+. . O O
+" " O O
+
+Russian JJ B-NP B-MISC
+tax NN I-NP O
+and CC I-NP O
+cabinet NN I-NP O
+authorities NNS I-NP O
+, , O O
+under IN B-PP O
+pressure NN B-NP O
+from IN B-PP O
+the DT B-NP O
+International NNP I-NP B-ORG
+Monetary NNP I-NP I-ORG
+Fund NNP I-NP I-ORG
+to TO B-VP O
+boost VB I-VP O
+tax NN B-NP O
+revenues NNS I-NP O
+as IN B-PP O
+a DT B-NP O
+condition NN I-NP O
+for IN B-PP O
+receiving VBG B-NP O
+payments NNS I-NP O
+of IN B-PP O
+a DT B-NP O
+$ $ I-NP O
+10 CD I-NP O
+billion CD I-NP O
+, , I-NP O
+three-year JJ I-NP O
+loan NN I-NP O
+to TO B-PP O
+Moscow NNP B-NP B-LOC
+, , O O
+have VBP B-VP O
+been VBN I-VP O
+striking VBG I-VP O
+fear NN B-NP O
+into IN B-PP O
+the DT B-NP O
+hearts NNS I-NP O
+of IN B-PP O
+some DT B-NP O
+of IN B-PP O
+Russia NNP B-NP B-LOC
+'s POS I-NP O
+most RBS B-ADJP O
+prominent JJ I-ADJP O
+industrial JJ B-NP O
+firms NNS I-NP O
+by IN B-PP O
+saying VBG B-VP O
+they PRP B-NP O
+must MD B-VP O
+pay VB I-VP O
+up RB B-PRT O
+or CC O O
+face VB B-VP O
+liquidation NN B-NP O
+. . O O
+
+" " O O
+They PRP B-NP O
+could MD B-VP O
+freeze VB I-VP O
+metal NN B-NP O
+, , O O
+but CC O O
+it PRP B-NP O
+'s VBZ B-VP O
+not RB O O
+a DT B-NP O
+long-term JJ I-NP O
+solution NN I-NP O
+to TO B-PP O
+the DT B-NP O
+problem NN I-NP O
+and CC O O
+would MD B-VP O
+n't RB I-VP O
+put VB I-VP O
+money NN B-NP O
+in IN B-PP O
+the DT B-NP O
+budget NN I-NP O
+, , O O
+" " O O
+Chernyshev NNP B-NP B-PER
+said VBD B-VP O
+. . O O
+" " O O
+
+I PRP B-NP O
+do VBP B-VP O
+n't RB I-VP O
+think VB I-VP O
+they PRP B-NP O
+would MD B-VP O
+do VB I-VP O
+that DT B-NP O
+. . O O
+" " O O
