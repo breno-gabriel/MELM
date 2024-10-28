@@ -52,6 +52,9 @@ class MultiLabelTextProcessor():
                     text.append('<' + row[-1] + '>')
                     label.append('O')
             elif text != []:
+                print("textos e rótulos")
+                print(text)
+                print(label)
                 examples.append(
                     InputExample(guid=guid, text=text, label=label))
                 guid += 1
@@ -84,6 +87,8 @@ class Data():
         for dsplit in ['train', 'dev']:
             print(f"Generating dataloader for {dsplit}")
             examples = processor.get_examples(dsplit)
+            print("Array de exemples")
+            print(examples)
             features = self.convert_examples_to_features(examples, self.tokenizer, is_train=(dsplit == 'train'))
             input_ids = torch.tensor([f.input_ids for f in features], dtype=torch.long)
             input_mask = torch.tensor([f.input_mask for f in features], dtype=torch.long)
