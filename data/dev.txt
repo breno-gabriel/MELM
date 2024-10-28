@@ -1,2817 +1,5420 @@
--DOCSTART- -X- -X- O
-
-CRICKET NNP B-NP O
-- : O O
-LEICESTERSHIRE NNP B-NP B-ORG
-TAKE NNP I-NP O
-OVER IN B-PP O
-AT NNP B-NP O
-TOP NNP I-NP O
-AFTER NNP I-NP O
-INNINGS NNP I-NP O
-VICTORY NN I-NP O
-. . O O
-
-LONDON NNP B-NP B-LOC
-1996-08-30 CD I-NP O
-
-West NNP B-NP B-MISC
-Indian NNP I-NP I-MISC
-all-rounder NN I-NP O
-Phil NNP I-NP B-PER
-Simmons NNP I-NP I-PER
-took VBD B-VP O
-four CD B-NP O
-for IN B-PP O
-38 CD B-NP O
-on IN B-PP O
-Friday NNP B-NP O
-as IN B-PP O
-Leicestershire NNP B-NP B-ORG
-beat VBD B-VP O
-Somerset NNP B-NP B-ORG
-by IN B-PP O
-an DT B-NP O
-innings NN I-NP O
-and CC O O
-39 CD B-NP O
-runs NNS I-NP O
-in IN B-PP O
-two CD B-NP O
-days NNS I-NP O
-to TO B-VP O
-take VB I-VP O
-over IN B-PP O
-at IN B-PP O
-the DT B-NP O
-head NN I-NP O
-of IN B-PP O
-the DT B-NP O
-county NN I-NP O
-championship NN I-NP O
-. . O O
-
-Their PRP$ B-NP O
-stay NN I-NP O
-on IN B-PP O
-top NN B-NP O
-, , O O
-though RB B-ADVP O
-, , O O
-may MD B-VP O
-be VB I-VP O
-short-lived JJ B-ADJP O
-as IN B-PP O
-title NN B-NP O
-rivals NNS I-NP O
-Essex NNP I-NP B-ORG
-, , O O
-Derbyshire NNP B-NP B-ORG
-and CC I-NP O
-Surrey NNP I-NP B-ORG
-all DT O O
-closed VBD B-VP O
-in RP B-PRT O
-on IN B-PP O
-victory NN B-NP O
-while IN B-SBAR O
-Kent NNP B-NP B-ORG
-made VBD B-VP O
-up RP B-PRT O
-for IN B-PP O
-lost VBN B-NP O
-time NN I-NP O
-in IN B-PP O
-their PRP$ B-NP O
-rain-affected JJ I-NP O
-match NN I-NP O
-against IN B-PP O
-Nottinghamshire NNP B-NP B-ORG
-. . O O
-
-After IN B-PP O
-bowling VBG B-NP O
-Somerset NNP I-NP B-ORG
-out RP B-PRT O
-for IN B-PP O
-83 CD B-NP O
-on IN B-PP O
-the DT B-NP O
-opening NN I-NP O
-morning NN I-NP O
-at IN B-PP O
-Grace NNP B-NP B-LOC
-Road NNP I-NP I-LOC
-, , O O
-Leicestershire NNP B-NP B-ORG
-extended VBD B-VP O
-their PRP$ B-NP O
-first JJ I-NP O
-innings NN I-NP O
-by IN B-PP O
-94 CD B-NP O
-runs VBZ B-VP O
-before IN B-PP O
-being VBG B-VP O
-bowled VBD I-VP O
-out RP B-PRT O
-for IN B-PP O
-296 CD B-NP O
-with IN B-PP O
-England NNP B-NP B-LOC
-discard VBP B-VP O
-Andy NNP B-NP B-PER
-Caddick NNP I-NP I-PER
-taking VBG B-VP O
-three CD B-NP O
-for IN B-PP O
-83 CD B-NP O
-. . O O
-
-Trailing VBG B-VP O
-by IN B-PP O
-213 CD B-NP O
-, , O O
-Somerset NNP B-NP B-ORG
-got VBD B-VP O
-a DT B-NP O
-solid JJ I-NP O
-start NN I-NP O
-to TO B-PP O
-their PRP$ B-NP O
-second JJ I-NP O
-innings NN I-NP O
-before IN B-PP O
-Simmons NNP B-NP B-PER
-stepped VBD B-VP O
-in RP B-PRT O
-to TO B-VP O
-bundle VB I-VP O
-them PRP B-NP O
-out RB B-ADVP O
-for IN B-PP O
-174 CD B-NP O
-. . O O
-
-Essex NNP B-NP B-ORG
-, , O O
-however RB B-ADVP O
-, , O O
-look VB B-VP O
-certain JJ B-ADJP O
-to TO B-VP O
-regain VB I-VP O
-their PRP$ B-NP O
-top JJ I-NP O
-spot NN I-NP O
-after IN B-PP O
-Nasser NNP B-NP B-PER
-Hussain NNP I-NP I-PER
-and CC I-NP O
-Peter NNP I-NP B-PER
-Such JJ I-NP I-PER
-gave VBD B-VP O
-them PRP B-NP O
-a DT B-NP O
-firm NN I-NP O
-grip NN I-NP O
-on IN B-PP O
-their PRP$ B-NP O
-match NN I-NP O
-against IN B-PP O
-Yorkshire NNP B-NP B-ORG
-at IN B-PP O
-Headingley NNP B-NP B-LOC
-. . O O
-
-Hussain NN B-NP B-PER
-, , O O
-considered VBD B-VP O
-surplus NN B-NP O
-to TO B-PP O
-England NNP B-NP B-LOC
-'s POS B-NP O
-one-day JJ I-NP O
-requirements NNS I-NP O
-, , O O
-struck VBD B-VP O
-158 CD B-NP O
-, , O O
-his PRP$ B-NP O
-first JJ I-NP O
-championship NN I-NP O
-century NN I-NP O
-of IN B-PP O
-the DT B-NP O
-season NN I-NP O
-, , O O
-as IN B-SBAR O
-Essex NNP B-NP B-ORG
-reached VBD B-VP O
-372 CD B-NP O
-and CC O O
-took VBD B-VP O
-a DT B-NP O
-first JJ I-NP O
-innings NN I-NP O
-lead NN I-NP O
-of IN B-PP O
-82 CD B-NP O
-. . O O
-
-By IN B-PP O
-the DT B-NP O
-close NN I-NP O
-Yorkshire NNP B-NP B-ORG
-had VBD B-VP O
-turned VBN I-VP O
-that IN B-SBAR O
-into IN B-PP O
-a DT B-NP O
-37-run JJ I-NP O
-advantage NN I-NP O
-but CC O O
-off-spinner JJ B-NP O
-Such JJ I-NP B-PER
-had VBD B-VP O
-scuttled VBN I-VP O
-their PRP$ B-NP O
-hopes NNS I-NP O
-, , O O
-taking VBG B-VP O
-four CD B-NP O
-for IN B-PP O
-24 CD B-NP O
-in IN B-PP O
-48 CD B-NP O
-balls NNS I-NP O
-and CC O O
-leaving VBG B-VP O
-them PRP B-NP O
-hanging VBG B-VP O
-on IN B-PP O
-119 CD B-NP O
-for IN B-PP O
-five CD B-NP O
-and CC O O
-praying VBG B-VP O
-for IN B-PP O
-rain NN B-NP O
-. . O O
-
-At IN B-PP O
-the DT B-NP O
-Oval JJ I-NP B-LOC
-, , O O
-Surrey NNP B-NP B-ORG
-captain NN I-NP O
-Chris NNP I-NP B-PER
-Lewis NNP I-NP I-PER
-, , O O
-another DT B-NP O
-man NN I-NP O
-dumped VBN B-VP O
-by IN B-PP O
-England NNP B-NP B-LOC
-, , O O
-continued VBD B-VP O
-to TO I-VP O
-silence VB I-VP O
-his PRP$ B-NP O
-critics NNS I-NP O
-as IN B-SBAR O
-he PRP B-NP O
-followed VBD B-VP O
-his PRP$ B-NP O
-four CD I-NP O
-for IN B-PP O
-45 CD B-NP O
-on IN B-PP O
-Thursday NNP B-NP O
-with IN B-PP O
-80 CD B-NP O
-not RB B-VP O
-out RP B-PRT O
-on IN B-PP O
-Friday NNP B-NP O
-in IN B-PP O
-the DT B-NP O
-match NN I-NP O
-against IN B-PP O
-Warwickshire NNP B-NP B-ORG
-. . O O
-
-He PRP B-NP O
-was VBD B-VP O
-well RB I-VP O
-backed VBN I-VP O
-by IN B-PP O
-England NNP B-NP B-LOC
-hopeful JJ B-ADJP O
-Mark NNP B-NP B-PER
-Butcher NNP I-NP I-PER
-who WP B-NP O
-made VBD B-VP O
-70 CD B-NP O
-as IN B-SBAR O
-Surrey NNP B-NP B-ORG
-closed VBD B-VP O
-on IN B-PP O
-429 CD B-NP O
-for IN B-PP O
-seven CD B-NP O
-, , O O
-a DT B-NP O
-lead NN I-NP O
-of IN B-PP O
-234 CD B-NP O
-. . O O
-
-Derbyshire NN B-NP B-ORG
-kept VBD B-VP O
-up RP B-PRT O
-the DT B-NP O
-hunt NN I-NP O
-for IN B-PP O
-their PRP$ B-NP O
-first JJ I-NP O
-championship NN I-NP O
-title NN I-NP O
-since IN B-PP O
-1936 CD B-NP O
-by IN B-SBAR O
-reducing VBG B-VP O
-Worcestershire NNP B-NP B-ORG
-to TO B-PP O
-133 CD B-NP O
-for IN B-PP O
-five CD B-NP O
-in IN B-PP O
-their PRP$ B-NP O
-second JJ I-NP O
-innings NN I-NP O
-, , O O
-still RB B-ADVP O
-100 CD B-NP O
-runs VBZ B-VP O
-away RP B-PRT O
-from IN B-PP O
-avoiding VBG B-VP O
-an DT B-NP O
-innings NN I-NP O
-defeat VB B-VP O
-. . O O
-
-Australian NNP B-NP B-MISC
-Tom NNP I-NP B-PER
-Moody NNP I-NP I-PER
-took VBD B-VP O
-six CD B-NP O
-for IN B-PP O
-82 CD B-NP O
-but CC O O
-Chris NNP B-NP B-PER
-Adams NNP I-NP I-PER
-, , O O
-123 CD B-NP O
-, , O O
-and CC O O
-Tim NNP B-NP B-PER
-O'Gorman NNP I-NP I-PER
-, , O O
-109 CD B-NP O
-, , O O
-took VBD B-VP O
-Derbyshire NNP B-NP B-ORG
-to TO B-PP O
-471 CD B-NP O
-and CC O O
-a DT B-NP O
-first JJ I-NP O
-innings NN I-NP O
-lead NN I-NP O
-of IN B-PP O
-233 CD B-NP O
-. . O O
-
-After IN B-PP O
-the DT B-NP O
-frustration NN I-NP O
-of IN B-PP O
-seeing VBG B-VP O
-the DT B-NP O
-opening VBG I-NP O
-day NN I-NP O
-of IN B-PP O
-their PRP$ B-NP O
-match NN I-NP O
-badly RB B-ADVP O
-affected VBN B-VP O
-by IN B-PP O
-the DT B-NP O
-weather NN I-NP O
-, , O O
-Kent NNP B-NP B-ORG
-stepped VBD B-VP O
-up RP B-PRT O
-a DT B-NP O
-gear NN I-NP O
-to TO B-VP O
-dismiss VB I-VP O
-Nottinghamshire NNP B-NP B-ORG
-for IN B-PP O
-214 CD B-NP O
-. . O O
-
-They PRP B-NP O
-were VBD B-VP O
-held VBN I-VP O
-up RP B-PRT O
-by IN B-PP O
-a DT B-NP O
-gritty JJ I-NP O
-84 CD I-NP O
-from IN B-PP O
-Paul NNP B-NP B-PER
-Johnson NNP I-NP I-PER
-but CC O O
-ex-England JJ B-NP B-MISC
-fast JJ I-NP O
-bowler NN I-NP O
-Martin NNP I-NP B-PER
-McCague NNP I-NP I-PER
-took VBD B-VP O
-four CD B-NP O
-for IN B-PP O
-55 CD B-NP O
-. . O O
-
-By IN B-PP O
-stumps NNS B-NP O
-Kent NNP B-NP B-ORG
-had VBD B-VP O
-reached VBN I-VP O
-108 CD B-NP O
-for IN B-PP O
-three CD B-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-CRICKET NNP B-NP O
-- : O O
-ENGLISH JJ B-NP B-MISC
-COUNTY NNS I-NP I-MISC
-CHAMPIONSHIP WDT B-NP I-MISC
-SCORES NNP I-NP O
-. . O O
-
-LONDON NNP B-NP B-LOC
-1996-08-30 CD I-NP O
-
-Result NN B-NP O
-and CC O O
-close VB B-VP O
-of IN B-PP O
-play NN B-NP O
-scores NNS I-NP O
-in IN B-PP O
-English JJ B-NP B-MISC
-county NN I-NP O
-championship NN I-NP O
-matches NNS I-NP O
-on IN B-PP O
-Friday NNP B-NP O
-: : O O
-
-Leicester JJ B-NP B-LOC
-: : O O
-Leicestershire VB B-VP B-ORG
-beat VB I-VP O
-Somerset NNP B-NP B-ORG
-by IN B-PP O
-an DT B-NP O
-innings NN I-NP O
-and CC O O
-39 CD B-NP O
-runs NNS I-NP O
-. . O O
-
-Somerset NNP B-NP B-ORG
-83 CD I-NP O
-and CC I-NP O
-174 CD I-NP O
-( ( O O
-P. NNP B-NP B-PER
-Simmons NNP I-NP I-PER
-4-38 CD I-NP O
-) ) O O
-, , O O
-Leicestershire NNP B-NP B-ORG
-296 CD I-NP O
-. . O O
-
-Leicestershire NNP B-NP B-ORG
-22 CD I-NP O
-points NNS I-NP O
-, , O O
-Somerset NNP B-NP B-ORG
-4 CD I-NP O
-. . O O
-
-Chester-le-Street NN B-NP B-LOC
-: : O O
-Glamorgan NNP B-NP B-ORG
-259 CD I-NP O
-and CC I-NP O
-207 CD I-NP O
-( ( O O
-A. NNP B-NP B-PER
-Dale NNP I-NP I-PER
-69 CD I-NP O
-, , O O
-H. NNP B-NP B-PER
-Morris NNP I-NP I-PER
-69 CD I-NP O
-; : O O
-D. NNP B-NP B-PER
-Blenkiron NNP B-NP I-PER
-4-43 CD I-NP O
-) ) O O
-, , O O
-Durham NNP B-NP B-ORG
-114 CD I-NP O
-( ( O O
-S. NNP B-NP B-PER
-Watkin NNP I-NP I-PER
-4-28 CD I-NP O
-) ) O O
-and CC O O
-81-3 CD B-NP O
-. . O O
-
-Tunbridge NNP B-NP B-LOC
-Wells NNP I-NP I-LOC
-: : O O
-Nottinghamshire NNP B-NP B-ORG
-214 CD I-NP O
-( ( O O
-P. NNP B-NP B-PER
-Johnson NNP I-NP I-PER
-84 CD I-NP O
-; : O O
-M. NNP B-NP B-PER
-McCague NNP I-NP I-PER
-4-55 CD I-NP O
-) ) O O
-, , O O
-Kent NNP B-NP B-ORG
-108-3 NNP I-NP O
-. . O O
-
-London NNP B-NP B-LOC
-( ( I-NP O
-The DT I-NP B-LOC
-Oval JJ I-NP I-LOC
-) ) O O
-: : O O
-Warwickshire VB B-VP B-ORG
-195 CD B-NP O
-, , O O
-Surrey NNP B-NP B-ORG
-429-7 NNP I-NP O
-( ( O O
-C. NNP B-NP B-PER
-Lewis NNP I-NP I-PER
-80 CD I-NP O
-not RB B-VP O
-out RP B-PRT O
-, , O O
-M. NNP B-NP B-PER
-Butcher NNP I-NP I-PER
-70 CD I-NP O
-, , O O
-G. NNP B-NP B-PER
-Kersey NNP I-NP I-PER
-63 CD I-NP O
-, , O O
-J. NNP B-NP B-PER
-Ratcliffe NNP I-NP I-PER
-63 CD I-NP O
-, , O O
-D. NNP B-NP B-PER
-Bicknell NNP I-NP I-PER
-55 CD I-NP O
-) ) O O
-. . O O
-
-Hove NN B-NP B-LOC
-: : O O
-Sussex NNP B-NP B-ORG
-363 CD I-NP O
-( ( O O
-W. NNP B-NP B-PER
-Athey NNP I-NP I-PER
-111 CD I-NP O
-, , O O
-V. NNP B-NP B-PER
-Drakes NNP I-NP I-PER
-52 CD I-NP O
-; : O O
-I. NNP B-NP B-PER
-Austin NNP I-NP I-PER
-4-37 CD I-NP O
-) ) O O
-, , O O
-Lancashire NNP B-NP B-ORG
-197-8 NNP I-NP O
-( ( O O
-W. NNP B-NP B-PER
-Hegg NNP I-NP I-PER
-54 CD I-NP O
-) ) O O
-
-Portsmouth NNP B-NP B-LOC
-: : O O
-Middlesex NNP B-NP B-ORG
-199 CD I-NP O
-and CC I-NP O
-426 CD I-NP O
-( ( O O
-J. NNP B-NP B-PER
-Pooley NNP I-NP I-PER
-111 CD I-NP O
-, , O O
-M. NNP B-NP B-PER
-Ramprakash NNP I-NP I-PER
-108 CD I-NP O
-, , O O
-M. NNP B-NP B-PER
-Gatting NNP I-NP I-PER
-83 CD I-NP O
-) ) O O
-, , O O
-Hampshire NNP B-NP B-ORG
-232 CD I-NP O
-and CC I-NP O
-109-5 NNP I-NP O
-. . O O
-
-Chesterfield NNP B-NP B-LOC
-: : O O
-Worcestershire NNP B-NP B-ORG
-238 CD I-NP O
-and CC I-NP O
-133-5 CD I-NP O
-, , O O
-Derbyshire NNP B-NP B-ORG
-471 CD I-NP O
-( ( O O
-J. NNP B-NP B-PER
-Adams NNP I-NP I-PER
-123 CD I-NP O
-, , O O
-T.O'Gorman JJ B-NP B-PER
-109 CD I-NP O
-not RB B-VP O
-out RP B-PRT O
-, , O O
-K. NNP B-NP B-PER
-Barnett NNP I-NP I-PER
-87 CD I-NP O
-; : O O
-T. NNP B-NP B-PER
-Moody NNP I-NP I-PER
-6-82 CD I-NP O
-) ) O O
-
-Bristol NNP B-NP B-LOC
-: : O O
-Gloucestershire VB B-VP B-ORG
-183 CD B-NP O
-and CC I-NP O
-185-6 CD I-NP O
-( ( O O
-J. NNP B-NP B-PER
-Russell NNP I-NP I-PER
-56 CD I-NP O
-not RB B-VP O
-out RP B-PRT O
-) ) O O
-, , O O
-Northamptonshire NNP B-NP B-ORG
-190 CD I-NP O
-( ( O O
-K. NNP B-NP B-PER
-Curran NNP I-NP I-PER
-52 CD I-NP O
-; : O O
-A. NNP B-NP B-PER
-Smith NNP I-NP I-PER
-5-68 CD I-NP O
-) ) O O
-. . O O
-
--DOCSTART- -X- -X- O
-
-CRICKET NNP B-NP O
-- : O O
-1997 CD B-NP O
-ASHES NNP I-NP B-MISC
-INTINERARY NNP I-NP O
-. . O O
-
-LONDON NNP B-NP B-LOC
-1996-08-30 CD I-NP O
-
-Australia NNP B-NP B-LOC
-will MD B-VP O
-defend VB I-VP O
-the DT B-NP O
-Ashes NNP I-NP B-MISC
-in IN B-PP O
-
-a SYM O O
-six-test JJ B-NP O
-series NN I-NP O
-against IN B-PP O
-England NNP B-NP B-LOC
-during IN B-PP O
-a DT B-NP O
-four-month JJ I-NP O
-tour NN I-NP O
-
-starting VBG B-VP O
-on IN B-PP O
-May NNP B-NP O
-13 CD I-NP O
-next JJ B-NP O
-year NN I-NP O
-, , O O
-the DT B-NP O
-Test NNP I-NP B-ORG
-and CC I-NP I-ORG
-County NNP I-NP I-ORG
-Cricket NNP I-NP I-ORG
-Board NNP I-NP I-ORG
-
-said VBD B-VP O
-on IN B-PP O
-Friday NNP B-NP O
-. . O O
-
-Australia NNP B-NP B-LOC
-will MD B-VP O
-also RB I-VP O
-play VB I-VP O
-three CD B-NP O
-one-day JJ I-NP O
-internationals NNS I-NP O
-and CC O O
-
-four CD B-NP O
-one-day JJ I-NP O
-warm-up NN I-NP O
-matches NNS I-NP O
-at IN B-PP O
-the DT B-NP O
-start NN I-NP O
-of IN B-PP O
-the DT B-NP O
-tour NN I-NP O
-. . O O
-
-The DT B-NP O
-tourists NNS I-NP O
-will MD B-VP O
-play VB I-VP O
-nine CD B-NP O
-first-class JJ I-NP O
-matches NNS I-NP O
-against IN B-PP O
-
-English JJ B-NP B-MISC
-county NN I-NP O
-sides NNS I-NP O
-and CC O O
-another DT B-NP O
-against IN B-PP O
-British JJ B-NP B-ORG
-Universities NNS I-NP I-ORG
-, , O O
-
-as IN B-PP O
-well RB B-NP O
-as IN I-NP O
-one-day JJ I-NP O
-matches NNS I-NP O
-against IN B-PP O
-the DT B-NP O
-Minor NNP I-NP B-ORG
-Counties NNP I-NP I-ORG
-and CC O O
-
-Scotland NNP B-NP B-LOC
-. . O O
-
-Tour NNP B-NP O
-itinerary NN I-NP O
-: : O O
-
-May NNP B-NP O
-
-May NNP B-NP O
-13 CD I-NP O
-Arrive NNP I-NP O
-in IN B-PP O
-London NNP B-NP B-LOC
-
-May NNP B-NP O
-14 CD I-NP O
-Practice NNP I-NP O
-at IN B-PP O
-Lord NNP B-NP B-LOC
-'s POS I-NP I-LOC
-
-May NNP B-NP O
-15 CD I-NP O
-v SYM B-VP O
-Duke NNP B-NP B-ORG
-of IN B-PP I-ORG
-Norfolk NNP B-NP I-ORG
-'s POS B-NP I-ORG
-XI NNP I-NP I-ORG
-( ( O O
-at IN B-PP O
-Arundel NNP B-NP B-LOC
-) ) O O
-
-May NNP B-NP O
-17 CD I-NP O
-v SYM B-VP O
-Northampton NNP B-NP B-ORG
-
-May NNP B-NP O
-18 CD I-NP O
-v SYM B-VP O
-Worcestershire NNP B-NP B-ORG
-
-May NNP B-NP O
-20 CD I-NP O
-v SYM B-VP O
-Durham NNP B-NP B-ORG
-
-May NNP B-NP O
-22 CD I-NP O
-First NNP I-NP O
-one-day JJ I-NP O
-international NN I-NP O
-( ( O O
-at IN B-PP O
-Headingley NNP B-NP B-LOC
-, , O O
-
-Leeds NNS B-NP B-ORG
-) ) O O
-
-May NNP B-NP O
-24 CD I-NP O
-Second NNP I-NP O
-one-day JJ I-NP O
-international NN I-NP O
-( ( O O
-at IN B-PP O
-The DT B-NP B-LOC
-Oval JJ I-NP I-LOC
-, , I-NP O
-
-London NNP B-NP B-LOC
-) ) O O
-
-May NNP B-NP O
-25 CD I-NP O
-Third NNP I-NP O
-one-day JJ I-NP O
-international NN I-NP O
-( ( O O
-at IN B-PP O
-Lord NNP B-NP B-LOC
-'s POS I-NP I-LOC
-, , O O
-London NNP B-NP B-LOC
-) ) O O
-
-May NNP B-NP O
-27-29 CD I-NP O
-v SYM B-VP O
-Gloucestershire NNP B-NP B-ORG
-or CC I-NP O
-Sussex NNP I-NP B-ORG
-or CC I-NP O
-Surrey NNP I-NP B-ORG
-( ( O O
-three CD B-NP O
-
-days NNS B-NP O
-) ) O O
-
-May NNP B-NP O
-31 CD I-NP O
-- : I-NP O
-June NNP I-NP O
-2 CD I-NP O
-v SYM B-VP O
-Derbyshire NN B-NP B-ORG
-( ( O O
-three CD B-NP O
-days NNS I-NP O
-) ) O O
-
-June NNP B-NP O
-
-June NNP B-NP O
-5-9 NNP I-NP O
-First NNP I-NP O
-test NN I-NP O
-match NN I-NP O
-( ( O O
-at IN B-PP O
-Edgbaston NNP B-NP B-LOC
-, , O O
-Birmingham NNP B-NP B-LOC
-) ) O O
-
-June NNP B-NP O
-11-13 CD I-NP O
-v SYM B-VP O
-a DT B-NP O
-first JJ I-NP O
-class NN I-NP O
-county NN I-NP O
-( ( O O
-to TO B-VP O
-be VB I-VP O
-confirmed VBN I-VP O
-) ) O O
-
-June NNP B-NP O
-14-16 CD I-NP O
-v SYM B-VP O
-Leicestershire NNP B-NP B-ORG
-( ( O O
-three CD B-NP O
-days NNS I-NP O
-) ) O O
-
-June NNP B-NP O
-19-23 CD I-NP O
-Second NNP I-NP O
-test NN I-NP O
-( ( O O
-at IN B-PP O
-Lord NNP B-NP B-LOC
-'s POS I-NP I-LOC
-) ) O O
-
-June NNP B-NP O
-25-27 CD I-NP O
-v SYM B-VP O
-British JJ B-NP B-ORG
-Universities NNS I-NP I-ORG
-( ( O O
-at IN B-PP O
-Oxford NNP B-NP B-LOC
-, , O O
-three CD B-NP O
-days NNS I-NP O
-) ) O O
-
-June NNP B-NP O
-28-30 CD I-NP O
-v SYM B-VP O
-Hampshire NNP B-NP B-ORG
-( ( O O
-three CD B-NP O
-days NNS I-NP O
-) ) O O
-
-July NNP B-NP O
-
-July NNP B-NP O
-3-7 CD I-NP O
-Third NNP I-NP O
-test NN I-NP O
-( ( O O
-at IN B-PP O
-Old NNP B-NP B-LOC
-Trafford NNP I-NP I-LOC
-, , O O
-Manchester NNP B-NP B-LOC
-) ) O O
-
-July NNP B-NP O
-9 CD I-NP O
-v SYM B-VP O
-Minor NNP B-NP B-ORG
-Counties NNPS I-NP I-ORG
-XI NNP I-NP I-ORG
-
-July NNP B-NP O
-12 CD I-NP O
-v SYM B-VP O
-Scotland NNP B-NP B-LOC
-
-July NNP B-NP O
-16-18 CD I-NP O
-v SYM B-VP O
-Glamorgan NNP B-NP B-ORG
-( ( O O
-three CD B-NP O
-days NNS I-NP O
-) ) O O
-
-July NNP B-NP O
-19-21 CD I-NP O
-v SYM B-VP O
-Middlesex NNP B-NP B-ORG
-( ( O O
-three CD B-NP O
-days NNS I-NP O
-) ) O O
-
-July NNP B-NP O
-24-28 CD I-NP O
-Fourth NNP I-NP O
-test NN I-NP O
-( ( O O
-at IN B-PP O
-Headingley NNP B-NP B-LOC
-) ) O O
-
-August NNP B-NP O
-
-August NNP B-NP O
-1-4 CD I-NP O
-v SYM B-VP O
-Somerset NNP B-NP B-ORG
-( ( O O
-four CD B-NP O
-days NNS I-NP O
-) ) O O
-
-August NNP B-NP O
-7-11 CD I-NP O
-Fifth NNP I-NP O
-test NN I-NP O
-( ( O O
-at IN B-PP O
-Trent NNP B-NP B-LOC
-Bridge NNP I-NP I-LOC
-, , O O
-Nottingham NNP B-NP B-LOC
-) ) O O
-
-August NNP B-NP O
-16-18 CD I-NP O
-v SYM B-VP O
-Kent NNP B-NP B-ORG
-( ( O O
-three CD B-NP O
-days NNS I-NP O
-) ) O O
-
-August NNP B-NP O
-21-25 CD I-NP O
-Sixth NNP I-NP O
-test NN I-NP O
-( ( O O
-at IN B-PP O
-The DT B-NP B-LOC
-Oval JJ I-NP I-LOC
-, , O O
-London NNP B-NP B-LOC
-) ) O O
-. . O O
-
--DOCSTART- -X- -X- O
-
-SOCCER NN B-NP O
-- : O O
-SHEARER NN B-NP B-PER
-NAMED VBD B-VP O
-AS NNP B-NP O
-ENGLAND NNP I-NP B-LOC
-CAPTAIN NNP I-NP O
-. . O O
-
-LONDON NNP B-NP B-LOC
-1996-08-30 CD I-NP O
-
-The DT B-NP O
-world NN I-NP O
-'s POS B-NP O
-costliest JJS I-NP O
-footballer NN I-NP O
-Alan NNP I-NP B-PER
-Shearer NNP I-NP I-PER
-was VBD B-VP O
-named VBN I-VP O
-as IN B-PP O
-the DT B-NP O
-new JJ I-NP O
-England NNP I-NP B-LOC
-captain NN I-NP O
-on IN B-PP O
-Friday NNP B-NP O
-. . O O
-
-The DT B-NP O
-26-year-old JJ I-NP O
-, , O O
-who WP B-NP O
-joined VBD B-VP O
-Newcastle NNP B-NP B-ORG
-for IN B-PP O
-15 CD B-NP O
-million CD I-NP O
-pounds NNS I-NP O
-sterling NN I-NP O
-( ( O O
-$ $ B-NP O
-23.4 CD I-NP O
-million CD I-NP O
-) ) O O
-, , O O
-takes VBZ B-VP O
-over IN B-PP O
-from IN B-PP O
-Tony NNP B-NP B-PER
-Adams NNP I-NP I-PER
-, , O O
-who WP B-NP O
-led VBD B-VP O
-the DT B-NP O
-side NN I-NP O
-during IN B-PP O
-the DT B-NP O
-European JJ I-NP B-MISC
-championship NN I-NP O
-in IN B-PP O
-June NNP B-NP O
-, , O O
-and CC O O
-former JJ B-NP O
-captain NN I-NP O
-David NNP I-NP B-PER
-Platt NNP I-NP I-PER
-. . O O
-
-Adams NNP B-NP B-PER
-and CC I-NP O
-Platt NNP I-NP B-PER
-are VBP B-VP O
-both DT B-NP O
-injured JJ I-NP O
-and CC O O
-will MD B-VP O
-miss VB I-VP O
-England NNP B-NP B-LOC
-'s POS B-NP O
-opening NN I-NP O
-World NNP I-NP B-MISC
-Cup NNP I-NP I-MISC
-qualifier NN I-NP O
-against IN B-PP O
-Moldova NNP B-NP B-LOC
-on IN B-PP O
-Sunday NNP B-NP O
-. . O O
-
-Shearer NN B-NP B-PER
-takes VBZ B-VP O
-the DT B-NP O
-captaincy NN I-NP O
-on IN B-PP O
-a DT B-NP O
-trial NN I-NP O
-basis NN I-NP O
-, , O O
-but CC O O
-new JJ B-NP O
-coach NN I-NP O
-Glenn NNP I-NP B-PER
-Hoddle NNP I-NP I-PER
-said VBD B-VP O
-he PRP B-NP O
-saw VBD B-VP O
-no DT B-NP O
-reason NN I-NP O
-why WRB B-ADVP O
-the DT B-NP O
-former JJ I-NP O
-Blackburn NNP I-NP B-ORG
-and CC I-NP O
-Southampton NNP I-NP B-ORG
-skipper NN I-NP O
-should MD B-VP O
-not RB I-VP O
-make VB I-VP O
-the DT B-NP O
-post NN I-NP O
-his PRP$ B-NP O
-own JJ I-NP O
-. . O O
-
-" " O O
-I PRP B-NP O
-'m VBP B-VP O
-sure JJ B-ADJP O
-there RB B-ADVP O
-wo MD B-VP O
-n't RB I-VP O
-be VB I-VP O
-a DT B-NP O
-problem NN I-NP O
-, , O O
-I PRP B-NP O
-'m VBP B-VP O
-sure JJ B-ADJP O
-Alan NNP B-NP B-PER
-is VBZ B-VP O
-the DT B-NP O
-man NN I-NP O
-for IN B-PP O
-the DT B-NP O
-job NN I-NP O
-, , O O
-" " O O
-Hoddle NNP B-NP B-PER
-said VBD B-VP O
-. . O O
-
-" " O O
-There EX B-NP O
-were VBD B-VP O
-three CD B-NP O
-or CC I-NP O
-four CD I-NP O
-people NNS I-NP O
-who WP B-NP O
-could MD B-VP O
-have VB I-VP O
-done VBN I-VP O
-it PRP B-NP O
-but CC O O
-when WRB B-ADVP O
-I PRP B-NP O
-spoke VBD B-VP O
-to TO B-PP O
-Alan NNP B-NP B-PER
-he PRP B-NP O
-was VBD B-VP O
-up IN B-PP O
-for IN B-PP O
-it PRP B-NP O
-and CC O O
-really RB B-VP O
-wanted VBN I-VP O
-it PRP B-NP O
-. . O O
-
-" " O O
-In IN B-PP O
-four CD B-NP O
-days NNS I-NP O
-it PRP B-NP O
-'s VBZ B-VP O
-very RB B-ADJP O
-difficult JJ I-ADJP O
-to TO B-VP O
-come VB I-VP O
-to TO B-PP O
-a DT B-NP O
-100 CD I-NP O
-percent NN I-NP O
-conclusion NN I-NP O
-about IN B-PP O
-something NN B-NP O
-like IN B-PP O
-this DT B-NP O
-... : I-NP O
-
-but CC O O
-he PRP B-NP O
-knows VBZ B-VP O
-how WRB B-ADVP O
-to TO B-VP O
-conduct VB I-VP O
-himself PRP B-NP O
-, , O O
-his PRP$ B-NP O
-team NN I-NP O
-mates NNS I-NP O
-respect NN I-NP O
-him PRP I-NP O
-and CC O O
-he PRP B-NP O
-knows VBZ B-VP O
-about IN B-PP O
-the DT B-NP O
-team NN I-NP O
-situation NN I-NP O
-even RB B-SBAR O
-though IN I-SBAR O
-he PRP B-NP O
-plays VBZ B-VP O
-up RP B-PRT O
-front NN B-NP O
-. . O O
-" " O O
-
-Shearer NNP B-NP B-PER
-'s POS B-NP O
-Euro NNP I-NP B-MISC
-96 CD I-NP I-MISC
-striking JJ I-NP O
-partner NN I-NP O
-Teddy NNP I-NP B-PER
-Sheringham NNP I-NP I-PER
-withdrew VBD B-VP O
-from IN B-PP O
-the DT B-NP O
-squad NN I-NP O
-with IN B-PP O
-an DT B-NP O
-injury NN I-NP O
-on IN B-PP O
-Friday NNP B-NP O
-. . O O
-
-He PRP B-NP O
-will MD B-VP O
-probably RB I-VP O
-be VB I-VP O
-replaced VBN I-VP O
-by IN B-PP O
-Shearer NNP B-NP B-PER
-'s POS B-NP O
-Newcastle NNP I-NP B-ORG
-team NN I-NP O
-mate NN I-NP O
-Les NNP I-NP B-PER
-Ferdinand NNP I-NP I-PER
-. . O O
-
--DOCSTART- -X- -X- O
-
-BASKETBALL NNP B-NP O
-- : O O
-INTERNATIONAL NNP B-NP O
-TOURNAMENT NNP I-NP O
-RESULT NNP I-NP O
-. . O O
-
-BELGRADE VB B-VP B-LOC
-1996-08-30 CD B-NP O
-
-Result NN B-NP O
-in IN B-PP O
-an DT B-NP O
-international JJ I-NP O
-
-basketball NN B-NP O
-tournament NN I-NP O
-on IN B-PP O
-Friday NNP B-NP O
-: : O O
-
-Red NNP B-NP B-ORG
-Star NNP I-NP I-ORG
-( ( O O
-Yugoslavia NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Dinamo NNP B-NP B-ORG
-( ( O O
-Russia NNP B-NP B-LOC
-) ) O O
-92-90 CD B-NP O
-( ( I-NP O
-halftime NN I-NP O
-
-47-47 CD B-ADVP O
-) ) O O
-
--DOCSTART- -X- -X- O
-
-SOCCER NN B-NP O
-- : O O
-ROMANIA NNP B-NP B-LOC
-BEAT NN B-INTJ O
-LITHUANIA NNP B-NP B-LOC
-IN IN B-PP O
-UNDER-21 NNP B-NP O
-MATCH NNP I-NP O
-. . O O
-
-BUCHAREST RB B-NP B-LOC
-1996-08-30 CD I-NP O
-
-Romania NNP B-NP B-LOC
-beat VBD B-VP O
-Lithuania NNP B-NP B-LOC
-2-1 CD I-NP O
-( ( I-NP O
-halftime NN I-NP O
-1-1 CD I-NP O
-) ) O O
-in IN B-PP O
-their PRP$ B-NP O
-European JJ I-NP B-MISC
-under-21 JJ I-NP O
-soccer NN I-NP O
-match NN I-NP O
-on IN B-PP O
-Friday NNP B-NP O
-. . O O
-
-Scorers NNS B-NP O
-: : O O
-
-Romania NNP B-NP B-LOC
-- : O O
-Cosmin NNP B-NP B-PER
-Contra NNP I-NP I-PER
-( ( O O
-31st CD B-NP O
-) ) O O
-, , O O
-Mihai NNP B-NP B-PER
-Tararache NNP I-NP I-PER
-( ( O O
-75th JJ B-NP O
-) ) O O
-
-Lithuania NNP B-NP B-LOC
-- : O O
-Danius NNP B-NP B-PER
-Gleveckas NNP I-NP I-PER
-( ( O O
-13rd CD B-NP O
-) ) O O
-
-Attendance NN B-NP O
-: : O O
-200 CD B-NP O
-
--DOCSTART- -X- -X- O
-
-SOCCER NN B-NP O
-- : O O
-ROTOR NN B-NP B-ORG
-FANS VBZ B-VP O
-LOCKED NNP B-NP O
-OUT NNP I-NP O
-AFTER NNP I-NP O
-VOLGOGRAD NNP I-NP B-LOC
-VIOLENCE NNP I-NP O
-. . O O
-
-MOSCOW RB B-ADVP B-LOC
-1996-08-30 CD B-NP O
-
-Rotor NNP B-NP B-ORG
-Volgograd NNP I-NP I-ORG
-must MD B-VP O
-play VB I-VP O
-their PRP$ B-NP O
-next JJ I-NP O
-home NN I-NP O
-game NN I-NP O
-behind IN B-PP O
-closed JJ B-NP O
-doors NNS I-NP O
-after IN B-SBAR O
-fans NNS B-NP O
-hurled VBD B-VP O
-bottles NNS B-NP O
-and CC I-NP O
-stones NNS I-NP O
-at IN B-PP O
-Dynamo NNP B-NP B-ORG
-Moscow NNP I-NP I-ORG
-players NNS I-NP O
-during IN B-PP O
-a DT B-NP O
-1-0 CD I-NP O
-home NN I-NP O
-defeat VB B-VP O
-on IN B-PP O
-Saturday NNP B-NP O
-that WDT B-NP O
-ended VBD B-VP O
-Rotor NNP B-NP B-ORG
-'s POS B-NP O
-brief JJ I-NP O
-spell NN I-NP O
-as IN B-SBAR O
-league NN B-NP O
-leaders NNS I-NP O
-. . O O
-
-The DT B-NP O
-head NN I-NP O
-of IN B-PP O
-the DT B-NP O
-Russian JJ I-NP B-MISC
-league NN I-NP O
-'s POS B-NP O
-disciplinary JJ I-NP O
-committee NN I-NP O
-, , O O
-Anatoly NNP B-NP B-PER
-Gorokhovsky NNP I-NP I-PER
-, , O O
-said VBD B-VP O
-on IN B-PP O
-Friday NNP B-NP O
-that IN B-SBAR O
-Rotor NNP B-NP B-ORG
-would MD B-VP O
-play VB I-VP O
-Lada NNP B-NP B-ORG
-Togliatti NNP I-NP I-ORG
-to TO B-VP O
-empty JJ I-VP O
-stands VBZ I-VP O
-on IN B-PP O
-September NNP B-NP O
-3 CD I-NP O
-. . O O
-
-The DT B-NP O
-club NN I-NP O
-, , O O
-who WP B-NP O
-put VBD B-VP O
-Manchester NNP B-NP B-ORG
-United NNP I-NP I-ORG
-out IN B-PP O
-of IN B-PP O
-last JJ B-NP O
-year NN I-NP O
-'s POS B-NP O
-UEFA NNP I-NP B-MISC
-Cup NNP I-NP I-MISC
-, , O O
-were VBD B-VP O
-fined VBN I-VP O
-$ $ B-NP O
-1,000 CD I-NP O
-. . O O
-
-Despite IN B-PP O
-the DT B-NP O
-defeat NN I-NP O
-, , O O
-Rotor NN B-NP B-ORG
-are VBP B-VP O
-well RB B-ADJP O
-placed VBN I-ADJP O
-with IN B-PP O
-11 CD B-NP O
-games NNS I-NP O
-to TO B-VP O
-play VB I-VP O
-in IN B-PP O
-the DT B-NP O
-championship NN I-NP O
-. . O O
-
-Lying VBG B-VP O
-three CD B-NP O
-points NNS I-NP O
-behind IN B-PP O
-Alania NNP B-NP B-ORG
-and CC O O
-two CD B-NP O
-behind IN B-PP O
-Dynamo NNP B-NP B-ORG
-Moscow NNP I-NP I-ORG
-, , O O
-the DT B-NP O
-Volgograd NNP I-NP B-LOC
-side NN I-NP O
-have VB B-VP O
-a DT B-NP O
-game NN I-NP O
-in IN B-PP O
-hand NN B-NP O
-over IN B-PP O
-the DT B-NP O
-leaders NNS I-NP O
-and CC O O
-two CD B-NP O
-over IN B-PP O
-the DT B-NP O
-Moscow NNP I-NP B-LOC
-club NN I-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-BOXING VBG B-VP O
-- : O O
-PANAMA NNP B-NP B-LOC
-'S POS B-NP O
-ROBERTO NNP I-NP B-PER
-DURAN NNP I-NP I-PER
-FIGHTS NNP I-NP O
-THE NNP I-NP O
-SANDS NNP I-NP O
-OF IN B-PP O
-TIME NN B-NP O
-. . O O
-
-PANAMA NNP B-NP B-LOC
-CITY NNP I-NP I-LOC
-1996-08-30 CD I-NP O
-
-Panamanian JJ B-NP B-MISC
-boxing NN I-NP O
-legend NN I-NP O
-Roberto NNP I-NP B-PER
-" " O I-PER
-Hands NNS B-NP I-PER
-of IN B-PP I-PER
-Stone NNP B-NP I-PER
-" " O I-PER
-Duran JJ B-NP I-PER
-climbs NNS I-NP O
-into IN B-PP O
-the DT B-NP O
-ring NN I-NP O
-on IN B-PP O
-Saturday NNP B-NP O
-in IN B-PP O
-another DT B-NP O
-age-defying JJ I-NP O
-attempt NN I-NP O
-to TO B-VP O
-sustain VB I-VP O
-his PRP$ B-NP O
-long JJ I-NP O
-career NN I-NP O
-. . O O
-
-Duran NNP B-NP B-PER
-, , O O
-45 CD B-NP O
-, , O O
-takes VBZ B-VP O
-on IN B-PP O
-little-known JJ B-NP O
-Mexican JJ I-NP B-MISC
-Ariel NNP I-NP B-PER
-Cruz NNP I-NP I-PER
-, , O O
-30 CD B-NP O
-, , O O
-in IN B-PP O
-a DT B-NP O
-super JJ I-NP O
-middleweight NN I-NP O
-non-title NN I-NP O
-bout NN I-NP O
-in IN B-PP O
-Panama NNP B-NP B-LOC
-City NNP I-NP I-LOC
-. . O O
-
-The DT B-NP O
-fight NN I-NP O
-, , O O
-Duran NNP B-NP B-PER
-'s POS B-NP O
-first JJ I-NP O
-on IN B-PP O
-home NN B-NP O
-soil NN I-NP O
-for IN B-PP O
-10 CD B-NP O
-years NNS I-NP O
-, , O O
-is VBZ B-VP O
-being VBG I-VP O
-billed VBN I-VP O
-here RB B-ADVP O
-as IN B-SBAR O
-the DT B-NP O
-" " O O
-Return NN B-NP B-MISC
-of IN B-PP I-MISC
-the DT B-NP I-MISC
-Legend NNP I-NP I-MISC
-" " O O
-and CC O O
-Duran NNP B-NP B-PER
-still RB B-ADVP O
-talks NNS B-NP O
-as IN B-SBAR O
-if IN I-SBAR O
-he PRP B-NP O
-was VBD B-VP O
-in IN B-PP O
-his PRP$ B-NP O
-prime JJ I-NP O
-. . O O
-
-" " O O
-I PRP B-NP O
-want VBP B-VP O
-a DT B-NP O
-fifth JJ I-NP O
-title NN I-NP O
-. . O O
-
-This DT B-NP O
-match NN I-NP O
-is VBZ B-VP O
-to TO B-VP O
-prepare VB I-VP O
-me PRP B-NP O
-. . O O
-
-I PRP B-NP O
-feel VB B-VP O
-good JJ B-ADJP O
-. . O O
-
-I PRP B-NP O
-'m VBP B-VP O
-not RB I-VP O
-retiring VBG I-VP O
-, , O O
-" " O O
-Duran JJ B-NP B-PER
-told VBD B-VP O
-Reuters NNP B-NP B-ORG
-. . O O
-
-But CC O O
-those DT B-NP O
-close JJ B-ADVP O
-to TO B-PP O
-the DT B-NP O
-boxer NN I-NP O
-acknowledge VBP B-VP O
-that IN B-SBAR O
-the DT B-NP O
-man NN I-NP O
-who WP B-NP O
-has VBZ B-VP O
-won VBN I-VP O
-championships NNS B-NP O
-in IN B-PP O
-four CD B-NP O
-different JJ I-NP O
-weight NN I-NP O
-classes NNS I-NP O
--- : O O
-lightweight JJ B-ADJP O
-, , O O
-welterweight VBN B-VP O
-, , O O
-junior JJ B-NP O
-middleweight NN I-NP O
-and CC O O
-middleweight NN B-NP O
--- : O O
-is VBZ B-VP O
-drawing VBG I-VP O
-close JJ B-ADJP O
-to TO B-PP O
-the DT B-NP O
-end NN I-NP O
-of IN B-PP O
-his PRP$ B-NP O
-career NN I-NP O
-. . O O
-
-" " O O
-Each DT B-NP O
-time NN I-NP O
-he PRP B-NP O
-fights VBZ B-VP O
-, , O O
-he PRP B-NP O
-'s VBZ B-VP O
-on IN B-PP O
-the DT B-NP O
-last JJ I-NP O
-frontier NN I-NP O
-of IN B-PP O
-his PRP$ B-NP O
-career NN I-NP O
-. . O O
-
-If IN B-SBAR O
-he PRP B-NP O
-loses VBZ B-VP O
-Saturday NNP B-NP O
-, , O O
-it PRP B-NP O
-could MD B-VP O
-devalue VB I-VP O
-his PRP$ B-NP O
-position NN I-NP O
-as IN B-PP O
-one CD B-NP O
-of IN B-PP O
-the DT B-NP O
-world NN I-NP O
-'s POS B-NP O
-great JJ I-NP O
-boxers NNS I-NP O
-, , O O
-" " O O
-Panamanian JJ B-NP B-MISC
-Boxing NNP I-NP B-ORG
-Association NNP I-NP I-ORG
-President NNP I-NP O
-Ramon NNP I-NP B-PER
-Manzanares NNP I-NP I-PER
-said VBD B-VP O
-. . O O
-
-Duran NNP B-NP B-PER
-, , O O
-whose WP$ B-NP O
-97-12 CD I-NP O
-record NN I-NP O
-spans NNS I-NP O
-three CD B-NP O
-decades NNS I-NP O
-, , O O
-hopes VBZ B-VP O
-a DT B-NP O
-win VBP B-VP O
-in IN B-PP O
-the DT B-NP O
-10-round JJ I-NP O
-bout NN I-NP O
-will MD B-VP O
-earn VB I-VP O
-him PRP B-NP O
-a DT B-NP O
-rematch NN I-NP O
-against IN B-PP O
-Puerto NNP B-NP B-LOC
-Rico NNP I-NP I-LOC
-'s POS B-NP O
-Hector NNP I-NP B-PER
-" " O I-PER
-Macho NNP B-NP I-PER
-" " O I-PER
-Camacho NN B-NP I-PER
-. . O O
-
-Camacho NNP B-NP B-PER
-took VBD B-VP O
-a DT B-NP O
-controversial JJ I-NP O
-points NNS I-NP O
-decision NN I-NP O
-against IN B-PP O
-the DT B-NP O
-Panamanian JJ I-NP B-MISC
-in IN B-PP O
-Atlantic NNP B-NP B-LOC
-City NNP I-NP I-LOC
-in IN B-PP O
-June NNP B-NP O
-in IN B-PP O
-a DT B-NP O
-title NN I-NP O
-fight NN I-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-SQUASH NNP B-NP O
-- : O O
-HONG NNP B-NP B-MISC
-KONG NNP I-NP I-MISC
-OPEN NNP O I-MISC
-QUARTER-FINAL NNP B-NP O
-RESULTS NNS I-NP O
-. . O O
-
-HONG IN B-PP B-LOC
-KONG VBG B-VP I-LOC
-1996-08-30 CD B-NP O
-
-Quarter-final JJ B-NP O
-results NNS I-NP O
-in IN B-PP O
-the DT B-NP O
-Hong NNP I-NP B-MISC
-Kong NNP I-NP I-MISC
-Open NNP I-NP I-MISC
-on IN B-PP O
-Friday NNP B-NP O
-( ( O O
-prefix JJ B-NP O
-number NN I-NP O
-denotes VBZ B-VP O
-seeding NN B-NP O
-) ) O O
-: : O O
-1 CD B-NP O
-- : I-NP O
-Jansher NNP I-NP B-PER
-Khan NNP I-NP I-PER
-( ( O O
-Pakistan NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Mark NNP B-NP B-PER
-Cairns NNS I-NP I-PER
-( ( O O
-England NNP B-NP B-LOC
-) ) O O
-15-10 JJ B-NP O
-15-6 CD I-NP O
-15-7 CD B-ADVP O
-
-Anthony NNP B-NP B-PER
-Hill NNP I-NP I-PER
-( ( O O
-Australia NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Dan NNP B-NP B-PER
-Jenson NNP I-NP I-PER
-( ( O O
-Australia NNP B-NP B-LOC
-) ) O O
-15-9 CD B-NP O
-15-8 CD I-NP O
-15-17 NN B-ADVP O
-17-15 CD B-NP O
-
-4 CD B-NP O
-- : I-NP O
-Peter NNP I-NP B-PER
-Nicol NNP I-NP I-PER
-( ( O O
-Scotland NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-7 CD B-NP O
-- : I-NP O
-Chris NNP I-NP B-PER
-Walker NNP I-NP I-PER
-( ( O O
-England NNP B-NP B-LOC
-) ) O O
-15-8 CD B-NP O
-15-13 CD I-NP O
-13-15 CD I-NP O
-15-9 JJ I-NP O
-
-2 CD B-NP O
-- : I-NP O
-Rodney NNP I-NP B-PER
-Eyles NNPS I-NP I-PER
-( ( O O
-Australia NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Derek NNP B-NP B-PER
-Ryan NNP I-NP I-PER
-( ( O O
-Ireland NNP B-NP B-LOC
-) ) O O
-15-6 CD B-NP O
-15-9 JJ I-NP O
-11-15 CD I-NP O
-15-10 NN B-ADVP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-SOCCER NN B-NP O
-- : O O
-RESULTS NNS B-NP O
-OF IN B-PP O
-SOUTH NNP B-NP B-MISC
-KOREAN JJ I-NP I-MISC
-PRO-SOCCER NN I-NP O
-GAMES VBZ B-VP O
-. . O O
-
-SEOUL VB B-VP B-LOC
-1996-08-30 CD B-NP O
-
-Results NNS B-NP O
-of IN B-PP O
-South JJ B-NP B-MISC
-Korean JJ I-NP I-MISC
-pro-soccer NN I-NP O
-
-games NNS B-NP O
-played VBN B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-. . O O
-
-Pohang VBG B-VP B-ORG
-3 CD B-NP O
-Ulsan JJ I-NP B-ORG
-2 CD I-NP O
-( ( I-NP O
-halftime NN I-NP O
-1-0 CD I-NP O
-) ) O O
-
-Puchon NN B-NP B-ORG
-2 CD I-NP O
-Chonbuk NNP I-NP B-ORG
-1 CD I-NP O
-( ( I-NP O
-halftime NN I-NP O
-1-1 JJ B-ADVP O
-) ) O O
-
-Standings NNS B-NP O
-after IN B-SBAR O
-games NNS B-NP O
-played VBN B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-( ( O O
-tabulate NN B-NP O
-under IN B-PP O
-- : O O
-
-won VBD B-VP O
-, , B-VP O
-drawn VBN I-VP O
-, , O O
-lost VBD B-VP O
-, , O O
-goals NNS B-NP O
-for IN B-PP O
-, , O O
-goals NNS B-NP O
-against IN B-PP O
-, , O O
-points VBZ B-VP O
-) ) O O
-: : O O
-
-W NNP B-NP O
-D NNP I-NP O
-L NNP I-NP O
-G NNP I-NP O
-/ SYM O O
-F NN B-NP O
-G NNP I-NP O
-/ SYM O O
-A DT B-NP O
-P NN I-NP O
-
-Puchon NN B-NP B-ORG
-3 CD I-NP O
-1 CD I-NP O
-0 CD I-NP O
-6 CD I-NP O
-1 CD I-NP O
-10 CD I-NP O
-
-Chonan NN B-NP B-ORG
-3 CD I-NP O
-0 CD I-NP O
-1 CD I-NP O
-13 CD I-NP O
-10 CD I-NP O
-9 CD I-NP O
-
-Pohang VBG B-VP B-ORG
-2 CD B-NP O
-1 CD I-NP O
-1 CD I-NP O
-11 CD I-NP O
-10 CD I-NP O
-7 CD I-NP O
-
-Suwan JJ B-NP B-ORG
-1 CD I-NP O
-3 CD I-NP O
-0 CD I-NP O
-7 CD I-NP O
-3 CD I-NP O
-6 CD I-NP O
-
-Ulsan NN B-NP B-ORG
-1 CD I-NP O
-0 CD I-NP O
-2 CD I-NP O
-8 CD I-NP O
-9 CD I-NP O
-3 CD I-NP O
-
-Anyang VBG B-VP B-ORG
-0 CD B-NP O
-3 CD I-NP O
-1 CD I-NP O
-6 CD I-NP O
-9 CD I-NP O
-3 CD I-NP O
-
-Chonnam NNP B-NP B-ORG
-0 CD I-NP O
-2 CD I-NP O
-1 CD I-NP O
-4 CD I-NP O
-5 CD I-NP O
-2 CD I-NP O
-
-Pusan NN B-NP B-ORG
-0 CD I-NP O
-2 CD I-NP O
-1 CD I-NP O
-3 CD I-NP O
-7 CD I-NP O
-2 CD I-NP O
-
-Chonbuk NNP B-NP B-ORG
-0 CD I-NP O
-0 CD I-NP O
-3 CD I-NP O
-3 CD I-NP O
-7 CD I-NP O
-0 CD I-NP O
-
--DOCSTART- -X- -X- O
-
-BASEBALL NNP B-NP O
-- : O O
-RESULTS NNS B-NP O
-OF IN B-PP O
-S. NNP B-NP B-MISC
-KOREAN JJ I-NP I-MISC
-PROFESSIONAL JJ I-NP O
-GAMES NNS I-NP O
-. . O O
-
-SEOUL VB B-VP B-LOC
-1996-08-30 CD B-NP O
-
-Results NNS B-NP O
-of IN B-PP O
-South JJ B-NP B-MISC
-Korean JJ I-NP I-MISC
-
-professional JJ B-NP O
-baseball NN I-NP O
-games NNS I-NP O
-played VBN B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-. . O O
-
-LG VBG B-VP B-ORG
-2 CD B-NP O
-OB IN B-PP B-ORG
-0 CD B-NP O
-
-Lotte NNP B-NP B-ORG
-6 CD I-NP O
-Hyundai NNP I-NP B-ORG
-2 CD I-NP O
-
-Hyundai NNP B-NP B-ORG
-6 CD I-NP O
-Lotte NNP I-NP B-ORG
-5 CD I-NP O
-
-Haitai NNP B-NP B-ORG
-2 CD I-NP O
-Samsung NNP I-NP B-ORG
-0 CD I-NP O
-
-Samsung NNP B-NP B-ORG
-10 CD I-NP O
-Haitai NNP I-NP B-ORG
-3 CD I-NP O
-
-Hanwha NNP B-NP B-ORG
-6 CD I-NP O
-Ssangbangwool NNPS I-NP B-ORG
-5 CD I-NP O
-
-Note VB B-VP O
-- : O O
-Lotte NN B-NP B-ORG
-and CC O O
-Hyundai NNP B-NP B-ORG
-, , O O
-Haitai NNP B-NP B-ORG
-and CC I-NP O
-Samsung NNP I-NP B-ORG
-played VBD B-VP O
-two CD B-NP O
-games NNS I-NP O
-. . O O
-
-Standings NNS B-NP O
-after IN B-SBAR O
-games NNS B-NP O
-played VBN B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-( ( O O
-tabulate NN B-NP O
-under IN B-PP O
-
-won VBD B-VP O
-, , B-VP O
-drawn VBN I-VP O
-, , O O
-lost VBD B-VP O
-, , O O
-winning VBG B-VP O
-percentage NN B-NP O
-, , O O
-games NNS B-NP O
-behind IN B-PP O
-first JJ B-NP O
-place NN I-NP O
-) ) O O
-
-W NNP B-NP O
-D NNP I-NP O
-L NNP I-NP O
-PCT NNP I-NP O
-GB NNP I-NP O
-
-Haitai NNP B-NP B-ORG
-64 CD I-NP O
-2 CD I-NP O
-43 CD I-NP O
-.596 CD I-NP O
-- : I-NP O
-
-Ssangbangwool NN B-NP B-ORG
-59 CD I-NP O
-2 CD I-NP O
-49 CD I-NP O
-.545 CD I-NP O
-5 CD I-NP O
-1/2 CD I-NP O
-
-Hanwha NNP B-NP B-ORG
-58 CD I-NP O
-1 CD I-NP O
-49 CD I-NP O
-.542 CD I-NP O
-6 CD I-NP O
-
-Hyundai NNP B-NP B-ORG
-57 CD I-NP O
-5 CD I-NP O
-49 CD I-NP O
-.536 CD I-NP O
-6 CD I-NP O
-1/2 CD I-NP O
-
-Samsung NNP B-NP B-ORG
-49 CD I-NP O
-5 CD I-NP O
-56 CD I-NP O
-.468 CD I-NP O
-14 CD I-NP O
-
-Lotte NNP B-NP B-ORG
-46 CD I-NP O
-6 CD I-NP O
-54 CD I-NP O
-.462 CD I-NP O
-14 CD I-NP O
-1/2 CD I-NP O
-
-LG VBG B-VP B-ORG
-46 CD B-NP O
-5 CD I-NP O
-59 CD I-NP O
-.441 CD I-NP O
-17 CD I-NP O
-
-OB NNP B-NP B-ORG
-42 CD I-NP O
-6 CD I-NP O
-62 CD I-NP O
-.409 CD I-NP O
-20 CD I-NP O
-1/2 CD I-NP O
-
--DOCSTART- -X- -X- O
-
-TENNIS NNS B-NP O
-- : O O
-FRIDAY NNP B-NP O
-'S POS B-NP O
-RESULTS NNS I-NP O
-FROM NNP I-NP O
-THE NNP I-NP O
-U.S. NNP I-NP B-MISC
-OPEN NNP I-NP I-MISC
-. . O O
-
-NEW NNP B-NP B-LOC
-YORK NNP I-NP I-LOC
-1996-08-30 CD I-NP O
-
-Results NNS B-NP O
-from IN B-PP O
-the DT B-NP O
-U.S. NNP I-NP B-MISC
-Open NNP I-NP I-MISC
-Tennis NNP I-NP I-MISC
-Championships NNP I-NP I-MISC
-at IN B-PP O
-the DT B-NP O
-National NNP I-NP B-LOC
-Tennis NNP I-NP I-LOC
-Centre NNP I-NP I-LOC
-on IN B-PP O
-Friday NNP B-NP O
-( ( O O
-prefix JJ B-NP O
-number NN I-NP O
-denotes VBZ B-VP O
-seeding NN B-NP O
-) ) O O
-: : O O
-
-Women NNS B-NP O
-'s POS B-NP O
-singles NNS I-NP O
-, , O O
-third JJ B-NP O
-round NN I-NP O
-
-Sandrine NNP B-NP B-PER
-Testud NNP I-NP I-PER
-( ( O O
-France NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Ines NNP B-NP B-PER
-Gorrochategui NNP I-NP I-PER
-( ( O O
-Argentina NNP B-NP B-LOC
-) ) O O
-4-6 RB B-VP O
-6-2 CD B-NP O
-6-1 JJ B-ADVP O
-
-Men NN B-NP O
-'s POS B-NP O
-singles NNS I-NP O
-, , O O
-second JJ B-NP O
-round NN I-NP O
-
-4 CD B-NP O
-- : I-NP O
-Goran NNP I-NP B-PER
-Ivanisevic NNP I-NP I-PER
-( ( O O
-Croatia NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Scott NNP B-NP B-PER
-Draper NNP I-NP I-PER
-( ( O O
-Australia NNP B-NP B-LOC
-) ) O O
-6-7 JJ B-NP O
-( ( O O
-1-7 CD B-NP O
-) ) O O
-6-3 CD B-NP O
-6-4 CD I-NP O
-6-4 CD I-NP O
-
-Tim NNP B-NP B-PER
-Henman NNP I-NP I-PER
-( ( O O
-Britain NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Doug NNP B-NP B-PER
-Flach NNP I-NP I-PER
-( ( O O
-U.S. NNP B-NP B-LOC
-) ) O O
-6-3 CD B-NP O
-6-4 CD I-NP O
-6-2 CD I-NP O
-
-Mark NNP B-NP B-PER
-Philippoussis NNP I-NP I-PER
-( ( O O
-Australia NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Andrei NNP B-NP B-PER
-Olhovskiy NNP I-NP I-PER
-( ( O O
-Russia NNP B-NP B-LOC
-) ) O O
-6 CD B-NP O
-- : I-NP O
-3 CD I-NP O
-6-4 CD I-NP O
-6-2 CD I-NP O
-
-Sjeng VBG B-VP B-PER
-Schalken NNP O I-PER
-( ( O O
-Netherlands NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-David NNP B-NP B-PER
-Rikl NNP I-NP I-PER
-( ( O O
-Czech NNP B-NP B-LOC
-Republic NNP I-NP I-LOC
-) ) O O
-6 CD B-NP O
-- : I-NP O
-2 CD I-NP O
-6-4 CD I-NP O
-6-4 CD I-NP O
-
-Guy NNP B-NP B-PER
-Forget VB B-VP I-PER
-( ( O O
-France NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-17 CD B-NP O
-- : I-NP O
-Felix NNP I-NP B-PER
-Mantilla NNP I-NP I-PER
-( ( O O
-Spain NNP B-NP B-LOC
-) ) O O
-6-4 CD B-NP O
-7-5 CD I-NP O
-6-3 CD I-NP O
-
-Men NN B-NP O
-'s POS B-NP O
-singles NNS I-NP O
-, , O O
-second JJ B-NP O
-round NN I-NP O
-
-Alexander NNP B-NP B-PER
-Volkov NNP I-NP I-PER
-( ( O O
-Russia NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Mikael NNP B-NP B-PER
-Tillstrom NNP I-NP I-PER
-( ( O O
-Sweden NNP B-NP B-LOC
-) ) O O
-1-6 CD B-NP O
-6- JJ I-NP O
-4 CD I-NP O
-6-1 CD I-NP O
-4-6 JJ I-NP O
-7-6 CD B-ADVP O
-( ( O O
-10-8 CD B-NP O
-) ) O O
-
-Jonas NNP B-NP B-PER
-Bjorkman NNP I-NP I-PER
-( ( O O
-Sweden NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-David NNP B-NP B-PER
-Nainkin NNP I-NP I-PER
-( ( O O
-South NNP B-NP B-LOC
-Africa NNP I-NP I-LOC
-) ) O O
-) ) O O
-6-4 CD B-NP O
-6-1 JJ B-ADVP O
-6-1 CD B-NP O
-
-Women NNS B-NP O
-'s POS B-NP O
-singles NNS I-NP O
-, , O O
-third JJ B-NP O
-round NN I-NP O
-
-8 CD B-NP O
-- : I-NP O
-Lindsay NNP I-NP B-PER
-Davenport NNP I-NP I-PER
-( ( O O
-U.S. NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Anne-Gaelle JJ B-NP B-PER
-Sidot JJ B-ADJP I-PER
-( ( O O
-France NNP B-NP B-LOC
-) ) O O
-6-0 CD B-NP O
-6-3 CD I-NP O
-
-4 CD B-NP O
-- : I-NP O
-Conchita NNP I-NP B-PER
-Martinez NNP I-NP I-PER
-( ( O O
-Spain NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Helena NNP B-NP B-PER
-Sukova NNP I-NP I-PER
-( ( O O
-Czech NNP B-NP B-LOC
-Republic NNP I-NP I-LOC
-) ) O O
-6-4 CD B-NP O
-6-3 CD I-NP O
-
-Amanda NNP B-NP B-PER
-Coetzer NNP I-NP I-PER
-( ( O O
-South NNP B-NP B-LOC
-Africa NNP I-NP I-LOC
-) ) O O
-beat VB B-VP O
-Irina NNP B-NP B-PER
-Spirlea NNP I-NP I-PER
-( ( O O
-Romania NNP B-NP B-LOC
-) ) O O
-7-6 CD B-ADVP O
-( ( O O
-7-5 CD B-NP O
-) ) O O
-7-5 CD B-NP O
-
-Add VB B-VP O
-Men NN B-NP O
-'s POS B-NP O
-singles NNS I-NP O
-, , O O
-second JJ B-NP O
-round NN I-NP O
-16 CD I-NP O
-- : I-NP O
-Cedric NNP I-NP B-PER
-Pioline NNP I-NP I-PER
-( ( O O
-France NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Roberto NNP B-NP B-PER
-Carretero NNP I-NP I-PER
-( ( O O
-Spain NNP B-NP B-LOC
-) ) O O
-4-6 RB B-VP O
-6 CD B-NP O
-- : I-NP O
-2 CD I-NP O
-6-2 CD I-NP O
-6-1 CD I-NP O
-Alex NNP B-NP B-PER
-Corretja NNP I-NP I-PER
-( ( O O
-Spain NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Filippo NNP B-NP B-PER
-Veglio NNP I-NP I-PER
-( ( O O
-Switzerland NNP B-NP B-LOC
-) ) O O
-6-7 JJ B-NP O
-( ( O O
-4- CD B-NP O
-7 CD I-NP O
-) ) O O
-6-4 CD B-NP O
-6-4 CD I-NP O
-6-0 CD I-NP O
-
-Add VB B-VP O
-Women NNP B-NP O
-'s POS B-NP O
-singles NN I-NP O
-, , O O
-third JJ B-NP O
-round NN I-NP O
-Linda NNP I-NP B-PER
-Wild NNP I-NP I-PER
-( ( O O
-U.S. NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Barbara NNP B-NP B-PER
-Rittner NNP I-NP I-PER
-( ( O O
-Germany NNP B-NP B-LOC
-) ) O O
-6-4 CD B-NP O
-4-6 JJ I-NP O
-7-5 CD I-NP O
-Asa NNP I-NP B-PER
-Carlsson NNP I-NP I-PER
-( ( O O
-Sweden NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-15 CD B-NP O
-- : I-NP O
-Gabriela NNP I-NP B-PER
-Sabatini NNP I-NP I-PER
-( ( O O
-Argentina NNP B-NP B-LOC
-) ) O O
-7-5 CD B-NP O
-3-6 CD I-NP O
-6-2 CD I-NP O
-
-Add VB B-VP O
-Men NN B-NP O
-'s POS B-NP O
-singles NNS I-NP O
-, , O O
-second JJ B-NP O
-round NN I-NP O
-1 CD I-NP O
-- : I-NP O
-Pete NNP I-NP B-PER
-Sampras NNPS I-NP I-PER
-( ( O O
-U.S. NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Jiri NNP B-NP B-PER
-Novak NNP I-NP I-PER
-( ( O O
-Czech NNP B-NP B-LOC
-Republic NNP I-NP I-LOC
-) ) O O
-6-3 CD B-NP O
-1-6 CD I-NP O
-6-3 CD I-NP O
-4-6 JJ I-NP O
-6-4 CD I-NP O
-Paul NNP I-NP B-PER
-Haarhuis NNP I-NP I-PER
-( ( I-NP O
-Netherlands NNP I-NP B-LOC
-) ) O O
-beat VB B-VP O
-Michael NNP B-NP B-PER
-Tebbutt NNP I-NP I-PER
-( ( O O
-Australia NNP B-NP B-LOC
-) ) O O
-1- JJ B-NP O
-6 CD I-NP O
-6-2 CD I-NP O
-6-2 CD I-NP O
-6-3 CD I-NP O
-
-Add VB B-VP O
-Women NNP B-NP O
-'s POS B-NP O
-singles NN I-NP O
-, , O O
-third JJ B-NP O
-round NN I-NP O
-Lisa NNP B-NP B-PER
-Raymond NNP I-NP I-PER
-( ( O O
-U.S. NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Kimberly NNP B-NP B-PER
-Po NNP I-NP I-PER
-( ( O O
-U.S. NNP B-NP B-LOC
-) ) O O
-6-3 CD B-NP O
-6-2 CD I-NP O
-
-: : O O
-
-Add VB B-VP O
-men NNS B-NP O
-'s POS B-NP O
-singles NNS I-NP O
-, , O O
-second JJ B-NP O
-round NN I-NP O
-
-Hendrik NNP B-NP B-PER
-Dreekmann NNP I-NP I-PER
-( ( O O
-Germany NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Thomas NNP B-NP B-PER
-Johansson NNP I-NP I-PER
-( ( O O
-Sweden NNP B-NP B-LOC
-) ) O O
-
-7-6 CD B-ADVP O
-( ( O O
-7-1 CD B-NP O
-) ) O O
-6-2 CD B-NP O
-4-6 JJ I-NP O
-6-1 CD I-NP O
-
-Andrei NNP B-NP B-PER
-Medvedev NNP I-NP I-PER
-( ( O O
-Ukraine NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Jan NNP B-NP B-PER
-Kroslak NNP I-NP I-PER
-( ( O O
-Slovakia NNP B-NP B-LOC
-) ) O O
-6-4 CD B-NP O
-6-3 CD I-NP O
-
-6-2 CD B-NP O
-
-Petr IN B-PP B-PER
-Korda NNP B-NP I-PER
-( ( O O
-Czech NNP B-NP B-LOC
-Republic NNP I-NP I-LOC
-) ) O O
-bat NN B-NP O
-Bohdan NNP I-NP B-PER
-Ulihrach NNP I-NP I-PER
-( ( O O
-Czech JJ B-NP B-LOC
-
-Republic NNP B-NP B-LOC
-) ) O O
-6-0 CD B-NP O
-7-6 CD B-ADVP O
-( ( O O
-7-5 CD B-NP O
-) ) O O
-6-2 CD B-NP O
-
-Add VB B-VP O
-women NNS B-NP O
-'s POS B-NP O
-singles NNS I-NP O
-, , O O
-third JJ B-NP O
-round NN I-NP O
-
-2 CD B-NP O
-- : I-NP O
-Monica NNP I-NP B-PER
-Seles NNPS I-NP I-PER
-( ( O O
-U.S. NNP B-NP B-LOC
-) ) O O
-beat VB B-VP O
-Dally NNP B-NP B-PER
-Randriantefy NNP I-NP I-PER
-( ( O O
-Madagascar NNP B-NP B-LOC
-) ) O O
-
-6-0 CD B-NP O
-6-2 CD I-NP O
+CRICKET O
+- O
+LEICESTERSHIRE B-ORG
+TAKE O
+OVER O
+AT O
+TOP O
+AFTER O
+INNINGS O
+VICTORY O
+. O
+
+LONDON B-LOC
+1996-08-30 O
+
+West B-MISC
+Indian I-MISC
+all-rounder O
+Phil B-PER
+Simmons I-PER
+took O
+four O
+for O
+38 O
+on O
+Friday O
+as O
+Leicestershire B-ORG
+beat O
+Somerset B-ORG
+by O
+an O
+innings O
+and O
+39 O
+runs O
+in O
+two O
+days O
+to O
+take O
+over O
+at O
+the O
+head O
+of O
+the O
+county O
+championship O
+. O
+
+Their O
+stay O
+on O
+top O
+, O
+though O
+, O
+may O
+be O
+short-lived O
+as O
+title O
+rivals O
+Essex B-ORG
+, O
+Derbyshire B-ORG
+and O
+Surrey B-ORG
+all O
+closed O
+in O
+on O
+victory O
+while O
+Kent B-ORG
+made O
+up O
+for O
+lost O
+time O
+in O
+their O
+rain-affected O
+match O
+against O
+Nottinghamshire B-ORG
+. O
+
+After O
+bowling O
+Somerset B-ORG
+out O
+for O
+83 O
+on O
+the O
+opening O
+morning O
+at O
+Grace B-LOC
+Road I-LOC
+, O
+Leicestershire B-ORG
+extended O
+their O
+first O
+innings O
+by O
+94 O
+runs O
+before O
+being O
+bowled O
+out O
+for O
+296 O
+with O
+England B-LOC
+discard O
+Andy B-PER
+Caddick I-PER
+taking O
+three O
+for O
+83 O
+. O
+
+Trailing O
+by O
+213 O
+, O
+Somerset B-ORG
+got O
+a O
+solid O
+start O
+to O
+their O
+second O
+innings O
+before O
+Simmons B-PER
+stepped O
+in O
+to O
+bundle O
+them O
+out O
+for O
+174 O
+. O
+
+Essex B-ORG
+, O
+however O
+, O
+look O
+certain O
+to O
+regain O
+their O
+top O
+spot O
+after O
+Nasser B-PER
+Hussain I-PER
+and O
+Peter B-PER
+Such I-PER
+gave O
+them O
+a O
+firm O
+grip O
+on O
+their O
+match O
+against O
+Yorkshire B-ORG
+at O
+Headingley B-LOC
+. O
+
+Hussain B-PER
+, O
+considered O
+surplus O
+to O
+England B-LOC
+'s O
+one-day O
+requirements O
+, O
+struck O
+158 O
+, O
+his O
+first O
+championship O
+century O
+of O
+the O
+season O
+, O
+as O
+Essex B-ORG
+reached O
+372 O
+and O
+took O
+a O
+first O
+innings O
+lead O
+of O
+82 O
+. O
+
+By O
+the O
+close O
+Yorkshire B-ORG
+had O
+turned O
+that O
+into O
+a O
+37-run O
+advantage O
+but O
+off-spinner O
+Such B-PER
+had O
+scuttled O
+their O
+hopes O
+, O
+taking O
+four O
+for O
+24 O
+in O
+48 O
+balls O
+and O
+leaving O
+them O
+hanging O
+on O
+119 O
+for O
+five O
+and O
+praying O
+for O
+rain O
+. O
+
+At O
+the O
+Oval B-LOC
+, O
+Surrey B-ORG
+captain O
+Chris B-PER
+Lewis I-PER
+, O
+another O
+man O
+dumped O
+by O
+England B-LOC
+, O
+continued O
+to O
+silence O
+his O
+critics O
+as O
+he O
+followed O
+his O
+four O
+for O
+45 O
+on O
+Thursday O
+with O
+80 O
+not O
+out O
+on O
+Friday O
+in O
+the O
+match O
+against O
+Warwickshire B-ORG
+. O
+
+He O
+was O
+well O
+backed O
+by O
+England B-LOC
+hopeful O
+Mark B-PER
+Butcher I-PER
+who O
+made O
+70 O
+as O
+Surrey B-ORG
+closed O
+on O
+429 O
+for O
+seven O
+, O
+a O
+lead O
+of O
+234 O
+. O
+
+Derbyshire B-ORG
+kept O
+up O
+the O
+hunt O
+for O
+their O
+first O
+championship O
+title O
+since O
+1936 O
+by O
+reducing O
+Worcestershire B-ORG
+to O
+133 O
+for O
+five O
+in O
+their O
+second O
+innings O
+, O
+still O
+100 O
+runs O
+away O
+from O
+avoiding O
+an O
+innings O
+defeat O
+. O
+
+Australian B-MISC
+Tom B-PER
+Moody I-PER
+took O
+six O
+for O
+82 O
+but O
+Chris B-PER
+Adams I-PER
+, O
+123 O
+, O
+and O
+Tim B-PER
+O'Gorman I-PER
+, O
+109 O
+, O
+took O
+Derbyshire B-ORG
+to O
+471 O
+and O
+a O
+first O
+innings O
+lead O
+of O
+233 O
+. O
+
+After O
+the O
+frustration O
+of O
+seeing O
+the O
+opening O
+day O
+of O
+their O
+match O
+badly O
+affected O
+by O
+the O
+weather O
+, O
+Kent B-ORG
+stepped O
+up O
+a O
+gear O
+to O
+dismiss O
+Nottinghamshire B-ORG
+for O
+214 O
+. O
+
+They O
+were O
+held O
+up O
+by O
+a O
+gritty O
+84 O
+from O
+Paul B-PER
+Johnson I-PER
+but O
+ex-England B-MISC
+fast O
+bowler O
+Martin B-PER
+McCague I-PER
+took O
+four O
+for O
+55 O
+. O
+
+By O
+stumps O
+Kent B-ORG
+had O
+reached O
+108 O
+for O
+three O
+. O
+
+CRICKET O
+- O
+ENGLISH B-MISC
+COUNTY I-MISC
+CHAMPIONSHIP I-MISC
+SCORES O
+. O
+
+LONDON B-LOC
+1996-08-30 O
+
+Result O
+and O
+close O
+of O
+play O
+scores O
+in O
+English B-MISC
+county O
+championship O
+matches O
+on O
+Friday O
+: O
+
+Leicester B-LOC
+: O
+Leicestershire B-ORG
+beat O
+Somerset B-ORG
+by O
+an O
+innings O
+and O
+39 O
+runs O
+. O
+
+Somerset B-ORG
+83 O
+and O
+174 O
+( O
+P. B-PER
+Simmons I-PER
+4-38 O
+) O
+, O
+Leicestershire B-ORG
+296 O
+. O
+
+Leicestershire B-ORG
+22 O
+points O
+, O
+Somerset B-ORG
+4 O
+. O
+
+Chester-le-Street B-LOC
+: O
+Glamorgan B-ORG
+259 O
+and O
+207 O
+( O
+A. B-PER
+Dale I-PER
+69 O
+, O
+H. B-PER
+Morris I-PER
+69 O
+; O
+D. B-PER
+Blenkiron I-PER
+4-43 O
+) O
+, O
+Durham B-ORG
+114 O
+( O
+S. B-PER
+Watkin I-PER
+4-28 O
+) O
+and O
+81-3 O
+. O
+
+Tunbridge B-LOC
+Wells I-LOC
+: O
+Nottinghamshire B-ORG
+214 O
+( O
+P. B-PER
+Johnson I-PER
+84 O
+; O
+M. B-PER
+McCague I-PER
+4-55 O
+) O
+, O
+Kent B-ORG
+108-3 O
+. O
+
+London B-LOC
+( O
+The B-LOC
+Oval I-LOC
+) O
+: O
+Warwickshire B-ORG
+195 O
+, O
+Surrey B-ORG
+429-7 O
+( O
+C. B-PER
+Lewis I-PER
+80 O
+not O
+out O
+, O
+M. B-PER
+Butcher I-PER
+70 O
+, O
+G. B-PER
+Kersey I-PER
+63 O
+, O
+J. B-PER
+Ratcliffe I-PER
+63 O
+, O
+D. B-PER
+Bicknell I-PER
+55 O
+) O
+. O
+
+Hove B-LOC
+: O
+Sussex B-ORG
+363 O
+( O
+W. B-PER
+Athey I-PER
+111 O
+, O
+V. B-PER
+Drakes I-PER
+52 O
+; O
+I. B-PER
+Austin I-PER
+4-37 O
+) O
+, O
+Lancashire B-ORG
+197-8 O
+( O
+W. B-PER
+Hegg I-PER
+54 O
+) O
+
+Portsmouth B-LOC
+: O
+Middlesex B-ORG
+199 O
+and O
+426 O
+( O
+J. B-PER
+Pooley I-PER
+111 O
+, O
+M. B-PER
+Ramprakash I-PER
+108 O
+, O
+M. B-PER
+Gatting I-PER
+83 O
+) O
+, O
+Hampshire B-ORG
+232 O
+and O
+109-5 O
+. O
+
+Chesterfield B-LOC
+: O
+Worcestershire B-ORG
+238 O
+and O
+133-5 O
+, O
+Derbyshire B-ORG
+471 O
+( O
+J. B-PER
+Adams I-PER
+123 O
+, O
+T.O'Gorman B-PER
+109 O
+not O
+out O
+, O
+K. B-PER
+Barnett I-PER
+87 O
+; O
+T. B-PER
+Moody I-PER
+6-82 O
+) O
+
+Bristol B-LOC
+: O
+Gloucestershire B-ORG
+183 O
+and O
+185-6 O
+( O
+J. B-PER
+Russell I-PER
+56 O
+not O
+out O
+) O
+, O
+Northamptonshire B-ORG
+190 O
+( O
+K. B-PER
+Curran I-PER
+52 O
+; O
+A. B-PER
+Smith I-PER
+5-68 O
+) O
+. O
+
+CRICKET O
+- O
+1997 O
+ASHES B-MISC
+INTINERARY O
+. O
+
+LONDON B-LOC
+1996-08-30 O
+
+Australia B-LOC
+will O
+defend O
+the O
+Ashes B-MISC
+in O
+
+a O
+six-test O
+series O
+against O
+England B-LOC
+during O
+a O
+four-month O
+tour O
+
+starting O
+on O
+May O
+13 O
+next O
+year O
+, O
+the O
+Test B-ORG
+and I-ORG
+County I-ORG
+Cricket I-ORG
+Board I-ORG
+
+said O
+on O
+Friday O
+. O
+
+Australia B-LOC
+will O
+also O
+play O
+three O
+one-day O
+internationals O
+and O
+
+four O
+one-day O
+warm-up O
+matches O
+at O
+the O
+start O
+of O
+the O
+tour O
+. O
+
+The O
+tourists O
+will O
+play O
+nine O
+first-class O
+matches O
+against O
+
+English B-MISC
+county O
+sides O
+and O
+another O
+against O
+British B-ORG
+Universities I-ORG
+, O
+
+as O
+well O
+as O
+one-day O
+matches O
+against O
+the O
+Minor B-ORG
+Counties I-ORG
+and O
+
+Scotland B-LOC
+. O
+
+Tour O
+itinerary O
+: O
+
+May O
+
+May O
+13 O
+Arrive O
+in O
+London B-LOC
+
+May O
+14 O
+Practice O
+at O
+Lord B-LOC
+'s I-LOC
+
+May O
+15 O
+v O
+Duke B-ORG
+of I-ORG
+Norfolk I-ORG
+'s I-ORG
+XI I-ORG
+( O
+at O
+Arundel B-LOC
+) O
+
+May O
+17 O
+v O
+Northampton B-ORG
+
+May O
+18 O
+v O
+Worcestershire B-ORG
+
+May O
+20 O
+v O
+Durham B-ORG
+
+May O
+22 O
+First O
+one-day O
+international O
+( O
+at O
+Headingley B-LOC
+, O
+
+Leeds B-ORG
+) O
+
+May O
+24 O
+Second O
+one-day O
+international O
+( O
+at O
+The B-LOC
+Oval I-LOC
+, O
+
+London B-LOC
+) O
+
+May O
+25 O
+Third O
+one-day O
+international O
+( O
+at O
+Lord B-LOC
+'s I-LOC
+, O
+London B-LOC
+) O
+
+May O
+27-29 O
+v O
+Gloucestershire B-ORG
+or O
+Sussex B-ORG
+or O
+Surrey B-ORG
+( O
+three O
+
+days O
+) O
+
+May O
+31 O
+- O
+June O
+2 O
+v O
+Derbyshire B-ORG
+( O
+three O
+days O
+) O
+
+June O
+
+June O
+5-9 O
+First O
+test O
+match O
+( O
+at O
+Edgbaston B-LOC
+, O
+Birmingham B-LOC
+) O
+
+June O
+11-13 O
+v O
+a O
+first O
+class O
+county O
+( O
+to O
+be O
+confirmed O
+) O
+
+June O
+14-16 O
+v O
+Leicestershire B-ORG
+( O
+three O
+days O
+) O
+
+June O
+19-23 O
+Second O
+test O
+( O
+at O
+Lord B-LOC
+'s I-LOC
+) O
+
+June O
+25-27 O
+v O
+British B-ORG
+Universities I-ORG
+( O
+at O
+Oxford B-LOC
+, O
+three O
+days O
+) O
+
+June O
+28-30 O
+v O
+Hampshire B-ORG
+( O
+three O
+days O
+) O
+
+July O
+
+July O
+3-7 O
+Third O
+test O
+( O
+at O
+Old B-LOC
+Trafford I-LOC
+, O
+Manchester B-LOC
+) O
+
+July O
+9 O
+v O
+Minor B-ORG
+Counties I-ORG
+XI I-ORG
+
+July O
+12 O
+v O
+Scotland B-LOC
+
+July O
+16-18 O
+v O
+Glamorgan B-ORG
+( O
+three O
+days O
+) O
+
+July O
+19-21 O
+v O
+Middlesex B-ORG
+( O
+three O
+days O
+) O
+
+July O
+24-28 O
+Fourth O
+test O
+( O
+at O
+Headingley B-LOC
+) O
+
+August O
+
+August O
+1-4 O
+v O
+Somerset B-ORG
+( O
+four O
+days O
+) O
+
+August O
+7-11 O
+Fifth O
+test O
+( O
+at O
+Trent B-LOC
+Bridge I-LOC
+, O
+Nottingham B-LOC
+) O
+
+August O
+16-18 O
+v O
+Kent B-ORG
+( O
+three O
+days O
+) O
+
+August O
+21-25 O
+Sixth O
+test O
+( O
+at O
+The B-LOC
+Oval I-LOC
+, O
+London B-LOC
+) O
+. O
+
+SOCCER O
+- O
+SHEARER B-PER
+NAMED O
+AS O
+ENGLAND B-LOC
+CAPTAIN O
+. O
+
+LONDON B-LOC
+1996-08-30 O
+
+The O
+world O
+'s O
+costliest O
+footballer O
+Alan B-PER
+Shearer I-PER
+was O
+named O
+as O
+the O
+new O
+England B-LOC
+captain O
+on O
+Friday O
+. O
+
+The O
+26-year-old O
+, O
+who O
+joined O
+Newcastle B-ORG
+for O
+15 O
+million O
+pounds O
+sterling O
+( O
+$ O
+23.4 O
+million O
+) O
+, O
+takes O
+over O
+from O
+Tony B-PER
+Adams I-PER
+, O
+who O
+led O
+the O
+side O
+during O
+the O
+European B-MISC
+championship O
+in O
+June O
+, O
+and O
+former O
+captain O
+David B-PER
+Platt I-PER
+. O
+
+Adams B-PER
+and O
+Platt B-PER
+are O
+both O
+injured O
+and O
+will O
+miss O
+England B-LOC
+'s O
+opening O
+World B-MISC
+Cup I-MISC
+qualifier O
+against O
+Moldova B-LOC
+on O
+Sunday O
+. O
+
+Shearer B-PER
+takes O
+the O
+captaincy O
+on O
+a O
+trial O
+basis O
+, O
+but O
+new O
+coach O
+Glenn B-PER
+Hoddle I-PER
+said O
+he O
+saw O
+no O
+reason O
+why O
+the O
+former O
+Blackburn B-ORG
+and O
+Southampton B-ORG
+skipper O
+should O
+not O
+make O
+the O
+post O
+his O
+own O
+. O
+
+" O
+I O
+'m O
+sure O
+there O
+wo O
+n't O
+be O
+a O
+problem O
+, O
+I O
+'m O
+sure O
+Alan B-PER
+is O
+the O
+man O
+for O
+the O
+job O
+, O
+" O
+Hoddle B-PER
+said O
+. O
+
+" O
+There O
+were O
+three O
+or O
+four O
+people O
+who O
+could O
+have O
+done O
+it O
+but O
+when O
+I O
+spoke O
+to O
+Alan B-PER
+he O
+was O
+up O
+for O
+it O
+and O
+really O
+wanted O
+it O
+. O
+
+" O
+In O
+four O
+days O
+it O
+'s O
+very O
+difficult O
+to O
+come O
+to O
+a O
+100 O
+percent O
+conclusion O
+about O
+something O
+like O
+this O
+... O
+
+but O
+he O
+knows O
+how O
+to O
+conduct O
+himself O
+, O
+his O
+team O
+mates O
+respect O
+him O
+and O
+he O
+knows O
+about O
+the O
+team O
+situation O
+even O
+though O
+he O
+plays O
+up O
+front O
+. O
+" O
+
+Shearer B-PER
+'s O
+Euro B-MISC
+96 I-MISC
+striking O
+partner O
+Teddy B-PER
+Sheringham I-PER
+withdrew O
+from O
+the O
+squad O
+with O
+an O
+injury O
+on O
+Friday O
+. O
+
+He O
+will O
+probably O
+be O
+replaced O
+by O
+Shearer B-PER
+'s O
+Newcastle B-ORG
+team O
+mate O
+Les B-PER
+Ferdinand I-PER
+. O
+
+BASKETBALL O
+- O
+INTERNATIONAL O
+TOURNAMENT O
+RESULT O
+. O
+
+BELGRADE B-LOC
+1996-08-30 O
+
+Result O
+in O
+an O
+international O
+
+basketball O
+tournament O
+on O
+Friday O
+: O
+
+Red B-ORG
+Star I-ORG
+( O
+Yugoslavia B-LOC
+) O
+beat O
+Dinamo B-ORG
+( O
+Russia B-LOC
+) O
+92-90 O
+( O
+halftime O
+
+47-47 O
+) O
+
+SOCCER O
+- O
+ROMANIA B-LOC
+BEAT O
+LITHUANIA B-LOC
+IN O
+UNDER-21 O
+MATCH O
+. O
+
+BUCHAREST B-LOC
+1996-08-30 O
+
+Romania B-LOC
+beat O
+Lithuania B-LOC
+2-1 O
+( O
+halftime O
+1-1 O
+) O
+in O
+their O
+European B-MISC
+under-21 O
+soccer O
+match O
+on O
+Friday O
+. O
+
+Scorers O
+: O
+
+Romania B-LOC
+- O
+Cosmin B-PER
+Contra I-PER
+( O
+31st O
+) O
+, O
+Mihai B-PER
+Tararache I-PER
+( O
+75th O
+) O
+
+Lithuania B-LOC
+- O
+Danius B-PER
+Gleveckas I-PER
+( O
+13rd O
+) O
+
+Attendance O
+: O
+200 O
+
+SOCCER O
+- O
+ROTOR B-ORG
+FANS O
+LOCKED O
+OUT O
+AFTER O
+VOLGOGRAD B-LOC
+VIOLENCE O
+. O
+
+MOSCOW B-LOC
+1996-08-30 O
+
+Rotor B-ORG
+Volgograd I-ORG
+must O
+play O
+their O
+next O
+home O
+game O
+behind O
+closed O
+doors O
+after O
+fans O
+hurled O
+bottles O
+and O
+stones O
+at O
+Dynamo B-ORG
+Moscow I-ORG
+players O
+during O
+a O
+1-0 O
+home O
+defeat O
+on O
+Saturday O
+that O
+ended O
+Rotor B-ORG
+'s O
+brief O
+spell O
+as O
+league O
+leaders O
+. O
+
+The O
+head O
+of O
+the O
+Russian B-MISC
+league O
+'s O
+disciplinary O
+committee O
+, O
+Anatoly B-PER
+Gorokhovsky I-PER
+, O
+said O
+on O
+Friday O
+that O
+Rotor B-ORG
+would O
+play O
+Lada B-ORG
+Togliatti I-ORG
+to O
+empty O
+stands O
+on O
+September O
+3 O
+. O
+
+The O
+club O
+, O
+who O
+put O
+Manchester B-ORG
+United I-ORG
+out O
+of O
+last O
+year O
+'s O
+UEFA B-MISC
+Cup I-MISC
+, O
+were O
+fined O
+$ O
+1,000 O
+. O
+
+Despite O
+the O
+defeat O
+, O
+Rotor B-ORG
+are O
+well O
+placed O
+with O
+11 O
+games O
+to O
+play O
+in O
+the O
+championship O
+. O
+
+Lying O
+three O
+points O
+behind O
+Alania B-ORG
+and O
+two O
+behind O
+Dynamo B-ORG
+Moscow I-ORG
+, O
+the O
+Volgograd B-LOC
+side O
+have O
+a O
+game O
+in O
+hand O
+over O
+the O
+leaders O
+and O
+two O
+over O
+the O
+Moscow B-LOC
+club O
+. O
+
+BOXING O
+- O
+PANAMA B-LOC
+'S O
+ROBERTO B-PER
+DURAN I-PER
+FIGHTS O
+THE O
+SANDS O
+OF O
+TIME O
+. O
+
+PANAMA B-LOC
+CITY I-LOC
+1996-08-30 O
+
+Panamanian B-MISC
+boxing O
+legend O
+Roberto B-PER
+" I-PER
+Hands I-PER
+of I-PER
+Stone I-PER
+" I-PER
+Duran I-PER
+climbs O
+into O
+the O
+ring O
+on O
+Saturday O
+in O
+another O
+age-defying O
+attempt O
+to O
+sustain O
+his O
+long O
+career O
+. O
+
+Duran B-PER
+, O
+45 O
+, O
+takes O
+on O
+little-known O
+Mexican B-MISC
+Ariel B-PER
+Cruz I-PER
+, O
+30 O
+, O
+in O
+a O
+super O
+middleweight O
+non-title O
+bout O
+in O
+Panama B-LOC
+City I-LOC
+. O
+
+The O
+fight O
+, O
+Duran B-PER
+'s O
+first O
+on O
+home O
+soil O
+for O
+10 O
+years O
+, O
+is O
+being O
+billed O
+here O
+as O
+the O
+" O
+Return B-MISC
+of I-MISC
+the I-MISC
+Legend I-MISC
+" O
+and O
+Duran B-PER
+still O
+talks O
+as O
+if O
+he O
+was O
+in O
+his O
+prime O
+. O
+
+" O
+I O
+want O
+a O
+fifth O
+title O
+. O
+
+This O
+match O
+is O
+to O
+prepare O
+me O
+. O
+
+I O
+feel O
+good O
+. O
+
+I O
+'m O
+not O
+retiring O
+, O
+" O
+Duran B-PER
+told O
+Reuters B-ORG
+. O
+
+But O
+those O
+close O
+to O
+the O
+boxer O
+acknowledge O
+that O
+the O
+man O
+who O
+has O
+won O
+championships O
+in O
+four O
+different O
+weight O
+classes O
+-- O
+lightweight O
+, O
+welterweight O
+, O
+junior O
+middleweight O
+and O
+middleweight O
+-- O
+is O
+drawing O
+close O
+to O
+the O
+end O
+of O
+his O
+career O
+. O
+
+" O
+Each O
+time O
+he O
+fights O
+, O
+he O
+'s O
+on O
+the O
+last O
+frontier O
+of O
+his O
+career O
+. O
+
+If O
+he O
+loses O
+Saturday O
+, O
+it O
+could O
+devalue O
+his O
+position O
+as O
+one O
+of O
+the O
+world O
+'s O
+great O
+boxers O
+, O
+" O
+Panamanian B-MISC
+Boxing B-ORG
+Association I-ORG
+President O
+Ramon B-PER
+Manzanares I-PER
+said O
+. O
+
+Duran B-PER
+, O
+whose O
+97-12 O
+record O
+spans O
+three O
+decades O
+, O
+hopes O
+a O
+win O
+in O
+the O
+10-round O
+bout O
+will O
+earn O
+him O
+a O
+rematch O
+against O
+Puerto B-LOC
+Rico I-LOC
+'s O
+Hector B-PER
+" I-PER
+Macho I-PER
+" I-PER
+Camacho I-PER
+. O
+
+Camacho B-PER
+took O
+a O
+controversial O
+points O
+decision O
+against O
+the O
+Panamanian B-MISC
+in O
+Atlantic B-LOC
+City I-LOC
+in O
+June O
+in O
+a O
+title O
+fight O
+. O
+
+SQUASH O
+- O
+HONG B-MISC
+KONG I-MISC
+OPEN I-MISC
+QUARTER-FINAL O
+RESULTS O
+. O
+
+HONG B-LOC
+KONG I-LOC
+1996-08-30 O
+
+Quarter-final O
+results O
+in O
+the O
+Hong B-MISC
+Kong I-MISC
+Open I-MISC
+on O
+Friday O
+( O
+prefix O
+number O
+denotes O
+seeding O
+) O
+: O
+1 O
+- O
+Jansher B-PER
+Khan I-PER
+( O
+Pakistan B-LOC
+) O
+beat O
+Mark B-PER
+Cairns I-PER
+( O
+England B-LOC
+) O
+15-10 O
+15-6 O
+15-7 O
+
+Anthony B-PER
+Hill I-PER
+( O
+Australia B-LOC
+) O
+beat O
+Dan B-PER
+Jenson I-PER
+( O
+Australia B-LOC
+) O
+15-9 O
+15-8 O
+15-17 O
+17-15 O
+
+4 O
+- O
+Peter B-PER
+Nicol I-PER
+( O
+Scotland B-LOC
+) O
+beat O
+7 O
+- O
+Chris B-PER
+Walker I-PER
+( O
+England B-LOC
+) O
+15-8 O
+15-13 O
+13-15 O
+15-9 O
+
+2 O
+- O
+Rodney B-PER
+Eyles I-PER
+( O
+Australia B-LOC
+) O
+beat O
+Derek B-PER
+Ryan I-PER
+( O
+Ireland B-LOC
+) O
+15-6 O
+15-9 O
+11-15 O
+15-10 O
+. O
+
+SOCCER O
+- O
+RESULTS O
+OF O
+SOUTH B-MISC
+KOREAN I-MISC
+PRO-SOCCER O
+GAMES O
+. O
+
+SEOUL B-LOC
+1996-08-30 O
+
+Results O
+of O
+South B-MISC
+Korean I-MISC
+pro-soccer O
+
+games O
+played O
+on O
+Thursday O
+. O
+
+Pohang B-ORG
+3 O
+Ulsan B-ORG
+2 O
+( O
+halftime O
+1-0 O
+) O
+
+Puchon B-ORG
+2 O
+Chonbuk B-ORG
+1 O
+( O
+halftime O
+1-1 O
+) O
+
+Standings O
+after O
+games O
+played O
+on O
+Thursday O
+( O
+tabulate O
+under O
+- O
+
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+W O
+D O
+L O
+G O
+/ O
+F O
+G O
+/ O
+A O
+P O
+
+Puchon B-ORG
+3 O
+1 O
+0 O
+6 O
+1 O
+10 O
+
+Chonan B-ORG
+3 O
+0 O
+1 O
+13 O
+10 O
+9 O
+
+Pohang B-ORG
+2 O
+1 O
+1 O
+11 O
+10 O
+7 O
+
+Suwan B-ORG
+1 O
+3 O
+0 O
+7 O
+3 O
+6 O
+
+Ulsan B-ORG
+1 O
+0 O
+2 O
+8 O
+9 O
+3 O
+
+Anyang B-ORG
+0 O
+3 O
+1 O
+6 O
+9 O
+3 O
+
+Chonnam B-ORG
+0 O
+2 O
+1 O
+4 O
+5 O
+2 O
+
+Pusan B-ORG
+0 O
+2 O
+1 O
+3 O
+7 O
+2 O
+
+Chonbuk B-ORG
+0 O
+0 O
+3 O
+3 O
+7 O
+0 O
+
+BASEBALL O
+- O
+RESULTS O
+OF O
+S. B-MISC
+KOREAN I-MISC
+PROFESSIONAL O
+GAMES O
+. O
+
+SEOUL B-LOC
+1996-08-30 O
+
+Results O
+of O
+South B-MISC
+Korean I-MISC
+
+professional O
+baseball O
+games O
+played O
+on O
+Thursday O
+. O
+
+LG B-ORG
+2 O
+OB B-ORG
+0 O
+
+Lotte B-ORG
+6 O
+Hyundai B-ORG
+2 O
+
+Hyundai B-ORG
+6 O
+Lotte B-ORG
+5 O
+
+Haitai B-ORG
+2 O
+Samsung B-ORG
+0 O
+
+Samsung B-ORG
+10 O
+Haitai B-ORG
+3 O
+
+Hanwha B-ORG
+6 O
+Ssangbangwool B-ORG
+5 O
+
+Note O
+- O
+Lotte B-ORG
+and O
+Hyundai B-ORG
+, O
+Haitai B-ORG
+and O
+Samsung B-ORG
+played O
+two O
+games O
+. O
+
+Standings O
+after O
+games O
+played O
+on O
+Thursday O
+( O
+tabulate O
+under O
+
+won O
+, O
+drawn O
+, O
+lost O
+, O
+winning O
+percentage O
+, O
+games O
+behind O
+first O
+place O
+) O
+
+W O
+D O
+L O
+PCT O
+GB O
+
+Haitai B-ORG
+64 O
+2 O
+43 O
+.596 O
+- O
+
+Ssangbangwool B-ORG
+59 O
+2 O
+49 O
+.545 O
+5 O
+1/2 O
+
+Hanwha B-ORG
+58 O
+1 O
+49 O
+.542 O
+6 O
+
+Hyundai B-ORG
+57 O
+5 O
+49 O
+.536 O
+6 O
+1/2 O
+
+Samsung B-ORG
+49 O
+5 O
+56 O
+.468 O
+14 O
+
+Lotte B-ORG
+46 O
+6 O
+54 O
+.462 O
+14 O
+1/2 O
+
+LG B-ORG
+46 O
+5 O
+59 O
+.441 O
+17 O
+
+OB B-ORG
+42 O
+6 O
+62 O
+.409 O
+20 O
+1/2 O
+
+TENNIS O
+- O
+FRIDAY O
+'S O
+RESULTS O
+FROM O
+THE O
+U.S. B-MISC
+OPEN I-MISC
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-30 O
+
+Results O
+from O
+the O
+U.S. B-MISC
+Open I-MISC
+Tennis I-MISC
+Championships I-MISC
+at O
+the O
+National B-LOC
+Tennis I-LOC
+Centre I-LOC
+on O
+Friday O
+( O
+prefix O
+number O
+denotes O
+seeding O
+) O
+: O
+
+Women O
+'s O
+singles O
+, O
+third O
+round O
+
+Sandrine B-PER
+Testud I-PER
+( O
+France B-LOC
+) O
+beat O
+Ines B-PER
+Gorrochategui I-PER
+( O
+Argentina B-LOC
+) O
+4-6 O
+6-2 O
+6-1 O
+
+Men O
+'s O
+singles O
+, O
+second O
+round O
+
+4 O
+- O
+Goran B-PER
+Ivanisevic I-PER
+( O
+Croatia B-LOC
+) O
+beat O
+Scott B-PER
+Draper I-PER
+( O
+Australia B-LOC
+) O
+6-7 O
+( O
+1-7 O
+) O
+6-3 O
+6-4 O
+6-4 O
+
+Tim B-PER
+Henman I-PER
+( O
+Britain B-LOC
+) O
+beat O
+Doug B-PER
+Flach I-PER
+( O
+U.S. B-LOC
+) O
+6-3 O
+6-4 O
+6-2 O
+
+Mark B-PER
+Philippoussis I-PER
+( O
+Australia B-LOC
+) O
+beat O
+Andrei B-PER
+Olhovskiy I-PER
+( O
+Russia B-LOC
+) O
+6 O
+- O
+3 O
+6-4 O
+6-2 O
+
+Sjeng B-PER
+Schalken I-PER
+( O
+Netherlands B-LOC
+) O
+beat O
+David B-PER
+Rikl I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+6 O
+- O
+2 O
+6-4 O
+6-4 O
+
+Guy B-PER
+Forget I-PER
+( O
+France B-LOC
+) O
+beat O
+17 O
+- O
+Felix B-PER
+Mantilla I-PER
+( O
+Spain B-LOC
+) O
+6-4 O
+7-5 O
+6-3 O
+
+Men O
+'s O
+singles O
+, O
+second O
+round O
+
+Alexander B-PER
+Volkov I-PER
+( O
+Russia B-LOC
+) O
+beat O
+Mikael B-PER
+Tillstrom I-PER
+( O
+Sweden B-LOC
+) O
+1-6 O
+6- O
+4 O
+6-1 O
+4-6 O
+7-6 O
+( O
+10-8 O
+) O
+
+Jonas B-PER
+Bjorkman I-PER
+( O
+Sweden B-LOC
+) O
+beat O
+David B-PER
+Nainkin I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+) O
+6-4 O
+6-1 O
+6-1 O
+
+Women O
+'s O
+singles O
+, O
+third O
+round O
+
+8 O
+- O
+Lindsay B-PER
+Davenport I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Anne-Gaelle B-PER
+Sidot I-PER
+( O
+France B-LOC
+) O
+6-0 O
+6-3 O
+
+4 O
+- O
+Conchita B-PER
+Martinez I-PER
+( O
+Spain B-LOC
+) O
+beat O
+Helena B-PER
+Sukova I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+6-4 O
+6-3 O
+
+Amanda B-PER
+Coetzer I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+beat O
+Irina B-PER
+Spirlea I-PER
+( O
+Romania B-LOC
+) O
+7-6 O
+( O
+7-5 O
+) O
+7-5 O
+
+Add O
+Men O
+'s O
+singles O
+, O
+second O
+round O
+16 O
+- O
+Cedric B-PER
+Pioline I-PER
+( O
+France B-LOC
+) O
+beat O
+Roberto B-PER
+Carretero I-PER
+( O
+Spain B-LOC
+) O
+4-6 O
+6 O
+- O
+2 O
+6-2 O
+6-1 O
+Alex B-PER
+Corretja I-PER
+( O
+Spain B-LOC
+) O
+beat O
+Filippo B-PER
+Veglio I-PER
+( O
+Switzerland B-LOC
+) O
+6-7 O
+( O
+4- O
+7 O
+) O
+6-4 O
+6-4 O
+6-0 O
+
+Add O
+Women O
+'s O
+singles O
+, O
+third O
+round O
+Linda B-PER
+Wild I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Barbara B-PER
+Rittner I-PER
+( O
+Germany B-LOC
+) O
+6-4 O
+4-6 O
+7-5 O
+Asa B-PER
+Carlsson I-PER
+( O
+Sweden B-LOC
+) O
+beat O
+15 O
+- O
+Gabriela B-PER
+Sabatini I-PER
+( O
+Argentina B-LOC
+) O
+7-5 O
+3-6 O
+6-2 O
+
+Add O
+Men O
+'s O
+singles O
+, O
+second O
+round O
+1 O
+- O
+Pete B-PER
+Sampras I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Jiri B-PER
+Novak I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+6-3 O
+1-6 O
+6-3 O
+4-6 O
+6-4 O
+Paul B-PER
+Haarhuis I-PER
+( O
+Netherlands B-LOC
+) O
+beat O
+Michael B-PER
+Tebbutt I-PER
+( O
+Australia B-LOC
+) O
+1- O
+6 O
+6-2 O
+6-2 O
+6-3 O
+
+Add O
+Women O
+'s O
+singles O
+, O
+third O
+round O
+Lisa B-PER
+Raymond I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Kimberly B-PER
+Po I-PER
+( O
+U.S. B-LOC
+) O
+6-3 O
+6-2 O
+
+: O
+
+Add O
+men O
+'s O
+singles O
+, O
+second O
+round O
+
+Hendrik B-PER
+Dreekmann I-PER
+( O
+Germany B-LOC
+) O
+beat O
+Thomas B-PER
+Johansson I-PER
+( O
+Sweden B-LOC
+) O
+
+7-6 O
+( O
+7-1 O
+) O
+6-2 O
+4-6 O
+6-1 O
+
+Andrei B-PER
+Medvedev I-PER
+( O
+Ukraine B-LOC
+) O
+beat O
+Jan B-PER
+Kroslak I-PER
+( O
+Slovakia B-LOC
+) O
+6-4 O
+6-3 O
+
+6-2 O
+
+Petr B-PER
+Korda I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+bat O
+Bohdan B-PER
+Ulihrach I-PER
+( O
+Czech B-LOC
+
+Republic B-LOC
+) O
+6-0 O
+7-6 O
+( O
+7-5 O
+) O
+6-2 O
+
+Add O
+women O
+'s O
+singles O
+, O
+third O
+round O
+
+2 O
+- O
+Monica B-PER
+Seles I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Dally B-PER
+Randriantefy I-PER
+( O
+Madagascar B-LOC
+) O
+
+6-0 O
+6-2 O
+
+: O
+
+Add O
+men O
+'s O
+singles O
+, O
+second O
+round O
+12 O
+- O
+Todd B-PER
+Martin I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Andrea B-PER
+Gaudenzi I-PER
+( O
+Italy B-LOC
+) O
+6-3 O
+6-2 O
+6-2 O
+Stefan B-PER
+Edberg I-PER
+( O
+Sweden B-LOC
+) O
+beat O
+Bernd B-PER
+Karbacher I-PER
+( O
+Germany B-LOC
+) O
+3-6 O
+6-3 O
+6-3 O
+1-0 O
+retired O
+( O
+leg O
+injury O
+) O
+
+BASEBALL O
+- O
+MAJOR B-MISC
+LEAGUE I-MISC
+STANDINGS O
+AFTER O
+THURSDAY O
+'S O
+GAMES O
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-30 O
+
+Major B-MISC
+League I-MISC
+Baseball I-MISC
+
+standings O
+after O
+games O
+played O
+on O
+Thursday O
+( O
+tabulate O
+under O
+won O
+, O
+
+lost O
+, O
+winning O
+percentage O
+and O
+games O
+behind O
+) O
+: O
+
+AMERICAN B-MISC
+LEAGUE I-MISC
+
+EASTERN B-MISC
+DIVISION I-MISC
+
+W O
+L O
+PCT O
+GB O
+
+NEW B-ORG
+YORK I-ORG
+74 O
+59 O
+.556 O
+- O
+
+BALTIMORE B-ORG
+70 O
+63 O
+.526 O
+4 O
+
+BOSTON B-ORG
+69 O
+65 O
+.515 O
+5 O
+1/2 O
+
+TORONTO B-ORG
+63 O
+71 O
+.470 O
+11 O
+1/2 O
+
+DETROIT B-ORG
+48 O
+86 O
+.358 O
+26 O
+1/2 O
+
+CENTRAL B-MISC
+DIVISION I-MISC
+
+CLEVELAND B-ORG
+80 O
+53 O
+.602 O
+- O
+
+CHICAGO B-ORG
+71 O
+64 O
+.526 O
+10 O
+
+MINNESOTA B-ORG
+67 O
+67 O
+.500 O
+13 O
+1/2 O
+
+MILWAUKEE B-ORG
+64 O
+71 O
+.474 O
+17 O
+
+KANSAS B-ORG
+CITY I-ORG
+61 O
+74 O
+.452 O
+20 O
+
+WESTERN B-MISC
+DIVISION I-MISC
+
+TEXAS B-ORG
+75 O
+58 O
+.564 O
+- O
+
+SEATTLE B-ORG
+70 O
+63 O
+.526 O
+5 O
+
+OAKLAND B-ORG
+64 O
+72 O
+.471 O
+12 O
+1/2 O
+
+CALIFORNIA B-ORG
+62 O
+72 O
+.463 O
+13 O
+1/2 O
+
+FRIDAY O
+, O
+AUGUST O
+30 O
+SCHEDULE O
+
+KANSAS B-ORG
+CITY I-ORG
+AT O
+DETROIT B-LOC
+
+CHICAGO B-ORG
+AT O
+TORONTO B-LOC
+
+MINNESOTA B-ORG
+AT O
+MILWAUKEE B-LOC
+
+CLEVELAND B-ORG
+AT O
+TEXAS B-LOC
+
+NEW B-ORG
+YORK I-ORG
+AT O
+CALIFORNIA B-LOC
+
+BOSTON B-ORG
+AT O
+OAKLAND B-LOC
+
+BALTIMORE B-ORG
+AT O
+SEATTLE B-LOC
+
+NATIONAL B-MISC
+LEAGUE I-MISC
+
+EASTERN B-MISC
+DIVISION I-MISC
+
+W O
+L O
+PCT O
+GB O
+
+ATLANTA B-ORG
+83 O
+49 O
+.629 O
+- O
+
+MONTREAL B-ORG
+71 O
+61 O
+.538 O
+12 O
+
+FLORIDA B-ORG
+64 O
+70 O
+.478 O
+20 O
+
+NEW B-ORG
+YORK I-ORG
+59 O
+75 O
+.440 O
+25 O
+
+PHILADELPHIA B-ORG
+54 O
+80 O
+.403 O
+30 O
+
+CENTRAL B-MISC
+DIVISION I-MISC
+
+HOUSTON B-ORG
+72 O
+63 O
+.533 O
+- O
+
+ST B-ORG
+LOUIS I-ORG
+69 O
+65 O
+.515 O
+2 O
+1/2 O
+
+CINCINNATI B-ORG
+66 O
+67 O
+.496 O
+5 O
+
+CHICAGO B-ORG
+65 O
+66 O
+.496 O
+5 O
+
+PITTSBURGH B-ORG
+56 O
+77 O
+.421 O
+15 O
+
+WESTERN B-MISC
+DIVISION I-MISC
+
+SAN B-ORG
+DIEGO I-ORG
+75 O
+60 O
+.556 O
+- O
+
+LOS B-ORG
+ANGELES I-ORG
+72 O
+61 O
+.541 O
+2 O
+
+COLORADO B-ORG
+70 O
+65 O
+.519 O
+5 O
+
+SAN B-ORG
+FRANCISCO I-ORG
+57 O
+74 O
+.435 O
+16 O
+
+FRIDAY O
+, O
+AUGUST O
+30 O
+SCHEDULE O
+
+ATLANTA B-ORG
+AT O
+CHICAGO B-LOC
+
+FLORIDA B-ORG
+AT O
+CINCINNATI B-LOC
+
+SAN B-ORG
+DIEGO I-ORG
+AT O
+MONTREAL B-LOC
+
+LOS B-ORG
+ANGELES I-ORG
+AT O
+PHILADELPHIA B-LOC
+
+HOUSTON B-ORG
+AT O
+PITTSBURGH B-LOC
+
+SAN B-ORG
+FRANCISCO I-ORG
+AT O
+NEW B-LOC
+YORK I-LOC
+
+COLORADO B-ORG
+AT O
+ST B-LOC
+LOUIS I-LOC
+
+BASEBALL O
+- O
+MAJOR B-MISC
+LEAGUE I-MISC
+RESULTS O
+THURSDAY O
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-30 O
+
+Results O
+of O
+Major B-MISC
+League I-MISC
+
+Baseball O
+games O
+played O
+on O
+Thursday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+
+American B-MISC
+League I-MISC
+
+DETROIT B-ORG
+4 O
+Kansas B-ORG
+City I-ORG
+1 O
+
+Minnesota B-ORG
+6 O
+MILWAUKEE B-ORG
+1 O
+
+CALIFORNIA B-ORG
+14 O
+New B-ORG
+York I-ORG
+3 O
+
+SEATTLE B-ORG
+9 O
+Baltimore B-ORG
+6 O
+
+National B-MISC
+League I-MISC
+
+San B-ORG
+Diego I-ORG
+3 O
+NEW B-ORG
+YORK I-ORG
+2 O
+
+Chicago B-ORG
+4 O
+HOUSTON B-ORG
+3 O
+
+Cincinnati B-ORG
+18 O
+COLORADO B-ORG
+7 O
+
+Atlanta B-ORG
+5 O
+PITTSBURGH B-ORG
+1 O
+
+Los B-ORG
+Angeles I-ORG
+2 O
+MONTREAL B-ORG
+1 O
+
+Florida B-ORG
+10 O
+ST B-ORG
+LOUIS I-ORG
+9 O
+
+TENNIS O
+- O
+TARANGO B-PER
+, O
+O'BRIEN B-PER
+SPRING O
+TWIN O
+UPSETS O
+UNDER O
+THE O
+LIGHTS O
+. O
+
+Larry B-PER
+Fine I-PER
+
+NEW B-LOC
+YORK I-LOC
+1996-08-30 O
+
+Andre B-PER
+Agassi I-PER
+escaped O
+disaster O
+on O
+Thursday O
+but O
+Wimbledon B-MISC
+finalist O
+MaliVai B-PER
+Washington I-PER
+and O
+Marcelo B-PER
+Rios I-PER
+were O
+not O
+so O
+fortunate O
+on O
+a O
+night O
+of O
+upsets O
+at O
+the O
+U.S. B-MISC
+Open I-MISC
+. O
+
+The O
+11th-seeded O
+Washington B-PER
+fell O
+short O
+of O
+reprising O
+his O
+Wimbledon B-MISC
+miracle O
+comeback O
+as O
+he O
+lost O
+to O
+red-hot O
+wildcard O
+Alex B-PER
+O'Brien I-PER
+6-3 O
+6-4 O
+5-7 O
+3-6 O
+6-3 O
+in O
+a O
+two O
+hour O
+51 O
+minute O
+struggle O
+on O
+the O
+Stadium O
+court O
+. O
+
+Next O
+door O
+on O
+the O
+grandstand O
+, O
+10th O
+seed O
+Rios B-PER
+lost O
+to O
+another O
+player O
+with O
+a O
+Wimbledon B-MISC
+connection O
+-- O
+bad O
+boy O
+Jeff B-PER
+Tarango I-PER
+. O
+
+The O
+temperamental O
+left-hander O
+defeated O
+the O
+Chilean B-MISC
+6-4 O
+4-6 O
+7-6 O
+6-2 O
+. O
+
+The O
+day O
+programme O
+went O
+smoothly O
+although O
+sixth-seeded O
+former O
+champion O
+Agassi B-PER
+had O
+to O
+wriggle O
+out O
+of O
+a O
+dangerous O
+3-6 O
+0-4 O
+hole O
+, O
+winning O
+18 O
+of O
+the O
+last O
+19 O
+games O
+against O
+India B-LOC
+'s O
+Leander B-PER
+Paes I-PER
+. O
+
+But O
+the O
+night O
+belonged O
+to O
+the O
+upstarts O
+. O
+
+Washington B-PER
+, O
+who O
+climbed O
+back O
+from O
+a O
+1-5 O
+deficit O
+, O
+two O
+sets O
+down O
+in O
+the O
+third O
+set O
+against O
+Todd B-PER
+Martin I-PER
+in O
+the O
+Wimbledon B-MISC
+semifinals O
+, O
+looked O
+poised O
+for O
+another O
+sensational O
+comeback O
+. O
+
+O'Brien B-PER
+, O
+a O
+winner O
+two O
+weeks O
+ago O
+in O
+New B-LOC
+Haven I-LOC
+for O
+his O
+first O
+pro O
+title O
+, O
+served O
+for O
+the O
+match O
+at O
+5-4 O
+in O
+the O
+third O
+set O
+before O
+Washington B-PER
+came O
+charging O
+back O
+. O
+
+" O
+I O
+just O
+kept O
+saying O
+to O
+myself O
+, O
+' O
+keep O
+giving O
+yourself O
+the O
+best O
+chance O
+to O
+win O
+, O
+keep O
+battling O
+, O
+maybe O
+something O
+will O
+happen O
+, O
+' O
+" O
+said O
+the O
+26-year-old O
+O'Brien B-PER
+, O
+ranked O
+65th O
+. O
+
+" O
+I O
+kept O
+my O
+composure O
+and O
+I O
+was O
+proud O
+of O
+myself O
+for O
+that O
+-- O
+usually O
+I O
+would O
+have O
+folded O
+up O
+the O
+tent O
+and O
+gone O
+home O
+. O
+" O
+
+The O
+hard-serving O
+O'Brien B-PER
+, O
+a O
+former O
+U.S. B-LOC
+collegiate O
+national O
+champion O
+, O
+fired O
+up O
+17 O
+aces O
+to O
+ultimately O
+subdue O
+the O
+never-say-die O
+Washington B-PER
+. O
+
+The O
+fifth O
+set O
+stayed O
+on O
+serve O
+until O
+the O
+sixth O
+game O
+, O
+when O
+Washington B-PER
+, O
+after O
+saving O
+one O
+break O
+point O
+with O
+a O
+forehand O
+winner O
+down O
+the O
+line O
+, O
+netted O
+a O
+backhand O
+to O
+give O
+O'Brien B-PER
+a O
+4-2 O
+lead O
+. O
+
+The O
+Texan B-MISC
+blasted O
+in O
+two O
+aces O
+to O
+hold O
+serve O
+at O
+5-2 O
+and O
+then O
+converted O
+his O
+eighth O
+match O
+point O
+for O
+victory O
+when O
+Washington B-PER
+found O
+the O
+net O
+with O
+another O
+backhand O
+from O
+40-0 O
+. O
+
+" O
+You O
+just O
+kind O
+of O
+keep O
+fighting O
+and O
+you O
+keep O
+trying O
+to O
+make O
+him O
+play O
+a O
+little O
+bit O
+. O
+
+I O
+think O
+he O
+got O
+a O
+little O
+tight O
+at O
+a O
+couple O
+of O
+moments O
+, O
+" O
+said O
+Washington B-PER
+. O
+" O
+
+But O
+I O
+think O
+he O
+served O
+pretty O
+well O
+when O
+he O
+had O
+to O
+. O
+" O
+
+Tarango B-PER
+, O
+whose O
+Wimbledon B-MISC
+tantrum O
+two O
+years O
+ago O
+brought O
+him O
+a O
+$ O
+28,000 O
+fine O
+and O
+suspension O
+from O
+this O
+year O
+'s O
+tournament O
+at O
+the O
+All-England B-ORG
+Club I-ORG
+, O
+argued O
+calls O
+and O
+taunted O
+fans O
+in O
+his O
+lively O
+two O
+hour O
+, O
+24 O
+minute O
+tango O
+with O
+Rios B-PER
+on O
+the O
+grandstand O
+. O
+
+A O
+boisterous O
+cheering O
+section O
+backed O
+the O
+distracted O
+Chilean B-MISC
+and O
+booed O
+the O
+lanky O
+American B-MISC
+, O
+who O
+ate O
+up O
+all O
+the O
+attention O
+. O
+
+" O
+I O
+'m O
+an O
+emotional O
+player O
+, O
+" O
+said O
+the O
+104th-ranked O
+Tarango B-PER
+. O
+" O
+
+I O
+think O
+I O
+played O
+very O
+well O
+tonight O
+, O
+very O
+focused O
+. O
+" O
+
+The O
+match O
+turned O
+on O
+the O
+third-set O
+tiebreaker O
+, O
+which O
+the O
+American B-MISC
+won O
+7-5 O
+much O
+to O
+the O
+dismay O
+of O
+the O
+spectators O
+. O
+
+" O
+I O
+love O
+the O
+crowd O
+if O
+they O
+boo O
+me O
+every O
+day O
+. O
+
+It O
+fires O
+me O
+up O
+, O
+makes O
+me O
+play O
+my O
+best O
+tennis O
+, O
+" O
+Tarango B-PER
+said O
+. O
+
+" O
+I O
+played O
+some O
+of O
+my O
+best O
+tennis O
+in O
+college O
+when O
+fraternities O
+were O
+throwing O
+beer O
+on O
+me O
+. O
+
+If O
+tennis O
+was O
+like O
+that O
+every O
+day O
+, O
+I O
+think O
+everybody O
+wold O
+be O
+having O
+a O
+lot O
+more O
+fun O
+. O
+" O
+
+Rios B-PER
+did O
+not O
+appreciate O
+Tarango B-PER
+'s O
+antics O
+. O
+
+" O
+He O
+'s O
+always O
+complaining O
+too O
+much O
+, O
+" O
+said O
+Rios B-PER
+. O
+" O
+
+But O
+I O
+think O
+it O
+'s O
+not O
+that O
+. O
+
+I O
+think O
+I O
+played O
+really O
+bad O
+. O
+
+It O
+was O
+tough O
+to O
+play O
+at O
+night O
+. O
+
+Balls O
+were O
+going O
+really O
+fast O
+. O
+
+I O
+lost O
+too O
+many O
+points O
+that O
+I O
+never O
+lose O
+. O
+
+I O
+did O
+n't O
+play O
+my O
+tennis O
+. O
+" O
+
+" O
+I O
+do O
+n't O
+see O
+the O
+ball O
+like O
+I O
+see O
+during O
+the O
+day O
+. O
+
+I O
+play O
+an O
+American B-MISC
+so O
+that O
+'s O
+why O
+I O
+play O
+at O
+night O
+. O
+
+I O
+did O
+n't O
+feel O
+good O
+on O
+the O
+court O
+. O
+" O
+
+At O
+the O
+end O
+of O
+the O
+match O
+, O
+Tarango B-PER
+blew O
+sarcastic O
+kisses O
+to O
+the O
+crowd O
+, O
+then O
+jiggled O
+his O
+body O
+to O
+a O
+Rios B-PER
+rooting O
+section O
+in O
+a O
+jeering O
+salute O
+. O
+
+" O
+I O
+support O
+their O
+enthusiasm O
+, O
+" O
+Tarango B-PER
+said O
+about O
+the O
+fans O
+. O
+" O
+
+At O
+the O
+same O
+time O
+, O
+they O
+'re O
+cheering O
+blatantly O
+against O
+me O
+. O
+
+After O
+I O
+won O
+I O
+figured O
+I O
+could O
+give O
+them O
+a O
+little O
+razzle-dazzle O
+. O
+" O
+
+NFL B-ORG
+AMERICAN B-MISC
+FOOTBALL-RANDALL I-MISC
+CUNNINGHAM B-PER
+RETIRES O
+. O
+
+PHILADELPHIA B-LOC
+1996-08-29 O
+
+Randall B-PER
+Cunningham I-PER
+, O
+the O
+National B-ORG
+Football I-ORG
+League I-ORG
+'s O
+all-time O
+leading O
+rusher O
+as O
+a O
+quarterback O
+and O
+one O
+of O
+the O
+most O
+athletic O
+players O
+ever O
+to O
+line O
+up O
+over O
+centre O
+, O
+retired O
+Thursday O
+. O
+
+Cunningham B-PER
+played O
+his O
+entire O
+11-year O
+career O
+with O
+the O
+Philadelphia B-ORG
+Eagles I-ORG
+. O
+
+A O
+three-time O
+Pro B-MISC
+Bowl I-MISC
+selection O
+, O
+Cunningham B-PER
+rushed O
+for O
+4,482 O
+yards O
+on O
+677 O
+carries O
+. O
+
+" O
+I O
+would O
+like O
+to O
+thank O
+the O
+Eagles B-ORG
+organisation O
+and O
+the O
+wonderful O
+fans O
+of O
+Philadelphia B-ORG
+for O
+supporting O
+me O
+throughout O
+my O
+career O
+, O
+" O
+Cunningham B-PER
+said O
+. O
+
+" O
+Although O
+it O
+saddens O
+me O
+to O
+leave O
+, O
+I O
+am O
+looking O
+forward O
+to O
+spending O
+more O
+time O
+with O
+my O
+family O
+and O
+pursuing O
+other O
+interests O
+that O
+have O
+been O
+on O
+the O
+back O
+burner O
+for O
+sometime O
+. O
+" O
+
+" O
+Randall B-PER
+was O
+one O
+of O
+the O
+most O
+exciting O
+quarterbacks O
+in O
+NFL B-ORG
+history O
+, O
+" O
+said O
+Eagles B-ORG
+owner O
+Jeffrey B-PER
+Lurie I-PER
+. O
+" O
+
+During O
+his O
+11 O
+years O
+in O
+Philadelphia B-LOC
+, O
+Randall B-PER
+was O
+the O
+cornerstone O
+of O
+the O
+Eagles B-ORG
+' O
+franchise O
+and O
+brought O
+many O
+great O
+moments O
+to O
+fans O
+in O
+Philadelphia B-LOC
+as O
+well O
+as O
+across O
+the O
+NFL B-ORG
+. O
+" O
+
+A O
+second-round O
+choice O
+in O
+1985 O
+, O
+Cunningham B-PER
+completed O
+1,874-of-3,362 O
+passes O
+( O
+55.7 O
+percent O
+) O
+for O
+22,877 O
+yards O
+and O
+150 O
+touchdowns O
+. O
+
+Cunningham B-PER
+has O
+already O
+been O
+signed O
+as O
+a O
+broadcaster O
+. O
+
+GOLF O
+- O
+LEADING O
+SCORES O
+AT O
+GREATER B-MISC
+MILWAUKEE I-MISC
+OPEN I-MISC
+. O
+
+MILWAUKEE B-LOC
+, O
+Wisconsin B-LOC
+1996-08-29 O
+
+Leading O
+scores O
+in O
+
+the O
+$ O
+1.2 O
+million O
+Greater B-MISC
+Milwaukee I-MISC
+Open I-MISC
+at O
+the O
+par-71 O
+, O
+
+6,739-yard O
+Brown B-LOC
+Deer I-LOC
+Park I-LOC
+Golf I-LOC
+Course I-LOC
+after O
+the O
+first O
+round O
+
+on O
+Thursday O
+( O
+players O
+U.S. B-LOC
+unless O
+stated O
+) O
+: O
+
+62 O
+Nolan B-PER
+Henke I-PER
+
+64 O
+Bob B-PER
+Estes I-PER
+
+65 O
+Billy B-PER
+Andrade I-PER
+, O
+Duffy B-PER
+Waldorf I-PER
+, O
+Jesper B-PER
+Parnevik I-PER
+( O
+Sweden B-LOC
+) O
+
+66 O
+Neal B-PER
+Lancaster I-PER
+, O
+Dave B-PER
+Barr I-PER
+( O
+Canada B-LOC
+) O
+, O
+Mike B-PER
+Sullivan I-PER
+, O
+Willie B-PER
+
+Wood B-PER
+, O
+Loren B-PER
+Roberts I-PER
+, O
+Steve B-PER
+Stricker I-PER
+, O
+Brian B-PER
+Claar I-PER
+, O
+Russ B-PER
+Cochran I-PER
+
+67 O
+Mark B-PER
+Calcavecchia I-PER
+, O
+Payne B-PER
+Stewart I-PER
+, O
+Billy B-PER
+Mayfair I-PER
+, O
+Ken B-PER
+
+Green B-PER
+, O
+Jerry B-PER
+Kelly I-PER
+, O
+Tim B-PER
+Simpson I-PER
+, O
+Olin B-PER
+Browne I-PER
+, O
+Shane B-PER
+Bortsch I-PER
+, O
+
+Mike B-PER
+Hulbert I-PER
+, O
+Brian B-PER
+Henninger I-PER
+, O
+Tiger B-PER
+Woods I-PER
+, O
+Steve B-PER
+Jurgenson I-PER
+, O
+
+Bryan B-PER
+Gorman I-PER
+
+GOLF O
+- O
+HENKE B-PER
+TAKES O
+LEAD O
+IN O
+MILWAUKEE B-LOC
+, O
+WOODS B-PER
+MAKES O
+PRO O
+DEBUT O
+. O
+
+MILWAUKEE B-LOC
+, O
+Wisconsin B-LOC
+1996-08-29 O
+
+Nolan B-PER
+Henke I-PER
+fired O
+a O
+nine-under-par O
+62 O
+to O
+grab O
+a O
+two-shot O
+lead O
+after O
+the O
+opening O
+round O
+of O
+the O
+$ O
+1.2 O
+million O
+Greater B-MISC
+Milwaukee I-MISC
+Open I-MISC
+Thursday O
+as O
+20-year-old O
+Tiger B-PER
+Woods I-PER
+shot O
+67 O
+in O
+his O
+professional O
+debut O
+. O
+
+Henke B-PER
+stood O
+two O
+strokes O
+ahead O
+of O
+Bob B-PER
+Estes I-PER
+and O
+three O
+up O
+on O
+Billy B-PER
+Andrade I-PER
+, O
+Duffy B-PER
+Waldorf I-PER
+and O
+Jesper B-PER
+Parnevik I-PER
+. O
+
+Woods B-PER
+, O
+who O
+turned O
+pro O
+Tuesday O
+after O
+winning O
+an O
+unprecedented O
+third O
+successive O
+U.S. B-MISC
+Amateur I-MISC
+Championship I-MISC
+, O
+almost O
+eagled O
+the O
+18th O
+hole O
+. O
+
+He O
+settled O
+for O
+a O
+birdie O
+and O
+a O
+four-under O
+opening O
+round O
+that O
+left O
+him O
+five O
+shots O
+off O
+the O
+pace O
+. O
+
+" O
+Yesterday O
+was O
+the O
+toughest O
+day O
+I O
+'ve O
+had O
+for O
+a O
+long O
+time O
+, O
+" O
+Woods B-PER
+said O
+. O
+" O
+
+Today O
+, O
+I O
+got O
+to O
+play O
+golf O
+. O
+" O
+
+He O
+added O
+: O
+" O
+I O
+thought O
+I O
+got O
+off O
+off O
+to O
+a O
+great O
+start O
+. O
+
+It O
+was O
+a O
+perfect O
+start O
+. O
+
+I O
+'m O
+in O
+a O
+good O
+position O
+. O
+" O
+
+Henke B-PER
+, O
+who O
+called O
+his O
+round O
+a O
+" O
+pleasant O
+surprise O
+, O
+" O
+finished O
+with O
+six O
+birdies O
+on O
+the O
+final O
+eight O
+holes O
+. O
+
+" O
+We O
+finally O
+got O
+things O
+going O
+in O
+the O
+right O
+direction O
+, O
+" O
+he O
+said O
+. O
+" O
+
+It O
+was O
+my O
+best O
+round O
+in O
+a O
+very O
+long O
+time O
+. O
+
+My O
+short O
+game O
+has O
+improved O
+since O
+I O
+'ve O
+had O
+to O
+use O
+it O
+so O
+often O
+. O
+
+That O
+'s O
+always O
+been O
+the O
+worst O
+part O
+of O
+my O
+game O
+. O
+
+All O
+in O
+all O
+, O
+playing O
+bad O
+'s O
+been O
+a O
+good O
+experience O
+. O
+" O
+
+Henke B-PER
+, O
+who O
+came O
+within O
+one O
+shot O
+of O
+the O
+course O
+record O
+set O
+by O
+Andrew B-PER
+Magee I-PER
+during O
+Wednesday O
+'s O
+pro-am O
+, O
+has O
+three O
+career O
+PGA B-MISC
+Tour I-MISC
+victories O
+, O
+but O
+none O
+since O
+the O
+1993 O
+BellSouth B-MISC
+Classic I-MISC
+. O
+
+Estes B-PER
+, O
+whose O
+only O
+win O
+came O
+at O
+the O
+1994 O
+Texas B-MISC
+Open I-MISC
+and O
+whose O
+best O
+finish O
+this O
+year O
+was O
+a O
+third-place O
+tie O
+at O
+the O
+Nortel B-MISC
+Open I-MISC
+in O
+January O
+, O
+eagled O
+the O
+par-five O
+fourth O
+hole O
+and O
+added O
+five O
+birdies O
+to O
+grab O
+sole O
+possession O
+of O
+second O
+place O
+. O
+
+" O
+No O
+bogeys O
+on O
+the O
+card O
+, O
+" O
+he O
+noted O
+. O
+" O
+
+Sometimes O
+I O
+take O
+more O
+pride O
+in O
+that O
+. O
+" O
+
+Woods B-PER
+was O
+among O
+a O
+group O
+of O
+13 O
+players O
+at O
+four O
+under O
+, O
+including O
+1993 O
+champion O
+Billy B-PER
+Mayfair I-PER
+, O
+who O
+tied O
+for O
+second O
+at O
+last O
+week O
+'s O
+World B-MISC
+Series I-MISC
+of I-MISC
+Golf I-MISC
+, O
+and O
+former O
+U.S. B-MISC
+Open I-MISC
+champ O
+Payne B-PER
+Stewart I-PER
+. O
+
+Defending O
+champion O
+Scott B-PER
+Hoch I-PER
+shot O
+a O
+three-under O
+68 O
+and O
+was O
+six O
+strokes O
+back O
+. O
+
+Phil B-PER
+Mickelson I-PER
+, O
+the O
+only O
+four-time O
+winner O
+on O
+the O
+PGA B-MISC
+Tour I-MISC
+, O
+skipped O
+the O
+tournament O
+after O
+winning O
+the O
+World B-MISC
+Series I-MISC
+of I-MISC
+Golf I-MISC
+last O
+week O
+. O
+
+Mark B-PER
+Brooks I-PER
+, O
+Tom B-PER
+Lehman I-PER
+and O
+Mark B-PER
+O'Meara I-PER
+, O
+who O
+make O
+up O
+the O
+rest O
+of O
+the O
+top O
+four O
+on O
+the O
+money O
+list O
+, O
+also O
+took O
+the O
+week O
+off O
+. O
+
+SOCCER O
+- O
+SILVA B-PER
+'S O
+`LOST O
+PASSPORT O
+' O
+EXCUSE O
+NOT O
+ENOUGH O
+FOR O
+FIFA B-ORG
+. O
+
+MADRID B-LOC
+1996-08-30 O
+
+Spanish B-MISC
+first O
+division O
+team O
+Deportivo B-ORG
+Coruna I-ORG
+will O
+be O
+without O
+key O
+midfielder O
+Mauro B-PER
+Silva I-PER
+for O
+Saturday O
+'s O
+game O
+with O
+Real B-ORG
+Madrid I-ORG
+after O
+FIFA B-ORG
+, O
+soccer O
+'s O
+world O
+governing O
+body O
+, O
+suspended O
+the O
+Brazilian B-MISC
+for O
+one O
+game O
+for O
+missing O
+his O
+national O
+side O
+'s O
+European B-MISC
+tour O
+. O
+
+Silva B-PER
+excused O
+his O
+absence O
+from O
+Brazil B-LOC
+'s O
+game O
+against O
+Russia B-LOC
+, O
+on O
+Wednesday O
+, O
+and O
+Saturday O
+'s O
+match O
+with O
+the O
+Netherlands B-LOC
+by O
+saying O
+he O
+had O
+lost O
+his O
+passport O
+. O
+
+But O
+that O
+did O
+not O
+prevent O
+him O
+from O
+collecting O
+the O
+one-match O
+suspension O
+. O
+
+ATHLETICS O
+- O
+MITCHELL B-PER
+DEFEATS O
+BAILEY B-PER
+IN O
+FRONT O
+OF O
+FORMER O
+CHAMPIONS O
+. O
+
+Adrian B-PER
+Warner I-PER
+
+BERLIN B-LOC
+1996-08-30 O
+
+American B-MISC
+Dennis B-PER
+Mitchell I-PER
+outclassed O
+Olympic B-MISC
+100 O
+metres O
+champion O
+Donovan B-PER
+Bailey I-PER
+for O
+the O
+third O
+time O
+at O
+a O
+major O
+post-Games B-MISC
+meeting O
+in O
+front O
+of O
+the O
+most O
+experienced O
+sprinting O
+crowd O
+in O
+the O
+world O
+on O
+Friday O
+. O
+
+Watched O
+by O
+an O
+array O
+of O
+former O
+Olympic B-MISC
+sprint O
+champions O
+at O
+the O
+Berlin B-LOC
+grand O
+prix O
+meeting O
+, O
+Mitchell B-PER
+made O
+a O
+brilliant O
+start O
+in O
+the O
+100 O
+metres O
+and O
+held O
+off O
+Bailey B-PER
+'s O
+strong O
+finish O
+to O
+win O
+in O
+10.08 O
+seconds O
+despite O
+cool O
+conditions O
+. O
+
+Bailey B-PER
+, O
+who O
+set O
+a O
+world O
+record O
+of O
+9.84 O
+on O
+his O
+way O
+to O
+victory O
+in O
+Atlanta B-LOC
+, O
+could O
+not O
+catch O
+his O
+American B-MISC
+rival O
+and O
+had O
+to O
+settle O
+for O
+third O
+in O
+a O
+tight O
+finish O
+. O
+
+Jamaica B-LOC
+'s O
+Michael B-PER
+Green I-PER
+was O
+second O
+with O
+10.09 O
+with O
+Bailey B-PER
+finishing O
+in O
+10.13 O
+. O
+
+Last O
+Friday O
+Mitchell B-PER
+, O
+who O
+finished O
+fourth O
+at O
+the O
+Atlanta B-MISC
+Games I-MISC
+, O
+upstaged O
+a O
+trio O
+of O
+Olympic B-MISC
+champions O
+including O
+Bailey B-PER
+to O
+win O
+the O
+100 O
+in O
+Brussels B-LOC
+. O
+
+Earlier O
+this O
+month O
+he O
+also O
+beat O
+world O
+champion O
+Bailey B-PER
+in O
+Zurich B-LOC
+. O
+
+Berlin B-LOC
+, O
+Brussels B-LOC
+and O
+Zurich B-LOC
+all O
+belong O
+to O
+the O
+most O
+lucrative O
+series O
+in O
+the O
+sport O
+, O
+the O
+Golden B-MISC
+Four I-MISC
+. O
+
+Among O
+the O
+crowd O
+on O
+Friday O
+were O
+Olympic B-MISC
+100 O
+metres O
+champions O
+going O
+back O
+to O
+1948 O
+. O
+
+They O
+had O
+been O
+invited O
+to O
+the O
+meeting O
+to O
+watch O
+a O
+special O
+relay O
+to O
+mark O
+the O
+60th O
+anniversary O
+of O
+Jesse B-PER
+Owens I-PER
+'s O
+four O
+gold O
+medals O
+at O
+the O
+1936 O
+Olympics B-MISC
+in O
+the O
+same O
+Berlin B-LOC
+stadium O
+. O
+
+" O
+Today O
+the O
+concentration O
+was O
+the O
+most O
+important O
+thing O
+for O
+me O
+, O
+" O
+Mitchell B-PER
+said O
+. O
+
+Despite O
+the O
+coolish O
+conditions O
+American B-MISC
+Olympic I-MISC
+champion O
+Gail B-PER
+Devers I-PER
+looked O
+in O
+commanding O
+form O
+in O
+the O
+women O
+'s O
+100 O
+, O
+clocking O
+10.89 O
+to O
+defeat O
+Jamaican B-MISC
+rival O
+Merlene B-PER
+Ottey I-PER
+, O
+who O
+was O
+second O
+in O
+10.94 O
+. O
+
+ATHLETICS O
+- O
+BERLIN B-MISC
+GRAND I-MISC
+PRIX I-MISC
+RESULTS O
+. O
+
+BERLIN B-LOC
+1996-08-30 O
+
+Leading O
+results O
+at O
+the O
+Berlin B-MISC
+
+Grand B-MISC
+Prix I-MISC
+athletics O
+meeting O
+on O
+Friday O
+: O
+
+Women O
+'s O
+100 O
+metres O
+hurdles O
+
+1. O
+Michelle B-PER
+Freeman I-PER
+( O
+Jamaica B-LOC
+) O
+12.71 O
+seconds O
+
+2. O
+Ludmila B-PER
+Engquist I-PER
+( O
+Sweden B-LOC
+) O
+12.74 O
+
+3. O
+Aliuska B-PER
+Lopez I-PER
+( O
+Cuba B-LOC
+) O
+12.92 O
+
+4. O
+Brigita B-PER
+Bokovec I-PER
+( O
+Slovenia B-LOC
+) O
+12.92 O
+

@@ -1,3804 +1,6517 @@
-EU NNP B-NP B-ORG
-rejects VBZ B-VP O
-German JJ B-NP B-MISC
-call NN I-NP O
-to TO B-VP O
-boycott VB I-VP O
-British JJ B-NP B-MISC
-lamb NN I-NP O
-. . O O
-
-Peter NNP B-NP B-PER
-Blackburn NNP I-NP I-PER
-
-BRUSSELS NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-The DT B-NP O
-European NNP I-NP B-ORG
-Commission NNP I-NP I-ORG
-said VBD B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-it PRP B-NP O
-disagreed VBD B-VP O
-with IN B-PP O
-German JJ B-NP B-MISC
-advice NN I-NP O
-to TO B-PP O
-consumers NNS B-NP O
-to TO B-VP O
-shun VB I-VP O
-British JJ B-NP B-MISC
-lamb NN I-NP O
-until IN B-SBAR O
-scientists NNS B-NP O
-determine VBP B-VP O
-whether IN B-SBAR O
-mad JJ B-NP O
-cow NN I-NP O
-disease NN I-NP O
-can MD B-VP O
-be VB I-VP O
-transmitted VBN I-VP O
-to TO B-PP O
-sheep NN B-NP O
-. . O O
-
-Germany NNP B-NP B-LOC
-'s POS B-NP O
-representative NN I-NP O
-to TO B-PP O
-the DT B-NP O
-European NNP I-NP B-ORG
-Union NNP I-NP I-ORG
-'s POS B-NP O
-veterinary JJ I-NP O
-committee NN I-NP O
-Werner NNP I-NP B-PER
-Zwingmann NNP I-NP I-PER
-said VBD B-VP O
-on IN B-PP O
-Wednesday NNP B-NP O
-consumers NNS I-NP O
-should MD B-VP O
-buy VB I-VP O
-sheepmeat NN B-NP O
-from IN B-PP O
-countries NNS B-NP O
-other JJ B-ADJP O
-than IN B-PP O
-Britain NNP B-NP B-LOC
-until IN B-SBAR O
-the DT B-NP O
-scientific JJ I-NP O
-advice NN I-NP O
-was VBD B-VP O
-clearer JJR B-ADJP O
-. . O O
-
-" " O O
-We PRP B-NP O
-do VBP B-VP O
-n't RB I-VP O
-support VB I-VP O
-any DT B-NP O
-such JJ I-NP O
-recommendation NN I-NP O
-because IN B-SBAR O
-we PRP B-NP O
-do VBP B-VP O
-n't RB I-VP O
-see VB I-VP O
-any DT B-NP O
-grounds NNS I-NP O
-for IN B-PP O
-it PRP B-NP O
-, , O O
-" " O O
-the DT B-NP O
-Commission NNP I-NP B-ORG
-'s POS B-NP O
-chief JJ I-NP O
-spokesman NN I-NP O
-Nikolaus NNP I-NP B-PER
-van NNP I-NP I-PER
-der FW I-NP I-PER
-Pas NNP I-NP I-PER
-told VBD B-VP O
-a DT B-NP O
-news NN I-NP O
-briefing NN I-NP O
-. . O O
-
-He PRP B-NP O
-said VBD B-VP O
-further JJ B-NP O
-scientific JJ I-NP O
-study NN I-NP O
-was VBD B-VP O
-required VBN I-VP O
-and CC O O
-if IN B-SBAR O
-it PRP B-NP O
-was VBD B-VP O
-found VBN I-VP O
-that IN B-SBAR O
-action NN B-NP O
-was VBD B-VP O
-needed VBN I-VP O
-it PRP B-NP O
-should MD B-VP O
-be VB I-VP O
-taken VBN I-VP O
-by IN B-PP O
-the DT B-NP O
-European NNP I-NP B-ORG
-Union NNP I-NP I-ORG
-. . O O
-
-He PRP B-NP O
-said VBD B-VP O
-a DT B-NP O
-proposal NN I-NP O
-last JJ B-NP O
-month NN I-NP O
-by IN B-PP O
-EU NNP B-NP B-ORG
-Farm NNP I-NP O
-Commissioner NNP I-NP O
-Franz NNP I-NP B-PER
-Fischler NNP I-NP I-PER
-to TO B-VP O
-ban VB I-VP O
-sheep NN B-NP O
-brains NNS I-NP O
-, , O O
-spleens NNS B-NP O
-and CC O O
-spinal JJ B-NP O
-cords NNS I-NP O
-from IN B-PP O
-the DT B-NP O
-human NN I-NP O
-and CC I-NP O
-animal NN I-NP O
-food NN I-NP O
-chains NNS I-NP O
-was VBD B-VP O
-a DT B-NP O
-highly RB I-NP O
-specific JJ B-ADJP O
-and CC I-ADJP O
-precautionary JJ I-ADJP O
-move NN B-NP O
-to TO B-VP O
-protect VB I-VP O
-human JJ B-NP O
-health NN I-NP O
-. . O O
-
-Fischler JJR B-NP B-PER
-proposed VBN I-NP O
-EU-wide NNP I-NP B-MISC
-measures VBZ B-VP O
-after IN B-PP O
-reports NNS B-NP O
-from IN B-PP O
-Britain NNP B-NP B-LOC
-and CC I-NP O
-France NNP I-NP B-LOC
-that WDT B-NP O
-under IN B-PP O
-laboratory NN B-NP O
-conditions NNS B-NP O
-sheep NN I-NP O
-could MD B-VP O
-contract VB I-VP O
-Bovine NNP B-NP B-MISC
-Spongiform NNP I-NP I-MISC
-Encephalopathy NNP I-NP I-MISC
-( ( O O
-BSE NNP B-NP B-MISC
-) ) O O
--- : O O
-mad JJ B-NP O
-cow NN I-NP O
-disease NN I-NP O
-. . O O
-
-But CC O O
-Fischler NNP B-NP B-PER
-agreed VBD B-VP O
-to TO I-VP O
-review VB I-VP O
-his PRP$ B-NP O
-proposal NN I-NP O
-after IN B-PP O
-the DT B-NP O
-EU NNP I-NP B-ORG
-'s POS B-NP O
-standing NN I-NP O
-veterinary JJ I-NP O
-committee NN I-NP O
-, , O O
-mational JJ B-NP O
-animal NN I-NP O
-health NN I-NP O
-officials NNS I-NP O
-, , O O
-questioned VBD B-VP O
-if IN B-SBAR O
-such JJ B-NP O
-action NN I-NP O
-was VBD B-VP O
-justified VBN I-VP O
-as IN B-PP O
-there RB B-ADVP O
-was VBD B-VP O
-only RB B-ADVP O
-a DT B-NP O
-slight JJ I-NP O
-risk NN I-NP O
-to TO B-PP O
-human JJ B-NP O
-health NN I-NP O
-. . O O
-
-Spanish NNP B-NP B-MISC
-Farm NNP I-NP O
-Minister NNP I-NP O
-Loyola NNP I-NP B-PER
-de NNP I-NP I-PER
-Palacio NNP I-NP I-PER
-had VBD B-VP O
-earlier RBR I-VP O
-accused VBN I-VP O
-Fischler NNP B-NP B-PER
-at IN B-PP O
-an DT B-NP O
-EU JJ I-NP B-ORG
-farm NN I-NP O
-ministers NNS I-NP O
-' POS B-NP O
-meeting NN I-NP O
-of IN B-PP O
-causing VBG B-VP O
-unjustified JJ B-ADJP O
-alarm NN B-NP O
-through IN B-PP O
-" " O O
-dangerous JJ B-NP O
-generalisation NN I-NP O
-. . O O
-" " O O
-
-. . O O
-
-Only RB B-NP O
-France NNP I-NP B-LOC
-and CC I-NP O
-Britain NNP I-NP B-LOC
-backed VBD B-VP O
-Fischler NNP B-NP B-PER
-'s POS B-NP O
-proposal NN I-NP O
-. . O O
-
-The DT B-NP O
-EU NNP I-NP B-ORG
-'s POS B-NP O
-scientific JJ I-NP O
-veterinary JJ I-NP O
-and CC I-NP O
-multidisciplinary JJ I-NP O
-committees NNS I-NP O
-are VBP B-VP O
-due JJ B-ADJP O
-to TO B-VP O
-re-examine VB I-VP O
-the DT B-NP O
-issue NN I-NP O
-early RB B-NP O
-next JJ I-NP O
-month NN I-NP O
-and CC O O
-make VB B-VP O
-recommendations NNS B-NP O
-to TO B-PP O
-the DT B-NP O
-senior JJ I-NP O
-veterinary JJ I-NP O
-officials NNS I-NP O
-. . O O
-
-Sheep NNP B-NP O
-have VBP B-VP O
-long RB I-VP O
-been VBN I-VP O
-known VBN I-VP O
-to TO B-PP O
-contract NN B-NP O
-scrapie NN I-NP O
-, , O O
-a DT B-NP O
-brain-wasting JJ I-NP O
-disease NN I-NP O
-similar JJ B-ADJP O
-to TO B-PP O
-BSE NNP B-NP B-MISC
-which WDT B-NP O
-is VBZ B-VP O
-believed VBN I-VP O
-to TO I-VP O
-have VB I-VP O
-been VBN I-VP O
-transferred VBN I-VP O
-to TO B-PP O
-cattle NNS B-NP O
-through IN B-PP O
-feed NN B-NP O
-containing VBG B-VP O
-animal NN B-NP O
-waste NN I-NP O
-. . O O
-
-British JJ B-NP B-MISC
-farmers NNS I-NP O
-denied VBN B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-there EX B-NP O
-was VBD B-VP O
-any DT B-NP O
-danger NN I-NP O
-to TO B-PP O
-human JJ B-NP O
-health NN I-NP O
-from IN B-PP O
-their PRP$ B-NP O
-sheep NN I-NP O
-, , O O
-but CC O O
-expressed VBD B-VP O
-concern NN B-NP O
-that IN B-SBAR O
-German JJ B-NP B-MISC
-government NN I-NP O
-advice NN I-NP O
-to TO B-PP O
-consumers NNS B-NP O
-to TO B-VP O
-avoid VB I-VP O
-British JJ B-NP B-MISC
-lamb NN I-NP O
-might MD B-VP O
-influence VB I-VP O
-consumers NNS B-NP O
-across IN B-PP O
-Europe NNP B-NP B-LOC
-. . O O
-
-" " O O
-What WP B-NP O
-we PRP B-NP O
-have VBP B-VP O
-to TO I-VP O
-be VB I-VP O
-extremely RB B-ADJP O
-careful JJ I-ADJP O
-of IN B-PP O
-is VBZ B-VP O
-how WRB B-ADVP O
-other JJ B-NP O
-countries NNS I-NP O
-are VBP B-VP O
-going VBG I-VP O
-to TO I-VP O
-take VB I-VP O
-Germany NNP B-NP B-LOC
-'s POS B-NP O
-lead NN I-NP O
-, , O O
-" " O O
-Welsh NNP B-NP B-ORG
-National NNP I-NP I-ORG
-Farmers NNP I-NP I-ORG
-' POS B-NP I-ORG
-Union NNP I-NP I-ORG
-( ( O O
-NFU NNP B-NP B-ORG
-) ) O O
-chairman NN B-NP O
-John NNP I-NP B-PER
-Lloyd NNP I-NP I-PER
-Jones NNP I-NP I-PER
-said VBD B-VP O
-on IN B-PP O
-BBC NNP B-NP B-ORG
-radio NN I-NP I-ORG
-. . O O
-
-Bonn NNP B-NP B-LOC
-has VBZ B-VP O
-led VBN I-VP O
-efforts NNS B-NP O
-to TO B-VP O
-protect VB I-VP O
-public JJ B-NP O
-health NN I-NP O
-after IN B-PP O
-consumer NN B-NP O
-confidence NN I-NP O
-collapsed VBD B-VP O
-in IN B-PP O
-March NNP B-NP O
-after IN B-PP O
-a DT B-NP O
-British JJ I-NP B-MISC
-report NN I-NP O
-suggested VBD B-VP O
-humans NNS B-NP O
-could MD B-VP O
-contract VB I-VP O
-an DT B-NP O
-illness NN I-NP O
-similar JJ B-ADJP O
-to TO I-ADJP O
-mad JJ I-ADJP O
-cow NN B-NP O
-disease NN I-NP O
-by IN B-PP O
-eating VBG B-VP O
-contaminated VBN I-VP O
-beef NN B-NP O
-. . O O
-
-Germany NNP B-NP B-LOC
-imported VBD B-VP O
-47,600 CD B-NP O
-sheep NN I-NP O
-from IN B-PP O
-Britain NNP B-NP B-LOC
-last JJ B-NP O
-year NN I-NP O
-, , O O
-nearly RB B-NP O
-half NN I-NP O
-of IN B-PP O
-total JJ B-NP O
-imports NNS I-NP O
-. . O O
-
-It PRP B-NP O
-brought VBD B-VP O
-in IN B-PP O
-4,275 CD B-NP O
-tonnes NNS I-NP O
-of IN B-PP O
-British JJ B-NP B-MISC
-mutton NN I-NP O
-, , O O
-some DT B-NP O
-10 CD I-NP O
-percent NN I-NP O
-of IN B-PP O
-overall JJ B-NP O
-imports NNS I-NP O
-. . O O
-
-Rare NNP B-NP O
-Hendrix NNP I-NP B-PER
-song NN I-NP O
-draft NN I-NP O
-sells VBZ B-VP O
-for IN B-PP O
-almost RB B-NP O
-$ $ I-NP O
-17,000 CD I-NP O
-. . O O
-
-LONDON NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-A DT B-NP O
-rare JJ I-NP O
-early JJ I-NP O
-handwritten JJ I-NP O
-draft NN I-NP O
-of IN B-PP O
-a DT B-NP O
-song NN I-NP O
-by IN B-PP O
-U.S. NNP B-NP B-LOC
-guitar NN I-NP O
-legend NN I-NP O
-Jimi NNP I-NP B-PER
-Hendrix NNP I-NP I-PER
-was VBD B-VP O
-sold VBN I-VP O
-for IN B-PP O
-almost RB B-NP O
-$ $ I-NP O
-17,000 CD I-NP O
-on IN B-PP O
-Thursday NNP B-NP O
-at IN B-PP O
-an DT B-NP O
-auction NN I-NP O
-of IN B-PP O
-some DT B-NP O
-of IN B-PP O
-the DT B-NP O
-late JJ I-NP O
-musician NN I-NP O
-'s POS B-NP O
-favourite JJ I-NP O
-possessions NNS I-NP O
-. . O O
-
-A DT B-NP O
-Florida NNP I-NP B-LOC
-restaurant NN I-NP O
-paid VBD B-VP O
-10,925 CD B-NP O
-pounds NNS I-NP O
-( ( O O
-$ $ B-NP O
-16,935 CD I-NP O
-) ) O O
-for IN B-PP O
-the DT B-NP O
-draft NN I-NP O
-of IN B-PP O
-" " O O
-Ai VBZ B-VP B-MISC
-n't RB O I-MISC
-no DT B-NP I-MISC
-telling VBG B-VP I-MISC
-" " O O
-, , O O
-which WDT B-NP O
-Hendrix NNP B-NP B-PER
-penned VBN B-VP O
-on IN B-PP O
-a DT B-NP O
-piece NN I-NP O
-of IN B-PP O
-London NNP B-NP B-LOC
-hotel NN I-NP O
-stationery NN I-NP O
-in IN B-PP O
-late JJ B-NP O
-1966 CD I-NP O
-. . O O
-
-At IN B-PP O
-the DT B-NP O
-end NN I-NP O
-of IN B-PP O
-a DT B-NP O
-January NNP I-NP O
-1967 CD I-NP O
-concert NN I-NP O
-in IN B-PP O
-the DT B-NP O
-English JJ I-NP B-MISC
-city NN I-NP O
-of IN B-PP O
-Nottingham NNP B-NP B-LOC
-he PRP B-NP O
-threw VBD B-VP O
-the DT B-NP O
-sheet NN I-NP O
-of IN B-PP O
-paper NN B-NP O
-into IN B-PP O
-the DT B-NP O
-audience NN I-NP O
-, , O O
-where WRB B-ADVP O
-it PRP B-NP O
-was VBD B-VP O
-retrieved VBN I-VP O
-by IN B-PP O
-a DT B-NP O
-fan NN I-NP O
-. . O O
-
-Buyers NNS B-NP O
-also RB B-ADVP O
-snapped VBD B-VP O
-up RB B-ADVP O
-16 CD B-NP O
-other JJ I-NP O
-items NNS I-NP O
-that WDT B-NP O
-were VBD B-VP O
-put VBN I-VP O
-up RP B-PRT O
-for IN B-PP O
-auction NN B-NP O
-by IN B-PP O
-Hendrix NNP B-NP B-PER
-'s POS B-NP O
-former JJ I-NP O
-girlfriend NN I-NP O
-Kathy NNP I-NP B-PER
-Etchingham NNP I-NP I-PER
-, , O O
-who WP B-NP O
-lived VBD B-VP O
-with IN B-PP O
-him PRP B-NP O
-from IN B-PP O
-1966 CD B-NP O
-to TO B-PP O
-1969 CD B-NP O
-. . O O
-
-They PRP B-NP O
-included VBD B-VP O
-a DT B-NP O
-black JJ I-NP O
-lacquer NN I-NP O
-and CC I-NP O
-mother NN I-NP O
-of IN B-PP O
-pearl NN B-NP O
-inlaid VBD B-VP O
-box NN B-NP O
-used VBN B-VP O
-by IN B-PP O
-Hendrix NNP B-NP B-PER
-to TO B-VP O
-store VB I-VP O
-his PRP$ B-NP O
-drugs NNS I-NP O
-, , O O
-which WDT B-NP O
-an DT B-NP O
-anonymous JJ I-NP O
-Australian JJ I-NP B-MISC
-purchaser NN I-NP O
-bought VBD B-VP O
-for IN B-PP O
-5,060 CD B-NP O
-pounds NNS I-NP O
-( ( O O
-$ $ B-NP O
-7,845 CD I-NP O
-) ) O O
-. . O O
-
-The DT B-NP O
-guitarist NN I-NP O
-died VBD B-VP O
-of IN B-PP O
-a DT B-NP O
-drugs NNS I-NP O
-overdose NN I-NP O
-in IN B-PP O
-1970 CD B-NP O
-aged VBN B-ADJP O
-27 CD B-NP O
-. . O O
-
-China NNP B-NP B-LOC
-says VBZ B-VP O
-Taiwan NNP B-NP B-LOC
-spoils VBZ B-VP O
-atmosphere NN B-NP O
-for IN B-PP O
-talks NNS B-NP O
-. . O O
-
-BEIJING VBG B-VP B-LOC
-1996-08-22 CD B-NP O
-
-China NNP B-NP B-LOC
-on IN B-PP O
-Thursday NNP B-NP O
-accused VBD B-VP O
-Taipei NNP B-NP B-LOC
-of IN B-PP O
-spoiling VBG B-VP O
-the DT B-NP O
-atmosphere NN I-NP O
-for IN B-PP O
-a DT B-NP O
-resumption NN I-NP O
-of IN B-PP O
-talks NNS B-NP O
-across IN B-PP O
-the DT B-NP O
-Taiwan NNP I-NP B-LOC
-Strait NNP I-NP I-LOC
-with IN B-PP O
-a DT B-NP O
-visit NN I-NP O
-to TO B-PP O
-Ukraine NNP B-NP B-LOC
-by IN B-PP O
-Taiwanese NNP B-NP B-MISC
-Vice NNP I-NP O
-President NNP I-NP O
-Lien NNP I-NP B-PER
-Chan NNP I-NP I-PER
-this DT B-NP O
-week NN I-NP O
-that WDT B-NP O
-infuriated VBD B-VP O
-Beijing NNP B-NP B-LOC
-. . O O
-
-Speaking VBG B-VP O
-only JJ B-ADVP O
-hours NNS B-NP O
-after IN B-PP O
-Chinese JJ B-NP B-MISC
-state NN I-NP O
-media NNS I-NP O
-said VBD B-VP O
-the DT B-NP O
-time NN I-NP O
-was VBD B-VP O
-right RB B-ADJP O
-to TO B-VP O
-engage VB I-VP O
-in IN B-PP O
-political JJ B-NP O
-talks NNS I-NP O
-with IN B-PP O
-Taiwan NNP B-NP B-LOC
-, , O O
-Foreign NNP B-NP B-ORG
-Ministry NNP I-NP I-ORG
-spokesman NN I-NP O
-Shen NNP I-NP B-PER
-Guofang NNP I-NP I-PER
-told VBD B-VP O
-Reuters NNP B-NP B-ORG
-: : O O
-" " O O
-The DT B-NP O
-necessary JJ I-NP O
-atmosphere NN I-NP O
-for IN B-PP O
-the DT B-NP O
-opening NN I-NP O
-of IN B-PP O
-the DT B-NP O
-talks NNS I-NP O
-has VBZ B-VP O
-been VBN I-VP O
-disrupted VBN I-VP O
-by IN B-PP O
-the DT B-NP O
-Taiwan NNP I-NP B-LOC
-authorities NNS I-NP O
-. . O O
-" " O O
-
-State NN B-NP O
-media NNS I-NP O
-quoted VBD B-VP O
-China NNP B-NP B-LOC
-'s POS B-NP O
-top JJ I-NP O
-negotiator NN I-NP O
-with IN B-PP O
-Taipei NNP B-NP B-LOC
-, , O O
-Tang NNP B-NP B-PER
-Shubei NNP I-NP I-PER
-, , O O
-as IN B-PP O
-telling VBG B-VP O
-a DT B-NP O
-visiting JJ I-NP O
-group NN I-NP O
-from IN B-PP O
-Taiwan NNP B-NP B-LOC
-on IN B-PP O
-Wednesday NNP B-NP O
-that IN B-SBAR O
-it PRP B-NP O
-was VBD B-VP O
-time NN B-NP O
-for IN B-PP O
-the DT B-NP O
-rivals NNS I-NP O
-to TO B-VP O
-hold VB I-VP O
-political JJ B-NP O
-talks NNS I-NP O
-. . O O
-
-" " O O
-Now RB B-ADVP O
-is VBZ B-VP O
-the DT B-NP O
-time NN I-NP O
-for IN B-PP O
-the DT B-NP O
-two CD I-NP O
-sides NNS I-NP O
-to TO B-VP O
-engage VB I-VP O
-in IN B-PP O
-political JJ B-NP O
-talks NNS I-NP O
-... : O O
-
-that WDT B-NP O
-is VBZ B-VP O
-to TO B-VP O
-end VB I-VP O
-the DT B-NP O
-state NN I-NP O
-of IN B-PP O
-hostility NN B-NP O
-, , O O
-" " O O
-Thursday NNP B-NP O
-'s POS B-NP O
-overseas JJ I-NP O
-edition NN I-NP O
-of IN B-PP O
-the DT B-NP O
-People NNPS I-NP B-ORG
-'s POS B-NP I-ORG
-Daily JJ I-NP I-ORG
-quoted VBN B-VP O
-Tang NNP B-NP B-PER
-as IN B-PP O
-saying VBG B-VP O
-. . O O
-
-The DT B-NP O
-foreign JJ I-NP O
-ministry NN I-NP O
-'s POS B-NP O
-Shen NNP I-NP B-ORG
-told VBD B-VP O
-Reuters NNP B-NP B-ORG
-Television NNP I-NP I-ORG
-in IN B-PP O
-an DT B-NP O
-interview NN I-NP O
-he PRP B-NP O
-had VBD B-VP O
-read VBN I-VP O
-reports NNS B-NP O
-of IN B-PP O
-Tang NNP B-NP B-PER
-'s POS B-NP O
-comments NNS I-NP O
-but CC O O
-gave VBD B-VP O
-no DT B-NP O
-details NNS I-NP O
-of IN B-PP O
-why WRB B-ADVP O
-the DT B-NP O
-negotiator NN I-NP O
-had VBD B-VP O
-considered VBN I-VP O
-the DT B-NP O
-time NN I-NP O
-right RB B-ADVP O
-for IN B-PP O
-talks NNS B-NP O
-with IN B-PP O
-Taiwan NNP B-NP B-LOC
-, , O O
-which WDT B-NP O
-Beijing NNP B-NP B-LOC
-considers VBZ B-VP O
-a DT B-NP O
-renegade NN I-NP O
-province NN I-NP O
-. . O O
-
-China NNP B-NP B-LOC
-, , O O
-which WDT B-NP O
-has VBZ B-VP O
-long RB I-VP O
-opposed VBN I-VP O
-all DT B-NP O
-Taipei NNP I-NP B-LOC
-efforts NNS I-NP O
-to TO B-VP O
-gain VB I-VP O
-greater JJR B-NP O
-international JJ I-NP O
-recognition NN I-NP O
-, , O O
-was VBD B-VP O
-infuriated VBN I-VP O
-by IN B-PP O
-a DT B-NP O
-visit NN I-NP O
-to TO B-PP O
-Ukraine NNP B-NP B-LOC
-this DT B-NP O
-week NN I-NP O
-by IN B-PP O
-Taiwanese NNP B-NP B-MISC
-Vice NNP I-NP O
-President NNP I-NP O
-Lien NNP I-NP B-PER
-. . O O
-
--DOCSTART- -X- -X- O
-
-China NNP B-NP B-LOC
-says VBZ B-VP O
-time NN B-NP O
-right RB B-ADVP O
-for IN B-PP O
-Taiwan NNP B-NP B-LOC
-talks NNS I-NP O
-. . O O
-
-BEIJING VBG B-VP B-LOC
-1996-08-22 CD B-NP O
-
-China NNP B-NP B-LOC
-has VBZ B-VP O
-said VBD I-VP O
-it PRP B-NP O
-was VBD B-VP O
-time NN B-NP O
-for IN B-PP O
-political JJ B-NP O
-talks NNS I-NP O
-with IN B-PP O
-Taiwan NNP B-NP B-LOC
-and CC O O
-that IN B-SBAR O
-the DT B-NP O
-rival JJ I-NP O
-island NN I-NP O
-should MD B-VP O
-take VB I-VP O
-practical JJ B-NP O
-steps NNS I-NP O
-towards IN B-PP O
-that DT B-NP O
-goal NN I-NP O
-. . O O
-
-Consultations NNS B-NP O
-should MD B-VP O
-be VB I-VP O
-held VBN I-VP O
-to TO B-VP O
-set VB I-VP O
-the DT B-NP O
-time NN I-NP O
-and CC I-NP O
-format NN I-NP O
-of IN B-PP O
-the DT B-NP O
-talks NNS I-NP O
-, , O O
-the DT B-NP O
-official NN I-NP O
-Xinhua NNP I-NP B-ORG
-news NN I-NP O
-agency NN I-NP O
-quoted VBN B-VP O
-Tang NNP B-NP B-PER
-Shubei NNP I-NP I-PER
-, , O O
-executive JJ B-NP O
-vice NN I-NP O
-chairman NN I-NP O
-of IN B-PP O
-the DT B-NP O
-Association NNP I-NP B-ORG
-for IN B-PP I-ORG
-Relations NNP B-NP I-ORG
-Across IN B-PP I-ORG
-the DT B-NP I-ORG
-Taiwan NNP I-NP I-ORG
-Straits NNP I-NP I-ORG
-, , O O
-as IN B-PP O
-saying VBG B-VP O
-late RB B-NP O
-on RB B-ADVP O
-Wednesday NNP B-NP O
-. . O O
-
-German NNP B-NP B-MISC
-July NNP I-NP O
-car NN I-NP O
-registrations NNS I-NP O
-up RB B-ADVP O
-14.2 CD B-NP O
-pct JJ I-NP O
-yr NN I-NP O
-/ SYM O O
-yr NN B-NP O
-. . O O
-
-FRANKFURT NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-German JJ B-NP B-MISC
-first-time JJ I-NP O
-registrations NNS I-NP O
-of IN B-PP O
-motor NN B-NP O
-vehicles NNS I-NP O
-jumped VBD B-VP O
-14.2 CD B-NP O
-percent NN I-NP O
-in IN B-PP O
-July NNP B-NP O
-this DT B-NP O
-year NN I-NP O
-from IN B-PP O
-the DT B-NP O
-year-earlier JJ I-NP O
-period NN I-NP O
-, , O O
-the DT B-NP O
-Federal NNP I-NP B-ORG
-office NN I-NP I-ORG
-for IN B-PP I-ORG
-motor NN B-NP I-ORG
-vehicles NNS I-NP I-ORG
-said VBD B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-. . O O
-
-The DT B-NP O
-office NN I-NP O
-said VBD B-VP O
-356,725 CD B-NP O
-new JJ I-NP O
-cars NNS I-NP O
-were VBD B-VP O
-registered VBN I-VP O
-in IN B-PP O
-July NNP B-NP O
-1996 CD I-NP O
--- : O O
-304,850 CD B-NP O
-passenger NN I-NP O
-cars NNS I-NP O
-and CC O O
-15,613 CD B-NP O
-trucks NNS I-NP O
-. . O O
-
-The DT B-NP O
-figures NNS I-NP O
-represent VBP B-VP O
-a DT B-NP O
-13.6 CD I-NP O
-percent NN I-NP O
-increase NN I-NP O
-for IN B-PP O
-passenger NN B-NP O
-cars NNS I-NP O
-and CC O O
-a DT B-NP O
-2.2 CD I-NP O
-percent NN I-NP O
-decline NN I-NP O
-for IN B-PP O
-trucks NNS B-NP O
-from IN B-PP O
-July NNP B-NP O
-1995 CD I-NP O
-. . O O
-
-Motor-bike JJ B-NP O
-registration NN I-NP O
-rose VBD B-VP O
-32.7 CD B-NP O
-percent NN I-NP O
-in IN B-PP O
-the DT B-NP O
-period NN I-NP O
-. . O O
-
-The DT B-NP O
-growth NN I-NP O
-was VBD B-VP O
-partly RB I-VP O
-due JJ I-VP O
-to TO I-VP O
-an DT B-NP O
-increased VBN I-NP O
-number NN I-NP O
-of IN B-PP O
-Germans NNPS B-NP B-MISC
-buying VBG B-VP O
-German JJ B-NP B-MISC
-cars NNS I-NP O
-abroad RB B-ADVP O
-, , O O
-while IN B-SBAR O
-manufacturers NNS B-NP O
-said VBD B-VP O
-that DT B-NP O
-domestic JJ I-NP O
-demand NN I-NP O
-was VBD B-VP O
-weak JJ B-ADJP O
-, , O O
-the DT B-NP O
-federal JJ I-NP O
-office NN I-NP O
-said VBD B-VP O
-. . O O
-
-Almost RB B-NP O
-all DT I-NP O
-German JJ I-NP B-MISC
-car NN I-NP O
-manufacturers NNS I-NP O
-posted VBD B-VP O
-gains NNS B-NP O
-in IN B-PP O
-registration NN B-NP O
-numbers NNS I-NP O
-in IN B-PP O
-the DT B-NP O
-period NN I-NP O
-. . O O
-
-Volkswagen NNP B-NP B-ORG
-AG NNP I-NP I-ORG
-won VBD B-VP O
-77,719 CD B-NP O
-registrations NNS I-NP O
-, , O O
-slightly RB B-NP O
-more RBR I-NP O
-than IN I-NP O
-a DT I-NP O
-quarter NN I-NP O
-of IN B-PP O
-the DT B-NP O
-total NN I-NP O
-. . O O
-
-Opel NNP B-NP B-ORG
-AG NNP I-NP I-ORG
-together RB B-ADVP O
-with IN B-PP O
-General NNP B-NP B-ORG
-Motors NNPS I-NP I-ORG
-came VBD B-VP O
-in IN B-PP O
-second JJ B-NP O
-place NN I-NP O
-with IN B-PP O
-49,269 CD B-NP O
-registrations NNS I-NP O
-, , O O
-16.4 CD B-NP O
-percent NN I-NP O
-of IN B-PP O
-the DT B-NP O
-overall JJ I-NP O
-figure NN I-NP O
-. . O O
-
-Third JJ B-NP O
-was VBD B-VP O
-Ford NNP B-NP B-ORG
-with IN B-PP O
-35,563 CD B-NP O
-registrations NNS I-NP O
-, , O O
-or CC O O
-11.7 CD B-NP O
-percent NN I-NP O
-. . O O
-
-Only RB B-NP O
-Seat NNP I-NP B-ORG
-and CC I-NP O
-Porsche NNP I-NP B-ORG
-had VBD B-VP O
-fewer JJR B-NP O
-registrations NNS I-NP O
-in IN B-PP O
-July NNP B-NP O
-1996 CD I-NP O
-compared VBN B-PP O
-to TO B-PP O
-last JJ B-NP O
-year NN I-NP O
-'s POS B-NP O
-July NNP I-NP O
-. . O O
-
-Seat NN B-NP B-ORG
-posted VBD B-VP O
-3,420 CD B-NP O
-registrations NNS I-NP O
-compared VBN B-PP O
-with IN B-PP O
-5522 CD B-NP O
-registrations NNS I-NP O
-in IN B-PP O
-July NNP B-NP O
-a DT B-NP O
-year NN I-NP O
-earlier RBR B-ADVP O
-. . O O
-
-Porsche NNP B-NP B-ORG
-'s POS B-NP O
-registrations NNS I-NP O
-fell VBD B-VP O
-to TO B-PP O
-554 CD B-NP O
-from IN B-PP O
-643 CD B-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-GREEK JJ B-NP B-MISC
-SOCIALISTS NNS I-NP O
-GIVE VBP B-VP O
-GREEN NNP B-NP O
-LIGHT NNP I-NP O
-TO TO B-PP O
-PM NNP B-NP O
-FOR IN B-PP O
-ELECTIONS NNS B-NP O
-. . O O
-
-ATHENS NNS B-NP B-LOC
-1996-08-22 CD I-NP O
-
-The DT B-NP O
-Greek NNP I-NP B-MISC
-socialist JJ I-NP O
-party NN I-NP O
-'s POS B-NP O
-executive JJ I-NP O
-bureau NN I-NP O
-gave VBD B-VP O
-the DT B-NP O
-green JJ I-NP O
-light NN I-NP O
-to TO B-PP O
-Prime NNP B-NP O
-Minister NNP I-NP O
-Costas VBZ B-VP B-PER
-Simitis NNPS B-NP I-PER
-to TO B-VP O
-call VB I-VP O
-snap VB I-VP O
-elections NNS B-NP O
-, , O O
-its PRP$ B-NP O
-general JJ I-NP O
-secretary NN I-NP O
-Costas NNP B-NP B-PER
-Skandalidis NNP I-NP I-PER
-told VBD B-VP O
-reporters NNS B-NP O
-. . O O
-
-Prime NNP B-NP O
-Minister NNP I-NP O
-Costas VBZ B-VP B-PER
-Simitis NNP B-NP I-PER
-is VBZ B-VP O
-going VBG I-VP O
-to TO I-VP O
-make VB I-VP O
-an DT B-NP O
-official JJ I-NP O
-announcement NN I-NP O
-after IN B-PP O
-a DT B-NP O
-cabinet NN I-NP O
-meeting NN I-NP O
-later RB B-ADVP O
-on IN B-PP O
-Thursday NNP B-NP O
-, , O O
-said VBD B-VP O
-Skandalidis NNP B-NP B-PER
-. . O O
-
--- : O O
-Dimitris NNP B-NP B-PER
-Kontogiannis NNP I-NP I-PER
-, , O O
-Athens NNP B-NP B-ORG
-Newsroom NNP I-NP I-ORG
-+301 NNP I-NP O
-3311812-4 CD I-NP O
-
--DOCSTART- -X- -X- O
-
-BayerVB NN B-NP B-ORG
-sets VBZ B-VP O
-C$ $ B-NP B-MISC
-100 CD I-NP O
-million CD I-NP O
-six-year JJ I-NP O
-bond NN I-NP O
-. . O O
-
-LONDON NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-The DT B-NP O
-following VBG I-NP O
-bond NN I-NP O
-was VBD B-VP O
-announced VBN I-VP O
-by IN B-PP O
-lead NN B-NP O
-manager NN I-NP O
-Toronto NNP I-NP B-PER
-Dominion NNP I-NP I-PER
-. . O O
-
-BORROWER NNP B-NP O
-BAYERISCHE NNP I-NP B-ORG
-VEREINSBANK NNP I-NP I-ORG
-
-AMT NNP O O
-C$ $ B-NP B-MISC
-100 CD I-NP O
-MLN NNP I-NP O
-COUPON NN I-NP O
-6.625 CD I-NP O
-MATURITY NNP I-NP O
-24.SEP.02 CD B-NP O
-
-TYPE NNP B-NP O
-STRAIGHT NNP I-NP O
-ISS NNP I-NP O
-PRICE NNP I-NP O
-100.92 CD I-NP O
-PAY NN I-NP O
-DATE NNP I-NP O
-24.SEP.96 CD I-NP O
-
-FULL NNP B-NP O
-FEES NNS I-NP O
-1.875 CD B-NP O
-REOFFER NNP I-NP O
-99.32 CD I-NP O
-SPREAD NNP I-NP O
-+20 CD I-NP O
-BP NNP I-NP O
-
-MOODY NNP B-NP O
-AA1 NNP B-NP O
-LISTING NNP I-NP O
-LUX NNP I-NP O
-PAY NN I-NP O
-FREQ NNS I-NP O
-= SYM B-VP O
-
-S&P NNP B-NP B-ORG
-= SYM B-VP O
-DENOMS NNP B-NP O
-( ( O O
-K NNP B-NP O
-) ) O O
-1-10-100 CD B-NP O
-SALE NNP I-NP O
-LIMITS VBZ B-VP O
-US NNP B-NP B-LOC
-/ SYM O O
-UK NNP B-NP B-LOC
-/ SYM O O
-CA VBN B-ADJP B-LOC
-
-NEG NNP B-NP O
-PLG NNP I-NP O
-NO DT I-NP O
-CRS NNP I-NP O
-DEFLT NNP I-NP O
-NO DT I-NP O
-FORCE VBP B-VP O
-MAJ MD I-VP O
-= SYM I-VP O
-
-GOV NNP B-NP O
-LAW NNP I-NP O
-GERMAN NNP I-NP B-MISC
-HOME NNP I-NP O
-CTRY NNP I-NP O
-= SYM B-VP O
-TAX NN B-NP O
-PROVS NNS I-NP O
-STANDARD VBD B-VP O
-
-MGT NNP B-NP O
-/ SYM O O
-UND NNP B-NP O
-0.275 CD I-NP O
-SELL VB B-VP O
-CONC NNP B-NP O
-1.60 CD I-NP O
-PRAECIP NNP I-NP O
-= SYM B-VP O
-
-UNDERLYING VBG B-VP O
-GOVT JJ B-NP O
-BOND NN I-NP O
-7.0 CD I-NP O
-PCT NNP I-NP O
-SEPT NNP I-NP O
-2001 CD I-NP O
-
-NOTES NNS B-NP O
-BAYERISCHE VBP B-VP B-ORG
-VEREINSBANK NNP B-NP I-ORG
-IS VBZ B-VP O
-JOINT VBZ I-VP O
-LEAD NNP B-NP O
-MANAGER NN I-NP O
-
--- : B-NP O
-London NNP I-NP B-ORG
-Newsroom NNP I-NP I-ORG
-+44 CD I-NP O
-171 CD I-NP O
-542 CD I-NP O
-7658 CD I-NP O
-
--DOCSTART- -X- -X- O
-
-Venantius JJ B-NP B-ORG
-sets NNS I-NP O
-$ $ B-NP O
-300 CD I-NP O
-million CD I-NP O
-January NNP I-NP O
-1999 CD I-NP O
-FRN NNP I-NP O
-. . O O
-
-LONDON NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-The DT B-NP O
-following VBG I-NP O
-floating-rate NN I-NP O
-issue NN I-NP O
-was VBD B-VP O
-announced VBN I-VP O
-by IN B-PP O
-lead NN B-NP O
-manager NN I-NP O
-Lehman NNP I-NP B-ORG
-Brothers NNPS I-NP I-ORG
-International NNP I-NP I-ORG
-. . O O
-
-BORROWER NNP B-NP O
-VENANTIUS NNP I-NP B-ORG
-AB NNP I-NP I-ORG
-( ( O O
-SWEDISH NNP B-NP B-MISC
-NATIONAL NNP I-NP O
-MORTGAGE NNP I-NP O
-AGENCY NN I-NP O
-) ) O O
-
-AMT NNP O O
-$ $ B-NP O
-300 CD I-NP O
-MLN NNP I-NP O
-SPREAD NNP I-NP O
-- : O O
-12.5 CD B-NP O
-BP NNP I-NP O
-MATURITY NNP I-NP O
-21.JAN.99 CD I-NP O
-
-TYPE NNP B-NP O
-FRN NNP I-NP O
-BASE NNP I-NP O
-3M NNP I-NP B-ORG
-LIBOR NNP I-NP O
-PAY NN I-NP O
-DATE NNP I-NP O
-S23.SEP.96 NNP I-NP O
-
-LAST NNS B-NP O
-MOODY NNP I-NP O
-AA3 NNP B-NP O
-ISS NNP I-NP O
-PRICE NNP I-NP O
-99.956 CD I-NP O
-FULL NNP I-NP O
-FEES NNS I-NP O
-10 CD B-NP O
-BP NNP I-NP O
-
-LAST NNP B-NP O
-S&P NNP I-NP B-ORG
-AA+ NNP I-NP O
-REOFFER NN I-NP O
-= SYM B-VP O
-
-NOTES NNS B-NP O
-S NNP I-NP O
-SHORT NNP I-NP O
-FIRST NNP I-NP O
-COUPON NNP I-NP O
-
-LISTING VBG B-VP O
-LONDON NNP B-NP B-LOC
-DENOMS NNP I-NP O
-( ( O O
-K NNP B-NP O
-) ) O O
-1-10-100 CD B-NP O
-SALE NNP I-NP O
-LIMITS VBZ B-VP O
-US NNP B-NP B-LOC
-/ SYM O O
-UK NNP B-NP B-LOC
-/ SYM O O
-JP NNP B-NP B-LOC
-/ SYM O O
-FR VBN B-ADJP B-LOC
-
-NEG NNP B-NP O
-PLG NNP I-NP O
-YES NNP I-NP O
-CRS NNP I-NP O
-DEFLT NNP I-NP O
-NO DT I-NP O
-FORCE VBP B-VP O
-MAJ MD I-VP O
-IPMA NNP B-NP O
-2 CD I-NP O
-
-GOV NNP B-NP O
-LAW NNP I-NP O
-ENGLISH NNP I-NP B-MISC
-HOME NNP I-NP O
-CTRY NNP I-NP O
-SWEDEN NNP I-NP B-LOC
-TAX NN I-NP O
-PROVS NNS I-NP O
-STANDARD VBD B-VP O
-
-MGT NNP B-NP O
-/ SYM O O
-UND NNP B-NP O
-5 CD I-NP O
-BP NNP I-NP O
-SELL VB B-VP O
-CONC NNP B-NP O
-5 CD I-NP O
-BP NNP I-NP O
-PRAECIP NNP I-NP O
-= SYM B-VP O
-
-NOTES NNS B-NP O
-ISSUED VBD B-VP O
-OFF NN B-NP O
-EMTN NNP I-NP O
-PROGRAMME NNP I-NP O
-
--- : B-NP O
-London NNP I-NP B-ORG
-Newsroom NNP I-NP I-ORG
-+44 CD I-NP O
-171 CD I-NP O
-542 CD I-NP O
-8863 CD I-NP O
-
--DOCSTART- -X- -X- O
-
-Port NN B-NP O
-conditions NNS I-NP O
-update VBP B-VP O
-- : O O
-Syria NNP B-NP B-LOC
-- : O O
-Lloyds NNP B-NP B-ORG
-Shipping NNP I-NP I-ORG
-. . O O
-
-Port NN B-NP O
-conditions NNS I-NP O
-from IN B-PP O
-Lloyds NNP B-NP B-ORG
-Shipping NNP I-NP I-ORG
-Intelligence NNP I-NP I-ORG
-Service NNP I-NP I-ORG
--- : O O
-
-LATTAKIA NNP B-NP B-LOC
-, , O O
-Aug NNP B-NP O
-10 CD I-NP O
-- : I-NP O
-waiting VBG B-VP O
-time NN B-NP O
-at IN B-PP O
-Lattakia NNP B-NP B-LOC
-and CC I-NP O
-Tartous NNP I-NP B-LOC
-presently RB B-ADVP O
-24 CD B-NP O
-hours NNS I-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-Israel NNP B-NP B-LOC
-plays VBZ B-VP O
-down RP B-PRT O
-fears NNS B-NP O
-of IN B-PP O
-war NN B-NP O
-with IN B-PP O
-Syria NNP B-NP B-LOC
-. . O O
-
-Colleen NNP B-NP B-PER
-Siegel NNP I-NP I-PER
-
-JERUSALEM VBN B-NP B-LOC
-1996-08-22 CD I-NP O
-
-Israel NNP B-NP B-LOC
-'s POS B-NP O
-outgoing JJ I-NP O
-peace NN I-NP O
-negotiator NN I-NP O
-with IN B-PP O
-Syria NNP B-NP B-LOC
-said VBD B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-current JJ I-NP O
-tensions NNS I-NP O
-between IN B-PP O
-the DT B-NP O
-two CD I-NP O
-countries NNS I-NP O
-appeared VBD B-VP O
-to TO I-VP O
-be VB I-VP O
-a DT B-NP O
-storm NN I-NP O
-in IN B-PP O
-a DT B-NP O
-teacup NN I-NP O
-. . O O
-
-Itamar NNP B-NP B-PER
-Rabinovich NNP I-NP I-PER
-, , O O
-who WP B-NP O
-as IN B-PP O
-Israel NNP B-NP B-LOC
-'s POS B-NP O
-ambassador NN I-NP O
-to TO B-PP O
-Washington NNP B-NP B-LOC
-conducted VBD B-VP O
-unfruitful JJ B-NP O
-negotiations NNS I-NP O
-with IN B-PP O
-Syria NNP B-NP B-LOC
-, , O O
-told VBD B-VP O
-Israel NNP B-NP B-ORG
-Radio NNP I-NP I-ORG
-it PRP B-NP O
-looked VBD B-VP O
-like IN B-PP O
-Damascus NNP B-NP B-LOC
-wanted VBD B-VP O
-to TO I-VP O
-talk VB I-VP O
-rather RB B-CONJP O
-than IN I-CONJP O
-fight NN B-NP O
-. . O O
-
-" " O O
-It PRP B-NP O
-appears VBZ B-VP O
-to TO B-PP O
-me PRP B-NP O
-the DT B-NP O
-Syrian JJ I-NP B-MISC
-priority NN I-NP O
-is VBZ B-VP O
-still RB B-ADVP O
-to TO B-VP O
-negotiate VB I-VP O
-. . O O
-
-The DT B-NP O
-Syrians NNPS I-NP B-MISC
-are VBP B-VP O
-confused VBN B-ADJP O
-, , O O
-they PRP B-NP O
-are VBP B-VP O
-definitely RB I-VP O
-tense JJ B-NP O
-, , O O
-but CC O O
-the DT B-NP O
-general JJ I-NP O
-assessment NN I-NP O
-here RB B-ADVP O
-in IN B-PP O
-Washington NNP B-NP B-LOC
-is VBZ B-VP O
-that IN B-SBAR O
-this DT B-NP O
-is VBZ B-VP O
-essentially RB B-ADVP O
-a DT B-NP O
-storm NN I-NP O
-in IN B-PP O
-a DT B-NP O
-teacup NN I-NP O
-, , O O
-" " O O
-he PRP B-NP O
-said VBD B-VP O
-. . O O
-
-Rabinovich NN B-NP B-PER
-is VBZ B-VP O
-winding VBG I-VP O
-up RP B-PRT O
-his PRP$ B-NP O
-term NN I-NP O
-as IN B-PP O
-ambassador NN B-NP O
-. . O O
-
-He PRP B-NP O
-will MD B-VP O
-be VB I-VP O
-replaced VBN I-VP O
-by IN B-PP O
-Eliahu NNP B-NP B-PER
-Ben-Elissar NNP I-NP I-PER
-, , O O
-a DT B-NP O
-former JJ I-NP O
-Israeli JJ I-NP B-MISC
-envoy NN I-NP O
-to TO B-PP O
-Egypt NNP B-NP B-LOC
-and CC O O
-right-wing JJ B-NP O
-Likud NNP I-NP B-ORG
-party NN I-NP O
-politician NN I-NP O
-. . O O
-
-Israel NNP B-NP B-LOC
-on IN B-PP O
-Wednesday NNP B-NP O
-sent VBD B-VP O
-Syria NNP B-NP B-LOC
-a DT B-NP O
-message NN I-NP O
-, , O O
-via IN B-PP O
-Washington NNP B-NP B-LOC
-, , O O
-saying VBG B-VP O
-it PRP B-NP O
-was VBD B-VP O
-committed VBN I-VP O
-to TO B-PP O
-peace NN B-NP O
-and CC O O
-wanted VBD B-VP O
-to TO I-VP O
-open VB I-VP O
-negotiations NNS B-NP O
-without IN B-PP O
-preconditions NNS B-NP O
-. . O O
-
-But CC O O
-it PRP B-NP O
-slammed VBD B-VP O
-Damascus NNP B-NP B-LOC
-for IN B-PP O
-creating VBG B-VP O
-what WP B-NP O
-it PRP B-NP O
-called VBD B-VP O
-a DT B-NP O
-dangerous JJ I-NP O
-atmosphere NN I-NP O
-. . O O
-
-Syria NNP B-NP B-LOC
-accused VBD B-VP O
-Israel NNP B-NP B-LOC
-on IN B-PP O
-Wednesday NNP B-NP O
-of IN B-PP O
-launching VBG B-VP O
-a DT B-NP O
-hysterical JJ I-NP O
-campaign NN I-NP O
-against IN B-PP O
-it PRP B-NP O
-after IN B-PP O
-Israeli JJ B-NP B-MISC
-television NN I-NP O
-reported VBD B-VP O
-that IN B-SBAR O
-Damascus NNP B-NP B-LOC
-had VBD B-VP O
-recently RB I-VP O
-test VB I-VP O
-fired VBN I-VP O
-a DT B-NP O
-missile NN I-NP O
-. . O O
-
-It PRP B-NP O
-said VBD B-VP O
-its PRP$ B-NP O
-arms NNS I-NP O
-purchases NNS I-NP O
-were VBD B-VP O
-for IN B-PP O
-defensive JJ B-NP O
-purposes NNS I-NP O
-. . O O
-
-" " O O
-The DT B-NP O
-message NN I-NP O
-that IN B-SBAR O
-we PRP B-NP O
-sent VBD B-VP O
-to TO I-VP O
-( ( O O
-Syrian JJ B-NP B-MISC
-President NNP I-NP O
-Hafez NNP I-NP B-PER
-al- JJ I-NP I-PER
-) ) O O
-Assad NN B-NP B-PER
-is VBZ B-VP O
-that IN B-SBAR O
-Israel NNP B-NP B-LOC
-is VBZ B-VP O
-ready JJ B-ADJP O
-at IN B-PP O
-any DT B-NP O
-time NN I-NP O
-without IN B-PP O
-preconditions NNS B-NP O
-to TO B-VP O
-enter VB I-VP O
-peace NN B-NP O
-negotiations NNS I-NP O
-, , O O
-" " O O
-Israeli JJ B-NP B-MISC
-Foreign NNP I-NP O
-Minister NNP I-NP O
-David NNP I-NP B-PER
-Levy NNP I-NP I-PER
-told VBD B-VP O
-Israel NNP B-NP B-ORG
-Radio NNP I-NP I-ORG
-in IN B-PP O
-an DT B-NP O
-interview NN I-NP O
-. . O O
-
-Tension NN B-NP O
-has VBZ B-VP O
-mounted VBN I-VP O
-since IN B-PP O
-Israeli NNP B-NP B-MISC
-Prime NNP I-NP O
-Minister NNP I-NP O
-Benjamin NNP I-NP B-PER
-Netanyahu NNP I-NP I-PER
-took VBD B-VP O
-office NN B-NP O
-in IN B-PP O
-June NNP B-NP O
-vowing VBG B-VP O
-to TO I-VP O
-retain VB I-VP O
-the DT B-NP O
-Golan NNP I-NP B-LOC
-Heights NNPS I-NP I-LOC
-Israel NNP I-NP B-LOC
-captured VBD B-VP O
-from IN B-PP O
-Syria NNP B-NP B-LOC
-in IN B-PP O
-the DT B-NP O
-1967 CD I-NP O
-Middle NNP I-NP B-LOC
-East NNP I-NP I-LOC
-war NN I-NP O
-. . O O
-
-Israeli-Syrian JJ B-NP B-MISC
-peace NN I-NP O
-talks NNS I-NP O
-have VBP B-VP O
-been VBN I-VP O
-deadlocked VBN B-ADJP O
-over IN B-PP O
-the DT B-NP O
-Golan NNP I-NP B-LOC
-since IN B-PP O
-1991 CD B-NP O
-despite IN B-PP O
-the DT B-NP O
-previous JJ I-NP O
-government NN I-NP O
-'s POS B-NP O
-willingness NN I-NP O
-to TO B-VP O
-make VB I-VP O
-Golan JJ B-NP B-LOC
-concessions NNS I-NP O
-. . O O
-
-Peace NN B-NP O
-talks NNS I-NP O
-between IN B-PP O
-the DT B-NP O
-two CD I-NP O
-sides NNS I-NP O
-were VBD B-VP O
-last JJ B-NP O
-held VBN I-NP O
-in IN B-PP O
-February NNP B-NP O
-. . O O
-
-" " O O
-The DT B-NP O
-voices NNS I-NP O
-coming VBG B-VP O
-out IN B-PP O
-of IN B-PP O
-Damascus NNP B-NP B-LOC
-are VBP B-VP O
-bad JJ B-ADJP O
-, , I-ADJP O
-not RB I-ADJP O
-good JJ I-ADJP O
-. . O O
-
-The DT B-NP O
-media NNS I-NP O
-... : O O
-
-are VBP B-VP O
-full JJ B-ADJP O
-of IN B-PP O
-expressions NNS B-NP O
-and CC I-NP O
-declarations NNS I-NP O
-that WDT B-NP O
-must MD B-VP O
-be VB I-VP O
-worrying VBG I-VP O
-... : O O
-
-this DT B-NP O
-artificial JJ I-NP O
-atmosphere NN I-NP O
-is VBZ B-VP O
-very RB B-ADJP O
-dangerous JJ I-ADJP O
-because IN B-SBAR O
-those DT B-NP O
-who WP B-NP O
-spread NN I-NP O
-it PRP B-NP O
-could MD B-VP O
-become VB I-VP O
-its PRP$ B-NP O
-prisoners NNS I-NP O
-, , O O
-" " O O
-Levy NNP B-NP B-PER
-said VBD B-VP O
-. . O O
-
-" " O O
-We PRP B-NP O
-expect VB B-VP O
-from IN B-PP O
-Syria NNP B-NP B-LOC
-, , O O
-if IN B-SBAR O
-its PRP$ B-NP O
-face NN I-NP O
-is VBZ B-VP O
-to TO B-PP O
-peace NN B-NP O
-, , O O
-that IN B-SBAR O
-it PRP B-NP O
-will MD B-VP O
-answer VB I-VP O
-Israel NNP B-NP B-LOC
-'s POS B-NP O
-message NN I-NP O
-to TO B-VP O
-enter VB I-VP O
-peace NN B-NP O
-negotiations NNS I-NP O
-because IN B-SBAR O
-that DT B-NP O
-is VBZ B-VP O
-our PRP$ B-NP O
-goal NN I-NP O
-, , O O
-" " O O
-he PRP B-NP O
-said VBD B-VP O
-. . O O
-" " O O
-
-We PRP B-NP O
-do VBP B-VP O
-not RB I-VP O
-want VB I-VP O
-a DT B-NP O
-war NN I-NP O
-, , O O
-God NNP B-NP B-PER
-forbid VB B-VP O
-. . O O
-
-No DT B-NP O
-one CD I-NP O
-benefits NNS I-NP O
-from IN B-PP O
-wars NNS B-NP O
-. . O O
-" " O O
-
-Israel NNP B-NP B-LOC
-'s POS B-NP O
-Channel NNP I-NP B-ORG
-Two CD I-NP I-ORG
-television NN I-NP O
-said VBD B-VP O
-Damascus NNP B-NP B-LOC
-had VBD B-VP O
-sent VBN I-VP O
-a DT B-NP O
-" " O O
-calming JJ B-NP O
-signal NN I-NP O
-" " O O
-to TO B-VP O
-Israel NNP B-NP B-LOC
-. . O O
-
-It PRP B-NP O
-gave VBD B-VP O
-no DT B-NP O
-source NN I-NP O
-for IN B-PP O
-the DT B-NP O
-report NN I-NP O
-. . O O
-
-Netanyahu NNS B-NP B-PER
-and CC I-NP O
-Levy NNP I-NP B-PER
-'s POS B-NP O
-spokesmen NNS I-NP O
-said VBD B-VP O
-they PRP B-NP O
-could MD B-VP O
-not RB I-VP O
-confirm VB I-VP O
-it PRP B-NP O
-. . O O
-
-The DT B-NP O
-television NN I-NP O
-also RB B-ADVP O
-said VBD B-VP O
-that IN B-SBAR O
-Netanyahu NNP B-NP B-PER
-had VBD B-VP O
-sent VBN I-VP O
-messages NNS B-NP O
-to TO B-VP O
-reassure VB I-VP O
-Syria NNP B-NP B-LOC
-via IN B-PP O
-Cairo NNP B-NP B-LOC
-, , O O
-the DT B-NP O
-United NNP I-NP B-LOC
-States NNPS I-NP I-LOC
-and CC O O
-Moscow NNP B-NP B-LOC
-. . O O
-
--DOCSTART- -X- -X- O
-
-Polish JJ B-NP B-MISC
-diplomat NN I-NP O
-denies VBZ B-VP O
-nurses NNS B-NP O
-stranded VBN B-VP O
-in IN B-PP O
-Libya NNP B-NP B-LOC
-. . O O
-
-TUNIS NNS B-NP B-LOC
-1996-08-22 CD I-NP O
-
-A DT B-NP O
-Polish JJ I-NP B-MISC
-diplomat NN I-NP O
-on IN B-PP O
-Thursday NNP B-NP O
-denied VBD B-VP O
-a DT B-NP O
-Polish JJ I-NP B-MISC
-tabloid JJ I-NP O
-report NN I-NP O
-this DT B-NP O
-week NN I-NP O
-that IN B-SBAR O
-Libya NNP B-NP B-LOC
-was VBD B-VP O
-refusing VBG I-VP O
-exit NN B-NP O
-visas NNS I-NP O
-to TO B-PP O
-100 CD B-NP O
-Polish JJ I-NP B-MISC
-nurses NNS I-NP O
-trying VBG B-VP O
-to TO I-VP O
-return VB I-VP O
-home NN B-NP O
-after IN B-PP O
-working VBG B-VP O
-in IN B-PP O
-the DT B-NP O
-North JJ I-NP B-MISC
-African JJ I-NP I-MISC
-country NN I-NP O
-. . O O
-
-" " O O
-This DT B-NP O
-is VBZ B-VP O
-not RB O O
-true JJ B-ADJP O
-. . O O
-
-Up IN B-PP O
-to TO B-PP O
-today NN B-NP O
-, , O O
-we PRP B-NP O
-have VBP B-VP O
-no DT B-NP O
-knowledge NN I-NP O
-of IN B-PP O
-any DT B-NP O
-nurse NN I-NP O
-stranded VBN B-VP O
-or CC I-VP O
-kept VBD I-VP O
-in IN B-PP O
-Libya NNP B-NP B-LOC
-without IN B-PP O
-her PRP$ B-NP O
-will NN I-NP O
-, , O O
-and CC O O
-we PRP B-NP O
-have VBP B-VP O
-not RB I-VP O
-received VBN I-VP O
-any DT B-NP O
-complaint NN I-NP O
-, , O O
-" " O O
-the DT B-NP O
-Polish JJ I-NP B-MISC
-embassy NN I-NP O
-'s POS B-NP O
-charge NN I-NP O
-d'affaires NNS I-NP O
-in IN B-PP O
-Tripoli NNP B-NP B-LOC
-, , O O
-Tadeusz NNP B-NP B-PER
-Awdankiewicz NNP I-NP I-PER
-, , O O
-told VBD B-VP O
-Reuters NNP B-NP B-ORG
-by IN B-PP O
-telephone NN B-NP O
-. . O O
-
-Poland NNP B-NP B-LOC
-'s POS B-NP O
-labour NN I-NP O
-ministry NN I-NP O
-said VBD B-VP O
-this DT B-NP O
-week NN I-NP O
-it PRP B-NP O
-would MD B-VP O
-send VB I-VP O
-a DT B-NP O
-team NN I-NP O
-to TO B-PP O
-Libya NNP B-NP B-LOC
-to TO B-VP O
-investigate VB I-VP O
-, , O O
-but CC O O
-Awdankiewicz NNP B-NP B-PER
-said VBD B-VP O
-the DT B-NP O
-probe NN I-NP O
-was VBD B-VP O
-prompted VBN I-VP O
-by IN B-PP O
-some DT B-NP O
-nurses NNS I-NP O
-complaining VBG B-VP O
-about IN B-PP O
-their PRP$ B-NP O
-work NN I-NP O
-conditions NNS I-NP O
-such JJ B-PP O
-as IN I-PP O
-non-payment NN B-NP O
-of IN B-PP O
-their PRP$ B-NP O
-salaries NNS I-NP O
-. . O O
-
-He PRP B-NP O
-said VBD B-VP O
-that IN B-SBAR O
-there EX B-NP O
-are VBP B-VP O
-an DT B-NP O
-estimated VBN I-NP O
-800 CD I-NP O
-Polish JJ I-NP B-MISC
-nurses NNS I-NP O
-working VBG B-VP O
-in IN B-PP O
-Libya NNP B-NP B-LOC
-. . O O
-
--DOCSTART- -X- -X- O
-
-Two CD B-NP O
-Iranian JJ I-NP B-MISC
-opposition NN I-NP O
-leaders NNS I-NP O
-meet VBP B-VP O
-in IN B-PP O
-Baghdad NNP B-NP B-LOC
-. . O O
-
-Hassan NNP B-NP B-PER
-Hafidh NNP I-NP I-PER
-
-BAGHDAD NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-An DT B-NP O
-Iranian JJ I-NP B-MISC
-exile NN I-NP O
-group NN I-NP O
-based VBN B-VP O
-in IN B-PP O
-Iraq NNP B-NP B-LOC
-vowed VBD B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-to TO B-VP O
-extend VB I-VP O
-support NN B-NP O
-to TO B-PP O
-Iran NNP B-NP B-LOC
-'s POS B-NP O
-Kurdish NNP I-NP B-MISC
-rebels NNS I-NP O
-after IN B-SBAR O
-they PRP B-NP O
-were VBD B-VP O
-attacked VBN I-VP O
-by IN B-PP O
-Iranian JJ B-NP B-MISC
-troops NNS I-NP O
-deep RB B-ADJP O
-inside IN B-PP O
-Iraq NNP B-NP B-LOC
-last JJ B-NP O
-month NN I-NP O
-. . O O
-
-A DT B-NP O
-Mujahideen NNP I-NP B-ORG
-Khalq NNP I-NP I-ORG
-statement NN I-NP O
-said VBD B-VP O
-its PRP$ B-NP O
-leader NN I-NP O
-Massoud NNP I-NP B-PER
-Rajavi NNP I-NP I-PER
-met VBD B-VP O
-in IN B-PP O
-Baghdad NNP B-NP B-LOC
-the DT B-NP O
-Secretary-General NNP I-NP O
-of IN B-PP O
-the DT B-NP O
-Kurdistan NNP I-NP B-ORG
-Democratic NNP I-NP I-ORG
-Party NNP I-NP I-ORG
-of IN B-PP I-ORG
-Iran NNP B-NP I-ORG
-( ( O O
-KDPI NNP B-NP B-ORG
-) ) O O
-Hassan NNP B-NP B-PER
-Rastegar NNP I-NP I-PER
-on IN B-PP O
-Wednesday NNP B-NP O
-and CC O O
-voiced VBD B-VP O
-his PRP$ B-NP O
-support NN I-NP O
-to TO B-PP O
-Iran NNP B-NP B-LOC
-'s POS B-NP O
-rebel NN I-NP O
-Kurds NNPS I-NP B-MISC
-. . O O
-
-" " O O
-Rajavi NNP B-NP B-MISC
-emphasised VBD B-VP O
-that IN B-SBAR O
-the DT B-NP O
-Iranian JJ I-NP B-MISC
-Resistance NN I-NP B-ORG
-would MD B-VP O
-continue VB I-VP O
-to TO I-VP O
-stand VB I-VP O
-side NN B-NP O
-by IN B-PP O
-side NN B-NP O
-with IN B-PP O
-their PRP$ B-NP O
-Kurdish JJ I-NP B-MISC
-compatriots NNS I-NP O
-and CC O O
-the DT B-NP O
-resistance NN I-NP O
-movement NN I-NP O
-in IN B-PP O
-Iranian NNP B-NP B-LOC
-Kurdistan NNP I-NP I-LOC
-, , O O
-" " O O
-it PRP B-NP O
-said VBD B-VP O
-. . O O
-
-A DT B-NP O
-spokesman NN I-NP O
-for IN B-PP O
-the DT B-NP O
-group NN I-NP O
-said VBD B-VP O
-the DT B-NP O
-meeting NN I-NP O
-" " O O
-signals NNS B-NP O
-a DT B-NP O
-new JJ I-NP O
-level NN I-NP O
-of IN B-PP O
-cooperation NN B-NP O
-between IN B-PP O
-Mujahideen NNP B-NP B-ORG
-Khalq NNP I-NP I-ORG
-and CC O O
-the DT B-NP O
-Iranian NNP I-NP B-MISC
-Kurdish NNP I-NP I-MISC
-oppositions VBZ B-VP O
-" " O O
-. . O O
-
-Iran NNP B-NP B-LOC
-heavily RB B-ADVP O
-bombarded VBD B-VP O
-targets NNS B-NP O
-in IN B-PP O
-northern JJ B-NP O
-Iraq NNP I-NP B-LOC
-in IN B-PP O
-July NNP B-NP O
-in IN B-PP O
-pursuit NN B-NP O
-of IN B-PP O
-KDPI NNP B-NP B-ORG
-guerrillas NNS I-NP O
-based VBN B-VP O
-in IN B-PP O
-Iraqi JJ B-NP B-MISC
-Kurdish JJ I-NP I-MISC
-areas NNS I-NP O
-outside IN B-PP O
-the DT B-NP O
-control NN I-NP O
-of IN B-PP O
-the DT B-NP O
-government NN I-NP O
-in IN B-PP O
-Baghdad NNP B-NP B-LOC
-. . O O
-
-Iraqi JJ B-NP B-MISC
-Kurdish JJ I-NP I-MISC
-areas NNS I-NP O
-bordering VBG B-VP O
-Iran NNP B-NP B-LOC
-are VBP B-VP O
-under IN B-PP O
-the DT B-NP O
-control NN I-NP O
-of IN B-PP O
-guerrillas NNS B-NP O
-of IN B-PP O
-the DT B-NP O
-Iraqi JJ I-NP B-ORG
-Kurdish NN I-NP I-ORG
-Patriotic NNP I-NP I-ORG
-Union NNP I-NP I-ORG
-of IN B-PP I-ORG
-Kurdistan NNP B-NP I-ORG
-( ( O O
-PUK NNP B-NP B-ORG
-) ) O O
-group NN B-NP O
-. . O O
-
-PUK NNP B-NP B-ORG
-and CC O O
-Iraq NNP B-NP B-LOC
-'s POS B-NP O
-Kurdistan NNP I-NP B-ORG
-Democratic NNP I-NP I-ORG
-Party NNP I-NP I-ORG
-( ( O O
-KDP NNP B-NP B-ORG
-) ) O O
-the DT B-NP O
-two CD I-NP O
-main JJ I-NP O
-Iraqi JJ I-NP B-MISC
-Kurdish JJ I-NP I-MISC
-factions NNS I-NP O
-, , O O
-have VBP B-VP O
-had VBD I-VP O
-northern JJ B-NP O
-Iraq NNP I-NP B-LOC
-under IN B-PP O
-their PRP$ B-NP O
-control NN I-NP O
-since IN B-PP O
-Iraqi JJ B-NP B-MISC
-forces NNS I-NP O
-were VBD B-VP O
-ousted VBN I-VP O
-from IN B-PP O
-Kuwait NNP B-NP B-LOC
-in IN B-PP O
-the DT B-NP O
-1991 CD I-NP O
-Gulf NNP I-NP B-MISC
-War NNP I-NP I-MISC
-. . O O
-
-Clashes NNS B-NP O
-between IN B-PP O
-the DT B-NP O
-two CD I-NP O
-parties NNS I-NP O
-broke VBD B-VP O
-out RB B-ADVP O
-at IN B-PP O
-the DT B-NP O
-weekend NN I-NP O
-in IN B-PP O
-the DT B-NP O
-most RBS I-NP O
-serious JJ I-NP O
-fighting NN I-NP O
-since IN B-PP O
-a DT B-NP O
-U.S.-sponsored JJ I-NP B-MISC
-ceasefire NN I-NP O
-last JJ B-NP O
-year NN I-NP O
-. . O O
-
-Mujahideen NNP B-NP B-ORG
-Khalq NNP I-NP I-ORG
-said VBD B-VP O
-Iranian JJ B-NP B-MISC
-troops NNS I-NP O
-had VBD B-VP O
-also RB I-VP O
-been VBN I-VP O
-shelling VBG I-VP O
-KDP NNP B-NP B-ORG
-positions NNS I-NP O
-in IN B-PP O
-Qasri NNP B-NP B-LOC
-region NN I-NP O
-in IN B-PP O
-Suleimaniya NNP B-NP B-LOC
-province NN I-NP O
-near IN B-PP O
-the DT B-NP O
-Iranian JJ I-NP B-MISC
-border NN I-NP O
-over IN B-PP O
-the DT B-NP O
-last JJ I-NP O
-two CD I-NP O
-days NNS I-NP O
-. . O O
-
-It PRP B-NP O
-said VBD B-VP O
-about IN B-NP O
-100 CD I-NP O
-Iraqi JJ I-NP B-MISC
-Kurds NNPS I-NP I-MISC
-were VBD B-VP O
-killed VBN I-VP O
-or CC I-VP O
-wounded VBN I-VP O
-in IN B-PP O
-the DT B-NP O
-attack NN I-NP O
-. . O O
-
-Both DT B-NP O
-Iran NNP I-NP B-LOC
-and CC I-NP O
-Turkey NNP I-NP B-LOC
-mount NN I-NP O
-air NN I-NP O
-and CC I-NP O
-land NN I-NP O
-strikes NNS I-NP O
-at IN B-PP O
-targets NNS B-NP O
-in IN B-PP O
-northern JJ B-NP O
-Iraq NNP I-NP B-LOC
-in IN B-PP O
-pursuit NN B-NP O
-of IN B-PP O
-their PRP$ B-NP O
-own JJ I-NP O
-Kurdish JJ I-NP B-MISC
-rebels NNS I-NP O
-. . O O
-
-A DT B-NP O
-U.S.-led JJ I-NP B-MISC
-air NN I-NP O
-force NN I-NP O
-in IN B-PP O
-southern JJ B-NP O
-Turkey NNP I-NP B-LOC
-protects VBZ B-VP O
-Iraqi JJ B-NP B-MISC
-Kurds NNPS I-NP I-MISC
-from IN B-PP O
-possible JJ B-NP O
-attacks NNS I-NP O
-by IN B-PP O
-Baghdad NNP B-NP B-LOC
-troops NNS I-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-Saudi JJ B-NP B-MISC
-riyal JJ I-NP O
-rates NNS I-NP O
-steady RB B-ADJP O
-in IN B-PP O
-quiet JJ B-NP O
-summer NN I-NP O
-trade NN I-NP O
-. . O O
-
-MANAMA NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-The DT B-NP O
-spot NN I-NP O
-Saudi NN I-NP B-MISC
-riyal NN I-NP O
-against IN B-PP O
-the DT B-NP O
-dollar NN I-NP O
-and CC O O
-riyal JJ B-NP O
-interbank NN I-NP O
-deposit NN I-NP O
-rates NNS I-NP O
-were VBD B-VP O
-mainly RB I-VP O
-steady JJ B-NP O
-this DT B-NP O
-week NN I-NP O
-in IN B-PP O
-quiet JJ B-NP O
-summer NN I-NP O
-trade NN I-NP O
-, , O O
-dealers NNS B-NP O
-in IN B-PP O
-the DT B-NP O
-kingdom NN I-NP O
-said VBD B-VP O
-. . O O
-
-" " O O
-There EX B-NP O
-were VBD B-VP O
-no DT B-NP O
-changes NNS I-NP O
-in IN B-PP O
-Saudi JJ B-NP B-MISC
-riyal JJ I-NP O
-rates NNS I-NP O
-. . O O
-
-The DT B-NP O
-market NN I-NP O
-was VBD B-VP O
-very RB B-ADJP O
-quiet JJ I-ADJP O
-because IN B-PP O
-of IN I-PP O
-summer NN B-NP O
-holidays NNS I-NP O
-, , O O
-" " O O
-one CD B-NP O
-dealer NN I-NP O
-said VBD B-VP O
-. . O O
-
-The DT B-NP O
-spot NN I-NP O
-riyal NN I-NP O
-was VBD B-VP O
-put VBN I-VP O
-at IN B-PP O
-3.7504 CD B-NP O
-/ SYM O O
-06 CD B-NP O
-to TO B-PP O
-the DT B-NP O
-dollar NN I-NP O
-. . O O
-
-One-month JJ B-NP B-MISC
-interbank NN I-NP O
-deposits NNS I-NP O
-were VBD B-VP O
-at IN B-PP O
-5-1/2 CD B-NP O
-, , O O
-3/8 CD B-NP O
-percent NN I-NP O
-, , O O
-three CD B-NP O
-months NNS I-NP O
-were VBD B-VP O
-5-5/8 CD B-NP O
-, , O O
-1/2 CD B-NP O
-percent NN I-NP O
-and CC O O
-six CD B-NP O
-months NNS I-NP O
-were VBD B-VP O
-5-3/4 CD B-NP O
-, , O O
-5/8 CD B-NP O
-percent NN I-NP O
-. . O O
-
-One-year JJ B-NP B-MISC
-funds NNS I-NP O
-were VBD B-VP O
-at IN B-PP O
-six CD B-NP O
-, , I-NP O
-5-7/8 JJ I-NP O
-percent NN I-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-Israel NNP B-NP B-LOC
-approves VBZ B-VP O
-Arafat NNP B-NP B-PER
-'s POS B-NP O
-flight NN I-NP O
-to TO B-PP O
-West NNP B-NP B-LOC
-Bank NNP I-NP I-LOC
-. . O O
-
-JERUSALEM VBN B-NP B-LOC
-1996-08-22 CD I-NP O
-
-Israel NNP B-NP B-LOC
-gave VBD B-VP O
-Palestinian JJ B-NP B-MISC
-President NNP I-NP O
-Yasser NNP I-NP B-PER
-Arafat NNP I-NP I-PER
-permission NN I-NP O
-on IN B-PP O
-Thursday NNP B-NP O
-to TO B-VP O
-fly VB I-VP O
-over RP B-PRT O
-its PRP$ B-NP O
-territory NN I-NP O
-to TO B-PP O
-the DT B-NP O
-West NNP I-NP B-LOC
-Bank NNP I-NP I-LOC
-, , O O
-ending VBG B-VP O
-a DT B-NP O
-brief JJ I-NP O
-Israeli-PLO JJ I-NP B-MISC
-crisis NN I-NP O
-, , O O
-an DT B-NP O
-Arafat NNP I-NP B-PER
-adviser NN I-NP O
-said VBD B-VP O
-. . O O
-
-" " O O
-The DT B-NP O
-problem NN I-NP O
-is VBZ B-VP O
-over RB B-ADVP O
-. . O O
-
-The DT B-NP O
-president NN I-NP O
-'s POS B-NP O
-aircraft NN I-NP O
-has VBZ B-VP O
-received VBN I-VP O
-permission NN B-NP O
-to TO B-VP O
-pass VB I-VP O
-through IN B-PP O
-Israeli JJ B-NP B-MISC
-airspace NN I-NP O
-but CC O O
-the DT B-NP O
-president NN I-NP O
-is VBZ B-VP O
-not RB I-VP O
-expected VBN I-VP O
-to TO I-VP O
-travel VB I-VP O
-to TO B-PP O
-the DT B-NP O
-West NNP I-NP B-LOC
-Bank NNP I-NP I-LOC
-before IN B-PP O
-Monday NNP B-NP O
-, , O O
-" " O O
-Nabil NNP B-NP B-PER
-Abu NNP I-NP I-PER
-Rdainah NNP I-NP I-PER
-told VBD B-VP O
-Reuters NNP B-NP B-ORG
-. . O O
-
-Arafat NNP B-NP B-PER
-had VBD B-VP O
-been VBN I-VP O
-scheduled VBN I-VP O
-to TO I-VP O
-meet VB I-VP O
-former JJ B-NP O
-Israeli JJ I-NP B-MISC
-prime JJ I-NP O
-minister NN I-NP O
-Shimon NNP I-NP B-PER
-Peres NNP I-NP I-PER
-in IN B-PP O
-the DT B-NP O
-West NNP I-NP B-LOC
-Bank NNP I-NP I-LOC
-town NN I-NP O
-of IN B-PP O
-Ramallah NNP B-NP B-LOC
-on IN B-PP O
-Thursday NNP B-NP O
-but CC O O
-the DT B-NP O
-venue NN I-NP O
-was VBD B-VP O
-changed VBN I-VP O
-to TO B-PP O
-Gaza NNP B-NP B-LOC
-after IN B-SBAR O
-Israel NNP B-NP B-LOC
-denied VBD B-VP O
-flight NN B-NP O
-clearance NN I-NP O
-to TO B-PP O
-the DT B-NP O
-Palestinian JJ I-NP B-MISC
-leader NN I-NP O
-'s POS B-NP O
-helicopters NNS I-NP O
-. . O O
-
-Palestinian NN B-NP B-MISC
-officials NNS I-NP O
-accused VBD B-VP O
-right-wing JJ B-NP O
-Prime NNP I-NP O
-Minister NNP I-NP O
-Benjamin NNP I-NP B-PER
-Netanyahu NNP I-NP I-PER
-of IN B-PP O
-trying VBG B-VP O
-to TO I-VP O
-stop VB I-VP O
-the DT B-NP O
-Ramallah NNP I-NP B-LOC
-meeting NN I-NP O
-by IN B-PP O
-keeping VBG B-VP O
-Arafat NNP B-NP B-PER
-grounded VBD B-VP O
-. . O O
-
-Arafat NNP B-NP B-PER
-subsequently RB B-ADVP O
-cancelled VBD B-VP O
-a DT B-NP O
-meeting NN I-NP O
-between IN B-PP O
-Israeli JJ B-NP B-MISC
-and CC I-NP O
-PLO JJ I-NP B-ORG
-officials NNS I-NP O
-, , O O
-on IN B-PP O
-civilian JJ B-NP O
-affairs NNS I-NP O
-, , O O
-at IN B-PP O
-the DT B-NP O
-Allenby NNP I-NP B-LOC
-Bridge NNP I-NP I-LOC
-crossing VBG B-VP O
-between IN B-PP O
-Jordan NNP B-NP B-LOC
-and CC O O
-the DT B-NP O
-West NNP I-NP B-LOC
-Bank NNP I-NP I-LOC
-. . O O
-
-Abu NNP B-NP B-PER
-Rdainah NNP I-NP I-PER
-said VBD B-VP O
-Arafat NNP B-NP B-PER
-had VBD B-VP O
-decided VBN I-VP O
-against IN B-PP O
-flying VBG B-VP O
-to TO B-PP O
-the DT B-NP O
-West NNP I-NP B-LOC
-Bank NNP I-NP I-LOC
-on IN B-PP O
-Thursday NNP B-NP O
-, , O O
-after IN B-SBAR O
-Israel NNP B-NP B-LOC
-lifted VBD B-VP O
-the DT B-NP O
-ban NN I-NP O
-, , O O
-because IN B-SBAR O
-he PRP B-NP O
-had VBD B-VP O
-a DT B-NP O
-busy JJ I-NP O
-schedule NN I-NP O
-in IN B-PP O
-Gaza NNP B-NP B-LOC
-and CC O O
-would MD B-VP O
-not RB I-VP O
-be VB I-VP O
-free JJ B-ADJP O
-until IN B-SBAR O
-Monday NNP B-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-Arafat NN B-NP B-PER
-to TO B-VP O
-meet VB I-VP O
-Peres NNP B-NP B-PER
-in IN B-PP O
-Gaza NNP B-NP B-LOC
-after IN B-PP O
-flight NN B-NP O
-ban NN I-NP O
-. . O O
-
-JERUSALEM VBN B-NP B-LOC
-1996-08-22 CD I-NP O
-
-Yasser NNP B-NP B-PER
-Arafat NNP I-NP I-PER
-will MD B-VP O
-meet VB I-VP O
-Shimon NNP B-NP B-PER
-Peres NNP I-NP I-PER
-in IN B-PP O
-Gaza NNP B-NP B-LOC
-on IN B-PP O
-Thursday NNP B-NP O
-after IN B-PP O
-Palestinians NNPS B-NP B-MISC
-said VBD B-VP O
-the DT B-NP O
-right-wing JJ I-NP O
-Israeli JJ I-NP B-MISC
-government NN I-NP O
-had VBD B-VP O
-barred VBN I-VP O
-the DT B-NP O
-Palestinian JJ I-NP B-MISC
-leader NN I-NP O
-from IN B-PP O
-flying VBG B-VP O
-to TO B-PP O
-the DT B-NP O
-West NNP I-NP B-LOC
-Bank NNP I-NP I-LOC
-for IN B-PP O
-talks NNS B-NP O
-with IN B-PP O
-the DT B-NP O
-former JJ I-NP O
-prime JJ I-NP O
-minister NN I-NP O
-. . O O
-
-" " O O
-The DT B-NP O
-meeting NN I-NP O
-between IN B-PP O
-Peres NNP B-NP B-PER
-and CC I-NP O
-Arafat NNP I-NP B-PER
-will MD B-VP O
-take VB I-VP O
-place NN B-NP O
-at IN B-PP O
-Erez NNP B-NP B-LOC
-checkpoint NN I-NP O
-in IN B-PP O
-Gaza NNP B-NP B-LOC
-and CC O O
-not RB B-PP O
-in IN I-PP O
-Ramallah NNP B-NP B-LOC
-as IN B-PP O
-planned VBN B-NP O
-, , I-NP O
-" " O O
-Peres NNP B-NP B-PER
-' POS B-NP O
-office NN I-NP O
-said VBD B-VP O
-. . O O
-
-Palestinian NN B-NP B-MISC
-officials NNS I-NP O
-said VBD B-VP O
-the DT B-NP O
-Israeli JJ I-NP B-MISC
-government NN I-NP O
-had VBD B-VP O
-barred VBN I-VP O
-Arafat NNP B-NP B-PER
-from IN B-PP O
-overflying VBG B-VP O
-Israel NNP B-NP B-LOC
-in IN B-PP O
-a DT B-NP O
-Palestinian JJ I-NP B-MISC
-helicopter NN I-NP O
-to TO B-PP O
-the DT B-NP O
-West NNP I-NP B-LOC
-Bank NNP I-NP I-LOC
-in IN B-PP O
-an DT B-NP O
-attempt NN I-NP O
-to TO B-VP O
-bar VB I-VP O
-the DT B-NP O
-meeting NN I-NP O
-with IN B-PP O
-Peres NNP B-NP B-PER
-. . O O
-
-Israeli NNP B-NP B-MISC
-Prime NNP I-NP O
-Minister NNP I-NP O
-Benjamin NNP I-NP B-PER
-Netanyahu NNP I-NP I-PER
-has VBZ B-VP O
-accused VBN I-VP O
-opposition NN B-NP O
-leader NN I-NP O
-Peres NNP I-NP B-PER
-, , O O
-who WP B-NP O
-he PRP B-NP O
-defeated VBD B-VP O
-in IN B-PP O
-May NNP B-NP O
-elections NNS I-NP O
-, , O O
-of IN B-PP O
-trying VBG B-VP O
-to TO I-VP O
-undermine VB I-VP O
-his PRP$ B-NP O
-Likud NNP I-NP B-ORG
-government NN I-NP O
-'s POS B-NP O
-authority NN I-NP O
-to TO B-VP O
-conduct VB I-VP O
-peace NN B-NP O
-talks NNS I-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-Afghan NNP B-NP B-MISC
-UAE NNP I-NP B-LOC
-embassy NN I-NP O
-says VBZ B-VP O
-Taleban NNP B-NP B-MISC
-guards NNS I-NP O
-going VBG B-VP O
-home RB B-ADVP O
-. . O O
-
-Hilary NNP B-NP B-PER
-Gush NNP I-NP I-PER
-
-DUBAI NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-Three CD B-NP O
-Afghan JJ I-NP B-MISC
-guards NNS I-NP O
-brought VBD B-VP O
-to TO B-PP O
-the DT B-NP O
-United NNP I-NP B-LOC
-Arab NNP I-NP I-LOC
-Emirates NNP I-NP I-LOC
-last JJ B-NP O
-week NN I-NP O
-by IN B-PP O
-Russian JJ B-NP B-MISC
-hostages NNS I-NP O
-who WP B-NP O
-escaped VBD B-VP O
-from IN B-PP O
-the DT B-NP O
-Taleban JJ I-NP B-MISC
-militia NN I-NP O
-will MD B-VP O
-return VB I-VP O
-to TO B-PP O
-Afghanistan NNP B-NP B-LOC
-in IN B-PP O
-a DT B-NP O
-few JJ I-NP O
-days NNS I-NP O
-, , O O
-the DT B-NP O
-Afghan JJ I-NP B-MISC
-embassy NN I-NP O
-in IN B-PP O
-Abu NNP B-NP B-LOC
-Dhabi NNP I-NP I-LOC
-said VBD B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-. . O O
-
-" " O O
-Our PRP$ B-NP O
-ambassador NN I-NP O
-is VBZ B-VP O
-in IN B-PP O
-touch NN B-NP O
-with IN B-PP O
-the DT B-NP O
-UAE NNP I-NP B-LOC
-foreign JJ I-NP O
-ministry NN I-NP O
-. . O O
-
-Their PRP$ B-NP O
-return NN I-NP O
-to TO B-PP O
-Afghanistan NNP B-NP B-LOC
-will MD B-VP O
-take VB I-VP O
-place NN B-NP O
-in IN B-PP O
-two CD B-NP O
-or CC I-NP O
-three CD I-NP O
-days NNS I-NP O
-, , O O
-" " O O
-an DT B-NP O
-embassy NN I-NP O
-official NN I-NP O
-said VBD B-VP O
-. . O O
-
-" " O O
-The DT B-NP O
-embassy NN I-NP O
-is VBZ B-VP O
-issuing VBG I-VP O
-them PRP B-NP O
-travel VB B-VP O
-documents NNS B-NP O
-for IN B-PP O
-their PRP$ B-NP O
-return NN I-NP O
-to TO B-PP O
-their PRP$ B-NP O
-homeland NN I-NP O
-. . O O
-
-There EX B-NP O
-is VBZ B-VP O
-no DT B-NP O
-objection NN I-NP O
-to TO B-PP O
-their PRP$ B-NP O
-travel NN I-NP O
-, , O O
-" " O O
-he PRP B-NP O
-added VBD B-VP O
-. . O O
-
-The DT B-NP O
-three CD I-NP O
-Islamic NNP I-NP B-MISC
-Taleban NNP I-NP I-MISC
-guards NNS I-NP O
-were VBD B-VP O
-overpowered VBN I-VP O
-by IN B-PP O
-seven CD B-NP O
-Russian JJ I-NP B-MISC
-aircrew NNS I-NP O
-who WP B-NP O
-escaped VBD B-VP O
-to TO B-PP O
-UAE NNP B-NP B-LOC
-state NN I-NP O
-Sharjah NNP B-NP B-LOC
-last JJ I-NP O
-Friday NNP I-NP O
-on IN B-PP O
-board NN B-NP O
-their PRP$ B-NP O
-own JJ I-NP O
-aircraft NN I-NP O
-after IN B-PP O
-a DT B-NP O
-year NN I-NP O
-in IN B-PP O
-the DT B-NP O
-captivity NN I-NP O
-of IN B-PP O
-Taleban JJ B-NP B-MISC
-militia NN I-NP O
-in IN B-PP O
-Kandahar NNP B-NP B-LOC
-in IN B-PP O
-southern JJ B-NP O
-Afghanistan NNP I-NP B-LOC
-. . O O
-
-The DT B-NP O
-UAE NNP I-NP B-LOC
-said VBD B-VP O
-on IN B-PP O
-Monday NNP B-NP O
-it PRP B-NP O
-would MD B-VP O
-hand VB I-VP O
-over IN B-PP O
-the DT B-NP O
-three CD I-NP O
-to TO B-PP O
-the DT B-NP O
-International NNP I-NP B-ORG
-Red NNP I-NP I-ORG
-Crescent NNP I-NP I-ORG
-, , O O
-possibly RB B-ADVP O
-last JJ B-NP O
-Tuesday NNP I-NP O
-. . O O
-
-It PRP B-NP O
-has VBZ B-VP O
-since RB I-VP O
-been VBN I-VP O
-silent JJ B-ADJP O
-on IN B-PP O
-the DT B-NP O
-issue NN I-NP O
-. . O O
-
-When WRB B-ADVP O
-asked VBD B-VP O
-whether IN B-SBAR O
-the DT B-NP O
-three CD I-NP O
-guards NNS I-NP O
-would MD B-VP O
-travel VB I-VP O
-back RB B-ADVP O
-to TO B-PP O
-Kandahar NNP B-NP B-LOC
-or CC O O
-the DT B-NP O
-Afghan JJ I-NP B-MISC
-capital NN I-NP O
-Kabul NNP I-NP B-LOC
-, , O O
-the DT B-NP O
-embassy NN I-NP O
-official NN I-NP O
-said VBD B-VP O
-: : O O
-" " O O
-That DT B-NP O
-has VBZ B-VP O
-not RB I-VP O
-been VBN I-VP O
-decided VBN I-VP O
-, , O O
-but CC O O
-possibly RB B-ADVP O
-Kandahar NNP B-NP B-LOC
-. . I-NP O
-" " O O
-
-Kandahar NNP B-NP B-LOC
-is VBZ B-VP O
-the DT B-NP O
-headquarters NN I-NP O
-of IN B-PP O
-the DT B-NP O
-opposition NN I-NP O
-Taleban NNP I-NP B-MISC
-militia NN I-NP O
-. . O O
-
-Kabul NNP B-NP B-LOC
-is VBZ B-VP O
-controlled VBN I-VP O
-by IN B-PP O
-President NNP B-NP O
-Burhanuddin NNP I-NP B-PER
-Rabbani NNP I-NP I-PER
-'s POS B-NP O
-government NN I-NP O
-, , O O
-which WDT B-NP O
-Taleban NNP B-NP B-MISC
-is VBZ B-VP O
-fighting VBG I-VP O
-to TO I-VP O
-overthrow VB I-VP O
-. . O O
-
-The DT B-NP O
-embassy NN I-NP O
-official NN I-NP O
-said VBD B-VP O
-the DT B-NP O
-three CD I-NP O
-men NNS I-NP O
-, , O O
-believed VBD B-VP O
-to TO I-VP O
-be VB I-VP O
-in IN B-PP O
-their PRP$ B-NP O
-20s CD I-NP O
-, , O O
-were VBD B-VP O
-currently RB B-ADVP O
-in IN B-PP O
-Abu NNP B-NP B-LOC
-Dhabi NNP I-NP I-LOC
-. . O O
-
-He PRP B-NP O
-did VBD B-VP O
-not RB I-VP O
-elaborate VB I-VP O
-. . O O
-
-The DT B-NP O
-Russians NNPS I-NP B-MISC
-, , O O
-working VBG B-VP O
-for IN B-PP O
-the DT B-NP O
-Aerostan JJ I-NP B-ORG
-firm NN I-NP O
-in IN B-PP O
-the DT B-NP O
-Russian JJ I-NP B-MISC
-republic NN I-NP O
-of IN B-PP O
-Tatarstan NNP B-NP B-LOC
-, , O O
-were VBD B-VP O
-taken VBN I-VP O
-hostage NN B-NP O
-after IN B-PP O
-a DT B-NP O
-Taleban NNP I-NP B-MISC
-MiG-19 NNP I-NP B-MISC
-fighter NN I-NP O
-forced VBD B-VP O
-their PRP$ B-NP O
-cargo NN I-NP O
-plane NN I-NP O
-to TO B-VP O
-land VB I-VP O
-in IN B-PP O
-August NNP B-NP O
-1995 CD I-NP O
-. . O O
-
-Taleban NNP B-NP B-MISC
-said VBD B-VP O
-its PRP$ B-NP O
-shipment NN I-NP O
-of IN B-PP O
-ammunition NN B-NP O
-from IN B-PP O
-Albania NNP B-NP B-LOC
-was VBD B-VP O
-evidence NN B-NP O
-of IN B-PP O
-Russian JJ B-NP B-MISC
-military JJ I-NP O
-support NN I-NP O
-for IN B-PP O
-Rabbani NNS B-NP B-PER
-'s POS B-NP O
-government NN I-NP O
-. . O O
-
-Moscow NNP B-NP B-LOC
-said VBD B-VP O
-the DT B-NP O
-crew NN I-NP O
-'s POS B-NP O
-nationality NN I-NP O
-was VBD B-VP O
-coincidental JJ B-ADJP O
-. . O O
-
-Numerous JJ B-NP O
-diplomatic JJ I-NP O
-attempts NNS I-NP O
-to TO B-PP O
-free JJ B-NP O
-the DT B-NP O
-seven CD I-NP O
-failed VBN B-VP O
-. . O O
-
-The DT B-NP O
-Russians NNPS I-NP B-MISC
-, , O O
-who WP B-NP O
-said VBD B-VP O
-they PRP B-NP O
-overpowered VBD B-VP O
-the DT B-NP O
-guards NNS I-NP O
--- : O O
-two CD B-NP O
-armed JJ I-NP O
-with IN B-PP O
-Kalashnikov NNP B-NP B-MISC
-automatic JJ I-NP O
-rifles NNS I-NP O
--- : O O
-while IN B-SBAR O
-doing VBG B-VP O
-regular JJ B-NP O
-maintenance NN I-NP O
-work NN I-NP O
-on IN B-PP O
-their PRP$ B-NP O
-Ilyushin NNP I-NP B-MISC
-76 NNP I-NP I-MISC
-cargo NN I-NP O
-plane NN I-NP O
-last JJ B-NP O
-Friday NNP I-NP O
-, , O O
-left VBD B-VP O
-the DT B-NP O
-UAE NNP I-NP B-LOC
-capital NN I-NP O
-Abu NNP I-NP B-LOC
-Dhabi NNP I-NP I-LOC
-for IN B-PP O
-home NN B-NP O
-on IN B-PP O
-Sunday NNP B-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-Iraq NNP B-NP B-LOC
-'s POS B-NP O
-Saddam NNP I-NP B-PER
-meets VBZ B-VP O
-Russia NNP B-NP B-LOC
-'s POS B-NP O
-Zhirinovsky NNP I-NP B-PER
-. . O O
-
-BAGHDAD NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-Iraqi JJ B-NP B-MISC
-President NNP I-NP O
-Saddam NNP I-NP B-PER
-Hussein NNP I-NP I-PER
-has VBZ B-VP O
-told VBN I-VP O
-visiting VBG I-VP O
-Russian JJ B-NP B-MISC
-ultra-nationalist NN I-NP O
-Vladimir NNP I-NP B-PER
-Zhirinovsky NNP I-NP I-PER
-that IN B-SBAR O
-Baghdad NNP B-NP B-LOC
-wanted VBD B-VP O
-to TO I-VP O
-maintain VB I-VP O
-" " O O
-friendship NN B-NP O
-and CC I-NP O
-cooperation NN I-NP O
-" " O O
-with IN B-PP O
-Moscow NNP B-NP B-LOC
-, , O O
-official NN B-NP O
-Iraqi JJ I-NP B-MISC
-newspapers NNS I-NP O
-said VBD B-VP O
-on IN B-PP O
-Thursday NNP B-NP O
-. . O O
-
-" " O O
-President NNP B-NP O
-Saddam NNP I-NP B-PER
-Hussein NNP I-NP I-PER
-stressed VBD B-VP O
-during IN B-PP O
-the DT B-NP O
-meeting NN I-NP O
-Iraq NNP I-NP B-LOC
-'s POS B-NP O
-keenness NN I-NP O
-to TO B-VP O
-maintain VB I-VP O
-friendship NN B-NP O
-and CC I-NP O
-cooperation NN I-NP O
-with IN B-PP O
-Russia NNP B-NP B-LOC
-, , O O
-" " O O
-the DT B-NP O
-papers NNS I-NP O
-said VBD B-VP O
-. . O O
-
-They PRP B-NP O
-said VBD B-VP O
-Zhirinovsky NNP B-NP B-PER
-told VBD B-VP O
-Saddam NNP B-NP B-PER
-before IN B-SBAR O
-he PRP B-NP O
-left VBD B-VP O
-Baghdad NNP B-NP B-LOC
-on IN B-PP O
-Wednesday NNP B-NP O
-that IN B-SBAR O
-his PRP$ B-NP O
-Liberal JJ I-NP B-ORG
-Democratic JJ I-NP I-ORG
-party NN I-NP I-ORG
-and CC O O
-the DT B-NP O
-Russian NNP I-NP B-MISC
-Duma NNP I-NP B-ORG
-( ( O O
-parliament NN B-NP O
-) ) O O
-" " O O
-are VBP B-VP O
-calling VBG I-VP O
-for IN B-PP O
-an DT B-NP O
-immediate JJ I-NP O
-lifting NN I-NP O
-of IN B-PP O
-the DT B-NP O
-embargo NN I-NP O
-" " O O
-imposed VBN B-VP O
-on IN B-PP O
-Iraq NNP B-NP B-LOC
-after IN B-PP O
-its PRP$ B-NP O
-1990 CD I-NP O
-invasion NN I-NP O
-of IN B-PP O
-Kuwait NNP B-NP B-LOC
-. . O O
-
-Zhirinovsky NNP B-NP B-PER
-said VBD B-VP O
-on IN B-PP O
-Tuesday NNP B-NP O
-he PRP B-NP O
-would MD B-VP O
-press VB I-VP O
-the DT B-NP O
-Russian JJ I-NP B-MISC
-government NN I-NP O
-to TO B-VP O
-help VB I-VP O
-end NN I-VP O
-U.N. NNP B-NP B-ORG
-trade NN I-NP O
-sanctions NNS I-NP O
-on IN B-PP O
-Iraq NNP B-NP B-LOC
-and CC O O
-blamed VBD B-VP O
-Moscow NNP B-NP B-LOC
-for IN B-PP O
-delaying VBG B-VP O
-establishment NN B-NP O
-of IN B-PP O
-good JJ B-NP O
-ties NNS I-NP O
-with IN B-PP O
-Baghdad NNP B-NP B-LOC
-. . O O
-
-" " O O
-Our PRP$ B-NP O
-stand NN I-NP O
-is VBZ B-VP O
-firm NN B-NP O
-, , O O
-namely RB B-ADVP O
-we PRP B-NP O
-are VBP B-VP O
-calling VBG I-VP O
-on IN B-PP O
-( ( O O
-the DT B-NP O
-Russian JJ I-NP B-MISC
-) ) I-NP O
-government NN I-NP O
-to TO B-VP O
-end VB I-VP O
-the DT B-NP O
-economic JJ I-NP O
-embargo NN I-NP O
-on IN B-PP O
-Iraq NNP B-NP B-LOC
-and CC O O
-resume VB B-VP O
-trade NN B-NP O
-ties NNS I-NP O
-between IN B-PP O
-Russia NNP B-NP B-LOC
-and CC I-NP O
-Iraq NNP I-NP B-LOC
-, , O O
-" " O O
-he PRP B-NP O
-told VBD B-VP O
-reporters NNS B-NP O
-. . O O
-
-Zhirinovsky NNP B-NP B-PER
-visited VBD B-VP O
-Iraq NNP B-NP B-LOC
-twice RB B-ADVP O
-in IN B-PP O
-1995 CD B-NP O
-. . O O
-
-Last JJ B-NP O
-October NNP I-NP O
-he PRP B-NP O
-was VBD B-VP O
-invited VBN I-VP O
-to TO I-VP O
-attend VB I-VP O
-the DT B-NP O
-referendum NN I-NP O
-held VBN B-VP O
-on IN B-PP O
-Iraq NNP B-NP B-LOC
-'s POS B-NP O
-presidency NN I-NP O
-, , O O
-which WDT B-NP O
-extended VBD B-VP O
-Saddam NNP B-NP B-PER
-'s POS B-NP O
-term NN I-NP O
-for IN B-PP O
-seven CD B-NP O
-more JJR I-NP O
-years NNS I-NP O
-. . O O
-
--DOCSTART- -X- -X- O
-
-PRESS NNS B-NP O
-DIGEST NNP I-NP O
-- : O O
-Iraq NNP B-NP B-LOC
-- : O O
-Aug NNP B-NP O
-22 CD I-NP O
-. . O O
-
-BAGHDAD NNP B-NP B-LOC
-1996-08-22 CD I-NP O
-
-These DT B-NP O
-are VBP B-VP O
-some DT B-NP O
-of IN B-PP O
-the DT B-NP O
-leading VBG I-NP O
-stories NNS I-NP O
-in IN B-PP O
-the DT B-NP O
-official JJ I-NP O
-Iraqi JJ I-NP B-MISC
-press NN I-NP O
-on IN B-PP O
-Thursday NNP B-NP O
-. . O O
-
-Reuters NNP B-NP B-ORG
-has VBZ B-VP O
-not RB I-VP O
-verified VBN I-VP O
-these DT B-NP O
-stories NNS I-NP O
-and CC O O
-does VBZ B-VP O
-not RB I-VP O
-vouch NN B-NP O
-for IN B-PP O
-their PRP$ B-NP O
-accuracy NN I-NP O
-. . O O
+EU B-ORG
+rejects O
+German B-MISC
+call O
+to O
+boycott O
+British B-MISC
+lamb O
+. O
+
+Peter B-PER
+Blackburn I-PER
+
+BRUSSELS B-LOC
+1996-08-22 O
+
+The O
+European B-ORG
+Commission I-ORG
+said O
+on O
+Thursday O
+it O
+disagreed O
+with O
+German B-MISC
+advice O
+to O
+consumers O
+to O
+shun O
+British B-MISC
+lamb O
+until O
+scientists O
+determine O
+whether O
+mad O
+cow O
+disease O
+can O
+be O
+transmitted O
+to O
+sheep O
+. O
+
+Germany B-LOC
+'s O
+representative O
+to O
+the O
+European B-ORG
+Union I-ORG
+'s O
+veterinary O
+committee O
+Werner B-PER
+Zwingmann I-PER
+said O
+on O
+Wednesday O
+consumers O
+should O
+buy O
+sheepmeat O
+from O
+countries O
+other O
+than O
+Britain B-LOC
+until O
+the O
+scientific O
+advice O
+was O
+clearer O
+. O
+
+" O
+We O
+do O
+n't O
+support O
+any O
+such O
+recommendation O
+because O
+we O
+do O
+n't O
+see O
+any O
+grounds O
+for O
+it O
+, O
+" O
+the O
+Commission B-ORG
+'s O
+chief O
+spokesman O
+Nikolaus B-PER
+van I-PER
+der I-PER
+Pas I-PER
+told O
+a O
+news O
+briefing O
+. O
+
+He O
+said O
+further O
+scientific O
+study O
+was O
+required O
+and O
+if O
+it O
+was O
+found O
+that O
+action O
+was O
+needed O
+it O
+should O
+be O
+taken O
+by O
+the O
+European B-ORG
+Union I-ORG
+. O
+
+He O
+said O
+a O
+proposal O
+last O
+month O
+by O
+EU B-ORG
+Farm O
+Commissioner O
+Franz B-PER
+Fischler I-PER
+to O
+ban O
+sheep O
+brains O
+, O
+spleens O
+and O
+spinal O
+cords O
+from O
+the O
+human O
+and O
+animal O
+food O
+chains O
+was O
+a O
+highly O
+specific O
+and O
+precautionary O
+move O
+to O
+protect O
+human O
+health O
+. O
+
+Fischler B-PER
+proposed O
+EU-wide B-MISC
+measures O
+after O
+reports O
+from O
+Britain B-LOC
+and O
+France B-LOC
+that O
+under O
+laboratory O
+conditions O
+sheep O
+could O
+contract O
+Bovine B-MISC
+Spongiform I-MISC
+Encephalopathy I-MISC
+( O
+BSE B-MISC
+) O
+-- O
+mad O
+cow O
+disease O
+. O
+
+But O
+Fischler B-PER
+agreed O
+to O
+review O
+his O
+proposal O
+after O
+the O
+EU B-ORG
+'s O
+standing O
+veterinary O
+committee O
+, O
+mational O
+animal O
+health O
+officials O
+, O
+questioned O
+if O
+such O
+action O
+was O
+justified O
+as O
+there O
+was O
+only O
+a O
+slight O
+risk O
+to O
+human O
+health O
+. O
+
+Spanish B-MISC
+Farm O
+Minister O
+Loyola B-PER
+de I-PER
+Palacio I-PER
+had O
+earlier O
+accused O
+Fischler B-PER
+at O
+an O
+EU B-ORG
+farm O
+ministers O
+' O
+meeting O
+of O
+causing O
+unjustified O
+alarm O
+through O
+" O
+dangerous O
+generalisation O
+. O
+" O
+
+. O
+
+Only O
+France B-LOC
+and O
+Britain B-LOC
+backed O
+Fischler B-PER
+'s O
+proposal O
+. O
+
+The O
+EU B-ORG
+'s O
+scientific O
+veterinary O
+and O
+multidisciplinary O
+committees O
+are O
+due O
+to O
+re-examine O
+the O
+issue O
+early O
+next O
+month O
+and O
+make O
+recommendations O
+to O
+the O
+senior O
+veterinary O
+officials O
+. O
+
+Sheep O
+have O
+long O
+been O
+known O
+to O
+contract O
+scrapie O
+, O
+a O
+brain-wasting O
+disease O
+similar O
+to O
+BSE B-MISC
+which O
+is O
+believed O
+to O
+have O
+been O
+transferred O
+to O
+cattle O
+through O
+feed O
+containing O
+animal O
+waste O
+. O
+
+British B-MISC
+farmers O
+denied O
+on O
+Thursday O
+there O
+was O
+any O
+danger O
+to O
+human O
+health O
+from O
+their O
+sheep O
+, O
+but O
+expressed O
+concern O
+that O
+German B-MISC
+government O
+advice O
+to O
+consumers O
+to O
+avoid O
+British B-MISC
+lamb O
+might O
+influence O
+consumers O
+across O
+Europe B-LOC
+. O
+
+" O
+What O
+we O
+have O
+to O
+be O
+extremely O
+careful O
+of O
+is O
+how O
+other O
+countries O
+are O
+going O
+to O
+take O
+Germany B-LOC
+'s O
+lead O
+, O
+" O
+Welsh B-ORG
+National I-ORG
+Farmers I-ORG
+' I-ORG
+Union I-ORG
+( O
+NFU B-ORG
+) O
+chairman O
+John B-PER
+Lloyd I-PER
+Jones I-PER
+said O
+on O
+BBC B-ORG
+radio I-ORG
+. O
+
+Bonn B-LOC
+has O
+led O
+efforts O
+to O
+protect O
+public O
+health O
+after O
+consumer O
+confidence O
+collapsed O
+in O
+March O
+after O
+a O
+British B-MISC
+report O
+suggested O
+humans O
+could O
+contract O
+an O
+illness O
+similar O
+to O
+mad O
+cow O
+disease O
+by O
+eating O
+contaminated O
+beef O
+. O
+
+Germany B-LOC
+imported O
+47,600 O
+sheep O
+from O
+Britain B-LOC
+last O
+year O
+, O
+nearly O
+half O
+of O
+total O
+imports O
+. O
+
+It O
+brought O
+in O
+4,275 O
+tonnes O
+of O
+British B-MISC
+mutton O
+, O
+some O
+10 O
+percent O
+of O
+overall O
+imports O
+. O
+
+Rare O
+Hendrix B-PER
+song O
+draft O
+sells O
+for O
+almost O
+$ O
+17,000 O
+. O
+
+LONDON B-LOC
+1996-08-22 O
+
+A O
+rare O
+early O
+handwritten O
+draft O
+of O
+a O
+song O
+by O
+U.S. B-LOC
+guitar O
+legend O
+Jimi B-PER
+Hendrix I-PER
+was O
+sold O
+for O
+almost O
+$ O
+17,000 O
+on O
+Thursday O
+at O
+an O
+auction O
+of O
+some O
+of O
+the O
+late O
+musician O
+'s O
+favourite O
+possessions O
+. O
+
+A O
+Florida B-LOC
+restaurant O
+paid O
+10,925 O
+pounds O
+( O
+$ O
+16,935 O
+) O
+for O
+the O
+draft O
+of O
+" O
+Ai B-MISC
+n't I-MISC
+no I-MISC
+telling I-MISC
+" O
+, O
+which O
+Hendrix B-PER
+penned O
+on O
+a O
+piece O
+of O
+London B-LOC
+hotel O
+stationery O
+in O
+late O
+1966 O
+. O
+
+At O
+the O
+end O
+of O
+a O
+January O
+1967 O
+concert O
+in O
+the O
+English B-MISC
+city O
+of O
+Nottingham B-LOC
+he O
+threw O
+the O
+sheet O
+of O
+paper O
+into O
+the O
+audience O
+, O
+where O
+it O
+was O
+retrieved O
+by O
+a O
+fan O
+. O
+
+Buyers O
+also O
+snapped O
+up O
+16 O
+other O
+items O
+that O
+were O
+put O
+up O
+for O
+auction O
+by O
+Hendrix B-PER
+'s O
+former O
+girlfriend O
+Kathy B-PER
+Etchingham I-PER
+, O
+who O
+lived O
+with O
+him O
+from O
+1966 O
+to O
+1969 O
+. O
+
+They O
+included O
+a O
+black O
+lacquer O
+and O
+mother O
+of O
+pearl O
+inlaid O
+box O
+used O
+by O
+Hendrix B-PER
+to O
+store O
+his O
+drugs O
+, O
+which O
+an O
+anonymous O
+Australian B-MISC
+purchaser O
+bought O
+for O
+5,060 O
+pounds O
+( O
+$ O
+7,845 O
+) O
+. O
+
+The O
+guitarist O
+died O
+of O
+a O
+drugs O
+overdose O
+in O
+1970 O
+aged O
+27 O
+. O
+
+China B-LOC
+says O
+Taiwan B-LOC
+spoils O
+atmosphere O
+for O
+talks O
+. O
+
+BEIJING B-LOC
+1996-08-22 O
+
+China B-LOC
+on O
+Thursday O
+accused O
+Taipei B-LOC
+of O
+spoiling O
+the O
+atmosphere O
+for O
+a O
+resumption O
+of O
+talks O
+across O
+the O
+Taiwan B-LOC
+Strait I-LOC
+with O
+a O
+visit O
+to O
+Ukraine B-LOC
+by O
+Taiwanese B-MISC
+Vice O
+President O
+Lien B-PER
+Chan I-PER
+this O
+week O
+that O
+infuriated O
+Beijing B-LOC
+. O
+
+Speaking O
+only O
+hours O
+after O
+Chinese B-MISC
+state O
+media O
+said O
+the O
+time O
+was O
+right O
+to O
+engage O
+in O
+political O
+talks O
+with O
+Taiwan B-LOC
+, O
+Foreign B-ORG
+Ministry I-ORG
+spokesman O
+Shen B-PER
+Guofang I-PER
+told O
+Reuters B-ORG
+: O
+" O
+The O
+necessary O
+atmosphere O
+for O
+the O
+opening O
+of O
+the O
+talks O
+has O
+been O
+disrupted O
+by O
+the O
+Taiwan B-LOC
+authorities O
+. O
+" O
+
+State O
+media O
+quoted O
+China B-LOC
+'s O
+top O
+negotiator O
+with O
+Taipei B-LOC
+, O
+Tang B-PER
+Shubei I-PER
+, O
+as O
+telling O
+a O
+visiting O
+group O
+from O
+Taiwan B-LOC
+on O
+Wednesday O
+that O
+it O
+was O
+time O
+for O
+the O
+rivals O
+to O
+hold O
+political O
+talks O
+. O
+
+" O
+Now O
+is O
+the O
+time O
+for O
+the O
+two O
+sides O
+to O
+engage O
+in O
+political O
+talks O
+... O
+
+that O
+is O
+to O
+end O
+the O
+state O
+of O
+hostility O
+, O
+" O
+Thursday O
+'s O
+overseas O
+edition O
+of O
+the O
+People B-ORG
+'s I-ORG
+Daily I-ORG
+quoted O
+Tang B-PER
+as O
+saying O
+. O
+
+The O
+foreign O
+ministry O
+'s O
+Shen B-ORG
+told O
+Reuters B-ORG
+Television I-ORG
+in O
+an O
+interview O
+he O
+had O
+read O
+reports O
+of O
+Tang B-PER
+'s O
+comments O
+but O
+gave O
+no O
+details O
+of O
+why O
+the O
+negotiator O
+had O
+considered O
+the O
+time O
+right O
+for O
+talks O
+with O
+Taiwan B-LOC
+, O
+which O
+Beijing B-LOC
+considers O
+a O
+renegade O
+province O
+. O
+
+China B-LOC
+, O
+which O
+has O
+long O
+opposed O
+all O
+Taipei B-LOC
+efforts O
+to O
+gain O
+greater O
+international O
+recognition O
+, O
+was O
+infuriated O
+by O
+a O
+visit O
+to O
+Ukraine B-LOC
+this O
+week O
+by O
+Taiwanese B-MISC
+Vice O
+President O
+Lien B-PER
+. O
+
+China B-LOC
+says O
+time O
+right O
+for O
+Taiwan B-LOC
+talks O
+. O
+
+BEIJING B-LOC
+1996-08-22 O
+
+China B-LOC
+has O
+said O
+it O
+was O
+time O
+for O
+political O
+talks O
+with O
+Taiwan B-LOC
+and O
+that O
+the O
+rival O
+island O
+should O
+take O
+practical O
+steps O
+towards O
+that O
+goal O
+. O
+
+Consultations O
+should O
+be O
+held O
+to O
+set O
+the O
+time O
+and O
+format O
+of O
+the O
+talks O
+, O
+the O
+official O
+Xinhua B-ORG
+news O
+agency O
+quoted O
+Tang B-PER
+Shubei I-PER
+, O
+executive O
+vice O
+chairman O
+of O
+the O
+Association B-ORG
+for I-ORG
+Relations I-ORG
+Across I-ORG
+the I-ORG
+Taiwan I-ORG
+Straits I-ORG
+, O
+as O
+saying O
+late O
+on O
+Wednesday O
+. O
+
+German B-MISC
+July O
+car O
+registrations O
+up O
+14.2 O
+pct O
+yr O
+/ O
+yr O
+. O
+
+FRANKFURT B-LOC
+1996-08-22 O
+
+German B-MISC
+first-time O
+registrations O
+of O
+motor O
+vehicles O
+jumped O
+14.2 O
+percent O
+in O
+July O
+this O
+year O
+from O
+the O
+year-earlier O
+period O
+, O
+the O
+Federal B-ORG
+office I-ORG
+for I-ORG
+motor I-ORG
+vehicles I-ORG
+said O
+on O
+Thursday O
+. O
+
+The O
+office O
+said O
+356,725 O
+new O
+cars O
+were O
+registered O
+in O
+July O
+1996 O
+-- O
+304,850 O
+passenger O
+cars O
+and O
+15,613 O
+trucks O
+. O
+
+The O
+figures O
+represent O
+a O
+13.6 O
+percent O
+increase O
+for O
+passenger O
+cars O
+and O
+a O
+2.2 O
+percent O
+decline O
+for O
+trucks O
+from O
+July O
+1995 O
+. O
+
+Motor-bike O
+registration O
+rose O
+32.7 O
+percent O
+in O
+the O
+period O
+. O
+
+The O
+growth O
+was O
+partly O
+due O
+to O
+an O
+increased O
+number O
+of O
+Germans B-MISC
+buying O
+German B-MISC
+cars O
+abroad O
+, O
+while O
+manufacturers O
+said O
+that O
+domestic O
+demand O
+was O
+weak O
+, O
+the O
+federal O
+office O
+said O
+. O
+
+Almost O
+all O
+German B-MISC
+car O
+manufacturers O
+posted O
+gains O
+in O
+registration O
+numbers O
+in O
+the O
+period O
+. O
+
+Volkswagen B-ORG
+AG I-ORG
+won O
+77,719 O
+registrations O
+, O
+slightly O
+more O
+than O
+a O
+quarter O
+of O
+the O
+total O
+. O
+
+Opel B-ORG
+AG I-ORG
+together O
+with O
+General B-ORG
+Motors I-ORG
+came O
+in O
+second O
+place O
+with O
+49,269 O
+registrations O
+, O
+16.4 O
+percent O
+of O
+the O
+overall O
+figure O
+. O
+
+Third O
+was O
+Ford B-ORG
+with O
+35,563 O
+registrations O
+, O
+or O
+11.7 O
+percent O
+. O
+
+Only O
+Seat B-ORG
+and O
+Porsche B-ORG
+had O
+fewer O
+registrations O
+in O
+July O
+1996 O
+compared O
+to O
+last O
+year O
+'s O
+July O
+. O
+
+Seat B-ORG
+posted O
+3,420 O
+registrations O
+compared O
+with O
+5522 O
+registrations O
+in O
+July O
+a O
+year O
+earlier O
+. O
+
+Porsche B-ORG
+'s O
+registrations O
+fell O
+to O
+554 O
+from O
+643 O
+. O
+
+GREEK B-MISC
+SOCIALISTS O
+GIVE O
+GREEN O
+LIGHT O
+TO O
+PM O
+FOR O
+ELECTIONS O
+. O
+
+ATHENS B-LOC
+1996-08-22 O
+
+The O
+Greek B-MISC
+socialist O
+party O
+'s O
+executive O
+bureau O
+gave O
+the O
+green O
+light O
+to O
+Prime O
+Minister O
+Costas B-PER
+Simitis I-PER
+to O
+call O
+snap O
+elections O
+, O
+its O
+general O
+secretary O
+Costas B-PER
+Skandalidis I-PER
+told O
+reporters O
+. O
+
+Prime O
+Minister O
+Costas B-PER
+Simitis I-PER
+is O
+going O
+to O
+make O
+an O
+official O
+announcement O
+after O
+a O
+cabinet O
+meeting O
+later O
+on O
+Thursday O
+, O
+said O
+Skandalidis B-PER
+. O
+
+-- O
+Dimitris B-PER
+Kontogiannis I-PER
+, O
+Athens B-ORG
+Newsroom I-ORG
++301 O
+3311812-4 O
+
+BayerVB B-ORG
+sets O
+C$ B-MISC
+100 O
+million O
+six-year O
+bond O
+. O
+
+LONDON B-LOC
+1996-08-22 O
+
+The O
+following O
+bond O
+was O
+announced O
+by O
+lead O
+manager O
+Toronto B-PER
+Dominion I-PER
+. O
+
+BORROWER O
+BAYERISCHE B-ORG
+VEREINSBANK I-ORG
+
+AMT O
+C$ B-MISC
+100 O
+MLN O
+COUPON O
+6.625 O
+MATURITY O
+24.SEP.02 O
+
+TYPE O
+STRAIGHT O
+ISS O
+PRICE O
+100.92 O
+PAY O
+DATE O
+24.SEP.96 O
+
+FULL O
+FEES O
+1.875 O
+REOFFER O
+99.32 O
+SPREAD O
++20 O
+BP O
+
+MOODY O
+AA1 O
+LISTING O
+LUX O
+PAY O
+FREQ O
+= O
+
+S&P B-ORG
+= O
+DENOMS O
+( O
+K O
+) O
+1-10-100 O
+SALE O
+LIMITS O
+US B-LOC
+/ O
+UK B-LOC
+/ O
+CA B-LOC
+
+NEG O
+PLG O
+NO O
+CRS O
+DEFLT O
+NO O
+FORCE O
+MAJ O
+= O
+
+GOV O
+LAW O
+GERMAN B-MISC
+HOME O
+CTRY O
+= O
+TAX O
+PROVS O
+STANDARD O
+
+MGT O
+/ O
+UND O
+0.275 O
+SELL O
+CONC O
+1.60 O
+PRAECIP O
+= O
+
+UNDERLYING O
+GOVT O
+BOND O
+7.0 O
+PCT O
+SEPT O
+2001 O
+
+NOTES O
+BAYERISCHE B-ORG
+VEREINSBANK I-ORG
+IS O
+JOINT O
+LEAD O
+MANAGER O
+
+-- O
+London B-ORG
+Newsroom I-ORG
++44 O
+171 O
+542 O
+7658 O
+
+Venantius B-ORG
+sets O
+$ O
+300 O
+million O
+January O
+1999 O
+FRN O
+. O
+
+LONDON B-LOC
+1996-08-22 O
+
+The O
+following O
+floating-rate O
+issue O
+was O
+announced O
+by O
+lead O
+manager O
+Lehman B-ORG
+Brothers I-ORG
+International I-ORG
+. O
+
+BORROWER O
+VENANTIUS B-ORG
+AB I-ORG
+( O
+SWEDISH B-MISC
+NATIONAL O
+MORTGAGE O
+AGENCY O
+) O
+
+AMT O
+$ O
+300 O
+MLN O
+SPREAD O
+- O
+12.5 O
+BP O
+MATURITY O
+21.JAN.99 O
+
+TYPE O
+FRN O
+BASE O
+3M B-ORG
+LIBOR O
+PAY O
+DATE O
+S23.SEP.96 O
+
+LAST O
+MOODY O
+AA3 O
+ISS O
+PRICE O
+99.956 O
+FULL O
+FEES O
+10 O
+BP O
+
+LAST O
+S&P B-ORG
+AA+ O
+REOFFER O
+= O
+
+NOTES O
+S O
+SHORT O
+FIRST O
+COUPON O
+
+LISTING O
+LONDON B-LOC
+DENOMS O
+( O
+K O
+) O
+1-10-100 O
+SALE O
+LIMITS O
+US B-LOC
+/ O
+UK B-LOC
+/ O
+JP B-LOC
+/ O
+FR B-LOC
+
+NEG O
+PLG O
+YES O
+CRS O
+DEFLT O
+NO O
+FORCE O
+MAJ O
+IPMA O
+2 O
+
+GOV O
+LAW O
+ENGLISH B-MISC
+HOME O
+CTRY O
+SWEDEN B-LOC
+TAX O
+PROVS O
+STANDARD O
+
+MGT O
+/ O
+UND O
+5 O
+BP O
+SELL O
+CONC O
+5 O
+BP O
+PRAECIP O
+= O
+
+NOTES O
+ISSUED O
+OFF O
+EMTN O
+PROGRAMME O
+
+-- O
+London B-ORG
+Newsroom I-ORG
++44 O
+171 O
+542 O
+8863 O
+
+Port O
+conditions O
+update O
+- O
+Syria B-LOC
+- O
+Lloyds B-ORG
+Shipping I-ORG
+. O
+
+Port O
+conditions O
+from O
+Lloyds B-ORG
+Shipping I-ORG
+Intelligence I-ORG
+Service I-ORG
+-- O
+
+LATTAKIA B-LOC
+, O
+Aug O
+10 O
+- O
+waiting O
+time O
+at O
+Lattakia B-LOC
+and O
+Tartous B-LOC
+presently O
+24 O
+hours O
+. O
+
+Israel B-LOC
+plays O
+down O
+fears O
+of O
+war O
+with O
+Syria B-LOC
+. O
+
+Colleen B-PER
+Siegel I-PER
+
+JERUSALEM B-LOC
+1996-08-22 O
+
+Israel B-LOC
+'s O
+outgoing O
+peace O
+negotiator O
+with O
+Syria B-LOC
+said O
+on O
+Thursday O
+current O
+tensions O
+between O
+the O
+two O
+countries O
+appeared O
+to O
+be O
+a O
+storm O
+in O
+a O
+teacup O
+. O
+
+Itamar B-PER
+Rabinovich I-PER
+, O
+who O
+as O
+Israel B-LOC
+'s O
+ambassador O
+to O
+Washington B-LOC
+conducted O
+unfruitful O
+negotiations O
+with O
+Syria B-LOC
+, O
+told O
+Israel B-ORG
+Radio I-ORG
+it O
+looked O
+like O
+Damascus B-LOC
+wanted O
+to O
+talk O
+rather O
+than O
+fight O
+. O
+
+" O
+It O
+appears O
+to O
+me O
+the O
+Syrian B-MISC
+priority O
+is O
+still O
+to O
+negotiate O
+. O
+
+The O
+Syrians B-MISC
+are O
+confused O
+, O
+they O
+are O
+definitely O
+tense O
+, O
+but O
+the O
+general O
+assessment O
+here O
+in O
+Washington B-LOC
+is O
+that O
+this O
+is O
+essentially O
+a O
+storm O
+in O
+a O
+teacup O
+, O
+" O
+he O
+said O
+. O
+
+Rabinovich B-PER
+is O
+winding O
+up O
+his O
+term O
+as O
+ambassador O
+. O
+
+He O
+will O
+be O
+replaced O
+by O
+Eliahu B-PER
+Ben-Elissar I-PER
+, O
+a O
+former O
+Israeli B-MISC
+envoy O
+to O
+Egypt B-LOC
+and O
+right-wing O
+Likud B-ORG
+party O
+politician O
+. O
+
+Israel B-LOC
+on O
+Wednesday O
+sent O
+Syria B-LOC
+a O
+message O
+, O
+via O
+Washington B-LOC
+, O
+saying O
+it O
+was O
+committed O
+to O
+peace O
+and O
+wanted O
+to O
+open O
+negotiations O
+without O
+preconditions O
+. O
+
+But O
+it O
+slammed O
+Damascus B-LOC
+for O
+creating O
+what O
+it O
+called O
+a O
+dangerous O
+atmosphere O
+. O
+
+Syria B-LOC
+accused O
+Israel B-LOC
+on O
+Wednesday O
+of O
+launching O
+a O
+hysterical O
+campaign O
+against O
+it O
+after O
+Israeli B-MISC
+television O
+reported O
+that O
+Damascus B-LOC
+had O
+recently O
+test O
+fired O
+a O
+missile O
+. O
+
+It O
+said O
+its O
+arms O
+purchases O
+were O
+for O
+defensive O
+purposes O
+. O
+
+" O
+The O
+message O
+that O
+we O
+sent O
+to O
+( O
+Syrian B-MISC
+President O
+Hafez B-PER
+al- I-PER
+) O
+Assad B-PER
+is O
+that O
+Israel B-LOC
+is O
+ready O
+at O
+any O
+time O
+without O
+preconditions O
+to O
+enter O
+peace O
+negotiations O
+, O
+" O
+Israeli B-MISC
+Foreign O
+Minister O
+David B-PER
+Levy I-PER
+told O
+Israel B-ORG
+Radio I-ORG
+in O
+an O
+interview O
+. O
+
+Tension O
+has O
+mounted O
+since O
+Israeli B-MISC
+Prime O
+Minister O
+Benjamin B-PER
+Netanyahu I-PER
+took O
+office O
+in O
+June O
+vowing O
+to O
+retain O
+the O
+Golan B-LOC
+Heights I-LOC
+Israel B-LOC
+captured O
+from O
+Syria B-LOC
+in O
+the O
+1967 O
+Middle B-LOC
+East I-LOC
+war O
+. O
+
+Israeli-Syrian B-MISC
+peace O
+talks O
+have O
+been O
+deadlocked O
+over O
+the O
+Golan B-LOC
+since O
+1991 O
+despite O
+the O
+previous O
+government O
+'s O
+willingness O
+to O
+make O
+Golan B-LOC
+concessions O
+. O
+
+Peace O
+talks O
+between O
+the O
+two O
+sides O
+were O
+last O
+held O
+in O
+February O
+. O
+
+" O
+The O
+voices O
+coming O
+out O
+of O
+Damascus B-LOC
+are O
+bad O
+, O
+not O
+good O
+. O
+
+The O
+media O
+... O
+
+are O
+full O
+of O
+expressions O
+and O
+declarations O
+that O
+must O
+be O
+worrying O
+... O
+
+this O
+artificial O
+atmosphere O
+is O
+very O
+dangerous O
+because O
+those O
+who O
+spread O
+it O
+could O
+become O
+its O
+prisoners O
+, O
+" O
+Levy B-PER
+said O
+. O
+
+" O
+We O
+expect O
+from O
+Syria B-LOC
+, O
+if O
+its O
+face O
+is O
+to O
+peace O
+, O
+that O
+it O
+will O
+answer O
+Israel B-LOC
+'s O
+message O
+to O
+enter O
+peace O
+negotiations O
+because O
+that O
+is O
+our O
+goal O
+, O
+" O
+he O
+said O
+. O
+" O
+
+We O
+do O
+not O
+want O
+a O
+war O
+, O
+God B-PER
+forbid O
+. O
+
+No O
+one O
+benefits O
+from O
+wars O
+. O
+" O
+
+Israel B-LOC
+'s O
+Channel B-ORG
+Two I-ORG
+television O
+said O
+Damascus B-LOC
+had O
+sent O
+a O
+" O
+calming O
+signal O
+" O
+to O
+Israel B-LOC
+. O
+
+It O
+gave O
+no O
+source O
+for O
+the O
+report O
+. O
+
+Netanyahu B-PER
+and O
+Levy B-PER
+'s O
+spokesmen O
+said O
+they O
+could O
+not O
+confirm O
+it O
+. O
+
+The O
+television O
+also O
+said O
+that O
+Netanyahu B-PER
+had O
+sent O
+messages O
+to O
+reassure O
+Syria B-LOC
+via O
+Cairo B-LOC
+, O
+the O
+United B-LOC
+States I-LOC
+and O
+Moscow B-LOC
+. O
+
+Polish B-MISC
+diplomat O
+denies O
+nurses O
+stranded O
+in O
+Libya B-LOC
+. O
+
+TUNIS B-LOC
+1996-08-22 O
+
+A O
+Polish B-MISC
+diplomat O
+on O
+Thursday O
+denied O
+a O
+Polish B-MISC
+tabloid O
+report O
+this O
+week O
+that O
+Libya B-LOC
+was O
+refusing O
+exit O
+visas O
+to O
+100 O
+Polish B-MISC
+nurses O
+trying O
+to O
+return O
+home O
+after O
+working O
+in O
+the O
+North B-MISC
+African I-MISC
+country O
+. O
+
+" O
+This O
+is O
+not O
+true O
+. O
+
+Up O
+to O
+today O
+, O
+we O
+have O
+no O
+knowledge O
+of O
+any O
+nurse O
+stranded O
+or O
+kept O
+in O
+Libya B-LOC
+without O
+her O
+will O
+, O
+and O
+we O
+have O
+not O
+received O
+any O
+complaint O
+, O
+" O
+the O
+Polish B-MISC
+embassy O
+'s O
+charge O
+d'affaires O
+in O
+Tripoli B-LOC
+, O
+Tadeusz B-PER
+Awdankiewicz I-PER
+, O
+told O
+Reuters B-ORG
+by O
+telephone O
+. O
+
+Poland B-LOC
+'s O
+labour O
+ministry O
+said O
+this O
+week O
+it O
+would O
+send O
+a O
+team O
+to O
+Libya B-LOC
+to O
+investigate O
+, O
+but O
+Awdankiewicz B-PER
+said O
+the O
+probe O
+was O
+prompted O
+by O
+some O
+nurses O
+complaining O
+about O
+their O
+work O
+conditions O
+such O
+as O
+non-payment O
+of O
+their O
+salaries O
+. O
+
+He O
+said O
+that O
+there O
+are O
+an O
+estimated O
+800 O
+Polish B-MISC
+nurses O
+working O
+in O
+Libya B-LOC
+. O
+
+Two O
+Iranian B-MISC
+opposition O
+leaders O
+meet O
+in O
+Baghdad B-LOC
+. O
+
+Hassan B-PER
+Hafidh I-PER
+
+BAGHDAD B-LOC
+1996-08-22 O
+
+An O
+Iranian B-MISC
+exile O
+group O
+based O
+in O
+Iraq B-LOC
+vowed O
+on O
+Thursday O
+to O
+extend O
+support O
+to O
+Iran B-LOC
+'s O
+Kurdish B-MISC
+rebels O
+after O
+they O
+were O
+attacked O
+by O
+Iranian B-MISC
+troops O
+deep O
+inside O
+Iraq B-LOC
+last O
+month O
+. O
+
+A O
+Mujahideen B-ORG
+Khalq I-ORG
+statement O
+said O
+its O
+leader O
+Massoud B-PER
+Rajavi I-PER
+met O
+in O
+Baghdad B-LOC
+the O
+Secretary-General O
+of O
+the O
+Kurdistan B-ORG
+Democratic I-ORG
+Party I-ORG
+of I-ORG
+Iran I-ORG
+( O
+KDPI B-ORG
+) O
+Hassan B-PER
+Rastegar I-PER
+on O
+Wednesday O
+and O
+voiced O
+his O
+support O
+to O
+Iran B-LOC
+'s O
+rebel O
+Kurds B-MISC
+. O
+
+" O
+Rajavi B-MISC
+emphasised O
+that O
+the O
+Iranian B-MISC
+Resistance B-ORG
+would O
+continue O
+to O
+stand O
+side O
+by O
+side O
+with O
+their O
+Kurdish B-MISC
+compatriots O
+and O
+the O
+resistance O
+movement O
+in O
+Iranian B-LOC
+Kurdistan I-LOC
+, O
+" O
+it O
+said O
+. O
+
+A O
+spokesman O
+for O
+the O
+group O
+said O
+the O
+meeting O
+" O
+signals O
+a O
+new O
+level O
+of O
+cooperation O
+between O
+Mujahideen B-ORG
+Khalq I-ORG
+and O
+the O
+Iranian B-MISC
+Kurdish I-MISC
+oppositions O
+" O
+. O
+
+Iran B-LOC
+heavily O
+bombarded O
+targets O
+in O
+northern O
+Iraq B-LOC
+in O
+July O
+in O
+pursuit O
+of O
+KDPI B-ORG
+guerrillas O
+based O
+in O
+Iraqi B-MISC
+Kurdish I-MISC
+areas O
+outside O
+the O
+control O
+of O
+the O
+government O
+in O
+Baghdad B-LOC
+. O
+
+Iraqi B-MISC
+Kurdish I-MISC
+areas O
+bordering O
+Iran B-LOC
+are O
+under O
+the O
+control O
+of O
+guerrillas O
+of O
+the O
+Iraqi B-ORG
+Kurdish I-ORG
+Patriotic I-ORG
+Union I-ORG
+of I-ORG
+Kurdistan I-ORG
+( O
+PUK B-ORG
+) O
+group O
+. O
+
+PUK B-ORG
+and O
+Iraq B-LOC
+'s O
+Kurdistan B-ORG
+Democratic I-ORG
+Party I-ORG
+( O
+KDP B-ORG
+) O
+the O
+two O
+main O
+Iraqi B-MISC
+Kurdish I-MISC
+factions O
+, O
+have O
+had O
+northern O
+Iraq B-LOC
+under O
+their O
+control O
+since O
+Iraqi B-MISC
+forces O
+were O
+ousted O
+from O
+Kuwait B-LOC
+in O
+the O
+1991 O
+Gulf B-MISC
+War I-MISC
+. O
+
+Clashes O
+between O
+the O
+two O
+parties O
+broke O
+out O
+at O
+the O
+weekend O
+in O
+the O
+most O
+serious O
+fighting O
+since O
+a O
+U.S.-sponsored B-MISC
+ceasefire O
+last O
+year O
+. O
+
+Mujahideen B-ORG
+Khalq I-ORG
+said O
+Iranian B-MISC
+troops O
+had O
+also O
+been O
+shelling O
+KDP B-ORG
+positions O
+in O
+Qasri B-LOC
+region O
+in O
+Suleimaniya B-LOC
+province O
+near O
+the O
+Iranian B-MISC
+border O
+over O
+the O
+last O
+two O
+days O
+. O
+
+It O
+said O
+about O
+100 O
+Iraqi B-MISC
+Kurds I-MISC
+were O
+killed O
+or O
+wounded O
+in O
+the O
+attack O
+. O
+
+Both O
+Iran B-LOC
+and O
+Turkey B-LOC
+mount O
+air O
+and O
+land O
+strikes O
+at O
+targets O
+in O
+northern O
+Iraq B-LOC
+in O
+pursuit O
+of O
+their O
+own O
+Kurdish B-MISC
+rebels O
+. O
+
+A O
+U.S.-led B-MISC
+air O
+force O
+in O
+southern O
+Turkey B-LOC
+protects O
+Iraqi B-MISC
+Kurds I-MISC
+from O
+possible O
+attacks O
+by O
+Baghdad B-LOC
+troops O
+. O
+
+Saudi B-MISC
+riyal O
+rates O
+steady O
+in O
+quiet O
+summer O
+trade O
+. O
+
+MANAMA B-LOC
+1996-08-22 O
+
+The O
+spot O
+Saudi B-MISC
+riyal O
+against O
+the O
+dollar O
+and O
+riyal O
+interbank O
+deposit O
+rates O
+were O
+mainly O
+steady O
+this O
+week O
+in O
+quiet O
+summer O
+trade O
+, O
+dealers O
+in O
+the O
+kingdom O
+said O
+. O
+
+" O
+There O
+were O
+no O
+changes O
+in O
+Saudi B-MISC
+riyal O
+rates O
+. O
+
+The O
+market O
+was O
+very O
+quiet O
+because O
+of O
+summer O
+holidays O
+, O
+" O
+one O
+dealer O
+said O
+. O
+
+The O
+spot O
+riyal O
+was O
+put O
+at O
+3.7504 O
+/ O
+06 O
+to O
+the O
+dollar O
+. O
+
+One-month B-MISC
+interbank O
+deposits O
+were O
+at O
+5-1/2 O
+, O
+3/8 O
+percent O
+, O
+three O
+months O
+were O
+5-5/8 O
+, O
+1/2 O
+percent O
+and O
+six O
+months O
+were O
+5-3/4 O
+, O
+5/8 O
+percent O
+. O
+
+One-year B-MISC
+funds O
+were O
+at O
+six O
+, O
+5-7/8 O
+percent O
+. O
+
+Israel B-LOC
+approves O
+Arafat B-PER
+'s O
+flight O
+to O
+West B-LOC
+Bank I-LOC
+. O
+
+JERUSALEM B-LOC
+1996-08-22 O
+
+Israel B-LOC
+gave O
+Palestinian B-MISC
+President O
+Yasser B-PER
+Arafat I-PER
+permission O
+on O
+Thursday O
+to O
+fly O
+over O
+its O
+territory O
+to O
+the O
+West B-LOC
+Bank I-LOC
+, O
+ending O
+a O
+brief O
+Israeli-PLO B-MISC
+crisis O
+, O
+an O
+Arafat B-PER
+adviser O
+said O
+. O
+
+" O
+The O
+problem O
+is O
+over O
+. O
+
+The O
+president O
+'s O
+aircraft O
+has O
+received O
+permission O
+to O
+pass O
+through O
+Israeli B-MISC
+airspace O
+but O
+the O
+president O
+is O
+not O
+expected O
+to O
+travel O
+to O
+the O
+West B-LOC
+Bank I-LOC
+before O
+Monday O
+, O
+" O
+Nabil B-PER
+Abu I-PER
+Rdainah I-PER
+told O
+Reuters B-ORG
+. O
+
+Arafat B-PER
+had O
+been O
+scheduled O
+to O
+meet O
+former O
+Israeli B-MISC
+prime O
+minister O
+Shimon B-PER
+Peres I-PER
+in O
+the O
+West B-LOC
+Bank I-LOC
+town O
+of O
+Ramallah B-LOC
+on O
+Thursday O
+but O
+the O
+venue O
+was O
+changed O
+to O
+Gaza B-LOC
+after O
+Israel B-LOC
+denied O
+flight O
+clearance O
+to O
+the O
+Palestinian B-MISC
+leader O
+'s O
+helicopters O
+. O
+
+Palestinian B-MISC
+officials O
+accused O
+right-wing O
+Prime O
+Minister O
+Benjamin B-PER
+Netanyahu I-PER
+of O
+trying O
+to O
+stop O
+the O
+Ramallah B-LOC
+meeting O
+by O
+keeping O
+Arafat B-PER
+grounded O
+. O
+
+Arafat B-PER
+subsequently O
+cancelled O
+a O
+meeting O
+between O
+Israeli B-MISC
+and O
+PLO B-ORG
+officials O
+, O
+on O
+civilian O
+affairs O
+, O
+at O
+the O
+Allenby B-LOC
+Bridge I-LOC
+crossing O
+between O
+Jordan B-LOC
+and O
+the O
+West B-LOC
+Bank I-LOC
+. O
+
+Abu B-PER
+Rdainah I-PER
+said O
+Arafat B-PER
+had O
+decided O
+against O
+flying O
+to O
+the O
+West B-LOC
+Bank I-LOC
+on O
+Thursday O
+, O
+after O
+Israel B-LOC
+lifted O
+the O
+ban O
+, O
+because O
+he O
+had O
+a O
+busy O
+schedule O
+in O
+Gaza B-LOC
+and O
+would O
+not O
+be O
+free O
+until O
+Monday O
+. O
+
+Arafat B-PER
+to O
+meet O
+Peres B-PER
+in O
+Gaza B-LOC
+after O
+flight O
+ban O
+. O
+
+JERUSALEM B-LOC
+1996-08-22 O
+
+Yasser B-PER
+Arafat I-PER
+will O
+meet O
+Shimon B-PER
+Peres I-PER
+in O
+Gaza B-LOC
+on O
+Thursday O
+after O
+Palestinians B-MISC
+said O
+the O
+right-wing O
+Israeli B-MISC
+government O
+had O
+barred O
+the O
+Palestinian B-MISC
+leader O
+from O
+flying O
+to O
+the O
+West B-LOC
+Bank I-LOC
+for O
+talks O
+with O
+the O
+former O
+prime O
+minister O
+. O
+
+" O
+The O
+meeting O
+between O
+Peres B-PER
+and O
+Arafat B-PER
+will O
+take O
+place O
+at O
+Erez B-LOC
+checkpoint O
+in O
+Gaza B-LOC
+and O
+not O
+in O
+Ramallah B-LOC
+as O
+planned O
+, O
+" O
+Peres B-PER
+' O
+office O
+said O
+. O
+
+Palestinian B-MISC
+officials O
+said O
+the O
+Israeli B-MISC
+government O
+had O
+barred O
+Arafat B-PER
+from O
+overflying O
+Israel B-LOC
+in O
+a O
+Palestinian B-MISC
+helicopter O
+to O
+the O
+West B-LOC
+Bank I-LOC
+in O
+an O
+attempt O
+to O
+bar O
+the O
+meeting O
+with O
+Peres B-PER
+. O
+
+Israeli B-MISC
+Prime O
+Minister O
+Benjamin B-PER
+Netanyahu I-PER
+has O
+accused O
+opposition O
+leader O
+Peres B-PER
+, O
+who O
+he O
+defeated O
+in O
+May O
+elections O
+, O
+of O
+trying O
+to O
+undermine O
+his O
+Likud B-ORG
+government O
+'s O
+authority O
+to O
+conduct O
+peace O
+talks O
+. O
+
+Afghan B-MISC
+UAE B-LOC
+embassy O
+says O
+Taleban B-MISC
+guards O
+going O
+home O
+. O
+
+Hilary B-PER
+Gush I-PER
+
+DUBAI B-LOC
+1996-08-22 O
+
+Three O
+Afghan B-MISC
+guards O
+brought O
+to O
+the O
+United B-LOC
+Arab I-LOC
+Emirates I-LOC
+last O
+week O
+by O
+Russian B-MISC
+hostages O
+who O
+escaped O
+from O
+the O
+Taleban B-MISC
+militia O
+will O
+return O
+to O
+Afghanistan B-LOC
+in O
+a O
+few O
+days O
+, O
+the O
+Afghan B-MISC
+embassy O
+in O
+Abu B-LOC
+Dhabi I-LOC
+said O
+on O
+Thursday O
+. O
+
+" O
+Our O
+ambassador O
+is O
+in O
+touch O
+with O
+the O
+UAE B-LOC
+foreign O
+ministry O
+. O
+
+Their O
+return O
+to O
+Afghanistan B-LOC
+will O
+take O
+place O
+in O
+two O
+or O
+three O
+days O
+, O
+" O
+an O
+embassy O
+official O
+said O
+. O
+
+" O
+The O
+embassy O
+is O
+issuing O
+them O
+travel O
+documents O
+for O
+their O
+return O
+to O
+their O
+homeland O
+. O
+
+There O
+is O
+no O
+objection O
+to O
+their O
+travel O
+, O
+" O
+he O
+added O
+. O
+
+The O
+three O
+Islamic B-MISC
+Taleban I-MISC
+guards O
+were O
+overpowered O
+by O
+seven O
+Russian B-MISC
+aircrew O
+who O
+escaped O
+to O
+UAE B-LOC
+state O
+Sharjah B-LOC
+last O
+Friday O
+on O
+board O
+their O
+own O
+aircraft O
+after O
+a O
+year O
+in O
+the O
+captivity O
+of O
+Taleban B-MISC
+militia O
+in O
+Kandahar B-LOC
+in O
+southern O
+Afghanistan B-LOC
+. O
+
+The O
+UAE B-LOC
+said O
+on O
+Monday O
+it O
+would O
+hand O
+over O
+the O
+three O
+to O
+the O
+International B-ORG
+Red I-ORG
+Crescent I-ORG
+, O
+possibly O
+last O
+Tuesday O
+. O
+
+It O
+has O
+since O
+been O
+silent O
+on O
+the O
+issue O
+. O
+
+When O
+asked O
+whether O
+the O
+three O
+guards O
+would O
+travel O
+back O
+to O
+Kandahar B-LOC
+or O
+the O
+Afghan B-MISC
+capital O
+Kabul B-LOC
+, O
+the O
+embassy O
+official O
+said O
+: O
+" O
+That O
+has O
+not O
+been O
+decided O
+, O
+but O
+possibly O
+Kandahar B-LOC
+. O
+" O
+
+Kandahar B-LOC
+is O
+the O
+headquarters O
+of O
+the O
+opposition O
+Taleban B-MISC
+militia O
+. O
+
+Kabul B-LOC
+is O
+controlled O
+by O
+President O
+Burhanuddin B-PER
+Rabbani I-PER
+'s O
+government O
+, O
+which O
+Taleban B-MISC
+is O
+fighting O
+to O
+overthrow O
+. O
+
+The O
+embassy O
+official O
+said O
+the O
+three O
+men O
+, O
+believed O
+to O
+be O
+in O
+their O
+20s O
+, O
+were O
+currently O
+in O
+Abu B-LOC
+Dhabi I-LOC
+. O
+
+He O
+did O
+not O
+elaborate O
+. O
+
+The O
+Russians B-MISC
+, O
+working O
+for O
+the O
+Aerostan B-ORG
+firm O
+in O
+the O
+Russian B-MISC
+republic O
+of O
+Tatarstan B-LOC
+, O
+were O
+taken O
+hostage O
+after O
+a O
+Taleban B-MISC
+MiG-19 B-MISC
+fighter O
+forced O
+their O
+cargo O
+plane O
+to O
+land O
+in O
+August O
+1995 O
+. O
+
+Taleban B-MISC
+said O
+its O
+shipment O
+of O
+ammunition O
+from O
+Albania B-LOC
+was O
+evidence O
+of O
+Russian B-MISC
+military O
+support O
+for O
+Rabbani B-PER
+'s O
+government O
+. O
+
+Moscow B-LOC
+said O
+the O
+crew O
+'s O
+nationality O
+was O
+coincidental O
+. O
+
+Numerous O
+diplomatic O
+attempts O
+to O
+free O
+the O
+seven O
+failed O
+. O
+
+The O
+Russians B-MISC
+, O
+who O
+said O
+they O
+overpowered O
+the O
+guards O
+-- O
+two O
+armed O
+with O
+Kalashnikov B-MISC
+automatic O
+rifles O
+-- O
+while O
+doing O
+regular O
+maintenance O
+work O
+on O
+their O
+Ilyushin B-MISC
+76 I-MISC
+cargo O
+plane O
+last O
+Friday O
+, O
+left O
+the O
+UAE B-LOC
+capital O
+Abu B-LOC
+Dhabi I-LOC
+for O
+home O
+on O
+Sunday O
+. O
+
+Iraq B-LOC
+'s O
+Saddam B-PER
+meets O
+Russia B-LOC
+'s O
+Zhirinovsky B-PER
+. O
+
+BAGHDAD B-LOC
+1996-08-22 O
+
+Iraqi B-MISC
+President O
+Saddam B-PER
+Hussein I-PER
+has O
+told O
+visiting O
+Russian B-MISC
+ultra-nationalist O
+Vladimir B-PER
+Zhirinovsky I-PER
+that O
+Baghdad B-LOC
+wanted O
+to O
+maintain O
+" O
+friendship O
+and O
+cooperation O
+" O
+with O
+Moscow B-LOC
+, O
+official O
+Iraqi B-MISC
+newspapers O
+said O
+on O
+Thursday O
+. O
+
+" O
+President O
+Saddam B-PER
+Hussein I-PER
+stressed O
+during O
+the O
+meeting O
+Iraq B-LOC
+'s O
+keenness O
+to O
+maintain O
+friendship O
+and O
+cooperation O
+with O
+Russia B-LOC
+, O
+" O
+the O
+papers O
+said O
+. O
+
+They O
+said O
+Zhirinovsky B-PER
+told O
+Saddam B-PER
+before O
+he O
+left O
+Baghdad B-LOC
+on O
+Wednesday O
+that O
+his O
+Liberal B-ORG
+Democratic I-ORG
+party I-ORG
+and O
+the O
+Russian B-MISC
+Duma B-ORG
+( O
+parliament O
+) O
+" O
+are O
+calling O
+for O
+an O
+immediate O
+lifting O
+of O
+the O
+embargo O
+" O
+imposed O
+on O
+Iraq B-LOC
+after O
+its O
+1990 O
+invasion O
+of O
+Kuwait B-LOC
+. O
+
+Zhirinovsky B-PER
+said O
+on O
+Tuesday O
+he O
+would O
+press O
+the O
+Russian B-MISC
+government O
+to O
+help O
+end O
+U.N. B-ORG
+trade O
+sanctions O
+on O
+Iraq B-LOC
+and O
+blamed O
+Moscow B-LOC
+for O
+delaying O
+establishment O
+of O
+good O
+ties O
+with O
+Baghdad B-LOC
+. O
+
+" O
+Our O
+stand O
+is O
+firm O
+, O
+namely O
+we O
+are O
+calling O
+on O
+( O
+the O
+Russian B-MISC
+) O
+government O
+to O
+end O
+the O
+economic O
+embargo O
+on O
+Iraq B-LOC
+and O
+resume O
+trade O
+ties O
+between O
+Russia B-LOC
+and O
+Iraq B-LOC
+, O
+" O
+he O
+told O
+reporters O
+. O
+
+Zhirinovsky B-PER
+visited O
+Iraq B-LOC
+twice O
+in O
+1995 O
+. O
+
+Last O
+October O
+he O
+was O
+invited O
+to O
+attend O
+the O
+referendum O
+held O
+on O
+Iraq B-LOC
+'s O
+presidency O
+, O
+which O
+extended O
+Saddam B-PER
+'s O
+term O
+for O
+seven O
+more O
+years O
+. O
+
+PRESS O
+DIGEST O
+- O
+Iraq B-LOC
+- O
+Aug O
+22 O
+. O
+
+BAGHDAD B-LOC
+1996-08-22 O
+
+These O
+are O
+some O
+of O
+the O
+leading O
+stories O
+in O
+the O
+official O
+Iraqi B-MISC
+press O
+on O
+Thursday O
+. O
+
+Reuters B-ORG
+has O
+not O
+verified O
+these O
+stories O
+and O
+does O
+not O
+vouch O
+for O
+their O
+accuracy O
+. O
+
+THAWRA B-ORG
+
+- O
+Iraq B-LOC
+'s O
+President O
+Saddam B-PER
+Hussein I-PER
+meets O
+with O
+chairman O
+of O
+the O
+Russian B-MISC
+liberal O
+democratic O
+party O
+Vladimir B-PER
+Zhirinovsky I-PER
+. O
+
+- O
+Turkish B-MISC
+foreign O
+minister O
+says O
+Turkey B-LOC
+will O
+take O
+part O
+in O
+the O
+Baghdad B-LOC
+trade O
+fair O
+that O
+will O
+be O
+held O
+in O
+November O
+. O
+
+IRAQ B-LOC
+
+- O
+A O
+shipload O
+of O
+12 O
+tonnes O
+of O
+rice O
+arrives O
+in O
+Umm B-LOC
+Qasr I-LOC
+port O
+in O
+the O
+Gulf B-LOC
+. O
+
+PRESS O
+DIGEST O
+- O
+Lebanon B-LOC
+- O
+Aug O
+22 O
+. O
+
+BEIRUT B-LOC
+1996-08-22 O
+
+These O
+are O
+the O
+leading O
+stories O
+in O
+the O
+Beirut B-LOC
+press O
+on O
+Thursday O
+. O
+
+Reuters B-ORG
+has O
+not O
+verified O
+these O
+stories O
+and O
+does O
+not O
+vouch O
+for O
+their O
+accuracy O
+. O
+
+AN-NAHAR B-ORG
+
+- O
+Confrontation O
+is O
+escalating O
+between O
+Hizbollah B-ORG
+and O
+the O
+government O
+. O
+
+- O
+Prime O
+Minister O
+Hariri B-PER
+: O
+Israeli B-MISC
+threats O
+do O
+no O
+serve O
+peace O
+. O
+
+AS-SAFIR B-ORG
+
+- O
+Parliament O
+Speaker O
+Berri B-PER
+: O
+Israel B-LOC
+is O
+preparing O
+for O
+war O
+against O
+Syria B-LOC
+and O
+Lebanon B-LOC
+. O
+
+- O
+Parliamentary O
+battle O
+in O
+Beirut B-LOC
+.. O
+
+The O
+three O
+main O
+lists O
+have O
+been O
+prepared O
+. O
+
+AL-ANWAR B-ORG
+
+- O
+Continued O
+criticism O
+of O
+law O
+violation O
+incidents O
+-- O
+which O
+occurred O
+in O
+the O
+Mount B-LOC
+Lebanon I-LOC
+elections O
+last O
+Sunday O
+. O
+
+AD-DIYAR B-ORG
+
+- O
+Financial O
+negotiations O
+between O
+Lebanon B-LOC
+and O
+Pakistan B-LOC
+. O
+
+- O
+Hariri B-PER
+to O
+step O
+into O
+the O
+election O
+battle O
+with O
+an O
+incomplete O
+list O
+. O
+
+NIDA'A B-ORG
+AL-WATAN I-ORG
+
+- O
+Maronite B-ORG
+Patriarch O
+Sfeir B-PER
+expressed O
+sorrow O
+over O
+the O
+violations O
+in O
+Sunday O
+' O
+elections O
+. O
+
+CME B-ORG
+live O
+and O
+feeder O
+cattle O
+calls O
+range O
+mixed O
+. O
+
+CHICAGO B-LOC
+1996-08-22 O
+
+Early O
+calls O
+on O
+CME B-ORG
+live O
+and O
+feeder O
+cattle O
+futures O
+ranged O
+from O
+0.200 O
+cent O
+higher O
+to O
+0.100 O
+lower O
+, O
+livestock O
+analysts O
+said O
+. O
+
+The O
+continued O
+strong O
+tone O
+to O
+cash O
+cattle O
+and O
+beef O
+markets O
+should O
+prompt O
+further O
+support O
+. O
+
+Outlook O
+for O
+a O
+bullish O
+cattle-on-feed O
+report O
+is O
+also O
+expected O
+to O
+lend O
+support O
+and O
+prompt O
+some O
+bull O
+spreading O
+, O
+analysts O
+said O
+. O
+
+However O
+, O
+trade O
+will O
+likely O
+be O
+light O
+and O
+prices O
+could O
+drift O
+on O
+evening O
+up O
+ahead O
+of O
+the O
+report O
+. O
+
+Cash O
+markets O
+are O
+also O
+expected O
+to O
+be O
+quiet O
+after O
+the O
+record O
+amount O
+of O
+feedlot O
+cattle O
+traded O
+this O
+week O
+, O
+they O
+said O
+. O
+
+Kindercare O
+says O
+debt O
+buy O
+to O
+hit O
+Q1 O
+results O
+. O
+
+MONTGOMERY B-LOC
+, O
+Ala B-LOC
+. O
+
+1996-08-22 O
+
+KinderCare B-ORG
+Learning I-ORG
+Centers I-ORG
+Inc I-ORG
+said O
+on O
+Thursday O
+that O
+a O
+debt O
+buyback O
+would O
+mean O
+an O
+extraordinary O
+loss O
+of O
+$ O
+1.2 O
+million O
+in O
+its O
+fiscal O
+1997 O
+first O
+quarter O
+. O
+
+The O
+company O
+said O
+that O
+during O
+the O
+quarter O
+, O
+which O
+began O
+June O
+1 O
+, O
+it O
+bought O
+$ O
+30 O
+million O
+par O
+value O
+of O
+its O
+outstanding O
+10-3/8 O
+percent O
+senior O
+notes O
+due O
+2001 O
+. O
+
+The O
+notes O
+were O
+bought O
+for O
+$ O
+31.5 O
+million O
+. O
+
+Philip B-PER
+Maslowe I-PER
+, O
+chief O
+financial O
+officer O
+of O
+the O
+preschool O
+and O
+child O
+care O
+company O
+, O
+said O
+the O
+buyback O
+" O
+offered O
+an O
+opportunity O
+to O
+reduce O
+the O
+company O
+'s O
+weighted O
+average O
+interest O
+costs O
+and O
+improve O
+future O
+cash O
+flows O
+and O
+earnings O
+. O
+" O
+
+RESEARCH O
+ALERT O
+- O
+Lehman B-ORG
+starts O
+SNET B-ORG
+. O
+
+-- O
+Lehman B-ORG
+analyst O
+Blake B-PER
+Bath I-PER
+started O
+Southern B-ORG
+New I-ORG
+England I-ORG
+Telecommunciations I-ORG
+Corp I-ORG
+with O
+an O
+outperform O
+rating O
+, O
+his O
+office O
+said O
+. O
+
+-- O
+The O
+analyst O
+set O
+a O
+12-month O
+price O
+target O
+of O
+$ O
+45 O
+and O
+a O
+fiscal O
+1996 O
+year O
+earnings O
+estimate O
+of O
+$ O
+3.09 O
+per O
+share O
+, O
+his O
+office O
+said O
+. O
+
+-- O
+The O
+analyst O
+also O
+set O
+an O
+earnings O
+estimate O
+for O
+the O
+1997 O
+year O
+, O
+but O
+the O
+figure O
+was O
+not O
+immediately O
+available O
+. O
+
+-- O
+Southern B-ORG
+New I-ORG
+England I-ORG
+closed O
+at O
+38-1/2 O
+Wednesday O
+. O
+
+-- O
+E. B-PER
+Auchard I-PER
+, O
+Wall B-ORG
+Street I-ORG
+bureau I-ORG
+, O
+212-859-1736 O
+
+Gateway B-ORG
+Data I-ORG
+Sciences I-ORG
+Q2 O
+net O
+rises O
+. O
+
+PHOENIX B-LOC
+1996-08-22 O
+
+Summary O
+of O
+Consolidated B-ORG
+Financial I-ORG
+Data I-ORG
+
+( O
+In O
+Thousands O
+, O
+except O
+per O
+share O
+data O
+) O
+
+Six O
+Months O
+Ended O
+Quarter O
+Ended O
+
+Jul O
+31 O
+, O
+Jul O
+31 O
+, O
+Jul O
+31 O
+, O
+Jul O
+31 O
+, O
+
+1996 O
+1995 O
+1996 O
+1995 O
+
+Income O
+Statement O
+Data O
+: O
+
+Total O
+Revenue O
+$ O
+10,756 O
+$ O
+13,102 O
+$ O
+7,961 O
+$ O
+5,507 O
+
+Software O
+Revenue O
+2,383 O
+1,558 O
+1,086 O
+1,074 O
+
+Services O
+Revenue O
+1,154 O
+692 O
+624 O
+465 O
+
+Operating O
+Income O
+906 O
+962 O
+599 O
+515 O
+
+Net O
+Income O
+821 O
+512 O
+565 O
+301 O
+
+Earnings O
+Per O
+Share O
+0.31 O
+0.34 O
+0.19 O
+0.20 O
+
+Jul O
+31 O
+, O
+1996 O
+Jan O
+31 O
+, O
+1996 O
+
+Balance O
+Sheet O
+Data O
+: O
+
+Working O
+Capital O
+$ O
+5,755 O
+( O
+$ O
+881 O
+) O
+
+Cash O
+and O
+Cash O
+Equivalents O
+2,386 O
+93 O
+
+Total O
+Assets O
+14,196 O
+7,138 O
+
+Shareholders O
+' O
+Equity O
+5,951 O
+( O
+1,461 O
+) O
+
+Greek B-MISC
+socialists O
+give O
+PM O
+green O
+light O
+for O
+election O
+. O
+
+ATHENS B-LOC
+1996-08-22 O
+
+The O
+Greek B-MISC
+socialist O
+party O
+'s O
+executive O
+bureau O
+gave O
+Prime O
+Minister O
+Costas B-PER
+Simitis I-PER
+its O
+backing O
+if O
+he O
+chooses O
+to O
+call O
+snap O
+elections O
+, O
+its O
+general O
+secretary O
+Costas B-PER
+Skandalidis I-PER
+told O
+reporters O
+on O
+Thursday O
+. O
+
+Prime O
+Minister O
+Costas B-PER
+Simitis I-PER
+will O
+make O
+an O
+official O
+announcement O
+after O
+a O
+cabinet O
+meeting O
+later O
+on O
+Thursday O
+, O
+said O
+Skandalidis B-PER
+. O
+
+-- O
+Dimitris B-PER
+Kontogiannis I-PER
+, O
+Athens B-ORG
+Newsroom I-ORG
++301 O
+3311812-4 O
+
+PRESS O
+DIGEST O
+- O
+France B-LOC
+- O
+Le B-ORG
+Monde I-ORG
+Aug O
+22 O
+. O
+
+PARIS B-LOC
+1996-08-22 O
+
+These O
+are O
+leading O
+stories O
+in O
+Thursday O
+'s O
+afternoon O
+daily O
+Le B-ORG
+Monde I-ORG
+, O
+dated O
+Aug O
+23 O
+. O
+
+FRONT O
+PAGE O
+
+-- O
+Africans B-MISC
+seeking O
+to O
+renew O
+or O
+obtain O
+work O
+and O
+residence O
+rights O
+say O
+Prime O
+Minister O
+Alain B-PER
+Juppe I-PER
+'s O
+proposals O
+are O
+insufficient O
+as O
+hunger O
+strike O
+enters O
+49th O
+day O
+in O
+Paris B-LOC
+church O
+and O
+Wednesday O
+rally O
+attracts O
+8,000 O
+sympathisers O
+. O
+
+-- O
+FLNC B-ORG
+Corsican B-MISC
+nationalist O
+movement O
+announces O
+end O
+of O
+truce O
+after O
+last O
+night O
+'s O
+attacks O
+. O
+
+BUSINESS O
+PAGES O
+
+-- O
+Shutdown O
+of O
+Bally B-ORG
+'s O
+French B-MISC
+factories O
+points O
+up O
+shoe O
+industry O
+crisis O
+, O
+with O
+French B-MISC
+manufacturers O
+undercut O
+by O
+low-wage O
+country O
+competition O
+and O
+failure O
+to O
+keep O
+abreast O
+of O
+trends O
+. O
+
+-- O
+Secretary O
+general O
+of O
+the O
+Sud-PTT B-MISC
+trade O
+union O
+at O
+France B-ORG
+Telecom I-ORG
+all O
+the O
+elements O
+are O
+in O
+place O
+for O
+social O
+unrest O
+in O
+the O
+next O
+few O
+weeks O
+. O
+
+-- O
+Paris B-ORG
+Newsroom I-ORG
++33 O
+1 O
+42 O
+21 O
+53 O
+81 O
+
+Well O
+repairs O
+to O
+lift O
+Heidrun B-LOC
+oil O
+output O
+- O
+Statoil B-ORG
+. O
+
+OSLO B-LOC
+1996-08-22 O
+
+Three O
+plugged O
+water O
+injection O
+wells O
+on O
+the O
+Heidrun B-LOC
+oilfield O
+off O
+mid-Norway B-MISC
+will O
+be O
+reopened O
+over O
+the O
+next O
+month O
+, O
+operator O
+Den B-ORG
+Norske I-ORG
+Stats I-ORG
+Oljeselskap I-ORG
+AS I-ORG
+( O
+Statoil B-ORG
+) O
+said O
+on O
+Thursday O
+. O
+
+The O
+plugged O
+wells O
+have O
+accounted O
+for O
+a O
+dip O
+of O
+30,000 O
+barrels O
+per O
+day O
+( O
+bpd O
+) O
+in O
+Heidrun B-LOC
+output O
+to O
+roughly O
+220,000 O
+bpd O
+, O
+according O
+to O
+the O
+company O
+'s O
+Status B-ORG
+Weekly I-ORG
+newsletter O
+. O
+
+The O
+wells O
+will O
+be O
+reperforated O
+and O
+gravel O
+will O
+be O
+pumped O
+into O
+the O
+reservoir O
+through O
+one O
+of O
+the O
+wells O
+to O
+avoid O
+plugging O
+problems O
+in O
+the O
+future O
+, O
+it O
+said O
+. O
+
+-- O
+Oslo B-LOC
+newsroom O
++47 O
+22 O
+42 O
+50 O
+41 O
+
+Finnish B-MISC
+April O
+trade O
+surplus O
+3.8 O
+billion O
+markka O
+- O
+NCB B-ORG
+. O
+
+HELSINKI B-LOC
+1996-08-22 O
+
+Finland B-LOC
+'s O
+trade O
+surplus O
+rose O
+to O
+3.83 O
+billion O
+markka O
+in O
+April O
+from O
+3.43 O
+billion O
+in O
+March O
+, O
+the O
+National B-ORG
+Customs I-ORG
+Board I-ORG
+( O
+NCB B-ORG
+) O
+said O
+in O
+a O
+statement O
+on O
+Thursday O
+. O
+
+The O
+value O
+of O
+exports O
+fell O
+one O
+percent O
+year-on-year O
+in O
+April O
+and O
+the O
+value O
+of O
+imports O
+fell O
+two O
+percent O
+, O
+NCB B-ORG
+said O
+. O
+
+Trade O
+balance O
+( O
+million O
+markka O
+) O
+: O
+
+April O
+' O
+96 O
+March O
+' O
+96 O
+Jan-April O
+' O
+96 O
+Jan-April O
+' O
+95 O
+
+Imports O
+10,663 O
+10,725 O
+43,430 O
+40,989 O
+
+Exports O
+14,494 O
+14,153 O
+56,126 O
+56,261 O
+
+Balance O
++3,831 O
++3,428 O
++12,696 O
++15,272 O
+
+The O
+January-April O
+1995 O
+import O
+figure O
+was O
+revised O
+from O
+39,584 O
+million O
+markka O
+and O
+the O
+export O
+figure O
+from O
+55,627 O
+million O
+markka O
+. O
+
+The O
+Bank B-ORG
+of I-ORG
+Finland I-ORG
+earlier O
+estimated O
+the O
+April O
+trade O
+surplus O
+at O
+3.2 O
+billion O
+markka O
+with O
+exports O
+projected O
+at O
+14.5 O
+billion O
+and O
+imports O
+at O
+11.3 O
+billion O
+. O
+
+The O
+NCB B-ORG
+'s O
+official O
+monthly O
+trade O
+statistics O
+are O
+lagging O
+behind O
+due O
+to O
+changes O
+in O
+customs O
+procedures O
+when O
+Finland B-LOC
+joined O
+the O
+European B-ORG
+Union I-ORG
+at O
+the O
+start O
+of O
+1995 O
+. O
+
+-- O
+Helsinki B-ORG
+Newsroom I-ORG
++358 O
+- O
+0 O
+- O
+680 O
+50 O
+245 O
+
+Dutch B-MISC
+state O
+raises O
+tap O
+sale O
+price O
+to O
+99.95 O
+. O
+
+AMSTERDAM B-LOC
+1996-08-22 O
+
+The O
+Finance B-ORG
+Ministry I-ORG
+raised O
+the O
+price O
+for O
+tap O
+sales O
+of O
+the O
+Dutch B-MISC
+government O
+'s O
+new O
+5.75 O
+percent O
+bond O
+due O
+September O
+2002 O
+to O
+99.95 O
+from O
+99.90 O
+. O
+
+Tap O
+sales O
+began O
+on O
+Monday O
+and O
+are O
+being O
+held O
+daily O
+from O
+07.00 O
+GMT B-MISC
+to O
+15.00 O
+GMT B-MISC
+until O
+further O
+notice O
+. O
+
+The O
+ministry O
+had O
+raised O
+2.3 O
+billion O
+guilders O
+from O
+sales O
+of O
+the O
+new O
+bond O
+by O
+the O
+close O
+of O
+trade O
+on O
+Wednesday O
+. O
+
+-- O
+Amsterdam B-LOC
+newsroom O
++31 O
+20 O
+504 O
+5000 O
+
+German B-MISC
+farm O
+ministry O
+tells O
+consumers O
+to O
+avoid O
+British B-MISC
+mutton O
+. O
+
+BONN B-LOC
+1996-08-22 O
+
+Germany B-LOC
+'s O
+Agriculture B-ORG
+Ministry I-ORG
+suggested O
+on O
+Wednesday O
+that O
+consumers O
+avoid O
+eating O
+meat O
+from O
+British B-MISC
+sheep O
+until O
+scientists O
+determine O
+whether O
+mad O
+cow O
+disease O
+can O
+be O
+transmitted O
+to O
+the O
+animals O
+. O
+
+" O
+Until O
+this O
+is O
+cleared O
+up O
+by O
+the O
+European B-ORG
+Union I-ORG
+'s O
+scientific O
+panels O
+-- O
+and O
+we O
+have O
+asked O
+this O
+to O
+be O
+done O
+as O
+quickly O
+as O
+possible O
+-- O
+( O
+consumers O
+) O
+should O
+if O
+at O
+all O
+possible O
+give O
+preference O
+to O
+sheepmeat O
+from O
+other O
+countries O
+, O
+" O
+ministry O
+official O
+Werner B-PER
+Zwingmann I-PER
+told O
+ZDF B-ORG
+television O
+. O
+
+" O
+I O
+do O
+not O
+want O
+to O
+say O
+that O
+there O
+is O
+a O
+concrete O
+danger O
+for O
+consumers O
+, O
+" O
+he O
+added O
+. O
+" O
+
+There O
+are O
+too O
+many O
+holes O
+in O
+what O
+we O
+know O
+, O
+and O
+these O
+must O
+be O
+filled O
+very O
+quickly O
+. O
+" O
+
+Bonn B-LOC
+has O
+led O
+efforts O
+to O
+ensure O
+consumer O
+protection O
+tops O
+the O
+list O
+of O
+priorities O
+in O
+dealing O
+with O
+the O
+mad O
+cow O
+crisis O
+, O
+which O
+erupted O
+in O
+March O
+when O
+Britain B-LOC
+acknowledged O
+humans O
+could O
+contract O
+a O
+similar O
+illness O
+by O
+eating O
+contaminated O
+beef O
+. O
+
+The O
+European B-ORG
+Commission I-ORG
+agreed O
+this O
+month O
+to O
+rethink O
+a O
+proposal O
+to O
+ban O
+the O
+use O
+of O
+suspect O
+sheep O
+tissue O
+after O
+some O
+EU B-ORG
+veterinary O
+experts O
+questioned O
+whether O
+it O
+was O
+justified O
+. O
+
+EU B-ORG
+Farm O
+Commissioner O
+Franz B-PER
+Fischler I-PER
+had O
+proposed O
+banning O
+sheep O
+brains O
+, O
+spleens O
+and O
+spinal O
+cords O
+from O
+the O
+human O
+and O
+animal O
+food O
+chains O
+after O
+reports O
+from O
+Britain B-LOC
+and O
+France B-LOC
+that O
+under O
+laboratory O
+conditions O
+sheep O
+could O
+contract O
+Bovine B-MISC
+Spongiform I-MISC
+Encephalopathy I-MISC
+( O
+BSE B-MISC
+) O
+-- O
+mad O
+cow O
+disease O
+. O
+
+But O
+some O
+members O
+of O
+the O
+EU B-ORG
+'s O
+standing O
+veterinary O
+committee O
+questioned O
+whether O
+the O
+action O
+was O
+necessary O
+given O
+the O
+slight O
+risk O
+to O
+human O
+health O
+. O
+
+The O
+question O
+is O
+being O
+studied O
+separately O
+by O
+two O
+EU B-ORG
+scientific O
+committees O
+. O
+
+Sheep O
+have O
+long O
+been O
+known O
+to O
+contract O
+scrapie O
+, O
+a O
+similar O
+brain-wasting O
+disease O
+to O
+BSE B-MISC
+which O
+is O
+believed O
+to O
+have O
+been O
+transferred O
+to O
+cattle O
+through O
+feed O
+containing O
+animal O
+waste O
+. O
+
+British B-MISC
+officials O
+say O
+sheep O
+meat O
+is O
+perfectly O
+safe O
+to O
+eat O
+. O
+
+ZDF B-ORG
+said O
+Germany B-LOC
+imported O
+47,600 O
+sheep O
+from O
+Britain B-LOC
+last O
+year O
+, O
+nearly O
+half O
+of O
+total O
+imports O
+. O
+
+It O
+brought O
+in O
+4,275 O
+tonnes O
+of O
+British B-MISC
+mutton O
+, O
+some O
+10 O
+percent O
+of O
+overall O
+imports O
+. O
+
+After O
+the O
+British B-MISC
+government O
+admitted O
+a O
+possible O
+link O
+between O
+mad O
+cow O
+disease O
+and O
+its O
+fatal O
+human O
+equivalent O
+, O
+the O
+EU B-ORG
+imposed O
+a O
+worldwide O
+ban O
+on O
+British B-MISC
+beef O
+exports O
+. O
+
+EU B-ORG
+leaders O
+agreed O
+at O
+a O
+summit O
+in O
+June O
+to O
+a O
+progressive O
+lifting O
+of O
+the O
+ban O
+as O
+Britain B-LOC
+takes O
+parallel O
+measures O
+to O
+eradicate O
+the O
+disease O
+. O
+
+GOLF O
+- O
+SCORES O
+AT O
+WORLD B-MISC
+SERIES I-MISC
+OF I-MISC
+GOLF I-MISC
+. O
+
+AKRON B-LOC
+, O
+Ohio B-LOC
+1996-08-22 O
+
+Scores O
+from O
+the O
+$ O
+2.1 O
+
+million O
+NEC B-MISC
+World I-MISC
+Series I-MISC
+of I-MISC
+Golf I-MISC
+after O
+the O
+first O
+round O
+
+Thursday O
+at O
+the O
+7,149 O
+yard O
+, O
+par O
+70 O
+Firestone B-LOC
+C.C I-LOC
+course O
+
+( O
+players O
+U.S. B-LOC
+unless O
+stated O
+) O
+: O
+
+66 O
+Paul B-PER
+Goydos I-PER
+, O
+Billy B-PER
+Mayfair I-PER
+, O
+Hidemichi B-PER
+Tanaka I-PER
+( O
+Japan B-LOC
+) O
+
+68 O
+Steve B-PER
+Stricker I-PER
+
+69 O
+Justin B-PER
+Leonard I-PER
+, O
+Mark B-PER
+Brooks I-PER
+
+70 O
+Tim B-PER
+Herron I-PER
+, O
+Duffy B-PER
+Waldorf I-PER
+, O
+Davis B-PER
+Love I-PER
+, O
+Anders B-PER
+Forsbrand I-PER
+
+( O
+Sweden B-LOC
+) O
+, O
+Nick B-PER
+Faldo I-PER
+( O
+Britain B-LOC
+) O
+, O
+John B-PER
+Cook I-PER
+, O
+Steve B-PER
+Jones I-PER
+, O
+Phil B-PER
+
+Mickelson B-PER
+, O
+Greg B-PER
+Norman I-PER
+( O
+Australia B-LOC
+) O
+
+71 O
+Ernie B-PER
+Els I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+, O
+Scott B-PER
+Hoch I-PER
+
+72 O
+Clarence B-PER
+Rose I-PER
+, O
+Loren B-PER
+Roberts I-PER
+, O
+Fred B-PER
+Funk I-PER
+, O
+Sven B-PER
+Struver I-PER
+
+( O
+Germany B-LOC
+) O
+, O
+Alexander B-PER
+Cejka I-PER
+( O
+Germany B-LOC
+) O
+, O
+Hal B-PER
+Sutton I-PER
+, O
+Tom B-PER
+Lehman I-PER
+
+73 O
+D.A. B-PER
+Weibring I-PER
+, O
+Brad B-PER
+Bryant I-PER
+, O
+Craig B-PER
+Parry I-PER
+( O
+Australia B-LOC
+) O
+, O
+
+Stewart B-PER
+Ginn I-PER
+( O
+Australia B-LOC
+) O
+, O
+Corey B-PER
+Pavin I-PER
+, O
+Craig B-PER
+Stadler I-PER
+, O
+Mark B-PER
+
+O'Meara B-PER
+, O
+Fred B-PER
+Couples I-PER
+
+74 O
+Paul B-PER
+Stankowski I-PER
+, O
+Costantino B-PER
+Rocca I-PER
+( O
+Italy B-LOC
+) O
+
+75 O
+Jim B-PER
+Furyk I-PER
+, O
+Satoshi B-PER
+Higashi I-PER
+( O
+Japan B-LOC
+) O
+, O
+Willie B-PER
+Wood I-PER
+, O
+Shigeki B-PER
+
+Maruyama B-PER
+( O
+Japan B-LOC
+) O
+
+76 O
+Scott B-PER
+McCarron I-PER
+
+77 O
+Wayne B-PER
+Westner I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+, O
+Steve B-PER
+Schneiter I-PER
+
+79 O
+Tom B-PER
+Watson I-PER
+
+81 O
+Seiki B-PER
+Okuda I-PER
+( O
+Japan B-LOC
+) O
+
+SOCCER O
+- O
+GLORIA B-ORG
+BISTRITA I-ORG
+BEAT O
+2-1 O
+F.C. B-ORG
+VALLETTA I-ORG
+. O
+
+BISTRITA B-LOC
+1996-08-22 O
+
+Gloria B-ORG
+Bistrita I-ORG
+( O
+Romania B-LOC
+) O
+beat O
+2-1 O
+( O
+halftime O
+1-1 O
+) O
+F.C. B-ORG
+Valletta I-ORG
+( O
+Malta B-LOC
+) O
+in O
+their O
+Cup B-MISC
+winners I-MISC
+Cup I-MISC
+match O
+, O
+second O
+leg O
+of O
+the O
+preliminary O
+round O
+, O
+on O
+Thursday O
+. O
+
+Scorers O
+: O
+
+Gloria B-ORG
+Bistrita I-ORG
+- O
+Ilie B-PER
+Lazar I-PER
+( O
+32nd O
+) O
+, O
+Eugen B-PER
+Voica I-PER
+( O
+84th O
+) O
+
+F.C. B-ORG
+La I-ORG
+Valletta I-ORG
+- O
+Gilbert B-PER
+Agius I-PER
+( O
+24th O
+) O
+
+Attendance O
+: O
+8,000 O
+
+Gloria B-ORG
+Bistrita I-ORG
+won O
+4-2 O
+on O
+aggregate O
+and O
+qualified O
+for O
+the O
+first O
+round O
+of O
+the O
+Cup B-MISC
+winners I-MISC
+Cup I-MISC
+. O
+
+REUTER B-PER
+
+HORSE O
+RACING O
+- O
+PIVOTAL B-PER
+ENDS O
+25-YEAR O
+WAIT O
+FOR O
+TRAINER O
+PRESCOTT B-PER
+. O
+
+YORK B-LOC
+, O
+England B-LOC
+1996-08-22 O
+
+Sir O
+Mark B-PER
+Prescott I-PER
+landed O
+his O
+first O
+group O
+one O
+victory O
+in O
+25 O
+years O
+as O
+a O
+trainer O
+when O
+his O
+top O
+sprinter O
+Pivotal B-PER
+, O
+a O
+100-30 O
+chance O
+, O
+won O
+the O
+Nunthorpe B-MISC
+Stakes I-MISC
+on O
+Thursday O
+. O
+
+The O
+three-year-old O
+, O
+partnered O
+by O
+veteran O
+George B-PER
+Duffield I-PER
+, O
+snatched O
+a O
+short O
+head O
+verdict O
+in O
+the O
+last O
+stride O
+to O
+deny O
+Eveningperformance B-PER
+( O
+16-1 O
+) O
+, O
+trained O
+by O
+Henry B-PER
+Candy I-PER
+and O
+ridden O
+by O
+Chris B-PER
+Rutter I-PER
+. O
+
+Hever B-PER
+Golf I-PER
+Rose I-PER
+( O
+11-4 O
+) O
+, O
+last O
+year O
+'s O
+Prix B-MISC
+de I-MISC
+l I-MISC
+' I-MISC
+Abbaye I-MISC
+winner O
+at O
+Longchamp B-LOC
+, O
+finished O
+third O
+, O
+a O
+further O
+one O
+and O
+a O
+quarter O
+lengths O
+away O
+with O
+the O
+7-4 O
+favourite O
+Mind B-PER
+Games I-PER
+in O
+fourth O
+. O
+
+Pivotal B-PER
+, O
+a O
+Royal B-PER
+Ascot I-PER
+winner O
+in O
+June O
+, O
+may O
+now O
+be O
+aimed O
+at O
+this O
+season O
+'s O
+Abbaye B-MISC
+, O
+Europe B-LOC
+'s O
+top O
+sprint O
+race O
+. O
+
+Prescott B-PER
+, O
+reluctant O
+to O
+go O
+into O
+the O
+winner O
+'s O
+enclosure O
+until O
+the O
+result O
+of O
+the O
+photo-finish O
+was O
+announced O
+, O
+said O
+: O
+" O
+Twenty-five O
+years O
+and O
+I O
+have O
+never O
+been O
+there O
+so O
+I O
+thought O
+I O
+had O
+better O
+wait O
+a O
+bit O
+longer O
+. O
+" O
+
+He O
+added O
+: O
+" O
+It O
+'s O
+very O
+sad O
+to O
+beat O
+Henry B-PER
+Candy I-PER
+because O
+I O
+am O
+godfather O
+to O
+his O
+daughter O
+. O
+" O
+
+Like O
+Prescott B-PER
+, O
+Jack B-PER
+Berry I-PER
+, O
+trainer O
+of O
+Mind B-PER
+Games I-PER
+, O
+had O
+gone O
+into O
+Thursday O
+'s O
+race O
+in O
+search O
+of O
+a O
+first O
+group O
+one O
+success O
+after O
+many O
+years O
+around O
+the O
+top O
+of O
+his O
+profession O
+. O
+
+Berry B-PER
+said O
+: O
+" O
+I`m O
+disappointed O
+but O
+I O
+do O
+n't O
+feel O
+suicidal O
+. O
+
+He O
+( O
+Mind B-PER
+Games I-PER
+) O
+was O
+going O
+as O
+well O
+as O
+any O
+of O
+them O
+one O
+and O
+a O
+half O
+furlongs O
+( O
+300 O
+metres O
+) O
+out O
+but O
+he O
+just O
+did O
+n't O
+quicken O
+. O
+" O
+
+HORSE O
+RACING O
+- O
+NUNTHORPE O
+STAKES O
+RESULTS O
+. O
+
+YORK B-LOC
+, O
+England B-LOC
+1996-08-22 O
+
+Result O
+of O
+the O
+Nunthorpe B-MISC
+Stakes I-MISC
+, O
+a O
+group O
+one O
+race O
+for O
+two-year-olds O
+and O
+upwards O
+, O
+run O
+over O
+five O
+furlongs O
+( O
+1 O
+km O
+) O
+on O
+Thursday O
+: O
+
+1. O
+Pivotal B-PER
+100-30 O
+( O
+ridden O
+by O
+George B-PER
+Duffield I-PER
+) O
+
+2. O
+Eveningperformance B-PER
+16-1 O
+( O
+Chris B-PER
+Rutter I-PER
+) O
+
+3. O
+Hever B-PER
+Golf I-PER
+Rose I-PER
+11-4 O
+( O
+Jason B-PER
+Weaver I-PER
+) O
+
+Eight O
+ran O
+. O
+
+Favourite O
+: O
+Mind B-PER
+Games I-PER
+( O
+7-4 O
+) O
+finished O
+4th O
+
+Distances O
+: O
+a O
+short O
+head O
+, O
+1-1/4 O
+lengths O
+. O
+
+Winner O
+owned O
+by O
+the O
+Cheveley B-ORG
+Park I-ORG
+Stud I-ORG
+and O
+trained O
+by O
+Sir O
+
+Mark B-PER
+Prescott I-PER
+at O
+Newmarket B-LOC
+. O
+
+Value O
+to O
+winner O
+: O
+72,464 O
+pounds O
+sterling O
+( O
+$ O
+112,200 O
+) O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+TOSHIBA B-MISC
+CLASSIC I-MISC
+. O
+
+CARLSBAD B-LOC
+, O
+California B-LOC
+1996-08-21 O
+
+Results O
+from O
+the O
+
+$ O
+450,000 O
+Toshiba B-MISC
+Classic I-MISC
+tennis O
+tournament O
+on O
+Wednesday O
+
+( O
+prefix O
+number O
+denotes O
+seeding O
+) O
+: O
+
+Second O
+round O
+
+1 O
+- O
+Arantxa B-PER
+Sanchez I-PER
+Vicario I-PER
+( O
+Spain B-LOC
+) O
+beat O
+Naoko B-PER
+Kijimuta I-PER
+( O
+Japan B-LOC
+) O
+
+1-6 O
+6-4 O
+6-3 O
+
+4 O
+- O
+Kimiko B-PER
+Date I-PER
+( O
+Japan B-LOC
+) O
+beat O
+Yone B-PER
+Kamio I-PER
+( O
+Japan B-LOC
+) O
+6-2 O
+7-5 O
+
+Sandrine B-PER
+Testud I-PER
+( O
+France B-LOC
+) O
+beat O
+7 O
+- O
+Ai B-PER
+Sugiyama I-PER
+( O
+Japan B-LOC
+) O
+6-3 O
+4-6 O
+
+6-4 O
+
+8 O
+- O
+Nathalie B-PER
+Tauziat I-PER
+( O
+France B-LOC
+) O
+beat O
+Shi-Ting B-PER
+Wang I-PER
+( O
+Taiwan B-LOC
+) O
+6-4 O
+
+6-2 O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+HAMLET B-MISC
+CUP I-MISC
+. O
+
+COMMACK B-LOC
+, O
+New B-LOC
+York I-LOC
+1996-08-21 O
+
+Results O
+from O
+the O
+
+Waldbaum B-MISC
+Hamlet I-MISC
+Cup I-MISC
+tennis O
+tournament O
+on O
+Wednesday O
+( O
+prefix O
+
+number O
+denotes O
+seeding O
+) O
+: O
+
+Second O
+round O
+
+1 O
+- O
+Michael B-PER
+Chang I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Sergi B-PER
+Bruguera I-PER
+( O
+Spain B-LOC
+) O
+6-3 O
+6-2 O
+
+Michael B-PER
+Joyce I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+3 O
+- O
+Richey B-PER
+Reneberg I-PER
+( O
+U.S. B-LOC
+) O
+3-6 O
+6-4 O
+
+6-3 O
+
+Martin B-PER
+Damm I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+beat O
+6 O
+- O
+Younes B-PER
+El I-PER
+Aynaoui I-PER
+
