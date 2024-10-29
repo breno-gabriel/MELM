@@ -98,7 +98,10 @@ def decode(entity_aug_tensor, o_aug_tensor, total_aug_tensor, input_tensor, toke
         entity_word, o_word, total_word = '', '', ''
         entity_aug_sent, o_aug_sent, total_aug_sent = [], [], []
 
-        special_masks = ['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>', '<En>', '<De>', '<Es>', '<Nl>']
+        special_masks =  ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
+                                '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
+                                '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
+                                '<B-LOCAL>', '<I-LOCAL>', '<En>', '<De>', '<Es>', '<Nl>']
         for entity_aug_sub, o_aug_sub, total_aug_sub, input_sub in zip(entity_aug_subs, o_aug_subs, total_aug_subs, input_subs):
             if input_sub[0] == '▁' or  input_sub in special_masks:
                 if entity_word != '':
@@ -206,9 +209,9 @@ if True:
             in_idx = 0
             for tmp_idx in range(len(tmplines)):
                 special_masks = ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
-         '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
-         '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
-         '<B-LOCAL>', '<I-LOCAL>', '<O>']
+                                '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
+                                '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
+                                '<B-LOCAL>', '<I-LOCAL>', '<En>', '<De>', '<Es>', '<Nl>']
                 if tmplines[tmp_idx].rstrip('\n') in special_masks: # remove special masks
                     continue
                 if tmplines[tmp_idx] != '\n':
