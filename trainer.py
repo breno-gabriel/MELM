@@ -15,8 +15,13 @@ from tqdm import tqdm
 from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM
 from data import Data
 
-label_map = {"PAD":0, "O": 1, "B-PER":2, "I-PER":3, "B-ORG":4, "I-ORG":5,
-             "B-LOC":6, "I-LOC":7, "B-MISC":8, "I-MISC":9}
+label_map = {
+    "PAD": 0, "O": 1, "B-PESSOA": 2, "I-PESSOA": 3, 
+    "B-ORGANIZACAO": 4, "I-ORGANIZACAO": 5, "B-PRODUTODELEI": 6, 
+    "I-PRODUTODELEI": 7, "B-DATA": 8, "I-DATA": 9, "B-EVENTO": 10, 
+    "I-EVENTO": 11, "B-FUNDAMENTO": 12, "I-FUNDAMENTO": 13, 
+    "B-LOCAL": 14, "I-LOCAL": 15
+}
 
 def train(model, iterator, optimizer, clip, grad_acc):
 
@@ -145,8 +150,13 @@ if True:
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
-    tokenizer.add_tokens(['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>','<O>'],
-                         special_tokens=True)
+    tokenizer.add_tokens(
+        ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
+         '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
+         '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
+         '<B-LOCAL>', '<I-LOCAL>', '<O>'], 
+        special_tokens=True
+    )
     model.resize_token_embeddings(len(tokenizer))
 
     with torch.no_grad():
