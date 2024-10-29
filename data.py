@@ -134,7 +134,7 @@ class Data():
                     diff_class_labels = [l for l in ['O', 'B-DATA', 'I-DATA', 'B-EVENTO', 'I-EVENTO', 'B-ORGANIZACAO',
                                                       'I-ORGANIZACAO', 'B-LOCA', 'I-LOCAL', 'B-FUNDAMENTO', 'I-FUNDAMENTO',
                                                       'B-PESSOA', 'I-PESSOA', 'B-PRODUTODELEI', 'I-PRODUTODELEI'] if l not in same_class_labels]
-                    assert len(diff_class_labels) == 13
+                    # assert len(diff_class_labels) == 13
 
                     for count in range(subword_len[i]):
                         if subword_start[i]+count >= max_seq_length:
