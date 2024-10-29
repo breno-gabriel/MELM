@@ -195,7 +195,9 @@ class Data():
 
     def label_to_token_id(self,label):
         label = '<' + label + '>'
-        assert label in ['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>']
+        assert label in ['<O>', '<B-DATA>', '<I-DATA>', '<B-EVENTO>', '<I-EVENTO>', '<B-LOCAL>', '<I-LOCAL>', '<B-FUNDAMENTO>', 
+                         '<I-FUNDAMENTO>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', '<B-PESSOA>', '<I-PESSOA>', '<B-PRODUTODELEI>', 
+                         '<I-PRODUTODELEI>']
 
         return self.tokenizer.convert_tokens_to_ids(label)
 

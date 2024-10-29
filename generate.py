@@ -12,8 +12,13 @@ from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM
 
 from data_gen import Data
 
-label_map = {"PAD":0, "O": 1, "B-PER":2, "I-PER":3, "B-ORG":4, "I-ORG":5,
-             "B-LOC":6, "I-LOC":7, "B-MISC":8, "I-MISC":9}
+label_map = {
+    "PAD": 0, "O": 1, "B-PESSOA": 2, "I-PESSOA": 3, 
+    "B-ORGANIZACAO": 4, "I-ORGANIZACAO": 5, "B-PRODUTODELEI": 6, 
+    "I-PRODUTODELEI": 7, "B-DATA": 8, "I-DATA": 9, "B-EVENTO": 10, 
+    "I-EVENTO": 11, "B-FUNDAMENTO": 12, "I-FUNDAMENTO": 13, 
+    "B-LOCAL": 14, "I-LOCAL": 15
+}
 
 def aug(entity_model, o_model, iterator, k, sub_idx):
 
@@ -165,8 +170,13 @@ if True:
     
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
-    tokenizer.add_tokens(['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>', '<O>'],
-                         special_tokens=False) # False so that they are not removed during decoding
+    tokenizer.add_tokens(
+        ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
+         '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
+         '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
+         '<B-LOCAL>', '<I-LOCAL>', '<O>'], 
+        special_tokens=True
+    )
     entity_model.resize_token_embeddings(len(tokenizer))
     o_model.resize_token_embeddings(len(tokenizer))
 
@@ -195,7 +205,10 @@ if True:
             inlines = infile.readlines()
             in_idx = 0
             for tmp_idx in range(len(tmplines)):
-                special_masks = ['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>', '<En>', '<De>', '<Es>', '<Nl>']
+                special_masks = ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
+         '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
+         '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
+         '<B-LOCAL>', '<I-LOCAL>', '<O>']
                 if tmplines[tmp_idx].rstrip('\n') in special_masks: # remove special masks
                     continue
                 if tmplines[tmp_idx] != '\n':
