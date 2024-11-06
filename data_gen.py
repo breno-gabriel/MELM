@@ -1,3 +1,4 @@
+
 import torch
 from torch.utils.data import TensorDataset, DataLoader
 import pandas as pd
@@ -59,6 +60,9 @@ class MultiLabelTextProcessor():
                     text.append('<' + row[-1] + '>')
                     label.append('O')
             elif text != []:
+                # print("Texto e rótulos")
+                # print(text)
+                # print(label)
                 examples.append(
                     InputExample(guid=guid, text=text, label=label))
                 guid += 1
@@ -114,22 +118,37 @@ class Data():
         features = []
 
         for example in examples:
+            # print(example.text)
+
+            #Codificação do texto. 
             encoded = tokenizer(example.text,
                                 padding = 'max_length',
                                 truncation = True,
                                 max_length=max_seq_length,
                                 is_split_into_words = True)
-            input_ids = encoded["input_ids"]
-            input_mask = encoded["attention_mask"]
+            # print(encoded)
+
+            #Armazenamento dos valores. 
+            input_ids = encoded["input_ids"] #Sentença em formato de id com 128 elementos. 
+            # print("input ids")
+            # print(input_ids)
+            input_mask = encoded["attention_mask"] #Verificar quais tokens são relevantes ou não. 
 
             # Insert X label for non-leading sub-word tokens
             subword_len = []
             for word in example.text:
+                # print(tokenizer.tokenize(word))
                 subword_len.append(len(tokenizer.tokenize(word)))
+
+            # print(subword_len)
 
             subword_start = [0]
             subword_start.extend(np.cumsum(subword_len))
-            subword_start = [x+1 for x in subword_start]
+            # print("Antes")
+            # print(subword_start)
+            subword_start = [x+1 for x in subword_start] #Marca o começo de cada token. 
+            # print("Sub-palavras")
+            # print(subword_start)
             entity_masked_ids = input_ids.copy()
             o_masked_ids = input_ids.copy()
             entity_mask = [0]
@@ -137,15 +156,20 @@ class Data():
             label_ids = [0]
 
             for i, label in enumerate(example.label):
+                # print("Trabalhando com rotulos")
                 label_ids.append(self.label_map[label])
+                # print(label_ids)
                 label_ids.extend([0] * (subword_len[i]-1))
+                # print(label_ids)
 
                 # Mask named entities in sentence, and generate entity mask
                 if label != "O":
                     o_mask.extend([0] * subword_len[i])
 
                     mask_len = trunc_gauss(subword_len[i] * self.mu_ratio, self.sigma, 1, subword_len[i])
+                    # print(mask_len)
                     mask_pos = random.sample(list(range(subword_len[i])), mask_len)
+                    # print(mask_pos)
 
                     for count in range(subword_len[i]):
                         if subword_start[i]+count >= max_seq_length:
@@ -179,6 +203,14 @@ class Data():
                 entity_mask.extend([0] * (max_seq_length - len(entity_mask)))
                 o_masked_ids.extend([0] * (max_seq_length - len(o_masked_ids)))
                 o_mask.extend([0] * (max_seq_length - len(o_mask)))
+            
+            # print(input_ids)
+            # print(input_mask)
+            # print(label_ids)
+            # print(entity_masked_ids)
+            # print(entity_mask)
+            # print(o_masked_ids)
+            # print(o_mask)
 
             features.append(
                     InputFeatures(
@@ -198,5 +230,3 @@ class Data():
         assert label in ['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>']
 
         return self.tokenizer.convert_tokens_to_ids(label)
-
-
