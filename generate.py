@@ -39,6 +39,12 @@ def aug(entity_model, o_model, iterator, k, sub_idx):
             entity_logits = entity_outputs.logits
 
             top_logits, topk = torch.topk(entity_logits, k=k, dim=-1)
+
+            print("DECODING")
+            topk_ids = topk[0].tolist()
+            tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
+            print(tokens)
+
             #torch. set_printoptions(profile="full")
             #print("indices \n", topk[:,:30,:5])
             if sub_idx != -1:
@@ -48,6 +54,12 @@ def aug(entity_model, o_model, iterator, k, sub_idx):
                 sub = torch.gather(topk, -1, gather_idx).squeeze(-1)
 
             entity_aug = torch.where(entity_mask == 1, sub, entity_masked_ids)
+
+            print("DECODING")
+            topk_ids = entity_aug[0].tolist()
+            tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
+            print(tokens)
+
             batches_of_entity_aug.append(entity_aug)
 
             # O aug
