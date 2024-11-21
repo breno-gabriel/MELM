@@ -54,6 +54,11 @@ def aug(entity_model, o_model, iterator, k, sub_idx, tokenizer):
             entity_outputs = entity_model(entity_masked_ids, input_mask, labels=input_ids)
             entity_logits = entity_outputs.logits
 
+            print("entity_logits")
+            print(entity_logits)
+            print("entity_logits shape")
+            print(entity_logits)
+
             # sentence = []
             # for i, word in enumerate(entity_logits[0]):
             #     sentence.append(max(word))
