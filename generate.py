@@ -69,6 +69,30 @@ def aug(entity_model, o_model, iterator, k, sub_idx, tokenizer):
             print(topk.shape)
             print(topk)
 
+            converted_tokens = []
+            converted_text = []
+            converted_texts = []
+        
+            texts = topk.tolist()
+
+            print("topk converted")
+            # print(texts)
+
+            for text in texts: 
+                for row in text: 
+                    for number in row:
+                        converted_tokens.append(tokenizer.convert_ids_to_tokens(number))
+                    converted_text.append(converted_tokens)
+                    converted_tokens = []
+                converted_texts.append(converted_text)
+                converted_text = []
+            print(converted_texts[0])
+            print(len(converted_texts[0]))
+
+
+            # tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
+            # print(tokens)
+
             # print(tokenizer.convert_ids_to_tokens(topk[0], skip_special_tokens=True))
             # Convert tensor topk to list of lists of token IDs
             # topk_ids = topk[0].tolist()
@@ -89,6 +113,7 @@ def aug(entity_model, o_model, iterator, k, sub_idx, tokenizer):
                 gather_idx = torch.randint(1, k, (topk.shape[0], topk.shape[1], 1)).to(device)
                 print("gather_idx")
                 print(gather_idx)
+                print(gather_idx.shape)
                 sub = torch.gather(topk, -1, gather_idx).squeeze(-1)
 
                 print("sub")
@@ -97,9 +122,9 @@ def aug(entity_model, o_model, iterator, k, sub_idx, tokenizer):
 
             entity_aug = torch.where(entity_mask == 1, sub, entity_masked_ids)
 
-            topk_ids = entity_aug.tolist()
-            tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
-            print(tokens)
+            # topk_ids = entity_aug.tolist()
+            # tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
+            # print(tokens)
 
             batches_of_entity_aug.append(entity_aug)
 
