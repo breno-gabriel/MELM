@@ -15,7 +15,7 @@ from data_gen import Data
 label_map = {"PAD":0, "O": 1, "B-PER":2, "I-PER":3, "B-ORG":4, "I-ORG":5,
              "B-LOC":6, "I-LOC":7, "B-MISC":8, "I-MISC":9}
 
-def aug(entity_model, o_model, iterator, k, sub_idx):
+def aug(entity_model, o_model, iterator, k, sub_idx, tokenizer):
 
     print("Augmenting sentences with MELM checkpoint ...")
 
@@ -30,20 +30,80 @@ def aug(entity_model, o_model, iterator, k, sub_idx):
 
     with torch.no_grad():
         for i, batch in enumerate(iterator):
+            # print(batch)
             batch_start = time.time()
             batch = tuple(t.to(device) for t in batch)
             input_ids, input_mask, label_ids, entity_masked_ids, entity_mask, o_masked_ids, o_mask = batch
 
-            # Entity aug
+            # print("input_ids")
+            # print(input_ids)
+
+            # print("entity_masked_ids")
+            # print(entity_masked_ids)
+
+            # print("entity_mask")
+            # print(entity_mask)
+
+            # print("o_masked_ids")
+            # print(o_masked_ids)
+
+            # print("o_mask")
+            # print(o_mask)
+
+            # entity_model(entidades nomeadas mascaradas, mascara atenção, sentença nao mascarada)
             entity_outputs = entity_model(entity_masked_ids, input_mask, labels=input_ids)
             entity_logits = entity_outputs.logits
 
+            print("entity_logits")
+            print(entity_logits)
+            print("entity_logits shape")
+            print(entity_logits)
+
+            # sentence = []
+            # for i, word in enumerate(entity_logits[0]):
+            #     sentence.append(max(word))
+        
             top_logits, topk = torch.topk(entity_logits, k=k, dim=-1)
 
-            print("DECODING")
-            topk_ids = topk[0].tolist()
-            tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
-            print(tokens)
+            print("topk")
+            print(topk.shape)
+            print(topk)
+
+            converted_tokens = []
+            converted_text = []
+            converted_texts = []
+        
+            texts = topk.tolist()
+
+            print("topk converted")
+            # print(texts)
+
+            for text in texts: 
+                for row in text: 
+                    for number in row:
+                        converted_tokens.append(tokenizer.convert_ids_to_tokens(number))
+                    converted_text.append(converted_tokens)
+                    converted_tokens = []
+                converted_texts.append(converted_text)
+                converted_text = []
+            print(converted_texts[0])
+            print(len(converted_texts[0]))
+
+
+            # tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
+            # print(tokens)
+
+            # print(tokenizer.convert_ids_to_tokens(topk[0], skip_special_tokens=True))
+            # Convert tensor topk to list of lists of token IDs
+            # topk_ids = topk[0].tolist()
+
+            # print(topk_ids)
+
+            # Convert IDs to tokens
+            # tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
+            # tokens = [tokenizer.convert_ids_to_tokens(topk_ids)]
+
+            # print(tokens)
 
             #torch. set_printoptions(profile="full")
             #print("indices \n", topk[:,:30,:5])
@@ -51,16 +111,25 @@ def aug(entity_model, o_model, iterator, k, sub_idx):
                 sub = topk[:, :, sub_idx]
             else: # random picking from topk
                 gather_idx = torch.randint(1, k, (topk.shape[0], topk.shape[1], 1)).to(device)
+                print("gather_idx")
+                print(gather_idx)
+                print(gather_idx.shape)
                 sub = torch.gather(topk, -1, gather_idx).squeeze(-1)
+
+                print("sub")
+                print(sub)
+                print(sub.shape)
 
             entity_aug = torch.where(entity_mask == 1, sub, entity_masked_ids)
 
-            print("DECODING")
-            topk_ids = entity_aug[0].tolist()
-            tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
-            print(tokens)
+            # topk_ids = entity_aug.tolist()
+            # tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in topk_ids]
+            # print(tokens)
 
             batches_of_entity_aug.append(entity_aug)
+
+            print("batches_of_entity_aug")
+            print(batches_of_entity_aug)
 
             # O aug
             o_outputs = o_model(o_masked_ids, input_mask, labels=input_ids)
@@ -68,6 +137,7 @@ def aug(entity_model, o_model, iterator, k, sub_idx):
 
             top_logits, topk = torch.topk(o_logits, k=k, dim=-1)
             sub = topk[:, :, 0] # Always use top prediction for O-masks
+            
             o_aug = torch.where(o_mask == 1, sub, o_masked_ids)
             batches_of_o_aug.append(o_aug)
             
@@ -78,6 +148,7 @@ def aug(entity_model, o_model, iterator, k, sub_idx):
             batches_of_input.append(input_ids)
 
     entity_aug_tensor = torch.cat(batches_of_entity_aug, dim=0)
+
     o_aug_tensor = torch.cat(batches_of_o_aug, dim=0)
     total_aug_tensor = torch.cat(batches_of_total_aug, dim=0)
     input_tensor = torch.cat(batches_of_input, dim=0)
@@ -95,11 +166,19 @@ def decode(entity_aug_tensor, o_aug_tensor, total_aug_tensor, input_tensor, toke
     o_aug_text = []
     total_aug_text = []
 
+    # print(entity_aug_tensor)
+    # print(o_aug_tensor)
+    # print(total_aug_tensor)
+    # print(input_tensor)
+
     for entity_aug_ids, o_aug_ids, total_aug_ids, input_ids in zip(entity_aug_tensor.tolist(), o_aug_tensor.tolist(), total_aug_tensor.tolist(), input_tensor.tolist()):
         input_subs = tokenizer.convert_ids_to_tokens(input_ids, skip_special_tokens=True)
         entity_aug_subs = tokenizer.convert_ids_to_tokens(entity_aug_ids, skip_special_tokens=False)[1:len(input_subs)+1] # Cater for cases when last token is predicted as EOS and thus wrongly removed
         o_aug_subs = tokenizer.convert_ids_to_tokens(o_aug_ids, skip_special_tokens=False)[1:len(input_subs)+1]
         total_aug_subs = tokenizer.convert_ids_to_tokens(total_aug_ids, skip_special_tokens=False)[1:len(input_subs)+1]
+
+        # print("ID TO TOKENS")
+        # print(entity_aug_subs)
 
         assert len(entity_aug_subs) == len(input_subs), f"input {input_subs} \n {input_ids}\n entity_aug {entity_aug_subs}\n{entity_aug_ids}"
         entity_word, o_word, total_word = '', '', ''
@@ -129,6 +208,11 @@ def decode(entity_aug_tensor, o_aug_tensor, total_aug_tensor, input_tensor, toke
         entity_aug_text.append(entity_aug_sent)
         o_aug_text.append(o_aug_sent)
         total_aug_text.append(total_aug_sent)
+
+    # print("TEXTO AJUSTADO")
+    # print(entity_aug_text)
+    # print(o_aug_text)
+    # print(total_aug_text)
 
     return entity_aug_text, o_aug_text, total_aug_text
 
@@ -174,7 +258,7 @@ if True:
     entity_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
     o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
     tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
-    
+
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
     tokenizer.add_tokens(['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>', '<O>'],
@@ -188,7 +272,7 @@ if True:
     
     dataloader = DataLoader(dataset, batch_size=BSIZE)
 
-    entity_aug_tensor, o_aug_tensor, total_aug_tensor, input_tensor = aug(entity_model, o_model, dataloader, K, SUB_IDX)
+    entity_aug_tensor, o_aug_tensor, total_aug_tensor, input_tensor = aug(entity_model, o_model, dataloader, K, SUB_IDX, tokenizer)
     entity_aug_text, o_aug_text, total_aug_text = decode(entity_aug_tensor, o_aug_tensor, total_aug_tensor, input_tensor, tokenizer)
 
 
