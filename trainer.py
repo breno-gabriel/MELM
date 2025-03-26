@@ -12,7 +12,7 @@ import os, sys
 from torch.utils.data import DataLoader, RandomSampler
 from tqdm import tqdm
 
-from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM, BertModel, BertTokenizer
+from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM, BertModel, BertTokenizer,  AutoTokenizer, AutoModelForMaskedLM
 from data import Data
 
 label_map = {
@@ -148,8 +148,8 @@ if True:
     # model = XLMRobertaForMaskedLM.from_pretrained('xlm-roberta-base', return_dict=True).to(device)
     # tokenizer = XLMRobertaTokenizer.from_pretrained('xlm-roberta-base', do_lower_case=False)
 
-    model = BertModel.from_pretrained('rufimelo/Legal-BERTimbau-large', return_dict=True).to(device)
-    tokenizer = BertTokenizer.from_pretrained('rufimelo/Legal-BERTimbau-large', do_lower_case=False)
+    model = AutoModelForMaskedLM.from_pretrained('rufimelo/Legal-BERTimbau-large', return_dict=True).to(device)
+    tokenizer = AutoTokenizer.from_pretrained('rufimelo/Legal-BERTimbau-large', do_lower_case=False)
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
