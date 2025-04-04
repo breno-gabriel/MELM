@@ -153,8 +153,8 @@ if True:
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
-    tokenizer.add_tokens(
-        ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
+    tokenizer.add_tokens(O
+        ['<B-PESSOA>', '<I-PESSA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
          '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
          '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
          '<B-LOCAL>', '<I-LOCAL>', '<O>'], 
@@ -175,7 +175,6 @@ if True:
         model.roberta.embeddings.word_embeddings.weight[-7, :] += model.roberta.embeddings.word_embeddings.weight[53702, :].clone()
         model.roberta.embeddings.word_embeddings.weight[-8, :] += model.roberta.embeddings.word_embeddings.weight[3445, :].clone()
         model.roberta.embeddings.word_embeddings.weight[-9, :] += model.roberta.embeddings.word_embeddings.weight[3445, :].clone()
-
         model.roberta.embeddings.word_embeddings.weight[-10, :] += model.roberta.embeddings.word_embeddings.weight[31913, :].clone()
         model.roberta.embeddings.word_embeddings.weight[-11, :] += model.roberta.embeddings.word_embeddings.weight[31913, :].clone()
         model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[53702, :].clone()
@@ -183,10 +182,10 @@ if True:
         model.roberta.embeddings.word_embeddings.weight[-14, :] += model.roberta.embeddings.word_embeddings.weight[3445, :].clone()
         model.roberta.embeddings.word_embeddings.weight[-15, :] += model.roberta.embeddings.word_embeddings.weight[3445, :].clone()
         # language markers
-        model.roberta.embeddings.word_embeddings.weight[-10, :] += model.roberta.embeddings.word_embeddings.weight[94854, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-11, :] += model.roberta.embeddings.word_embeddings.weight[151010, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[89855, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-13, :] += model.roberta.embeddings.word_embeddings.weight[14941, :].clone()
+        model.roberta.embeddings.word_embeddings.weight[-16, :] += model.roberta.embeddings.word_embeddings.weight[94854, :].clone()
+        model.roberta.embeddings.word_embeddings.weight[-17, :] += model.roberta.embeddings.word_embeddings.weight[151010, :].clone()
+        model.roberta.embeddings.word_embeddings.weight[-18, :] += model.roberta.embeddings.word_embeddings.weight[89855, :].clone()
+        model.roberta.embeddings.word_embeddings.weight[-19, :] += model.roberta.embeddings.word_embeddings.weight[14941, :].clone()
 
     print("Loading file from: ", FILE_DIR)
     train_dataset, valid_dataset = tuple(Data(tokenizer, BSIZE, label_map, FILE_DIR, MASK_RATE).datasets)
