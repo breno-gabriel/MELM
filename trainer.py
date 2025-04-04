@@ -166,6 +166,12 @@ if True:
         model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[89855, :].clone()
         model.roberta.embeddings.word_embeddings.weight[-13, :] += model.roberta.embeddings.word_embeddings.weight[14941, :].clone()
 
+        print('ESTUDANDO OS PESOS')
+        print(model.roberta.embeddings.word_embeddings)
+        
+        print('PESOS')
+        print(model.roberta.embeddings.word_embeddings.weight)
+
     print("Loading file from: ", FILE_DIR)
     train_dataset, valid_dataset = tuple(Data(tokenizer, BSIZE, label_map, FILE_DIR, MASK_RATE).datasets)
 
