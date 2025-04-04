@@ -172,6 +172,9 @@ if True:
         print('PESOS')
         print(model.roberta.embeddings.word_embeddings.weight)
 
+        print("VALOR ESPECIFICO")
+        print(model.roberta.embeddings.word_embeddings.weight[94854, :])
+
     print("Loading file from: ", FILE_DIR)
     train_dataset, valid_dataset = tuple(Data(tokenizer, BSIZE, label_map, FILE_DIR, MASK_RATE).datasets)
 
