@@ -120,7 +120,7 @@ if True:
     random.seed(SEED)
     np.random.seed(SEED)
     torch.manual_seed(SEED)
-    torch.cuda.manual_seed(SEED)
+    torch.cuda.manual_seed(SEED)  
     torch.backends.cudnn.deterministic = True
 
     FILE_DIR = args.file_dir
@@ -173,7 +173,7 @@ if True:
         print(model.roberta.embeddings.word_embeddings.weight)
 
         print("VALOR ESPECIFICO")
-        print(model.roberta.embeddings.word_embeddings.weight[94854, :])
+        print(model.roberta.embeddings.word_embeddings.weight[-1, :])
 
     print("Loading file from: ", FILE_DIR)
     train_dataset, valid_dataset = tuple(Data(tokenizer, BSIZE, label_map, FILE_DIR, MASK_RATE).datasets)
