@@ -174,7 +174,7 @@ if True:
         print(model.roberta.embeddings.word_embeddings)
         
         print('PESOS')
-        print(model.roberta.embeddings.word_embeddings.weight)
+        print(model.roberta.embeddings.word_embeddings.weight.length)
 
         print("VALOR ESPECIFICO")
         print(model.roberta.embeddings.word_embeddings.weight[-1, :])
