@@ -118,8 +118,7 @@ args = parser.parse_args()
 
 if True:
 
-    # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    device = torch.device("cpu")
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print("Running on ", device)
 
     SEED = args.seed
