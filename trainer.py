@@ -143,11 +143,15 @@ if True:
     model = XLMRobertaForMaskedLM.from_pretrained('xlm-roberta-base', return_dict=True).to(device)
     tokenizer = XLMRobertaTokenizer.from_pretrained('xlm-roberta-base', do_lower_case=False)
 
+    print("ESTUDANDO OS PESOS ANTES DAS ADIÇÕES")
+    print(model.roberta.embeddings.word_embeddings)
+
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
     tokenizer.add_tokens(['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>','<O>'],
                          special_tokens=True)
     model.resize_token_embeddings(len(tokenizer))
+
 
     with torch.no_grad():
         # label tokens
