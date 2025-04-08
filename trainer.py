@@ -178,7 +178,7 @@ if True:
 
         print("VALOR ESPECIFICO")
         print(model.roberta.embeddings.word_embeddings.weight[-1, :])
-        print(tokenizer.convert_ids_to_tokens(31913))
+        print(tokenizer.convert_ids_to_tokens(53702))
 
     print("Loading file from: ", FILE_DIR)
     train_dataset, valid_dataset = tuple(Data(tokenizer, BSIZE, label_map, FILE_DIR, MASK_RATE).datasets)
