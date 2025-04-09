@@ -180,10 +180,20 @@ if True:
         print(model.roberta.embeddings.word_embeddings.weight[-1, :])
         print(tokenizer.convert_ids_to_tokens(14941))
 
-        print("APRESENTANDO OS TOKENS DO VOCABULARIO")
-        for token in len(model.roberta.embeddings.word_embeddings.weight):
 
-            print(tokenizer.convert_ids_to_tokens(token))
+    # Pega o dicionário de vocabulário
+    vocab = tokenizer.get_vocab()
+
+    # Inverte o dicionário para ter id -> token
+    id_to_token = {id_: token for token, id_ in vocab.items()}
+
+    # Ordena pelo ID (opcional, só para ficar legível)
+    sorted_vocab = dict(sorted(id_to_token.items()))
+
+    # Imprime os tokens
+    for id_, token in sorted_vocab.items():
+        print(f"{id_}: {token}")
+
 
     print("Loading file from: ", FILE_DIR)
     train_dataset, valid_dataset = tuple(Data(tokenizer, BSIZE, label_map, FILE_DIR, MASK_RATE).datasets)
