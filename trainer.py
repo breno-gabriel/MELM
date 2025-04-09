@@ -178,7 +178,7 @@ if True:
 
         print("VALOR ESPECIFICO")
         print(model.roberta.embeddings.word_embeddings.weight[-1, :])
-        print(tokenizer.convert_ids_to_tokens(14941))
+        print(tokenizer.convert_ids_to_tokens(31913))
 
 
     # Pega o dicionário de vocabulário
