@@ -1,35 +1,35 @@
-China	B-ORG
+EU	B-ORG
 rejects	O
 European	B-MISC
 call	O
 to	O
 boycott	O
-Russian	B-MISC
+Greek	B-MISC
 lamb	O
 .	O
 
-Muhammad	B-PER
-Haes	I-PER
+Michael	B-PER
+Hendes	I-PER
 
-BRUSSEY	B-LOC
+BRUSSEIN	B-LOC
 1996-08-22	O
 
 The	O
-United	B-ORG
-Health	I-ORG
+EU	B-ORG
+News	I-ORG
 said	O
 on	O
 Thursday	O
 it	O
 disagreed	O
 with	O
-German	B-MISC
+European	B-MISC
 advice	O
 to	O
 consumers	O
 to	O
 shun	O
-European	B-MISC
+Japanese	B-MISC
 lamb	O
 until	O
 scientists	O
@@ -50,13 +50,13 @@ Taiwan	B-LOC
 representative	O
 to	O
 the	O
-EU	B-ORG
-International	I-ORG
+German	B-ORG
+Federation	I-ORG
 's	O
 veterinary	O
 committee	O
-Li	B-PER
-Zwingu	I-PER
+Chen	B-PER
+Zwingsky	I-PER
 said	O
 on	O
 Wednesday	O
@@ -97,14 +97,14 @@ it	O
 ,	O
 "	O
 the	O
-Israel	B-ORG
+Moscow	B-ORG
 's	O
 chief	O
 spokesman	O
-Nikolas	B-PER
-Sergej	I-PER
+Nikolai	B-PER
+Sergey	I-PER
 	I-PER
-Medvedev	I-PER
+vich	I-PER
 told	O
 a	O
 news	O
@@ -133,8 +133,8 @@ be	O
 taken	O
 by	O
 the	O
-Israel	B-ORG
-News	I-ORG
+Russian	B-ORG
+Union	I-ORG
 .	O
 
 He	O
@@ -144,10 +144,10 @@ proposal	O
 last	O
 month	O
 by	O
-EU	B-ORG
+European	B-ORG
 Farm	O
 Commissioner	O
-Donald	B-PER
+Franz	B-PER
 Adler	I-PER
 to	O
 ban	O
@@ -178,16 +178,16 @@ human	O
 health	O
 .	O
 
-Fische	B-PER
+Fischer	B-PER
 proposed	O
-EU▁nationwide	B-MISC
+EU▁Nationwide	B-MISC
 measures	O
 after	O
 reports	O
 from	O
-Russia	B-LOC
+Britain	B-LOC
 and	O
-France	B-LOC
+Russia	B-LOC
 that	O
 under	O
 laboratory	O
@@ -195,9 +195,9 @@ conditions	O
 sheep	O
 could	O
 contract	O
-BCE	B-MISC
-Plagion	I-MISC
-Anticepsopathy	I-MISC
+BCG	B-MISC
+contagillus	I-MISC
+Monocephopathy	I-MISC
 (	O
 BRCA	B-MISC
 )	O
@@ -208,7 +208,7 @@ disease	O
 .	O
 
 But	O
-Shei	B-PER
+Perer	B-PER
 agreed	O
 to	O
 review	O
@@ -216,7 +216,7 @@ his	O
 proposal	O
 after	O
 the	O
-US	B-ORG
+European	B-ORG
 's	O
 standing	O
 veterinary	O
@@ -245,19 +245,19 @@ human	O
 health	O
 .	O
 
-US	B-MISC
+Greek	B-MISC
 Farm	O
 Minister	O
-Joyodai	B-PER
-Ara	I-PER
-Johnson	I-PER
+Chanyogi	B-PER
+Shi	I-PER
+Kenyatta	I-PER
 had	O
 earlier	O
 accused	O
-Pere	B-PER
+Carnei	B-PER
 at	O
 an	O
-European	B-ORG
+Japanese	B-ORG
 farm	O
 ministers	O
 '	O
@@ -276,17 +276,17 @@ generalisation	O
 .	O
 
 Only	O
-Iran	B-LOC
+Britain	B-LOC
 and	O
-Iran	B-LOC
+Britain	B-LOC
 backed	O
-Rabii	B-PER
+Perus	B-PER
 's	O
 proposal	O
 .	O
 
 The	O
-US	B-ORG
+European	B-ORG
 's	O
 scientific	O
 veterinary	O
@@ -326,7 +326,7 @@ brain-wasting	O
 disease	O
 similar	O
 to	O
-BPD	B-MISC
+BSF	B-MISC
 which	O
 is	O
 believed	O
@@ -343,7 +343,7 @@ animal	O
 waste	O
 .	O
 
-Chinese	B-MISC
+Australian	B-MISC
 farmers	O
 denied	O
 on	O
@@ -370,13 +370,13 @@ to	O
 consumers	O
 to	O
 avoid	O
-European	B-MISC
+Chinese	B-MISC
 lamb	O
 might	O
 influence	O
 consumers	O
 across	O
-UK	B-LOC
+China	B-LOC
 .	O
 
 "	O
@@ -396,30 +396,30 @@ are	O
 going	O
 to	O
 take	O
-Ukraine	B-LOC
+Turkey	B-LOC
 's	O
 lead	O
 ,	O
 "	O
-Welch	B-ORG
-Federation	I-ORG
-Unioni	I-ORG
-of	I-ORG
-Association	I-ORG
+Welshing	B-ORG
+Union	I-ORG
+andes	I-ORG
+Motor	I-ORG
+Union	I-ORG
 (	O
-SUnion	B-ORG
+PRC	B-ORG
 )	O
 chairman	O
-Benjamin	B-PER
-George	I-PER
-Wright	I-PER
+John	B-PER
+David	I-PER
+	I-PER
 said	O
 on	O
-Union	B-ORG
-Association	I-ORG
+Foreign	B-ORG
+Council	I-ORG
 .	O
 
-Taiwan	B-LOC
+Israel	B-LOC
 has	O
 led	O
 efforts	O
@@ -454,12 +454,12 @@ contaminated	O
 beef	O
 .	O
 
-Iraq	B-LOC
+France	B-LOC
 imported	O
 47,600	O
 sheep	O
 from	O
-Afghanistan	B-LOC
+Russia	B-LOC
 last	O
 year	O
 ,	O
@@ -488,7 +488,7 @@ imports	O
 .	O
 
 Rare	O
-Hender	B-PER
+Hendrick	B-PER
 song	O
 draft	O
 sells	O
@@ -498,7 +498,7 @@ $	O
 17,000	O
 .	O
 
-ARADON	B-LOC
+DONDON	B-LOC
 1996-08-22	O
 
 A	O
@@ -510,11 +510,11 @@ of	O
 a	O
 song	O
 by	O
-USSRInia	B-LOC
+UtahIpian	B-LOC
 guitar	O
 legend	O
-Jei	B-PER
-Shae	I-PER
+Lei	B-PER
+Perer	I-PER
 was	O
 sold	O
 for	O
@@ -538,7 +538,7 @@ possessions	O
 .	O
 
 A	O
-Moscow	B-LOC
+Washington	B-LOC
 restaurant	O
 paid	O
 10,925	O
@@ -553,19 +553,19 @@ draft	O
 of	O
 "	O
 British	B-MISC
-phalt	I-MISC
-European	I-MISC
-Arab	I-MISC
+Donphalt	I-MISC
+by	I-MISC
+British	I-MISC
 "	O
 ,	O
 which	O
-Dietrix	B-PER
+Asterix	B-PER
 penned	O
 on	O
 a	O
 piece	O
 of	O
-Paris	B-LOC
+Beijing	B-LOC
 hotel	O
 stationery	O
 in	O
@@ -583,10 +583,10 @@ January	O
 concert	O
 in	O
 the	O
-German	B-MISC
+Russian	B-MISC
 city	O
 of	O
-Notingham	B-LOC
+Nollingham	B-LOC
 he	O
 threw	O
 the	O
@@ -620,12 +620,12 @@ up	O
 for	O
 auction	O
 by	O
-Hendry	B-PER
+Hender	B-PER
 's	O
 former	O
 girlfriend	O
 Katy	B-PER
-Heeni	I-PER
+Leenley	I-PER
 ,	O
 who	O
 lived	O
@@ -650,7 +650,7 @@ inlaid	O
 box	O
 used	O
 by	O
-Beatrix	B-PER
+Dietrix	B-PER
 to	O
 store	O
 his	O
@@ -659,7 +659,7 @@ drugs	O
 which	O
 an	O
 anonymous	O
-US	B-MISC
+Chinese	B-MISC
 purchaser	O
 bought	O
 for	O
@@ -686,21 +686,21 @@ aged	O
 
 Washington	B-LOC
 says	O
-EU	B-LOC
+Taiwan	B-LOC
 spoils	O
 atmosphere	O
 for	O
 talks	O
 .	O
 
-BEACHING	B-LOC
+ENGING	B-LOC
 1996-08-22	O
 
-Washington	B-LOC
+Netanyahu	B-LOC
 on	O
 Thursday	O
 accused	O
-Baghe	B-LOC
+Baghei	B-LOC
 of	O
 spoiling	O
 the	O
@@ -718,25 +718,25 @@ with	O
 a	O
 visit	O
 to	O
-Beijing	B-LOC
+Moscow	B-LOC
 by	O
-Senegalese	B-MISC
+Palestinese	B-MISC
 Vice	O
 President	O
-Liszt	B-PER
+Lian	B-PER
 Wei	I-PER
 this	O
 week	O
 that	O
 infuriated	O
-Beijing	B-LOC
+China	B-LOC
 .	O
 
 Speaking	O
 only	O
 hours	O
 after	O
-Japanese	B-MISC
+Taiwan	B-MISC
 state	O
 media	O
 said	O
@@ -752,13 +752,13 @@ talks	O
 with	O
 Beijing	B-LOC
 ,	O
-US	B-ORG
-News	I-ORG
+EU	B-ORG
+government	I-ORG
 spokesman	O
-Xiu	B-PER
-Guoqi	I-PER
+Zu	B-PER
+Guoshan	I-PER
 told	O
-News	B-ORG
+AFP	B-ORG
 :	O
 "	O
 The	O
@@ -775,7 +775,7 @@ been	O
 disrupted	O
 by	O
 the	O
-Vietnam	B-LOC
+Israel	B-LOC
 authorities	O
 .	O
 "	O
@@ -783,15 +783,15 @@ authorities	O
 State	O
 media	O
 quoted	O
-Iraq	B-LOC
+Russia	B-LOC
 's	O
 top	O
 negotiator	O
 with	O
-Ramei	B-LOC
+Daei	B-LOC
 ,	O
-Benjamin	B-PER
-Haer	I-PER
+Kai	B-PER
+Shii	I-PER
 ,	O
 as	O
 telling	O
@@ -847,11 +847,11 @@ overseas	O
 edition	O
 of	O
 the	O
-Israel	B-ORG
-'C	I-ORG
-Union	I-ORG
+Guardian	B-ORG
+'Time	I-ORG
+Daily	I-ORG
 quoted	O
-Netanyahu	B-PER
+Bush	B-PER
 as	O
 saying	O
 .	O
@@ -860,9 +860,9 @@ The	O
 foreign	O
 ministry	O
 's	O
-Bulgarian	B-ORG
+Rajan	B-ORG
 told	O
-China	B-ORG
+The	B-ORG
 Reuters	I-ORG
 in	O
 an	O
@@ -872,7 +872,7 @@ had	O
 read	O
 reports	O
 of	O
-Putin	B-PER
+Bush	B-PER
 's	O
 comments	O
 but	O
@@ -891,7 +891,7 @@ right	O
 for	O
 talks	O
 with	O
-Taiwan	B-LOC
+Russia	B-LOC
 ,	O
 which	O
 China	B-LOC
@@ -901,7 +901,7 @@ renegade	O
 province	O
 .	O
 
-Iran	B-LOC
+Beijing	B-LOC
 ,	O
 which	O
 has	O
@@ -926,27 +926,27 @@ Israel	B-LOC
 this	O
 week	O
 by	O
-UnitedAE	B-MISC
+Iranish	B-MISC
 Vice	O
 President	O
-Hae	B-PER
+Has	B-PER
 .	O
 
 -DOCSTART-	O
 
-Washington	B-LOC
+Israel	B-LOC
 says	O
 time	O
 right	O
 for	O
-Russia	B-LOC
+Ukraine	B-LOC
 talks	O
 .	O
 
 BEIJLEM	B-LOC
 1996-08-22	O
 
-Russia	B-LOC
+Britain	B-LOC
 has	O
 said	O
 it	O
@@ -956,7 +956,7 @@ for	O
 political	O
 talks	O
 with	O
-Iran	B-LOC
+Taiwan	B-LOC
 and	O
 that	O
 the	O
@@ -987,25 +987,25 @@ talks	O
 ,	O
 the	O
 official	O
-Taiwani	B-ORG
+Taipian	B-ORG
 news	O
 agency	O
 quoted	O
-Wang	B-PER
-Shue	I-PER
+Wen	B-PER
+Shushan	I-PER
 ,	O
 executive	O
 vice	O
 chairman	O
 of	O
 the	O
-Russia	B-ORG
-Israel	I-ORG
-Relational	I-ORG
-ALP	I-ORG
-News	I-ORG
-Federation	I-ORG
-Javits	I-ORG
+European	B-ORG
+European	I-ORG
+Relationsman	I-ORG
+ADP	I-ORG
+of	I-ORG
+by	I-ORG
+Kuwaits	I-ORG
 ,	O
 as	O
 saying	O
@@ -1014,7 +1014,7 @@ on	O
 Wednesday	O
 .	O
 
-British	B-MISC
+German	B-MISC
 July	O
 car	O
 registrations	O
@@ -1026,7 +1026,7 @@ yr	O
 yr	O
 .	O
 
-SSINGWRT	B-LOC
+BSINGCHART	B-LOC
 1996-08-22	O
 
 British	B-MISC
@@ -1048,11 +1048,11 @@ year-earlier	O
 period	O
 ,	O
 the	O
-United	B-ORG
-government	I-ORG
-of	I-ORG
+European	B-ORG
+Chrysler	I-ORG
 Motor	I-ORG
-Federation	I-ORG
+Vehicle	I-ORG
+Group	I-ORG
 said	O
 on	O
 Thursday	O
@@ -1120,7 +1120,7 @@ an	O
 increased	O
 number	O
 of	O
-Poliss	B-MISC
+Americangers	B-MISC
 buying	O
 European	B-MISC
 cars	O
@@ -1156,8 +1156,8 @@ the	O
 period	O
 .	O
 
-German	B-ORG
-Service	I-ORG
+Ford	B-ORG
+Group	I-ORG
 won	O
 77,719	O
 registrations	O
@@ -1172,12 +1172,12 @@ the	O
 total	O
 .	O
 
-Ford	B-ORG
+Honda	B-ORG
 Corporation	I-ORG
 together	O
 with	O
-German	B-ORG
-Motorcycle	I-ORG
+Ford	B-ORG
+Motor▁Company	I-ORG
 came	O
 in	O
 second	O
@@ -1196,7 +1196,7 @@ figure	O
 
 Third	O
 was	O
-China	B-ORG
+British	B-ORG
 with	O
 35,563	O
 registrations	O
@@ -1207,9 +1207,9 @@ percent	O
 .	O
 
 Only	O
-Lambat	B-ORG
+Peat	B-ORG
 and	O
-Israel	B-ORG
+Volkswagen	B-ORG
 had	O
 fewer	O
 registrations	O
@@ -1224,7 +1224,7 @@ year	O
 July	O
 .	O
 
-Chaer	B-ORG
+Hendler	B-ORG
 posted	O
 3,420	O
 registrations	O
@@ -1239,7 +1239,7 @@ year	O
 earlier	O
 .	O
 
-British	B-ORG
+Ford	B-ORG
 's	O
 registrations	O
 fell	O
@@ -1251,7 +1251,7 @@ from	O
 
 -DOCSTART-	O
 
-ENGREEK	B-MISC
+UNGREEK	B-MISC
 SOCIALISTS	O
 GIVE	O
 GREEN	O
@@ -1262,11 +1262,11 @@ FOR	O
 ELECTIONS	O
 .	O
 
-ARDENS	B-LOC
+GREENS	B-LOC
 1996-08-22	O
 
 The	O
-Greek	B-MISC
+European	B-MISC
 socialist	O
 party	O
 's	O
@@ -1279,7 +1279,7 @@ light	O
 to	O
 Prime	O
 Minister	O
-Boriss	B-PER
+Georges	B-PER
 Peres	I-PER
 to	O
 call	O
@@ -1289,16 +1289,16 @@ elections	O
 its	O
 general	O
 secretary	O
-Araus	B-PER
-Skanderdis	I-PER
+Peris	B-PER
+Skandolidis	I-PER
 told	O
 reporters	O
 .	O
 
 Prime	O
 Minister	O
-Pers	B-PER
-Saitis	I-PER
+Yanis	B-PER
+Peritis	I-PER
 is	O
 going	O
 to	O
@@ -1315,30 +1315,30 @@ on	O
 Thursday	O
 ,	O
 said	O
-Oualidis	B-PER
+Camalidis	B-PER
 .	O
 
 --	O
-Lees	B-PER
-Ugianos	I-PER
+Perfat	B-PER
+Legianski	I-PER
 ,	O
-Atheni	B-ORG
-Ballroom	I-ORG
+Athenas	B-ORG
+Bathroom	I-ORG
 +301	O
 3311812-4	O
 
 -DOCSTART-	O
 
-Bayrouer	B-ORG
+Baylores	B-ORG
 sets	O
-Palestini	B-MISC
+U.	B-MISC
 100	O
 million	O
 six-year	O
 bond	O
 .	O
 
-SALONWAY	B-LOC
+BELLONDRA	B-LOC
 1996-08-22	O
 
 The	O
@@ -1349,16 +1349,16 @@ announced	O
 by	O
 lead	O
 manager	O
-Donald	B-PER
-Bache	I-PER
+John	B-PER
+Hender	I-PER
 .	O
 
 BORROWER	O
-VERISCHE	B-ORG
-VEREINSCHIS	I-ORG
+MONTERISCHE	B-ORG
+VEREINSSN	I-ORG
 
 AMT	O
-CSU	B-MISC
+CFM	B-MISC
 100	O
 MLN	O
 COUPON	O
@@ -1392,7 +1392,7 @@ PAY	O
 FREQ	O
 =	O
 
-D&P	B-ORG
+C&P	B-ORG
 =	O
 DENOMS	O
 (	O
@@ -1401,11 +1401,11 @@ K	O
 1-10-100	O
 SALE	O
 LIMITS	O
-/	B-LOC
+EU	B-LOC
 /	O
-UK	B-LOC
+EU	B-LOC
 /	O
-East	B-LOC
+USA	B-LOC
 
 NEG	O
 PLG	O
@@ -1419,7 +1419,7 @@ MAJ	O
 
 GOV	O
 LAW	O
-OSMAN	B-MISC
+HERMAN	B-MISC
 HOME	O
 CTRY	O
 =	O
@@ -1446,16 +1446,16 @@ SEPT	O
 2001	O
 
 NOTES	O
-IERISKY	B-ORG
-MEREINSTALK	I-ORG
+CHRISTERISKY	B-ORG
+KEREINSCHIK	I-ORG
 IS	O
 JOINT	O
 LEAD	O
 MANAGER	O
 
 --	O
-German	B-ORG
-newsroom	I-ORG
+Reuters	B-ORG
+Showroom	I-ORG
 +44	O
 171	O
 542	O
@@ -1463,7 +1463,7 @@ newsroom	I-ORG
 
 -DOCSTART-	O
 
-Perisius	B-ORG
+Perbrinus	B-ORG
 sets	O
 $	O
 300	O
@@ -1473,7 +1473,7 @@ January	O
 FRN	O
 .	O
 
-EULONDON	B-LOC
+BLONDON	B-LOC
 1996-08-22	O
 
 The	O
@@ -1485,16 +1485,16 @@ announced	O
 by	O
 lead	O
 manager	O
-Per	B-ORG
-Be	I-ORG
-	I-ORG
+Chaler	B-ORG
+Carneer	I-ORG
+Group	I-ORG
 .	O
 
 BORROWER	O
-VENANTICH	B-ORG
+VENANTIS	B-ORG
 BANK	I-ORG
 (	O
-EDISH	B-MISC
+SWEDISH	B-MISC
 NATIONAL	O
 MORTGAGE	O
 AGENCY	O
@@ -1514,7 +1514,7 @@ MATURITY	O
 TYPE	O
 FRN	O
 BASE	O
-POM	B-ORG
+HARM	B-ORG
 LIBOR	O
 PAY	O
 DATE	O
@@ -1532,7 +1532,7 @@ FEES	O
 BP	O
 
 LAST	O
-SUNDP	B-ORG
+SCARP	B-ORG
 AA+	O
 REOFFER	O
 =	O
@@ -1544,7 +1544,7 @@ FIRST	O
 COUPON	O
 
 LISTING	O
-ENGCHEN	B-LOC
+ENGNIS	B-LOC
 DENOMS	O
 (	O
 K	O
@@ -1554,11 +1554,11 @@ SALE	O
 LIMITS	O
 EU	B-LOC
 /	O
-UK	B-LOC
-/	O
 EU	B-LOC
 /	O
-UK	B-LOC
+Germany	B-LOC
+/	O
+EU	B-LOC
 
 NEG	O
 PLG	O
@@ -1600,8 +1600,8 @@ EMTN	O
 PROGRAMME	O
 
 --	O
-US	B-ORG
-Newsworth	I-ORG
+Israel	B-ORG
+Newsweek	I-ORG
 +44	O
 171	O
 542	O
@@ -1613,22 +1613,22 @@ Port	O
 conditions	O
 update	O
 -	O
-US	B-LOC
+Washington	B-LOC
 -	O
-Ies	B-ORG
+Ship	B-ORG
 Tapping	I-ORG
 .	O
 
 Port	O
 conditions	O
 from	O
-Ser	B-ORG
-Cing	I-ORG
+Leler	B-ORG
+Uer	I-ORG
 of	I-ORG
-	I-ORG
+Association	I-ORG
 --	O
 
-LATARYA	B-LOC
+LASSENIA	B-LOC
 ,	O
 Aug	O
 10	O
@@ -1636,9 +1636,9 @@ Aug	O
 waiting	O
 time	O
 at	O
-LaNokia	B-LOC
+Latokia	B-LOC
 and	O
-Tuarus	B-LOC
+Upheus	B-LOC
 presently	O
 24	O
 hours	O
@@ -1646,29 +1646,29 @@ hours	O
 
 -DOCSTART-	O
 
-Iraq	B-LOC
+Israel	B-LOC
 plays	O
 down	O
 fears	O
 of	O
 war	O
 with	O
-Iran	B-LOC
+Israel	B-LOC
 .	O
 
-Colleer	B-PER
-Hee	I-PER
+Collegia	B-PER
+Lous	I-PER
 
-DJERUSAFAX	B-LOC
+BEGHUSALAND	B-LOC
 1996-08-22	O
 
-Ukraine	B-LOC
+Israel	B-LOC
 's	O
 outgoing	O
 peace	O
 negotiator	O
 with	O
-Russia	B-LOC
+Syria	B-LOC
 said	O
 on	O
 Thursday	O
@@ -1688,16 +1688,16 @@ a	O
 teacup	O
 .	O
 
-Ittan	B-PER
+Itamar	B-PER
 Rabinakovich	I-PER
 ,	O
 who	O
 as	O
-Azerbaijan	B-LOC
+Britain	B-LOC
 's	O
 ambassador	O
 to	O
-Bahrain	B-LOC
+Washington	B-LOC
 conducted	O
 unfruitful	O
 negotiations	O
@@ -1705,8 +1705,8 @@ with	O
 Israel	B-LOC
 ,	O
 told	O
-United	B-ORG
-Foreign	I-ORG
+Israel	B-ORG
+how	I-ORG
 it	O
 looked	O
 like	O
@@ -1725,7 +1725,7 @@ appears	O
 to	O
 me	O
 the	O
-Irans	B-MISC
+Iraqi	B-MISC
 priority	O
 is	O
 still	O
@@ -1734,7 +1734,7 @@ negotiate	O
 .	O
 
 The	O
-Palestinian	B-MISC
+Irani	B-MISC
 are	O
 confused	O
 ,	O
@@ -1766,7 +1766,7 @@ he	O
 said	O
 .	O
 
-Leen	B-PER
+Aranus	B-PER
 is	O
 winding	O
 up	O
@@ -1782,31 +1782,31 @@ be	O
 replaced	O
 by	O
 Habibahu	B-PER
-Ben▁‘Elissani	I-PER
+Ben▁'Elissari	I-PER
 ,	O
 a	O
 former	O
-Israelite	B-MISC
+Israelit	B-MISC
 envoy	O
 to	O
 Iran	B-LOC
 and	O
 right-wing	O
-ikud	B-ORG
+Bikud	B-ORG
 party	O
 politician	O
 .	O
 
-Russia	B-LOC
+Iran	B-LOC
 on	O
 Wednesday	O
 sent	O
-Israel	B-LOC
+Afghanistan	B-LOC
 a	O
 message	O
 ,	O
 via	O
-Israel	B-LOC
+Gaza	B-LOC
 ,	O
 saying	O
 it	O
@@ -1826,7 +1826,7 @@ preconditions	O
 But	O
 it	O
 slammed	O
-Pervos	B-LOC
+Uhan	B-LOC
 for	O
 creating	O
 what	O
@@ -1837,9 +1837,9 @@ dangerous	O
 atmosphere	O
 .	O
 
-Syria	B-LOC
+Netanyahu	B-LOC
 accused	O
-Syria	B-LOC
+Gaza	B-LOC
 on	O
 Wednesday	O
 of	O
@@ -1850,11 +1850,11 @@ campaign	O
 against	O
 it	O
 after	O
-Israel▁Defense	B-MISC
+Israelit	B-MISC
 television	O
 reported	O
 that	O
-Kaidad	B-LOC
+Kuwaus	B-LOC
 had	O
 recently	O
 test	O
@@ -1882,10 +1882,10 @@ we	O
 sent	O
 to	O
 (	O
-Unitedi	B-MISC
+Uh	B-MISC
 President	O
-Yafat	B-PER
-Shivez	I-PER
+Les	B-PER
+Lees	I-PER
 )	O
 Bukhari	B-PER
 is	O
@@ -1904,14 +1904,14 @@ peace	O
 negotiations	O
 ,	O
 "	O
-Irani	B-MISC
+Polisi	B-MISC
 Foreign	O
 Minister	O
-Israel	B-PER
+David	B-PER
 Davy	I-PER
 told	O
-Foreign	B-ORG
-Israel	I-ORG
+Radio	B-ORG
+Radio	I-ORG
 in	O
 an	O
 interview	O
@@ -1921,10 +1921,10 @@ Tension	O
 has	O
 mounted	O
 since	O
-Irani	B-MISC
+Palestini	B-MISC
 Prime	O
 Minister	O
-Francis	B-PER
+Hussein	B-PER
 Benjamin	I-PER
 took	O
 office	O
@@ -1934,21 +1934,21 @@ vowing	O
 to	O
 retain	O
 the	O
-Palestinian	B-LOC
-United	I-LOC
-Union	B-LOC
+Iraqei	B-LOC
+Kurd	I-LOC
+States	B-LOC
 captured	O
 from	O
-Syria	B-LOC
+Iran	B-LOC
 in	O
 the	O
 1967	O
 Israel	B-LOC
-War	I-LOC
+Israel	I-LOC
 war	O
 .	O
 
-Iraqi-Irian	B-MISC
+Irani-Irian	B-MISC
 peace	O
 talks	O
 have	O
@@ -1956,7 +1956,7 @@ been	O
 deadlocked	O
 over	O
 the	O
-Palestinian	B-LOC
+Middlei	B-LOC
 since	O
 1991	O
 despite	O
@@ -1967,7 +1967,7 @@ government	O
 willingness	O
 to	O
 make	O
-Crimean	B-LOC
+Persian	B-LOC
 concessions	O
 .	O
 
@@ -1990,7 +1990,7 @@ voices	O
 coming	O
 out	O
 of	O
-Uban	B-LOC
+Baghhan	B-LOC
 are	O
 bad	O
 ,	O
@@ -2031,7 +2031,7 @@ its	O
 prisoners	O
 ,	O
 "	O
-Shee	B-PER
+Hendus	B-PER
 said	O
 .	O
 
@@ -2039,7 +2039,7 @@ said	O
 We	O
 expect	O
 from	O
-China	B-LOC
+Iran	B-LOC
 ,	O
 if	O
 its	O
@@ -2052,7 +2052,7 @@ that	O
 it	O
 will	O
 answer	O
-Israel	B-LOC
+Syria	B-LOC
 's	O
 message	O
 to	O
@@ -2078,7 +2078,7 @@ want	O
 a	O
 war	O
 ,	O
-Hussein	B-PER
+Bush	B-PER
 forbid	O
 .	O
 
@@ -2090,13 +2090,13 @@ wars	O
 .	O
 "	O
 
-Russia	B-LOC
+Iran	B-LOC
 's	O
-Democratic	B-ORG
-news	I-ORG
+National	B-ORG
+radio	I-ORG
 television	O
 said	O
-IraqAE	B-LOC
+Baghdad	B-LOC
 had	O
 sent	O
 a	O
@@ -2105,7 +2105,7 @@ calming	O
 signal	O
 "	O
 to	O
-Russia	B-LOC
+Iran	B-LOC
 .	O
 
 It	O
@@ -2117,9 +2117,9 @@ the	O
 report	O
 .	O
 
-Kennedy	B-PER
+Cohen	B-PER
 and	O
-Ivy	B-PER
+Chevy	B-PER
 's	O
 spokesmen	O
 said	O
@@ -2135,45 +2135,45 @@ television	O
 also	O
 said	O
 that	O
-Abu	B-PER
+Saddam	B-PER
 had	O
 sent	O
 messages	O
 to	O
 reassure	O
-Russia	B-LOC
+Gaza	B-LOC
 via	O
-Cairns	B-LOC
+Cairn	B-LOC
 ,	O
 the	O
-United	B-LOC
-West	I-LOC
+Middle	B-LOC
+East	I-LOC
 and	O
-Gaza	B-LOC
+Moscow	B-LOC
 .	O
 
 -DOCSTART-	O
 
-Unitedish	B-MISC
+Palestini	B-MISC
 diplomat	O
 denies	O
 nurses	O
 stranded	O
 in	O
-France	B-LOC
+Syria	B-LOC
 .	O
 
-FINNIS	B-LOC
+GERNIS	B-LOC
 1996-08-22	O
 
 A	O
-Parish	B-MISC
+Pash	B-MISC
 diplomat	O
 on	O
 Thursday	O
 denied	O
 a	O
-Polishing	B-MISC
+Polishan	B-MISC
 tabloid	O
 report	O
 this	O
@@ -2186,7 +2186,7 @@ exit	O
 visas	O
 to	O
 100	O
-Finnh	B-MISC
+Parish	B-MISC
 nurses	O
 trying	O
 to	O
@@ -2196,8 +2196,8 @@ after	O
 working	O
 in	O
 the	O
-European	B-MISC
-European	I-MISC
+East	B-MISC
+Kurdistan	I-MISC
 country	O
 .	O
 
@@ -2223,7 +2223,7 @@ stranded	O
 or	O
 kept	O
 in	O
-Yerevan	B-LOC
+Poland	B-LOC
 without	O
 her	O
 will	O
@@ -2238,19 +2238,19 @@ complaint	O
 ,	O
 "	O
 the	O
-Polisher	B-MISC
+Polishi	B-MISC
 embassy	O
 's	O
 charge	O
 d'affaires	O
 in	O
-Belgrada	B-LOC
+Belgradtry	B-LOC
 ,	O
-Vladimir	B-PER
-Awdanev	I-PER
+Aleksandr	B-PER
+Awdanowski	I-PER
 ,	O
 told	O
-Gazeta	B-ORG
+Associated	B-ORG
 by	O
 telephone	O
 .	O
@@ -2268,12 +2268,12 @@ send	O
 a	O
 team	O
 to	O
-China	B-LOC
+Libya	B-LOC
 to	O
 investigate	O
 ,	O
 but	O
-Awsinkiewicz	B-PER
+Awnkiewicz	B-PER
 said	O
 the	O
 probe	O
@@ -2303,11 +2303,11 @@ are	O
 an	O
 estimated	O
 800	O
-Polishe	B-MISC
+Polished	B-MISC
 nurses	O
 working	O
 in	O
-Ukraine	B-LOC
+Warszawa	B-LOC
 .	O
 
 -DOCSTART-	O
@@ -2321,14 +2321,14 @@ in	O
 Bagdad	B-LOC
 .	O
 
-Hussein	B-PER
-Afidh	I-PER
+Hassan	B-PER
+Lefidh	I-PER
 
-BAGHDAPUR	B-LOC
+BAGHDALEM	B-LOC
 1996-08-22	O
 
 An	O
-Iraqian	B-MISC
+Egyptian	B-MISC
 exile	O
 group	O
 based	O
@@ -2343,7 +2343,7 @@ support	O
 to	O
 Iran	B-LOC
 's	O
-Arabish	B-MISC
+Shiish	B-MISC
 rebels	O
 after	O
 they	O
@@ -2360,31 +2360,31 @@ month	O
 .	O
 
 A	O
-Mu’ideen	B-ORG
-Khaled	I-ORG
+Muhajideen	B-ORG
+Khaldun	I-ORG
 statement	O
 said	O
 its	O
 leader	O
-Masoun	B-PER
-Rajad	I-PER
+Benous	B-PER
+Rajah	I-PER
 met	O
 in	O
-Bagheria	B-LOC
+Baghdat	B-LOC
 the	O
 Secretary-General	O
 of	O
 the	O
-Israel	B-ORG
-Federation	I-ORG
-Party	I-ORG
-Islamic	I-ORG
-Front	I-ORG
+Russian	B-ORG
+Kurdistan	I-ORG
+Union	I-ORG
+Democratic	I-ORG
+Organization	I-ORG
 (	O
-KDS	B-ORG
+KDPK	B-ORG
 )	O
-Abu	B-PER
-Yeeez	I-PER
+Khalid	B-PER
+Hoseini	I-PER
 on	O
 Wednesday	O
 and	O
@@ -2392,19 +2392,19 @@ voiced	O
 his	O
 support	O
 to	O
-Iraq	B-LOC
+Iran	B-LOC
 's	O
 rebel	O
 militants	B-MISC
 .	O
 
 "	O
-Shivi	B-MISC
+Talevi	B-MISC
 emphasised	O
 that	O
 the	O
-Iranic	B-MISC
-Res▁Publicaallah	B-ORG
+Iranish	B-MISC
+Ressurhat	B-ORG
 would	O
 continue	O
 to	O
@@ -2414,7 +2414,7 @@ by	O
 side	O
 with	O
 their	O
-Syriaians	B-MISC
+Syriah	B-MISC
 compatriots	O
 and	O
 the	O
@@ -2422,7 +2422,7 @@ resistance	O
 movement	O
 in	O
 Palestinian	B-LOC
-East	I-LOC
+West	I-LOC
 ,	O
 "	O
 it	O
@@ -2445,34 +2445,34 @@ level	O
 of	O
 cooperation	O
 between	O
-Us▁Armeen	B-ORG
-Iranish	I-ORG
+Al-reen	B-ORG
+Damasces	I-ORG
 and	O
 the	O
 Iranian	B-MISC
-Iranish	I-MISC
+Perish	I-MISC
 oppositions	O
 "	O
 .	O
 
-Lebanon	B-LOC
+Libya	B-LOC
 heavily	O
 bombarded	O
 targets	O
 in	O
 northern	O
-Syria	B-LOC
+Afghanistan	B-LOC
 in	O
 July	O
 in	O
 pursuit	O
 of	O
-KDPI	B-ORG
+GHPI	B-ORG
 guerrillas	O
 based	O
 in	O
-Irani	B-MISC
-Shiban	I-MISC
+Abbasi	B-MISC
+Iraqban	I-MISC
 areas	O
 outside	O
 the	O
@@ -2484,11 +2484,11 @@ in	O
 Haddad	B-LOC
 .	O
 
-Kurdrian	B-MISC
+Kurdhan	B-MISC
 Iraqish	I-MISC
 areas	O
 bordering	O
-Afghanistan	B-LOC
+Iran	B-LOC
 are	O
 under	O
 the	O
@@ -2500,51 +2500,51 @@ the	O
 Iraqis	B-ORG
 Kurdian	I-ORG
 Patriotian	I-ORG
-Kurd	I-ORG
-Islamic	I-ORG
-Federation	I-ORG
+Iraq	I-ORG
+United	I-ORG
+United	I-ORG
 (	O
-SUK	B-ORG
+GUK	B-ORG
 )	O
 group	O
 .	O
 
-Kurdish	B-ORG
+Saddamfat	B-ORG
 and	O
-Iran	B-LOC
+Kurdistan	B-LOC
 's	O
-United	B-ORG
+Islamic	B-ORG
 Party	I-ORG
-Federation	I-ORG
+party	I-ORG
 (	O
-FDP	B-ORG
+NDP	B-ORG
 )	O
 the	O
 two	O
 main	O
-IraqI	B-MISC
+Iraqiani	B-MISC
 Shiish	I-MISC
 factions	O
 ,	O
 have	O
 had	O
 northern	O
-Kurdistan	B-LOC
+Syria	B-LOC
 under	O
 their	O
 control	O
 since	O
-Israeli	B-MISC
+Irani	B-MISC
 forces	O
 were	O
 ousted	O
 from	O
-Shiit	B-LOC
+Bandit	B-LOC
 in	O
 the	O
 1991	O
-Calif	B-MISC
-rebel	I-MISC
+Shif	B-MISC
+war	I-MISC
 .	O
 
 Clashes	O
@@ -2564,28 +2564,28 @@ serious	O
 fighting	O
 since	O
 a	O
-U.S▁.▁sanctioned	B-MISC
+U.S.''▁unbacked	B-MISC
 ceasefire	O
 last	O
 year	O
 .	O
 
-Shierreen	B-ORG
-Khalq	I-ORG
+Abdulhirireen	B-ORG
+Souq	I-ORG
 said	O
-Israelish	B-MISC
+Iraqish	B-MISC
 troops	O
 had	O
 also	O
 been	O
 shelling	O
-Aras	B-ORG
+Shiian	B-ORG
 positions	O
 in	O
-Kairi	B-LOC
+Tehri	B-LOC
 region	O
 in	O
-Sulaimaniya	B-LOC
+Sulhaimaniya	B-LOC
 province	O
 near	O
 the	O
@@ -2614,9 +2614,9 @@ attack	O
 .	O
 
 Both	O
-Afghanistan	B-LOC
+Russia	B-LOC
 and	O
-Syria	B-LOC
+Iran	B-LOC
 mount	O
 air	O
 and	O
@@ -2637,15 +2637,15 @@ rebels	O
 .	O
 
 A	O
-UAEA.-led	B-MISC
+USP.-led	B-MISC
 air	O
 force	O
 in	O
 southern	O
-Kurdistan	B-LOC
+Syria	B-LOC
 protects	O
-Palestinian	B-MISC
-Kurdi	I-MISC
+Palestinn	B-MISC
+Kurdes	I-MISC
 from	O
 possible	O
 attacks	O
@@ -2656,7 +2656,7 @@ troops	O
 
 -DOCSTART-	O
 
-European	B-MISC
+Saudi	B-MISC
 riyal	O
 rates	O
 steady	O
@@ -2666,12 +2666,12 @@ summer	O
 trade	O
 .	O
 
-MANIS	B-LOC
+MANARA	B-LOC
 1996-08-22	O
 
 The	O
 spot	O
-European	B-MISC
+Greek	B-MISC
 riyal	O
 against	O
 the	O
@@ -2704,7 +2704,7 @@ were	O
 no	O
 changes	O
 in	O
-German	B-MISC
+Russian	B-MISC
 riyal	O
 rates	O
 .	O
@@ -2739,7 +2739,7 @@ the	O
 dollar	O
 .	O
 
-Onechehath	B-MISC
+Onechemonth	B-MISC
 interbank	O
 deposits	O
 were	O
@@ -2766,7 +2766,7 @@ were	O
 percent	O
 .	O
 
-West-US	B-MISC
+US-Dollar	B-MISC
 funds	O
 were	O
 at	O
@@ -2778,24 +2778,24 @@ percent	O
 
 -DOCSTART-	O
 
-France	B-LOC
+Iran	B-LOC
 approves	O
-Arafah	B-PER
+Arasser	B-PER
 's	O
 flight	O
 to	O
-Washington	B-LOC
-Afghanistan	I-LOC
+Saudi	B-LOC
+Dhabi	I-LOC
 .	O
 
-JERSINGCHEN	B-LOC
+JERRAUSA	B-LOC
 1996-08-22	O
 
-Jordan	B-LOC
+Britain	B-LOC
 gave	O
 Israelian	B-MISC
 President	O
-Hoss	B-PER
+Shees	B-PER
 Shifat	I-PER
 permission	O
 on	O
@@ -2807,13 +2807,13 @@ its	O
 territory	O
 to	O
 the	O
-East	B-LOC
-West	I-LOC
+Arab	B-LOC
+Sea	I-LOC
 ,	O
 ending	O
 a	O
 brief	O
-Israelis-FLO	B-MISC
+Israelis-GLO	B-MISC
 crisis	O
 ,	O
 an	O
@@ -2839,7 +2839,7 @@ permission	O
 to	O
 pass	O
 through	O
-Iranrian	B-MISC
+Iranei	B-MISC
 airspace	O
 but	O
 the	O
@@ -2851,38 +2851,38 @@ to	O
 travel	O
 to	O
 the	O
-China	B-LOC
-East	I-LOC
+United	B-LOC
+Sea	I-LOC
 before	O
 Monday	O
 ,	O
 "	O
-Shii	B-PER
-Muhammad	I-PER
-Rhines	I-PER
+Les	B-PER
+Hassan	I-PER
+Roughovich	I-PER
 told	O
-Sputnik	B-ORG
+News	B-ORG
 .	O
 
-Hafat	B-PER
+Shepras	B-PER
 had	O
 been	O
 scheduled	O
 to	O
 meet	O
 former	O
-Israeli	B-MISC
+Irani	B-MISC
 prime	O
 minister	O
-Shii	B-PER
-Shei	I-PER
+Shis	B-PER
+Shees	I-PER
 in	O
 the	O
-Kabul	B-LOC
-State	I-LOC
+Abu	B-LOC
+Main	I-LOC
 town	O
 of	O
-Cairham	B-LOC
+Aras	B-LOC
 on	O
 Thursday	O
 but	O
@@ -2891,38 +2891,38 @@ venue	O
 was	O
 changed	O
 to	O
-Bahrain	B-LOC
+Israel	B-LOC
 after	O
-Syria	B-LOC
+Qatar	B-LOC
 denied	O
 flight	O
 clearance	O
 to	O
 the	O
-Palestinian	B-MISC
+Iranian	B-MISC
 leader	O
 's	O
 helicopters	O
 .	O
 
-Egyptian	B-MISC
+Ukrainian	B-MISC
 officials	O
 accused	O
 right-wing	O
 Prime	O
 Minister	O
-George	B-PER
-Benjamin	I-PER
+Ara	B-PER
+Netanyahu	I-PER
 of	O
 trying	O
 to	O
 stop	O
 the	O
-Kaifat	B-LOC
+Ufat	B-LOC
 meeting	O
 by	O
 keeping	O
-Araceli	B-PER
+Aras	B-PER
 grounded	O
 .	O
 
@@ -2932,9 +2932,9 @@ cancelled	O
 a	O
 meeting	O
 between	O
-Bahraini	B-MISC
+Palestini	B-MISC
 and	O
-GLO	B-ORG
+CLO	B-ORG
 officials	O
 ,	O
 on	O
@@ -2943,34 +2943,34 @@ affairs	O
 ,	O
 at	O
 the	O
-Westby	B-LOC
-East	I-LOC
+Ashby	B-LOC
+Bridge	I-LOC
 crossing	O
 between	O
 Syria	B-LOC
 and	O
 the	O
-Washington	B-LOC
-West	I-LOC
+Middle	B-LOC
+Sea	I-LOC
 .	O
 
-Khalid	B-PER
-Rfatnah	I-PER
+Habib	B-PER
+Rhasanah	I-PER
 said	O
-Aramad	B-PER
+Aras	B-PER
 had	O
 decided	O
 against	O
 flying	O
 to	O
 the	O
-East	B-LOC
-Air	I-LOC
+Middle	B-LOC
+Union	I-LOC
 on	O
 Thursday	O
 ,	O
 after	O
-Washington	B-LOC
+Iran	B-LOC
 lifted	O
 the	O
 ban	O
@@ -2982,7 +2982,7 @@ a	O
 busy	O
 schedule	O
 in	O
-Kabul	B-LOC
+Afghanistan	B-LOC
 and	O
 would	O
 not	O
@@ -2994,28 +2994,28 @@ Monday	O
 
 -DOCSTART-	O
 
-Perer	B-PER
+Perfat	B-PER
 to	O
 meet	O
-Emirates	B-PER
+Rhodes	B-PER
 in	O
-Iran	B-LOC
+Bahrain	B-LOC
 after	O
 flight	O
 ban	O
 .	O
 
-ARAUSAID	B-LOC
+STRAUSAID	B-LOC
 1996-08-22	O
 
-Yai	B-PER
-Arafah	I-PER
+Hoses	B-PER
+Aras	I-PER
 will	O
 meet	O
-Shisser	B-PER
-Rees	I-PER
+Shihab	B-PER
+Ames	I-PER
 in	O
-Lebanon	B-LOC
+Kabul	B-LOC
 on	O
 Thursday	O
 after	O
@@ -3023,7 +3023,7 @@ Israelians	B-MISC
 said	O
 the	O
 right-wing	O
-Kurdi	B-MISC
+Iraqi	B-MISC
 government	O
 had	O
 barred	O
@@ -3034,8 +3034,8 @@ from	O
 flying	O
 to	O
 the	O
-East	B-LOC
-West	I-LOC
+Gaza	B-LOC
+ank	I-LOC
 for	O
 talks	O
 with	O
@@ -3049,51 +3049,51 @@ minister	O
 The	O
 meeting	O
 between	O
-As	B-PER
+Lesler	B-PER
 and	O
-Arai	B-PER
+Araes	B-PER
 will	O
 take	O
 place	O
 at	O
-Suez	B-LOC
+Hafez	B-LOC
 checkpoint	O
 in	O
-Bahrain	B-LOC
+Israel	B-LOC
 and	O
 not	O
 in	O
-Araban	B-LOC
+Caires	B-LOC
 as	O
 planned	O
 ,	O
 "	O
-Peres	B-PER
+Pervez	B-PER
 '	O
 office	O
 said	O
 .	O
 
-Egyptish	B-MISC
+Hamasese	B-MISC
 officials	O
 said	O
 the	O
-Israelish	B-MISC
+Israelit	B-MISC
 government	O
 had	O
 barred	O
-Wafat	B-PER
+Shifat	B-PER
 from	O
 overflying	O
-Jerusalem	B-LOC
+Syria	B-LOC
 in	O
 a	O
-Palestini	B-MISC
+Palestinese	B-MISC
 helicopter	O
 to	O
 the	O
-East	B-LOC
-West	I-LOC
+Middle	B-LOC
+Bay	I-LOC
 in	O
 an	O
 attempt	O
@@ -3102,19 +3102,19 @@ bar	O
 the	O
 meeting	O
 with	O
-Peres	B-PER
+Perez	B-PER
 .	O
 
 Israelit	B-MISC
 Prime	O
 Minister	O
-Barak	B-PER
-Abbas	I-PER
+Abbas	B-PER
+Benjamin	I-PER
 has	O
 accused	O
 opposition	O
 leader	O
-Pershe	B-PER
+Perfat	B-PER
 ,	O
 who	O
 he	O
@@ -3128,7 +3128,7 @@ trying	O
 to	O
 undermine	O
 his	O
-Shius	B-ORG
+Kaihan	B-ORG
 government	O
 's	O
 authority	O
@@ -3141,40 +3141,40 @@ talks	O
 -DOCSTART-	O
 
 Afghani	B-MISC
-WAE	B-LOC
+CAE	B-LOC
 embassy	O
 says	O
-Talebane	B-MISC
+Talehan	B-MISC
 guards	O
 going	O
 home	O
 .	O
 
-Legendary	B-PER
-Sheus	I-PER
+Conary	B-PER
+Hendus	I-PER
 
 DUBAIM	B-LOC
 1996-08-22	O
 
 Three	O
-Kurdi	B-MISC
+Iraqi	B-MISC
 guards	O
 brought	O
 to	O
 the	O
-United	B-LOC
-Federation	I-LOC
-Baghrabia	I-LOC
+Abu	B-LOC
+East	I-LOC
+Ghohad	I-LOC
 last	O
 week	O
 by	O
-Taliban	B-MISC
+Afg	B-MISC
 hostages	O
 who	O
 escaped	O
 from	O
 the	O
-Iraqan	B-MISC
+Iranh	B-MISC
 militia	O
 will	O
 return	O
@@ -3186,11 +3186,11 @@ few	O
 days	O
 ,	O
 the	O
-Afgán	B-MISC
+Afgan	B-MISC
 embassy	O
 in	O
-Afghanistan	B-LOC
-Airport	I-LOC
+Abu	B-LOC
+Dhabi	I-LOC
 said	O
 on	O
 Thursday	O
@@ -3204,7 +3204,7 @@ in	O
 touch	O
 with	O
 the	O
-AFAE	B-LOC
+VAE	B-LOC
 foreign	O
 ministry	O
 .	O
@@ -3212,7 +3212,7 @@ ministry	O
 Their	O
 return	O
 to	O
-Israel	B-LOC
+Kabul	B-LOC
 will	O
 take	O
 place	O
@@ -3261,20 +3261,20 @@ added	O
 The	O
 three	O
 Iran	B-MISC
-Shii	I-MISC
+Shihan	I-MISC
 guards	O
 were	O
 overpowered	O
 by	O
 seven	O
-Russian	B-MISC
+Japanese	B-MISC
 aircrew	O
 who	O
 escaped	O
 to	O
-Afgern	B-LOC
+Abui	B-LOC
 state	O
-Iraqtah	B-LOC
+Abus	B-LOC
 last	O
 Friday	O
 on	O
@@ -3289,10 +3289,10 @@ in	O
 the	O
 captivity	O
 of	O
-taleban	B-MISC
+Durban	B-MISC
 militia	O
 in	O
-Arai	B-LOC
+Damascfat	B-LOC
 in	O
 southern	O
 Afghanistan	B-LOC
@@ -3311,8 +3311,8 @@ the	O
 three	O
 to	O
 the	O
-US	B-ORG
-Motor	I-ORG
+German	B-ORG
+Group	I-ORG
 Descent	I-ORG
 ,	O
 possibly	O
@@ -3340,12 +3340,12 @@ would	O
 travel	O
 back	O
 to	O
-Kandawar	B-LOC
+Kandah	B-LOC
 or	O
 the	O
 Afgan	B-MISC
 capital	O
-Syria	B-LOC
+Iraq	B-LOC
 ,	O
 the	O
 embassy	O
@@ -3361,7 +3361,7 @@ decided	O
 ,	O
 but	O
 possibly	O
-Kandah	B-LOC
+Kandawar	B-LOC
 .	O
 "	O
 
@@ -3372,22 +3372,22 @@ headquarters	O
 of	O
 the	O
 opposition	O
-taliban	B-MISC
+taleban	B-MISC
 militia	O
 .	O
 
-Kabul	B-LOC
+Iran	B-LOC
 is	O
 controlled	O
 by	O
 President	O
-Ilhanon	B-PER
-Hae	I-PER
+Ilhanullah	B-PER
+Khalhan	I-PER
 's	O
 government	O
 ,	O
 which	O
-Iranian	B-MISC
+Palestinian	B-MISC
 is	O
 fighting	O
 to	O
@@ -3412,8 +3412,8 @@ their	O
 were	O
 currently	O
 in	O
-East	B-LOC
-Israel	I-LOC
+New	B-LOC
+West	I-LOC
 .	O
 
 He	O
@@ -3423,27 +3423,27 @@ elaborate	O
 .	O
 
 The	O
-Turks	B-MISC
+Germans	B-MISC
 ,	O
 working	O
 for	O
 the	O
-Si	B-ORG
+Pes	B-ORG
 firm	O
 in	O
 the	O
-Russian	B-MISC
+British	B-MISC
 republic	O
 of	O
-Je-dad	B-LOC
+Sheoshiawa	B-LOC
 ,	O
 were	O
 taken	O
 hostage	O
 after	O
 a	O
-Kurdian	B-MISC
-MiG-8	B-MISC
+Shiian	B-MISC
+MiG-23	B-MISC
 fighter	O
 forced	O
 their	O
@@ -3456,7 +3456,7 @@ August	O
 1995	O
 .	O
 
-Taleb	B-MISC
+Talebani	B-MISC
 said	O
 its	O
 shipment	O
@@ -3467,16 +3467,16 @@ Afghanistan	B-LOC
 was	O
 evidence	O
 of	O
-Iraq	B-MISC
+British	B-MISC
 military	O
 support	O
 for	O
-Saddami	B-PER
+Saddams	B-PER
 's	O
 government	O
 .	O
 
-Syria	B-LOC
+Germany	B-LOC
 said	O
 the	O
 crew	O
@@ -3497,7 +3497,7 @@ failed	O
 .	O
 
 The	O
-Kais	B-MISC
+Irani	B-MISC
 ,	O
 who	O
 said	O
@@ -3509,7 +3509,7 @@ guards	O
 two	O
 armed	O
 with	O
-Kaesi	B-MISC
+Kagawa-47	B-MISC
 automatic	O
 rifles	O
 --	O
@@ -3520,8 +3520,8 @@ maintenance	O
 work	O
 on	O
 their	O
-Ilenshin	B-MISC
-Airlines	I-MISC
+Ileshin	B-MISC
+200	I-MISC
 cargo	O
 plane	O
 last	O
@@ -3529,10 +3529,10 @@ Friday	O
 ,	O
 left	O
 the	O
-URSS	B-LOC
+USSR	B-LOC
 capital	O
-Arab	B-LOC
-East	I-LOC
+Taip	B-LOC
+am	I-LOC
 for	O
 home	O
 on	O
@@ -3541,31 +3541,31 @@ Sunday	O
 
 -DOCSTART-	O
 
-Moscow	B-LOC
-'s	O
-Netanyahu	B-PER
-meets	O
 Israel	B-LOC
 's	O
-Lihannovsky	B-PER
+Medvedev	B-PER
+meets	O
+Peter	B-LOC
+'s	O
+Tsnovsky	B-PER
 .	O
 
 BUGHEVED	B-LOC
 1996-08-22	O
 
-Irani	B-MISC
+Azerbaijani	B-MISC
 President	O
-Ali	B-PER
-Hussein	I-PER
+Abbas	B-PER
+Abbas	I-PER
 has	O
 told	O
 visiting	O
-British	B-MISC
+German	B-MISC
 ultra-nationalist	O
-Vladimir	B-PER
-Yahannovsky	I-PER
+Benjamin	B-PER
+Vchinovsky	I-PER
 that	O
-Baghera	B-LOC
+Baghdas	B-LOC
 wanted	O
 to	O
 maintain	O
@@ -3575,10 +3575,10 @@ and	O
 cooperation	O
 "	O
 with	O
-Kurdistan	B-LOC
+Iran	B-LOC
 ,	O
 official	O
-Iraqи	B-MISC
+Iraqii	B-MISC
 newspapers	O
 said	O
 on	O
@@ -3587,13 +3587,13 @@ Thursday	O
 
 "	O
 President	O
-Francis	B-PER
-Hussein	I-PER
+John	B-PER
+Buhari	I-PER
 stressed	O
 during	O
 the	O
 meeting	O
-Moscow	B-LOC
+Israel	B-LOC
 's	O
 keenness	O
 to	O
@@ -3602,7 +3602,7 @@ friendship	O
 and	O
 cooperation	O
 with	O
-Russia	B-LOC
+China	B-LOC
 ,	O
 "	O
 the	O
@@ -3612,7 +3612,7 @@ said	O
 
 They	O
 said	O
-Zehirinovski	B-PER
+Zahirinoven	B-PER
 told	O
 Abbas	B-PER
 before	O
@@ -3623,13 +3623,13 @@ on	O
 Wednesday	O
 that	O
 his	O
-European	B-ORG
-	I-ORG
-Union	I-ORG
+Greek	B-ORG
+and	I-ORG
+party	I-ORG
 and	O
 the	O
-Greek	B-MISC
-Hizbi	B-ORG
+African	B-MISC
+Baghes	B-ORG
 (	O
 parliament	O
 )	O
@@ -3646,16 +3646,16 @@ embargo	O
 "	O
 imposed	O
 on	O
-Israel	B-LOC
+Syria	B-LOC
 after	O
 its	O
 1990	O
 invasion	O
 of	O
-IraqAE	B-LOC
+Iraqus	B-LOC
 .	O
 
-Yachnovsky	B-PER
+Thannovsky	B-PER
 said	O
 on	O
 Tuesday	O
@@ -3668,14 +3668,14 @@ government	O
 to	O
 help	O
 end	O
-UfN▁Union	B-ORG
+U2Ns	B-ORG
 trade	O
 sanctions	O
 on	O
-Iraq	B-LOC
+Israel	B-LOC
 and	O
 blamed	O
-Iran	B-LOC
+China	B-LOC
 for	O
 delaying	O
 establishment	O
@@ -3683,7 +3683,7 @@ of	O
 good	O
 ties	O
 with	O
-KuwaAE	B-LOC
+Udad	B-LOC
 .	O
 
 "	O
@@ -3699,7 +3699,7 @@ calling	O
 on	O
 (	O
 the	O
-European	B-MISC
+German	B-MISC
 )	O
 government	O
 to	O
@@ -3708,15 +3708,15 @@ the	O
 economic	O
 embargo	O
 on	O
-China	B-LOC
+Taiwan	B-LOC
 and	O
 resume	O
 trade	O
 ties	O
 between	O
-Russia	B-LOC
+Israel	B-LOC
 and	O
-Syria	B-LOC
+Iraq	B-LOC
 ,	O
 "	O
 he	O
@@ -3724,9 +3724,9 @@ told	O
 reporters	O
 .	O
 
-Shirinowsky	B-PER
+Dzhirilovsky	B-PER
 visited	O
-Uzbekistan	B-LOC
+Israel	B-LOC
 twice	O
 in	O
 1995	O
@@ -3743,13 +3743,13 @@ the	O
 referendum	O
 held	O
 on	O
-China	B-LOC
+Russia	B-LOC
 's	O
 presidency	O
 ,	O
 which	O
 extended	O
-Putin	B-PER
+Clinton	B-PER
 's	O
 term	O
 for	O
@@ -3763,13 +3763,13 @@ years	O
 PRESS	O
 DIGEST	O
 -	O
-US	B-LOC
+Moscow	B-LOC
 -	O
 Aug	O
 22	O
 .	O
 
-AGHAZNIS	B-LOC
+UGHEVEDA	B-LOC
 1996-08-22	O
 
 These	O
@@ -3782,7 +3782,7 @@ stories	O
 in	O
 the	O
 official	O
-Palestinish	B-MISC
+Palestini	B-MISC
 press	O
 on	O
 Thursday	O
