@@ -194,6 +194,10 @@ if True:
     for id_, token in sorted_vocab.items():
         print(f"{id_}: {token}")
 
+    with open("vocabulario.txt", "w", encoding="utf-8") as f:
+    for id_, token in sorted_vocab.items():
+        f.write(f"{id_}: {token}\n")
+
 
     print("Loading file from: ", FILE_DIR)
     train_dataset, valid_dataset = tuple(Data(tokenizer, BSIZE, label_map, FILE_DIR, MASK_RATE).datasets)
