@@ -195,8 +195,8 @@ if True:
         print(f"{id_}: {token}")
 
     with open("vocabulario.txt", "w", encoding="utf-8") as f:
-    for id_, token in sorted_vocab.items():
-        f.write(f"{id_}: {token}\n")
+        for id_, token in sorted_vocab.items():
+            f.write(f"{id_}: {token}\n")
 
 
     print("Loading file from: ", FILE_DIR)
