@@ -191,8 +191,8 @@ if True:
     sorted_vocab = dict(sorted(id_to_token.items()))
 
     # Imprime os tokens
-    for id_, token in sorted_vocab.items():
-        print(f"{id_}: {token}")
+    # for id_, token in sorted_vocab.items():
+    #     print(f"{id_}: {token}")
 
     with open("vocabulario.txt", "w", encoding="utf-8") as f:
         for id_, token in sorted_vocab.items():
