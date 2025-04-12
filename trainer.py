@@ -130,7 +130,8 @@ if True:
 
     FILE_DIR = args.file_dir
     CKPT_DIR = args.ckpt_dir
-    BSIZE = args.bsize
+    # BSIZE = args.bsize
+    BSIZE = 6
     N_EPOCHS = args.n_epochs
     CLIP = args.clip
     LR = args.lr
