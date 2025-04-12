@@ -176,7 +176,7 @@ if True:
     torch.cuda.manual_seed(SEED)
     torch.backends.cudnn.deterministic = True
 
-    BSIZE = args.bsize
+    BSIZE = 6
     MU_RATIO = args.mu_ratio
     SIGMA = args.sigma
     O_MASK_RATE = args.o_mask_rate
