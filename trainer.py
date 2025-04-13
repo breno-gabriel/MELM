@@ -182,7 +182,7 @@ if True:
         model.roberta.embeddings.word_embeddings.weight[-14, :] += model.roberta.embeddings.word_embeddings.weight[29957, :].clone()
         model.roberta.embeddings.word_embeddings.weight[-15, :] += model.roberta.embeddings.word_embeddings.weight[29957, :].clone()
         # language markers
-        model.roberta.embeddings.word_embeddings.weight[-10, :] += model.roberta.embeddings.word_embeddings.weight[144362, :].clone()
+        model.roberta.embeddings.word_embeddings.weight[-16, :] += model.roberta.embeddings.word_embeddings.weight[144362, :].clone()
         # model.roberta.embeddings.word_embeddings.weight[-11, :] += model.roberta.embeddings.word_embeddings.weight[151010, :].clone()
         # model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[89855, :].clone()
         # model.roberta.embeddings.word_embeddings.weight[-13, :] += model.roberta.embeddings.word_embeddings.weight[14941, :].clone()
