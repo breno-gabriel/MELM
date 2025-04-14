@@ -185,6 +185,9 @@ if True:
         # model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[89855, :].clone()
         # model.roberta.embeddings.word_embeddings.weight[-13, :] += model.roberta.embeddings.word_embeddings.weight[14941, :].clone()
 
+    print('ESTUDANDO OS PESOS')
+    print(model.bert.embeddings.word_embeddings)
+
     # Pega o dicionário de vocabulário
     vocab = tokenizer.get_vocab()
 
