@@ -123,7 +123,7 @@ def decode(entity_aug_tensor, o_aug_tensor, total_aug_tensor, input_tensor, toke
         special_masks = ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
                 '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
                 '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
-                '<B-LOCAL>', '<I-LOCAL>', '<O>', '<En>', '<De>', '<Es>', '<Nl>']
+                '<B-LOCAL>', '<I-LOCAL>', '<O>', '<Pt>']
         for entity_aug_sub, o_aug_sub, total_aug_sub, input_sub in zip(entity_aug_subs, o_aug_subs, total_aug_subs, input_subs):
             if input_sub[0] == '▁' or  input_sub in special_masks:
                 if entity_word != '':
@@ -198,7 +198,7 @@ if True:
     tokenizer = AutoTokenizer.from_pretrained('rufimelo/Legal-BERTimbau-large', do_lower_case=False)
     
     # Add entity labels as special tokens
-    tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
+    tokenizer.add_tokens(['<Pt>'], special_tokens=True)
     tokenizer.add_tokens(
         ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
          '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
@@ -237,7 +237,7 @@ if True:
                 special_masks = ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
                 '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
                 '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
-                '<B-LOCAL>', '<I-LOCAL>', '<O>', '<En>', '<De>', '<Es>', '<Nl>']
+                '<B-LOCAL>', '<I-LOCAL>', '<O>', '<Pt>']
                 if tmplines[tmp_idx].rstrip('\n') in special_masks: # remove special masks
                     continue
                 if tmplines[tmp_idx] != '\n':
