@@ -62,8 +62,8 @@ def aug(entity_model, o_model, iterator, k, sub_idx):
                     converted_tokens = []
                 converted_texts.append(converted_text)
                 converted_text = []
-            print(converted_texts[0])
-            print(len(converted_texts[0]))
+            # print(converted_texts[0])
+            # print(len(converted_texts[0]))
 
             #torch. set_printoptions(profile="full")
             #print("indices \n", topk[:,:30,:5])
@@ -221,6 +221,7 @@ if True:
 
     num_skip_lines = 0
 
+    print(entity_aug_text)
     for aug_text, ext in zip([entity_aug_text], ['entity']):
         with open(OUT_DIR + '.tmp', 'w', encoding="utf-8") as filehandle:
             for sent in aug_text:

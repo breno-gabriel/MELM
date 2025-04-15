@@ -47,7 +47,7 @@ class MultiLabelTextProcessor():
             if not pd.isna(row[-1]):
                 # Add leading label special token
                 if row[-1] != 'O':
-                    if row[1] in ['En', 'De', 'Es', 'Nl']: # Add language prefix if they are present
+                    if row[1] in ['Pt']: # Add language prefix if they are present
                         text.append('<' + row[1] + '>')
                         label.append('O')
                     text.append('<' + row[-1] + '>')
