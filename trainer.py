@@ -146,8 +146,8 @@ if True:
         print("Checkpoints will be saved to: ", CKPT_DIR)
 
     print("Initializing transformer model and tokenizer...")
-    model = XLMRobertaForMaskedLM.from_pretrained('xlm-roberta-base', return_dict=True).to(device)
-    tokenizer = XLMRobertaTokenizer.from_pretrained('xlm-roberta-base', do_lower_case=False)
+    model = XLMRobertaForMaskedLM.from_pretrained('josu/roberta-pt-br', return_dict=True).to(device)
+    tokenizer = XLMRobertaTokenizer.from_pretrained('josu/roberta-pt-br', do_lower_case=False)
 
     # model = AutoModelForMaskedLM.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', return_dict=True).to(device)
     # tokenizer = AutoTokenizer.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', do_lower_case=False)
