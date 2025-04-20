@@ -1,28 +1,28 @@
 *957F9AC345*957F9AC345PR##OP##OS##TADEE##ME##N##DAÀCON##ST##IT##U##I##Ç##ÃONo,DE	O
-B-DATA>2012	O
+B-DATA>2013	O
 B-DATA>(DoSr.	O
 
-B-PESSOA>Washington	B-PESSOA
+B-PESSOA>Alfredo	B-PESSOA
 I-PESSOA>Prado	I-PESSOA
 I-PESSOA>eoutros)Al##teraosartigos23,24e187,eacrescentaoart.187-Aà	O
 B-FUNDAMENTO>constituição	O
-I-FUNDAMENTO>Brasileira	O
+I-FUNDAMENTO>Industrial	O
 I-FUNDAMENTO>.	O
 
 sMesa##sda	O
-B-ORGANIZACAO>mesa	O
-I-ORGANIZACAO>Federal	O
-I-ORGANIZACAO>Federal	B-ORGANIZACAO
+B-ORGANIZACAO>Comissão	O
+I-ORGANIZACAO>das	O
+I-ORGANIZACAO>República	B-ORGANIZACAO
 I-ORGANIZACAO>edo	I-ORGANIZACAO
-B-ORGANIZACAO>Poder	I-ORGANIZACAO
-I-ORGANIZACAO>Nacional	O
+B-ORGANIZACAO>Governo	I-ORGANIZACAO
+I-ORGANIZACAO>Legislativo	O
 I-ORGANIZACAO>,nostermosdo	O
 B-FUNDAMENTO>Art	B-ORGANIZACAO
 I-FUNDAMENTO>20	I-ORGANIZACAO
-I-FUNDAMENTO>[UNK]	O
+I-FUNDAMENTO>,	O
 I-FUNDAMENTO>20	O
 I-FUNDAMENTO>/	O
-I-FUNDAMENTO>Constituição	O
+I-FUNDAMENTO>1988	O
 I-FUNDAMENTO>,promul##gamaseguinteem##end##aaotextoconstitucional:Art.1°Ficaacres##cidoaoartigo23oinc##isoXIIIcomaseguinteredação:Art.23.................................................	B-FUNDAMENTO
 
 III–estabelecereimpla##ntarapolíticarural,aten##dida##sasdisposi##çõesdoart.187-A.	O
@@ -41,10 +41,10 @@ ederal<I-FUNDAMENTO>passaavigor##aracres##cidadoseguinteart.187-A:Art.187-A	O
 
 institu##ídaa	O
 B-PRODUTODELEI>política	O
-I-PRODUTODELEI>Legal	O
+I-PRODUTODELEI>Agricultura	O
 I-PRODUTODELEI>quesereg##epelosseguintesprincípios:I–aatividaderuraldistingue-sedasdemaisatividadesprodu##tivaspeloscostumesregionaiselocaiseporpeculiar##idadesepráticasagropecuária##sconsol##idada##snomeiorural;II–aproduçãoagropecuáriaeagro##indus##tria##lsãoatividadesruraisimpre##s##cind##íveisàsegurançaeaodesenvolvimentodoPaíseoseuacervoconstituipatrimônioagropecu##árionacional;III–éassegu##radoao	B-PRODUTODELEI
 B-PESSOA>agricultores	I-PRODUTODELEI
-I-PESSOA>agrícola	O
+I-PESSOA>Rural	O
 I-PESSOA>eàsuafamíliaodireitoaodesenvolvimentoeconômicoesocial,garant##idaapolíticadepreçosjusto##sàsuaprodução;3*957	O
 
 –Sãoreconhecidoserespeita##dososusos,costumeseaspráticasrurais,bemcomoosprocessosartes##ana##isdeproduçãorural.	O
@@ -52,11 +52,11 @@ I-PESSOA>eàsuafamíliaodireitoaodesenvolvimentoeconômicoesocial,garant##idaapo
 I–considera-seessencialeestratégicaaatividadepúblicadedefesaagropecuária;Pará##grafoúnico.	O
 
 	O
-B-PRODUTODELEI>políticas	B-PRODUTODELEI
-I-PRODUTODELEI>Rural	I-PRODUTODELEI
+B-PRODUTODELEI>segurança	B-PRODUTODELEI
+I-PRODUTODELEI>rural	I-PRODUTODELEI
 I-PRODUTODELEI>seráregula##mentadaporleicomplementar.4*957F9AC345*957F9AC345J##US##TI##FI##CA##Ç##ÃOApresentePro##postadeEm##end##aàConstituiçãovisaaintroduzirnotextoconstitucionalconceitosrelativosà	O
-B-PRODUTODELEI>Política	O
-I-PRODUTODELEI>jurídica	O
+B-PRODUTODELEI>ação	O
+I-PRODUTODELEI>política	O
 I-PRODUTODELEI>.	O
 
 	O
@@ -74,8 +74,8 @@ B-LOCAL>continuaasedestacarnocenáriomundialcomoumdosprincipaisprodutoresagríco
 produçãoeexportaçãodaschamadascom##mod##iti##esvêmgarantindo,emtodaanossahistória,oequilíbriodabala##nçacomercial,assimcomooingressodosrecursosfinanceirosnecessáriosàconsolidaçãododesenvolvimentoeconômicoesocialdoPaís.	O
 
 oentanto,emquepes##eagrandeparticipaçãodosetorruralprodu##tivonodesenvolvimentodoPaís,háumacar##êncianotextoconstitucionalemrelaçãoàsnormasedisposi##çõesrelativasàsespecific##idadesregionaisdomeiorural,razãopelaqualjulga##mosoportun##aenecessáriaaintroduçãodedispositivosquede##emmaiorênfaseà	O
-B-PRODUTODELEI>zona	O
-I-PRODUTODELEI>Rural	O
+B-PRODUTODELEI>Política	O
+I-PRODUTODELEI>familiar	O
 I-PRODUTODELEI>.	O
 
 estesentido,apresentePro##postadeEm##end##aàConstituiçãovisaareconheceraspeculiar##idadesruraisregionaiselocais,dispon##dosobreaatividaderuralcomoumaatividadepeculiar.	O
@@ -84,17 +84,17 @@ aladasSe##s##s##ões,emdede	O
 B-DATA>2011	O
 B-DATA>.	O
 
-B-PESSOA>Léo	B-PESSOA
-B-PESSOA>Humberto	B-PESSOA
-I-PESSOA>Reis	I-PESSOA
+B-PESSOA>Ministro	B-PESSOA
+B-PESSOA>Alfredo	B-PESSOA
+I-PESSOA>Federal	I-PESSOA
 I-PESSOA>5*957F9AC345*957F9AC345PR##OP##OS##TADEE##ME##N##DAÀCON##ST##IT##U##I##Ç##ÃO[UNK],	O
 E<B-DATA>	O
-019<B-DATA>	O
+013<B-DATA>	O
 
 DoSr.	O
 
-B-PESSOA>Carlos	B-PESSOA
-I-PESSOA>Reis	I-PESSOA
+B-PESSOA>José	B-PESSOA
+I-PESSOA>Pereira	I-PESSOA
 I-PESSOA>eoutros)Al##teraosartigos23,24,185e187eacrescentaoart.187-Aà	O
 B-FUNDAMENTO>Código	O
 I-FUNDAMENTO>Brasileira	O
@@ -104,10 +104,10 @@ A##R##LA##ME##NT##ARPA##RT##ID##O/UFAS##S##IN##AT##UR##A	O
 
 R##O##J##ET##ODEL##EI[UNK],	O
 E<B-DATA>	O
-017<B-DATA>(DoSr	O
+013<B-DATA>(DoSr	O
 
-B-PESSOA>Guilherme	B-PESSOA
-I-PESSOA>Machado	I-PESSOA
+B-PESSOA>Jefferson	B-PESSOA
+I-PESSOA>Prado	I-PESSOA
 I-PESSOA>)Dis##põesobreaobriga##tor##iedadedeascasasdeespetáculos,sho##ppingcente##rs,cinemas,parquestem##áticoseoutrosdisponibil##izar##em,aosseusfrequenta##dores,beb##ed##ourospúblicoscomáguagel##ada.	O
 
 CongressoNacionaldecre##ta:Art.[UNK]Ascasasdeespetáculos,sho##ppingcente##rs,cinemas,parquestem##áticoseoutrosficamobrigadosadisponibil##izar##em,aosseusfrequenta##dores,beb##ed##ourospúblicoscomáguagel##ada	O
@@ -116,25 +116,25 @@ ará##grafoúnico–Osbeb##ed##ourosaqueserefereestaLeidever##ãoserprópriospar
 
 rt.[UNK]Osinfra##toresàsdisposi##çõesdapresenteleisujeita##m-seàspenal##idadesestabelecidas	O
 elo<B-FUNDAMENTO>	O
-rtigos	O
+ecreto	O
 B-FUNDAMENTO><I-FUNDAMENTO>	O
-8	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-ei	O
+4	O
 I-FUNDAMENTO><I-FUNDAMENTO>	O
 UNK]	O
-<I-FUNDAMENTO><I-FUNDAMENTO>7.	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+rt	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+UNK]	O
+<I-FUNDAMENTO><I-FUNDAMENTO>11.	O
 7	O
-#4<I-FUNDAMENTO>	O
-<I-FUNDAMENTO>	O
+#1<I-FUNDAMENTO>	O
+UNK]<I-FUNDAMENTO>	O
 <I-FUNDAMENTO>	B-FUNDAMENTO
-0<I-FUNDAMENTO>	I-FUNDAMENTO
+9<I-FUNDAMENTO>	I-FUNDAMENTO
 <I-FUNDAMENTO>	I-FUNDAMENTO
-e<I-FUNDAMENTO>	I-FUNDAMENTO
+aneiro<I-FUNDAMENTO>	I-FUNDAMENTO
 ezembro<I-FUNDAMENTO>	I-FUNDAMENTO
-I-FUNDAMENTO>2006	I-FUNDAMENTO
+I-FUNDAMENTO>1997	I-FUNDAMENTO
 
 rt.[UNK]Estaleientraemvigornoprazodecentoeoitentadiasdesuapublicação.2J##US##TI##FI##CA##Ç##ÃOAnossapropos##içãotemoclaroobjetivodeprotegerasaúdedoconsumidor,reconhecida##menteapartemaisfracanasrelaçõesdeconsumo	O
 
@@ -149,25 +149,25 @@ omesteobjetivo,estamosprop##on##doqueascasasdeespetáculos,sho##ppingcente##rs,c
 eloacimaexposto,contam##oscomoapoiodosnobresCole##gasparaaaprovaçãodenossoprojetodelei.	O
 
 aladasSe##s##s##ões,emdede	O
-B-DATA>2012	O
+B-DATA>2017	O
 B-DATA>.	O
 
 B-PESSOA>Depu	B-PESSOA
-B-PESSOA>W##AS##IL##IN##F##K##N	B-PESSOA
+B-PESSOA>W##AS##TE##C##ER##DE##N	B-PESSOA
 I-PESSOA>VI##EI##S	I-PESSOA
-B-DATA>2009	B-DATA
+B-DATA>2010	B-DATA
 B-DATA>_89##8	O
 
 B-ORGANIZACAO>C##Âsessão##RA	B-ORGANIZACAO
-I-ORGANIZACAO>##MA##A	I-ORGANIZACAO
-I-ORGANIZACAO>DEF##UT##UT##OS	I-ORGANIZACAO
+I-ORGANIZACAO>##MA##M	I-ORGANIZACAO
+I-ORGANIZACAO>DEF##UT##OR##OS	I-ORGANIZACAO
 I-ORGANIZACAO>PR##O##J##ET##ODEL##EI[UNK],	O
 E<B-DATA>	O
-017<B-DATA>(DoSr	O
+018<B-DATA>(DoSr	O
 
-B-PESSOA>L##E##IS	B-PESSOA
-I-PESSOA>P##EA##S	I-PESSOA
-I-PESSOA>,	I-PESSOA
+B-PESSOA>MA##U##RO	B-PESSOA
+I-PESSOA>AM##EA##DO	I-PESSOA
+I-PESSOA>##HO	I-PESSOA
 I-PESSOA>Dis##põesobreodireitodoconsumidorasubstituiçãoimediatadeaparelhodetelefoniamóveldefe##itu##oso.	O
 
 CongressoNacionaldecre##ta:Art.[UNK]Édireitodoconsumidorasubstituiçãoimediatadeaparelhodetelefoniamóvelqueapresent##edefe##itodefuncionamento	O
@@ -181,16 +181,16 @@ rt.[UNK]Onãocumprimentodoestabelecidonestaleisujeitaosinfra##toresaopagamentode
 ará##grafoúnico.	O
 
 nãocumprimentododispostonestaLeisujeitaosinfra##toresàspenal##idadesdispos##tasno	O
-B-FUNDAMENTO>artigo	O
+B-FUNDAMENTO>§	O
+I-FUNDAMENTO>da	O
 I-FUNDAMENTO>do	O
-I-FUNDAMENTO>Brasileiro	O
-I-FUNDAMENTO>ao	O
-I-FUNDAMENTO>Vig##ic##U	O
+I-FUNDAMENTO>da	O
+I-FUNDAMENTO>R##B##U	O
 I-FUNDAMENTO>,semprejuízodeoutrascab##íveisdeacordocomalegislaçãoemvigor.	O
 
-B-ORGANIZACAO>C##Â##AD##RA	B-ORGANIZACAO
-I-ORGANIZACAO>E##s	I-ORGANIZACAO
-I-ORGANIZACAO>CO##P##UT##IP##OS	I-ORGANIZACAO
+B-ORGANIZACAO>C##Â##ER##RA	B-ORGANIZACAO
+I-ORGANIZACAO>E##AS	I-ORGANIZACAO
+I-ORGANIZACAO>DO##P##UT##IP##OS	I-ORGANIZACAO
 I-ORGANIZACAO>Art.[UNK]EstaleientraemvigornadatadesuapublicaçãoJ##US##TI##FI##CA##Ç##ÃONosdiasdehoje,ocelular,comoéusualmenteconhecidootelefonemóvel,éprodutoessencialparaocotidianodaspessoas,alémderepresentarimportanteinstrumentoparaasegurançadoscidadãoserealizaçãodeseuscontatos,particularmentenascidadesdeportegrandeemédio	O
 
 uautilizaçãonãoparadecrescer,assimcomo,lam##enta##velmente,asreclama##çõesdosconsumidoresarespeitodeaparelhosdefe##itu##ososedadificuldadeemteroproblemaresolvidopelosfornece##dores.	O
@@ -198,7 +198,7 @@ uautilizaçãonãoparadecrescer,assimcomo,lam##enta##velmente,asreclama##çõesd
 rata-sedeumproblemasocialdeenormealcance,deconhecimentodetodososmembrosdestaCasa,todostambémusuárioscont##uma##zesdafacilidadeprop##icia##dapelotelefonecelular,que,deresto,ag##ili##zaemmuitooexercíciodomandato.	O
 
 astemosquepensarprincipalmentenosmilhõesdecidadãosbrasileiros,principalmenteos40%(quarentaporcento)maiscare##ntes,paraosquaisocelularpré-pagoéaalternativaparalhesgarantirocontatocomseusamigosefamiliares,quandopresosaotrânsitoououtrasdificuldadestípicasdodia-a-dia,emaisfrequentementecomseus	O
-B-PESSOA>utilizado##res	O
+B-PESSOA>gesto##res	O
 B-PESSOA>.	O
 
 ãomenosimportante,ocelularéograndeimpulsion##adordosnegócios,sendodeutilidadevitalparaos	O
@@ -210,33 +210,33 @@ ortantasetaisrazões,nãopodeoconsumidorficaràmerc##êdaboavontadedosfornece##d
 
 B-ORGANIZACAO>##UN##Â##MA##RA	B-ORGANIZACAO
 I-ORGANIZACAO>DO##OS	I-ORGANIZACAO
-I-ORGANIZACAO>O##SO##IC##AD##OS	I-ORGANIZACAO
+I-ORGANIZACAO>PR##CI##ED##AD##OS	I-ORGANIZACAO
 I-ORGANIZACAO>Porissoquecontam##oscomaaprovaçãodosnobresPare##sdestaCasaparaaaprovaçãodesteiniciativa.	O
 
 aladasSe##s##s##ões,em	O
-B-DATA>29	O
+B-DATA>26	O
 I-DATA>-	O
-I-DATA>maio	O
-I-DATA>-	O
-I-DATA>2017	B-DATA
+I-DATA>março	O
+I-DATA>/	O
+I-DATA>2018	B-DATA
 I-DATA>.	I-DATA
 
 B-PESSOA>Depu	B-PESSOA
 B-PESSOA>H##U##I	B-PESSOA
-I-PESSOA>R##TO##L	I-PESSOA
+I-PESSOA>MA##TO##L	I-PESSOA
 I-PESSOA>PS##C-RJ	O
 
 R##O##J##ET##ODEL##EI[UNK],	O
 E<B-DATA>	O
-019<B-DATA>(DaSra	O
+011<B-DATA>(DaSra	O
 
-B-PESSOA>CA##RA##CE##N	B-PESSOA
-I-PESSOA>T##O##TE##L##I	I-PESSOA
+B-PESSOA>AB##RA##CE##Z	B-PESSOA
+I-PESSOA>B##AS##TE##L##I	I-PESSOA
 I-PESSOA>)Dis##põesobreaberturadelinhadecréditosubsidi##adaeminstituiçõesbanc##áriasparaatenderasvítimasdecal##ami##dadespúblicas.	O
 
 CongressoNacionaldecre##ta:Art.[UNK]Fica	O
 <B-ORGANIZACAO>	O
-overno	O
+anco	O
 B-ORGANIZACAO><I-ORGANIZACAO>	O
 ederal<I-ORGANIZACAO>autorizadoaabrirlinhadecréditosubsidi##adaeminstituiçõesbanc##áriasoficiaisatéolimitedeR$50.000,00(cinquentamilreais)porfamília,paraatenderasvítimasdecal##ami##dadespúblicas	O
 
@@ -246,7 +246,7 @@ rt.[UNK]	O
 <B-ORGANIZACAO>	O
 overno	O
 B-ORGANIZACAO><I-ORGANIZACAO>	O
-acional<I-ORGANIZACAO>regula##mentar##áopresenteprojetodeleinoprazode30dias,conta##dosdesuapublicação	B-ORGANIZACAO
+ederal<I-ORGANIZACAO>regula##mentar##áopresenteprojetodeleinoprazode30dias,conta##dosdesuapublicação	B-ORGANIZACAO
 
 rt.[UNK]Estaleientraemvigornadatadesuapublicação	O
 
@@ -257,7 +257,7 @@ I-PESSOA>Con##grande	O
 I-PESSOA>,arquiv##adonostermosdoart.105doRegimentoInter##no,equeestásendorea##presenta##da,devidoaoseuindis##cu##tívelcarátermer##itório.	O
 
 esse##stermos,econcorda##ndocomasargumenta##çõesfavoráveisapresentadaspelonobre	O
-B-PESSOA>Depu##dor	O
+B-PESSOA>nobresDeputado	O
 B-PESSOA>,pe##çovê##niaparaado##tá-lasintegral##mentenapresentepropos##ição.	O
 
 abeobservarquemuitossãoosmunicípiosquedecre##taramsituaçãodeemergência,bemcomoestadodecal##ami##dadepública,istoemvirtudedasench##entesprovoca##daspelosexcesso##sdechuvas,trazendoassimend##emia##seepidemia##sanimalehumanaàpopulaçãolocal.	O
@@ -266,10 +266,10 @@ ssim,asproduções,estabelecimento##sedemaisbensatingido##ssãocompletamenteperd
 
 governoestadualnormalmentefrag##ili##za##do,alémdenãopodercontarcomboapartedeseusrecursospróprios,queserãoutilizadosnareconstrução,reabilitaçãoedemaisprovid##ências,precisautilizardeparcela##ssignificativasdasver##bastransferida##spormeiodo	O
 B-PRODUTODELEI>fundo	O
+I-PRODUTODELEI>Minha	O
+I-PRODUTODELEI>A##ção	O
 I-PRODUTODELEI>do	O
-I-PRODUTODELEI>Promo##ção	O
-I-PRODUTODELEI>do	O
-I-PRODUTODELEI>DefesaCivil	O
+I-PRODUTODELEI>PA##ra	O
 I-PRODUTODELEI>noatendimentoàsvítimasdacal##ami##dadeouemergência.	O
 
 ssimsendo,omunicípioatingido,bemcomoapopulaçãolocaltendoperdidotodososseusbenscapazesdeatenderassuasnecessidadesvita##isbásicas,vê-sesemcondiçõesdequ##itardé##bito##santeriormentefirma##doscomórgãosouestabelecimento##sprivadosounão.	O
@@ -291,79 +291,79 @@ I-ORGANIZACAO>estaráincentiv##andoaeconomiadosmunicípiosatingido##sporcal##ami
 orsetratardeumapropostacomgrandealcancesocial,contam##oscomoapoiodosnobresparesparasuaaprovação.	O
 
 aladasSe##s##s##ões,emdede	O
-B-DATA>2012	O
+B-DATA>2017	O
 B-DATA>.	O
 
-B-PESSOA>Dra##gado	B-PESSOA
-B-PESSOA>I##RA##CE##TO	B-PESSOA
-I-PESSOA>T##OR##MA##L##LA	I-PESSOA
+B-PESSOA>depu##gado	B-PESSOA
+B-PESSOA>I##RA##CE##LA	B-PESSOA
+I-PESSOA>B##OR##TA##L##HA	I-PESSOA
 
 R##O##J##ET##ODEL##EI[UNK],	O
 E<B-DATA>	O
-013<B-DATA>(DoSr	O
+018<B-DATA>(DoSr	O
 
-B-PESSOA>Afonso	B-PESSOA
-I-PESSOA>Garcia	I-PESSOA
+B-PESSOA>George	B-PESSOA
+I-PESSOA>Mendes	I-PESSOA
 I-PESSOA>)Acre##s##centadispositivosà	O
-B-FUNDAMENTO>[UNK]	O
-o	O
+B-FUNDAMENTO><B-PRODUTODELEI>	O
+	O
 I-FUNDAMENTO><I-FUNDAMENTO>9.78	O
 #2	B-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
 e	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-3	I-FUNDAMENTO
+9	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-0	I-FUNDAMENTO
+	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
 	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
 etembro	O
 I-FUNDAMENTO><I-FUNDAMENTO>	O
-ezembro	O
+	O
 I-FUNDAMENTO><I-FUNDAMENTO>	O
-995<I-FUNDAMENTO>,que“regulaoprocessoadministrativonoâmbito	O
+000<I-FUNDAMENTO>,que“regulaoprocessoadministrativonoâmbito	O
 a<B-ORGANIZACAO>	O
 dministração	O
 B-ORGANIZACAO><I-ORGANIZACAO>	O
-e	O
+os	O
 I-ORGANIZACAO><I-ORGANIZACAO>	O
 ederal<I-ORGANIZACAO>”,paradisp##orsobreainforma##tizaçãodoprocessoadministrativo	B-ORGANIZACAO
 
 CongressoNacionaldecre##ta:Art.[UNK]	O
-s<B-FUNDAMENTO>Decreto	O
-	O
+s<B-FUNDAMENTO>Art	O
+#es	O
 B-FUNDAMENTO><I-FUNDAMENTO>	O
 	O
 <I-FUNDAMENTO>	O
 	O
+I-FUNDAMENTO>da	O
 I-FUNDAMENTO>art	O
-I-FUNDAMENTO>e	O
-I-FUNDAMENTO>,	B-FUNDAMENTO
-I-FUNDAMENTO>de	I-FUNDAMENTO
-I-FUNDAMENTO>,	I-FUNDAMENTO
-I-FUNDAMENTO>de	I-FUNDAMENTO
-I-FUNDAMENTO>,	I-FUNDAMENTO
+I-FUNDAMENTO>art	B-FUNDAMENTO
+I-FUNDAMENTO>.	I-FUNDAMENTO
 I-FUNDAMENTO>de	I-FUNDAMENTO
 I-FUNDAMENTO>e	I-FUNDAMENTO
 I-FUNDAMENTO>,	I-FUNDAMENTO
+I-FUNDAMENTO>e	I-FUNDAMENTO
+I-FUNDAMENTO>14	I-FUNDAMENTO
+I-FUNDAMENTO>Lei	I-FUNDAMENTO
 a	I-FUNDAMENTO
-I-FUNDAMENTO><I-FUNDAMENTO>°<I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
+I-FUNDAMENTO><I-FUNDAMENTO>.<I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
 	I-FUNDAMENTO
-#C43	I-FUNDAMENTO
+#950	I-FUNDAMENTO
 #4	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
+UNK]	I-FUNDAMENTO
+I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
+6	I-FUNDAMENTO
+I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
 	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-9	I-FUNDAMENTO
+6	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-	I-FUNDAMENTO
+etembro	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-9	I-FUNDAMENTO
-I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-e	I-FUNDAMENTO
-I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-<I-FUNDAMENTO><I-FUNDAMENTO>1999<I-FUNDAMENTO>,passamavigor##arcomasseguintesalterações	O
+<I-FUNDAMENTO><I-FUNDAMENTO>2000<I-FUNDAMENTO>,passamavigor##arcomasseguintesalterações	O
 
 	O
 
@@ -2300,13 +2300,13 @@ N##R)Art.[UNK]Estaleientraemvigornove##ntadiasapósadatadesuapublicação	O
 mdosmaisbem-sucedido##sexemplosdeeficáciaatribu##ívelàinforma##tizaçãodeprocessosfoiaadoçãodepre##g##õeseletrônicosparaaaquisiçãodebenspelaadministração.	O
 
 ampliaçãodacompeti##tividadeprovoca##dapelomaiornúmerodelic##itante##squeparticipamdospre##g##õeseletrônicos,emvirtudedepoderemfazê-loadistância,temresultadoemsignificativaeconomiaderecursospúblicos,conformedemonstra##mestatísticasdivulgada##spelo	O
-B-ORGANIZACAO>Ministro	O
-I-ORGANIZACAO>da	O
-I-ORGANIZACAO>Planee	O
-I-ORGANIZACAO>do	O
+B-ORGANIZACAO>Secretaria	O
+I-ORGANIZACAO>Nacional	O
+I-ORGANIZACAO>Plane##o	O
+I-ORGANIZACAO>##jamento	O
 I-ORGANIZACAO>Fis##jamento	O
-I-ORGANIZACAO>,	O
-I-ORGANIZACAO>Contas	O
+I-ORGANIZACAO>dos	O
+I-ORGANIZACAO>federal	O
 I-ORGANIZACAO>.	O
 
 ssimcomojáocorrenosprocessoslic##ita##tórios,épossívelvis##lu##mbra##routrasrotina##sdaadministraçãopúblicaquepoderiamserbeneficia##daspelainforma##tização,tantoemfavordoscidadãos,quenãomaisestariamsujeitosaenfrentarfil##asnasrepar##ti##ções,comoemfavordopróprioserviço,umavezqueosprocessosinforma##tizadospodemserconcebido##sparaque,emqualqueretapa,sejamemitido##salerta##semfacedeindíciosdeerrosouom##issões.	O
@@ -2319,36 +2319,36 @@ I-ORGANIZACAO>comoumtodopossaempenh##ar-senamodernizaçãodesuasatividades.	O
 
 essesentido,háqueseconsiderarqueosprocessosadministrativosnaesferafederalsubord##inam-seaodispostona	O
 B-FUNDAMENTO><I-PRODUTODELEI>	O
-o	O
-I-FUNDAMENTO><I-FUNDAMENTO>9##s78	O
+	O
+I-FUNDAMENTO><I-FUNDAMENTO>9e78	O
 #4	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-UNK]	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-m	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-9	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-6	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-ezembro	O
 I-FUNDAMENTO><I-FUNDAMENTO>	O
 	O
 I-FUNDAMENTO><I-FUNDAMENTO>	O
-990<I-FUNDAMENTO>,que“regulaoprocessoadministrativonoâmbito	B-FUNDAMENTO
+0	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+6	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+aneiro	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+aneiro	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+996<I-FUNDAMENTO>,que“regulaoprocessoadministrativonoâmbito	B-FUNDAMENTO
 a<B-ORGANIZACAO>	I-FUNDAMENTO
-sfera	I-FUNDAMENTO
+dminist	I-FUNDAMENTO
 B-ORGANIZACAO><I-ORGANIZACAO>	I-FUNDAMENTO
-os	I-FUNDAMENTO
+dministração	I-FUNDAMENTO
 I-ORGANIZACAO><I-ORGANIZACAO>	I-FUNDAMENTO
-dministração<I-ORGANIZACAO>”,cuida##ndo,dentreoutrasmatérias,dosdireitosassegu##radosaosadministrado##s	I-FUNDAMENTO
+eputados<I-ORGANIZACAO>”,cuida##ndo,dentreoutrasmatérias,dosdireitosassegu##radosaosadministrado##s	I-FUNDAMENTO
 
 f##igu##ra-seaconsel##há##vel,porconsegu##inte,queosprincípiosbásicosquedever##ãoreg##erainforma##tizaçãodeprocessosdaespéciesejamad##itadosàreferidaLei.	O
 
 on##vém,ainda,queaespecifica##çãodeparâmetroseexigênciasven##haasertratadaemregulamento,umavezqueadinâmicadaevoluçãotecnológicapodeimporfrequentesatual##izações.	O
 
 nteoexposto,subme##toàapre##ciaçãodemeusilust##resPare##sopresenteprojeto,esperandoquepossaviraseraperfeiço##adoaolongodesuatra##mit##açãoemere##ceraaprovaçãopelo	O
-B-ORGANIZACAO>Senado	O
+B-ORGANIZACAO>Ple	O
 I-ORGANIZACAO>Legislativo	O
 I-ORGANIZACAO>,contribuindoparaamodernizaçãodoserviçopúblico.	O
 
@@ -2358,54 +2358,54 @@ B-DATA>.	O
 
 B-PESSOA>Depu	B-PESSOA
 B-PESSOA>J##O##U##IG##DO	B-PESSOA
-I-PESSOA>J##AR##CI##O	I-PESSOA
-B-ORGANIZACAO>DE##C	B-ORGANIZACAO
+I-PESSOA>AM##AR##CI##O	I-PESSOA
+B-ORGANIZACAO>DO##M	B-ORGANIZACAO
 B-ORGANIZACAO>-	O
 B-LOCAL>Curitiba	B-LOCAL
 
 R##O##J##ET##ODEL##EIN°DE	O
-B-DATA>2017	O
+B-DATA>2013	O
 B-DATA>(DoSr.	O
 
-B-PESSOA>Fernando	B-PESSOA
-I-PESSOA>Muss##o	I-PESSOA
+B-PESSOA>Fábio	B-PESSOA
+I-PESSOA>Muss##os	I-PESSOA
 I-PESSOA>)“Criaafigurado	O
-B-PESSOA>Sol##tica##nte	O
+B-PESSOA>vig##tica##nte	O
 I-PESSOA>Militar	O
 I-PESSOA>def##unt##eiro	O
 I-PESSOA>emcaráternacional.”	O
 
 CongressoNacionaldecre##ta:Art##igo[UNK]-Fica	O
 <B-ORGANIZACAO>	O
-egisla	O
+enado	O
 B-ORGANIZACAO><I-ORGANIZACAO>	O
-úblico<I-ORGANIZACAO>autorizadoacriar,junto	O
+ederal<I-ORGANIZACAO>autorizadoacriar,junto	O
 o<B-ORGANIZACAO>	O
 istema	O
 B-ORGANIZACAO><I-ORGANIZACAO>	O
-ederal	O
+rasileiro	O
 I-ORGANIZACAO><I-ORGANIZACAO>	O
-egurança	B-ORGANIZACAO
+efesa	B-ORGANIZACAO
 I-ORGANIZACAO><I-ORGANIZACAO>	I-ORGANIZACAO
-efesa<I-ORGANIZACAO>,afigura	O
-o<B-PESSOA>##ila##ila	O
+ducação<I-ORGANIZACAO>,afigura	O
+o<B-PESSOA>fuz##ila	O
 #nte	O
 B-PESSOA><I-PESSOA>	O
-o	O
+mbiental	O
 I-PESSOA><I-PESSOA>Vol##idu	O
 #ária<I-PESSOA>emcaráternacional	B-ORGANIZACAO
 
 ará##grafoúnico-Oexercíciodaatividadede	O
 B-PESSOA>vigAge##nte	O
-I-PESSOA>–	O
-I-PESSOA>Vol##unt##ivo	O
+I-PESSOA>de	O
+I-PESSOA>Vol##unt##árias	O
 I-PESSOA>emâmbitonacionaléconsideradodeinteressepúblicorelevante,emcarátervolunt##árioenãoseráremun##erado;Art##igo[UNK]-Aatividade	O
 o<B-PESSOA>##ila##ila	O
 #nte	O
 B-PESSOA><I-PESSOA>	O
 e	B-PESSOA
-I-PESSOA><I-PESSOA>Volbomb	I-PESSOA
-#ivo<I-PESSOA>,quetrataestaLei,temcomoatribuiçõesimpediredenuncia##ratosdevan##dal##ismopraticado##scontraomeioambiente,emespecial,áreasverdescomoreservaseco##l##ógicas,públicasouprivadas,áreasdeproteçãoambiental,áreasderelevanteinteresseeco##l##ógico,estaçõeseco##l##ógicas,recursosh##íd##ricos,	I-PESSOA
+I-PESSOA><I-PESSOA>Vol##ário	I-PESSOA
+#árias<I-PESSOA>,quetrataestaLei,temcomoatribuiçõesimpediredenuncia##ratosdevan##dal##ismopraticado##scontraomeioambiente,emespecial,áreasverdescomoreservaseco##l##ógicas,públicasouprivadas,áreasdeproteçãoambiental,áreasderelevanteinteresseeco##l##ógico,estaçõeseco##l##ógicas,recursosh##íd##ricos,	I-PESSOA
 
 rt##igo[UNK]-	O
 <B-PESSOA>Vig##ila	O
@@ -2413,7 +2413,7 @@ rt##igo[UNK]-	O
 B-PESSOA><I-PESSOA>	O
 mbiental<I-PESSOA>seráovolunt##áriocred##enciado	B-PESSOA
 elo<B-ORGANIZACAO>	I-PESSOA
-inistério	O
+omissão	O
 B-ORGANIZACAO><I-ORGANIZACAO>	O
 rasileiro	O
 I-ORGANIZACAO><I-ORGANIZACAO>	O
@@ -2421,57 +2421,57 @@ atureza	O
 I-ORGANIZACAO><I-ORGANIZACAO>	B-ORGANIZACAO
 atureza	I-ORGANIZACAO
 I-ORGANIZACAO><I-ORGANIZACAO>	I-ORGANIZACAO
-#urais	I-ORGANIZACAO
+o	I-ORGANIZACAO
 I-ORGANIZACAO><I-ORGANIZACAO>	I-ORGANIZACAO
 	I-ORGANIZACAO
 I-ORGANIZACAO><I-ORGANIZACAO>CON##AM	I-ORGANIZACAO
-#AM<I-ORGANIZACAO>,quepromover##áges##tõesparaorientação,instruçãodecomovig##iaregarantiraproteção,oequilíbriodepaisagemedomeiofísicoambiente,bemcomoprogramaseaçõeseduca##tivasatraindoaconsci##ent##izaçãodasociedadenamelhoriadaqualidadeambiental	O
+#D<I-ORGANIZACAO>,quepromover##áges##tõesparaorientação,instruçãodecomovig##iaregarantiraproteção,oequilíbriodepaisagemedomeiofísicoambiente,bemcomoprogramaseaçõeseduca##tivasatraindoaconsci##ent##izaçãodasociedadenamelhoriadaqualidadeambiental	O
 
 ará##grafoúnico–Osprogramasdeeducaçãoambientaldever##ãotambémserpromovido##semescolas,colégio##s,entidadesciviseinstituiçõesprivadas,demodoagarantirmudançasnocomportamentoporpartedapopulação,aestimularatitudesdepreservação,conservaçãoerecuperaçãodomeioambienteurbano.	O
 
 rt##igo[UNK]-Poder##ãosercred##enciadoscomovolunt##ário	O
-elo<B-ORGANIZACAO>CON##AD	O
+elo<B-ORGANIZACAO>CON##ama	O
 #A<B-ORGANIZACAO>,qualquerpessoacivil##mentecapazeentidadescivisambiental##istasemformademu##tir##õesambientais,assimcomoprevê	O
 <B-FUNDAMENTO>	O
-orma	O
+onstituição	O
 B-FUNDAMENTO><I-FUNDAMENTO>	O
 e	O
 I-FUNDAMENTO><I-FUNDAMENTO>	O
 	O
 I-FUNDAMENTO><I-FUNDAMENTO>	B-ORGANIZACAO
-4	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-3	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-etembro	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-ezembro	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-979<I-FUNDAMENTO>e	O
-<B-FUNDAMENTO>Instru	O
-#tiva	O
-B-FUNDAMENTO><I-FUNDAMENTO>Instru	O
-#tiva	O
-I-FUNDAMENTO><I-FUNDAMENTO>	O
-e	O
+	O
 I-FUNDAMENTO><I-FUNDAMENTO>	O
 2	O
 I-FUNDAMENTO><I-FUNDAMENTO>	O
+gosto	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+ezembro	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+990<I-FUNDAMENTO>e	O
+<B-FUNDAMENTO>Instru	O
+#nda	O
+B-FUNDAMENTO><I-FUNDAMENTO>Instru	O
+#tiva	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
+7	O
+I-FUNDAMENTO><I-FUNDAMENTO>	O
 9	O
 I-FUNDAMENTO><I-FUNDAMENTO>	B-FUNDAMENTO
-6	I-FUNDAMENTO
+0	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
 	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-gosto	I-FUNDAMENTO
-I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
 etembro	I-FUNDAMENTO
+I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
+	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	O
-997<I-FUNDAMENTO>	O
+006<I-FUNDAMENTO>	O
 
 rt##igo[UNK]-AsdespesasdecorrentescomaexecuçãodestaLeicorrer##ãoporcontadasver##basdestinadas	O
 o<B-ORGANIZACAO>	O
-inistro	O
+rçamento	O
 B-ORGANIZACAO><I-ORGANIZACAO>	O
 as	O
 I-ORGANIZACAO><I-ORGANIZACAO>	O
@@ -2493,10 +2493,10 @@ I-FUNDAMENTO>,aoconsag##raroMeioAmbienteeco##log##icamenteequilib##radocomoumdir
 
 aragarantiraefe##tividadedessedireito,nossa	O
 B-FUNDAMENTO>Lei	O
-I-FUNDAMENTO>Cidad##ã	O
+I-FUNDAMENTO>Funda##mental	O
 I-FUNDAMENTO>determinacomoumadasobrigaçõesdo	O
 B-ORGANIZACAO>poder	O
-I-ORGANIZACAO>Federal	O
+I-ORGANIZACAO>Educação	O
 I-ORGANIZACAO>apromoçãodaEducaçãoAmbientalemtodososníveisdeensinoeaconsci##ent##izaçãopública.	O
 
 orém,Asociedade,comoumtodo,podeedevecolaborareparticipardetodasasatividadesdepreservaçãodosbenscomunsaopovo,eprincipalmenteaqueserefereàqualidadedevida.	O
@@ -2508,26 +2508,26 @@ aratanto,contam##oscomosnobrescolegasparaaaprovaçãodestapropos##ição.	O
 aladasSe##s##s##ões,	O
 B-DATA>11	O
 I-DATA>/	O
-I-DATA>maio	O
+I-DATA>março	O
 I-DATA>fevereiro	B-DATA
-I-DATA>2019	I-DATA
+I-DATA>2011	I-DATA
 I-DATA>.	I-DATA
 
-B-PESSOA>R##U##É##N##U##ME	B-PESSOA
-I-PESSOA>M##UN##EI##I	I-PESSOA
-B-PESSOA>DE	B-PESSOA
-I-PESSOA>PSDB	I-PESSOA
+B-PESSOA>H##U##M##Í##U##ME	B-PESSOA
+I-PESSOA>M##OS##CI##S	I-PESSOA
+B-PESSOA>Alfredo	B-PESSOA
+I-PESSOA>Deputado	I-PESSOA
 I-PESSOA>–	O
-B-ORGANIZACAO>DE##V	B-ORGANIZACAO
+B-ORGANIZACAO>AL##V	B-ORGANIZACAO
 B-ORGANIZACAO>/	O
-B-LOCAL>PSDB	B-LOCAL
+B-LOCAL>MG	B-LOCAL
 
 R##O##J##ET##ODEL##EI[UNK],	O
 E<B-DATA>	O
-012<B-DATA>(DaSra	O
+017<B-DATA>(DaSra	O
 
-B-PESSOA>Reb##ET##A	B-PESSOA
-I-PESSOA>Mendes	I-PESSOA
+B-PESSOA>Mar##il##y	B-PESSOA
+I-PESSOA>Moreira	I-PESSOA
 I-PESSOA>)Esta##belec##ereservadevagasparapessoasporta##dorasdedeficiênciaquantoàinscriçãoemconcursospúblicos.	O
 
 CongressoNacionaldecre##ta:Art.[UNK]Àspessoasporta##dorasdedeficiênciaéassegu##radoodireitodeseins##creveremconcursopúblicoparaprov##imentodecargocujasatribuiçõessejamcompat##íveiscomadeficiênciadequesãoporta##doras;parataispessoasserãoreserva##das20%dasvagasoferecida##snoconcurso	O
@@ -2536,23 +2536,23 @@ rt.[UNK]Ficarevo##gado	O
 <B-FUNDAMENTO>	O
 rtigo	O
 rt<I-FUNDAMENTO>	O
-7<I-FUNDAMENTO>	O
-rt<I-FUNDAMENTO>	O
-	B-FUNDAMENTO
-I-FUNDAMENTO>art	I-FUNDAMENTO
+o<I-FUNDAMENTO>	O
+a<I-FUNDAMENTO>	O
+UNK]	B-FUNDAMENTO
+I-FUNDAMENTO>[UNK]	I-FUNDAMENTO
 I-FUNDAMENTO>do	I-FUNDAMENTO
-I-FUNDAMENTO>lei<I-FUNDAMENTO>	I-FUNDAMENTO
-[UNK][UNK]<I-FUNDAMENTO>	I-FUNDAMENTO
+I-FUNDAMENTO>do<I-FUNDAMENTO>	I-FUNDAMENTO
+9[UNK]<I-FUNDAMENTO>	I-FUNDAMENTO
 .	I-FUNDAMENTO
 50	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-	I-FUNDAMENTO
-I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-9	I-FUNDAMENTO
+a	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
 6	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-0	I-FUNDAMENTO
+9	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
-ulho	I-FUNDAMENTO
+9	I-FUNDAMENTO
+I-FUNDAMENTO><I-FUNDAMENTO>	I-FUNDAMENTO
+etembro	I-FUNDAMENTO
 I-FUNDAMENTO><I-FUNDAMENTO>	O
