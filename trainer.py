@@ -13,6 +13,7 @@ from torch.utils.data import DataLoader, RandomSampler
 from tqdm import tqdm
 
 from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM, BertModel, BertTokenizer,  AutoTokenizer, AutoModelForMaskedLM
+from transformers import RobertaTokenizer, RobertaForMaskedLM
 from data import Data
 
 label_map = {
@@ -146,8 +147,8 @@ if True:
         print("Checkpoints will be saved to: ", CKPT_DIR)
 
     print("Initializing transformer model and tokenizer...")
-    model = XLMRobertaForMaskedLM.from_pretrained('josu/roberta-pt-br', return_dict=True).to(device)
-    tokenizer = XLMRobertaTokenizer.from_pretrained('josu/roberta-pt-br', do_lower_case=False)
+    model = RobertaForMaskedLM.from_pretrained('josu/roberta-pt-br', return_dict=True).to(device)
+    tokenizer = RobertaTokenizer.from_pretrained('josu/roberta-pt-br', do_lower_case=False)
 
     # model = AutoModelForMaskedLM.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', return_dict=True).to(device)
     # tokenizer = AutoTokenizer.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', do_lower_case=False)
