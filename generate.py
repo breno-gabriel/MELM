@@ -189,13 +189,13 @@ if True:
     config = {}
     config["load_bert"] = args.load_bert
 
-    entity_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
-    o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
-    tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
+    # entity_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
+    # o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
+    # tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
 
-    # entity_model = AutoModelForMaskedLM.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', return_dict=True).to(device)
-    # o_model = AutoModelForMaskedLM.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', return_dict=True).to(device)
-    # tokenizer = AutoTokenizer.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', do_lower_case=False)
+    entity_model = AutoModelForMaskedLM.from_pretrained('PL_Corpus_byCategories_conll', return_dict=True).to(device)
+    o_model = AutoModelForMaskedLM.from_pretrained('PL_Corpus_byCategories_conll', return_dict=True).to(device)
+    tokenizer = AutoTokenizer.from_pretrained('PL_Corpus_byCategories_conll', do_lower_case=False)
     
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<Pt>'], special_tokens=True)

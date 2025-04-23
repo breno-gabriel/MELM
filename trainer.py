@@ -146,8 +146,8 @@ if True:
         print("Checkpoints will be saved to: ", CKPT_DIR)
 
     print("Initializing transformer model and tokenizer...")
-    model = XLMRobertaForMaskedLM.from_pretrained('xlm-roberta-base', return_dict=True).to(device)
-    tokenizer = XLMRobertaTokenizer.from_pretrained('xlm-roberta-base', do_lower_case=False)
+    model = AutoModelForMaskedLM.from_pretrained('PL_Corpus_byCategories_conll', return_dict=True).to(device)
+    tokenizer = AutoTokenizer.from_pretrained('PL_Corpus_byCategories_conll', do_lower_case=False)
 
     # model = AutoModelForMaskedLM.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', return_dict=True).to(device)
     # tokenizer = AutoTokenizer.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', do_lower_case=False)
@@ -163,6 +163,24 @@ if True:
         special_tokens=True
     )
     model.resize_token_embeddings(len(tokenizer))
+
+    # Pega o dicionário de vocabulário
+    vocab = tokenizer.get_vocab()
+
+    # Inverte o dicionário para ter id -> token
+    id_to_token = {id_: token for token, id_ in vocab.items()}
+
+    # Ordena pelo ID (opcional, só para ficar legível)
+    sorted_vocab = dict(sorted(id_to_token.items()))
+
+    # Imprime os tokens
+    # for id_, token in sorted_vocab.items():
+    #     print(f"{id_}: {token}")
+
+    with open("vocabulario.txt", "w", encoding="utf-8") as f:
+        for id_, token in sorted_vocab.items():
+            f.write(f"{id_}: {token}\n")
+
 
     with torch.no_grad():
         # label tokens
