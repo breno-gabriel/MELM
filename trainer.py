@@ -146,8 +146,8 @@ if True:
         print("Checkpoints will be saved to: ", CKPT_DIR)
 
     print("Initializing transformer model and tokenizer...")
-    model = AutoModelForMaskedLM.from_pretrained('PL_Corpus_byCategories_conll', return_dict=True).to(device)
-    tokenizer = AutoTokenizer.from_pretrained('PL_Corpus_byCategories_conll', do_lower_case=False)
+    model = AutoModelForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
+    tokenizer = AutoTokenizer.from_pretrained('eduagarcia/RoBERTaLexPT-base', do_lower_case=False)
 
     # model = AutoModelForMaskedLM.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', return_dict=True).to(device)
     # tokenizer = AutoTokenizer.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', do_lower_case=False)
