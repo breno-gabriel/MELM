@@ -193,7 +193,7 @@ if True:
 
     entity_model = RobertaForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
     o_model = RobertaForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
-    tokenizer = RobertaTokenizerFast.from_pretrained('eduagarcia/RoBERTaLexPT-base', do_lower_case=False)
+    tokenizer = RobertaTokenizerFast.from_pretrained('eduagarcia/RoBERTaLexPT-base', do_lower_case=False, add_prefix_space=True)
     
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<Pt>'], special_tokens=True)
