@@ -7,9 +7,7 @@ import argparse
 import os
 
 from torch.utils.data import DataLoader
-
-from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM, BertModel, BertTokenizer,  AutoTokenizer, AutoModelForMaskedLM
-
+from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM, BertModel, BertTokenizer,  AutoTokenizer, AutoModelForMaskedLM, RobertaTokenizerFast, RobertaForMaskedLM
 from data_gen import Data
 
 label_map = {
@@ -193,9 +191,9 @@ if True:
     # o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
     # tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
 
-    entity_model = AutoModelForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
-    o_model = AutoModelForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
-    tokenizer = AutoTokenizer.from_pretrained('eduagarcia/RoBERTaLexPT-base', do_lower_case=False)
+    entity_model = RobertaForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
+    o_model = RobertaForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
+    tokenizer = RobertaTokenizerFast.from_pretrained('eduagarcia/RoBERTaLexPT-base', do_lower_case=False)
     
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<Pt>'], special_tokens=True)
