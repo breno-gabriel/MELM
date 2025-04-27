@@ -12,7 +12,7 @@ import os, sys
 from torch.utils.data import DataLoader, RandomSampler
 from tqdm import tqdm
 
-from transformers import RobertaForMaskedLM, RobertaTokenizer
+from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer
 from data import Data
 
 label_map = {"PAD":0, "O": 1, "B-PER":2, "I-PER":3, "B-ORG":4, "I-ORG":5,
@@ -140,8 +140,10 @@ if True:
         print("Checkpoints will be saved to: ", CKPT_DIR)
 
     print("Initializing transformer model and tokenizer...")
-    model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
-    tokenizer = RobertaTokenizer.from_pretrained('FacebookAI/roberta-base', do_lower_case=False)
+
+    model = AutoModelForMaskedLM.from_pretrained("microsoft/mdeberta-v3-base").to(device)
+    # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
+    tokenizer = AutoTokenizer.from_pretrained('microsoft/mdeberta-v3-base', do_lower_case=False)
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
