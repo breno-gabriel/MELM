@@ -12,7 +12,7 @@ import os, sys
 from torch.utils.data import DataLoader, RandomSampler
 from tqdm import tqdm
 
-from transformers import AlbertTokenizer, AlbertModel
+from transformers import AlbertTokenizer, AlbertModel, AlbertForMaskedLM
 from data import Data
 
 label_map = {
@@ -150,7 +150,7 @@ if True:
     # tokenizer = RobertaTokenizerFast.from_pretrained('eduagarcia/RoBERTaLexPT-base', do_lower_case=False, add_prefix_space=True)
 
     tokenizer = AlbertTokenizer.from_pretrained("albert/albert-base-v2")
-    model = AlbertModel.from_pretrained("albert/albert-base-v2")
+    model = AlbertForMaskedLM.from_pretrained("albert/albert-base-v2")
 
     # model = AutoModelForMaskedLM.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', return_dict=True).to(device)
     # tokenizer = AutoTokenizer.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', do_lower_case=False)
