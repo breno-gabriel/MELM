@@ -41,6 +41,10 @@ def train(model, iterator, optimizer, clip, grad_acc):
 
         batch_size = label_ids.shape[0]
 
+        masked_ids = masked_ids.to(device)
+        input_mask = input_mask.to(device)
+        input_ids = input_ids.to(device)
+
         outputs = model(masked_ids, input_mask, labels=input_ids, output_hidden_states=True)
         loss = outputs.loss
         logits = outputs.logits
@@ -119,7 +123,6 @@ args = parser.parse_args()
 if True:
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    device = "cpu"
     print("Running on ", device)
 
     SEED = args.seed
