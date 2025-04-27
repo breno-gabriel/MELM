@@ -8,7 +8,7 @@ import os
 
 from torch.utils.data import DataLoader
 
-from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM
+from transformers import RobertaForMaskedLM, RobertaTokenizer
 
 from data_gen import Data
 
@@ -255,9 +255,13 @@ if True:
     config = {}
     config["load_bert"] = args.load_bert
 
-    entity_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
-    o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
-    tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
+    # entity_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
+    # o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
+    # tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
+
+    o_model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
+    entity_model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
+    tokenizer = RobertaTokenizer.from_pretrained('FacebookAI/roberta-base', do_lower_case=False)
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
