@@ -12,7 +12,7 @@ import os, sys
 from torch.utils.data import DataLoader, RandomSampler
 from tqdm import tqdm
 
-from transformers import XLMRobertaTokenizer, XLMRobertaForMaskedLM, BertModel, BertTokenizer,  AutoTokenizer, AutoModelForMaskedLM, RobertaTokenizerFast, RobertaForMaskedLM
+from transformers import AlbertTokenizer, AlbertModel
 from data import Data
 
 label_map = {
@@ -146,8 +146,11 @@ if True:
         print("Checkpoints will be saved to: ", CKPT_DIR)
 
     print("Initializing transformer model and tokenizer...")
-    model = RobertaForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
-    tokenizer = RobertaTokenizerFast.from_pretrained('eduagarcia/RoBERTaLexPT-base', do_lower_case=False, add_prefix_space=True)
+    # model = RobertaForMaskedLM.from_pretrained('eduagarcia/RoBERTaLexPT-base', return_dict=True).to(device)
+    # tokenizer = RobertaTokenizerFast.from_pretrained('eduagarcia/RoBERTaLexPT-base', do_lower_case=False, add_prefix_space=True)
+
+    tokenizer = AlbertTokenizer.from_pretrained("albert/albert-base-v2")
+    model = AlbertModel.from_pretrained("albert/albert-base-v2")
 
     # model = AutoModelForMaskedLM.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', return_dict=True).to(device)
     # tokenizer = AutoTokenizer.from_pretrained('juridics/bertlaw-base-portuguese-sts-scale', do_lower_case=False)
@@ -182,25 +185,26 @@ if True:
             f.write(f"{id_}: {token}\n")
 
 
-    with torch.no_grad():
-        # label tokens
-        model.roberta.embeddings.word_embeddings.weight[-1, :] += model.roberta.embeddings.word_embeddings.weight[1796, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-2, :] += model.roberta.embeddings.word_embeddings.weight[450, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-3, :] += model.roberta.embeddings.word_embeddings.weight[450, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-4, :] += model.roberta.embeddings.word_embeddings.weight[1048, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-5, :] += model.roberta.embeddings.word_embeddings.weight[1048, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-6, :] += model.roberta.embeddings.word_embeddings.weight[921, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-7, :] += model.roberta.embeddings.word_embeddings.weight[921, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-8, :] += model.roberta.embeddings.word_embeddings.weight[264, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-9, :] += model.roberta.embeddings.word_embeddings.weight[264, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-10, :] += model.roberta.embeddings.word_embeddings.weight[96, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-11, :] += model.roberta.embeddings.word_embeddings.weight[96, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[5832, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-13, :] += model.roberta.embeddings.word_embeddings.weight[5832, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-14, :] += model.roberta.embeddings.word_embeddings.weight[399, :].clone()
-        model.roberta.embeddings.word_embeddings.weight[-15, :] += model.roberta.embeddings.word_embeddings.weight[399, :].clone()
-        # language markers
-        model.roberta.embeddings.word_embeddings.weight[-16, :] += model.roberta.embeddings.word_embeddings.weight[46158, :].clone()
+    # with torch.no_grad():
+
+    #     # label tokens
+    #     model.roberta.embeddings.word_embeddings.weight[-1, :] += model.roberta.embeddings.word_embeddings.weight[1796, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-2, :] += model.roberta.embeddings.word_embeddings.weight[450, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-3, :] += model.roberta.embeddings.word_embeddings.weight[450, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-4, :] += model.roberta.embeddings.word_embeddings.weight[1048, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-5, :] += model.roberta.embeddings.word_embeddings.weight[1048, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-6, :] += model.roberta.embeddings.word_embeddings.weight[921, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-7, :] += model.roberta.embeddings.word_embeddings.weight[921, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-8, :] += model.roberta.embeddings.word_embeddings.weight[264, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-9, :] += model.roberta.embeddings.word_embeddings.weight[264, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-10, :] += model.roberta.embeddings.word_embeddings.weight[96, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-11, :] += model.roberta.embeddings.word_embeddings.weight[96, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[5832, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-13, :] += model.roberta.embeddings.word_embeddings.weight[5832, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-14, :] += model.roberta.embeddings.word_embeddings.weight[399, :].clone()
+    #     model.roberta.embeddings.word_embeddings.weight[-15, :] += model.roberta.embeddings.word_embeddings.weight[399, :].clone()
+    #     # language markers
+    #     model.roberta.embeddings.word_embeddings.weight[-16, :] += model.roberta.embeddings.word_embeddings.weight[46158, :].clone()
         # model.roberta.embeddings.word_embeddings.weight[-11, :] += model.roberta.embeddings.word_embeddings.weight[151010, :].clone()
         # model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[89855, :].clone()
         # model.roberta.embeddings.word_embeddings.weight[-13, :] += model.roberta.embeddings.word_embeddings.weight[14941, :].clone()
