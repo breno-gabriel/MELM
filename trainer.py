@@ -168,6 +168,25 @@ if True:
     #     model.roberta.embeddings.word_embeddings.weight[-12, :] += model.roberta.embeddings.word_embeddings.weight[89855, :].clone()
     #     model.roberta.embeddings.word_embeddings.weight[-13, :] += model.roberta.embeddings.word_embeddings.weight[14941, :].clone()
 
+
+    # Pega o dicionário de vocabulário
+    vocab = tokenizer.get_vocab()
+
+    # Inverte o dicionário para ter id -> token
+    id_to_token = {id_: token for token, id_ in vocab.items()}
+
+    # Ordena pelo ID (opcional, só para ficar legível)
+    sorted_vocab = dict(sorted(id_to_token.items()))
+
+    # Imprime os tokens
+    # for id_, token in sorted_vocab.items():
+    #     print(f"{id_}: {token}")
+
+    with open("vocabulario.txt", "w", encoding="utf-8") as f:
+        for id_, token in sorted_vocab.items():
+            f.write(f"{id_}: {token}\n")
+
+
     print("Loading file from: ", FILE_DIR)
     train_dataset, valid_dataset = tuple(Data(tokenizer, BSIZE, label_map, FILE_DIR, MASK_RATE).datasets)
 
