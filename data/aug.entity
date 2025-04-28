@@ -1,35 +1,35 @@
-	B-ORG
+==	B-ORG
 rejects	O
-when	B-MISC
+AW	B-MISC
 call	O
 to	O
 boycott	O
-like	B-MISC
+▁216	B-MISC
 lamb	O
 .	O
 
-person	B-PER
-person<I-PER>	I-PER
+ejo	B-PER
+Black▁Fuen	I-PER
 
-BRUSSEO	B-LOC
+KriminescueS	B-LOC
 1996-08-22	O
 
 The	O
-animal	B-ORG
-an	I-ORG
+send	B-ORG
+rv	I-ORG
 said	O
 on	O
 Thursday	O
 it	O
 disagreed	O
 with	O
-giving	B-MISC
+.7	B-MISC
 advice	O
 to	O
 consumers	O
 to	O
 shun	O
-and	B-MISC
+rvBritish	B-MISC
 lamb	O
 until	O
 scientists	O
