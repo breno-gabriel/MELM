@@ -259,9 +259,9 @@ if True:
     # o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
     # tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
 
-    o_model = AutoModelForMaskedLM.from_pretrained('microsoft/mdeberta-v3-base', return_dict=True).to(device)
-    entity_model = AutoModelForMaskedLM.from_pretrained('microsoft/mdeberta-v3-base', return_dict=True).to(device)
-    tokenizer = AutoTokenizer.from_pretrained('microsoft/mdeberta-v3-base', do_lower_case=False)
+    o_model = AutoModelForMaskedLM.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', return_dict=True).to(device)
+    entity_model = AutoModelForMaskedLM.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', return_dict=True).to(device)
+    tokenizer = AutoTokenizer.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', do_lower_case=False)
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)

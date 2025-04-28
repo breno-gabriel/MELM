@@ -141,9 +141,9 @@ if True:
 
     print("Initializing transformer model and tokenizer...")
 
-    model = AutoModelForMaskedLM.from_pretrained("microsoft/mdeberta-v3-base").to(device)
+    model = AutoModelForMaskedLM.from_pretrained("thegoodfellas/tgf-xlm-roberta-base-pt-br").to(device)
     # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
-    tokenizer = AutoTokenizer.from_pretrained('microsoft/mdeberta-v3-base', do_lower_case=False)
+    tokenizer = AutoTokenizer.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', do_lower_case=False)
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
