@@ -8,7 +8,7 @@ import os
 
 from torch.utils.data import DataLoader
 
-from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer, XLMRobertaForMaskedLM, XLMRobertaTokenizer
+from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer, XLMRobertaForMaskedLM, XLMRobertaTokenizer, AutoModelForTokenClassification
 
 from data_gen import Data
 
@@ -259,9 +259,9 @@ if True:
     # o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
     # tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
 
-    o_model = AutoModelForMaskedLM.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', return_dict=True).to(device)
-    entity_model = AutoModelForMaskedLM.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', return_dict=True).to(device)
-    tokenizer = AutoTokenizer.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', do_lower_case=False)
+    o_model = AutoModelForTokenClassification.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', return_dict=True).to(device)
+    entity_model = AutoModelForTokenClassification.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', return_dict=True).to(device)
+    tokenizer = AutoTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)

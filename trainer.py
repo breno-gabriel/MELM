@@ -12,7 +12,7 @@ import os, sys
 from torch.utils.data import DataLoader, RandomSampler
 from tqdm import tqdm
 
-from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer
+from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer, AutoModelForTokenClassification
 from data import Data
 
 label_map = {"PAD":0, "O": 1, "B-PER":2, "I-PER":3, "B-ORG":4, "I-ORG":5,
@@ -141,9 +141,9 @@ if True:
 
     print("Initializing transformer model and tokenizer...")
 
-    model = AutoModelForMaskedLM.from_pretrained("thegoodfellas/tgf-xlm-roberta-base-pt-br").to(device)
+    model = AutoModelForTokenClassification.from_pretrained("Luciano/xlm-roberta-large-finetuned-lener-br").to(device)
     # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
-    tokenizer = AutoTokenizer.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', do_lower_case=False)
+    tokenizer = AutoTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
