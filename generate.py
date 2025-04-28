@@ -259,8 +259,8 @@ if True:
     # o_model = XLMRobertaForMaskedLM.from_pretrained(config["load_bert"], return_dict=True).to(device)
     # tokenizer = XLMRobertaTokenizer.from_pretrained(config["load_bert"], do_lower_case=False)
 
-    o_model = AutoModelForTokenClassification.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', return_dict=True).to(device)
-    entity_model = AutoModelForTokenClassification.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', return_dict=True).to(device)
+    o_model = AutoModelForMaskedLM.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', return_dict=True).to(device)
+    entity_model = AutoModelForMaskedLM.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', return_dict=True).to(device)
     tokenizer = AutoTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
 
     # Add entity labels as special tokens

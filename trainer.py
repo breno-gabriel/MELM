@@ -141,7 +141,7 @@ if True:
 
     print("Initializing transformer model and tokenizer...")
 
-    model = AutoModelForTokenClassification.from_pretrained("Luciano/xlm-roberta-large-finetuned-lener-br").to(device)
+    model = AutoModelForMaskedLM.from_pretrained("Luciano/xlm-roberta-large-finetuned-lener-br").to(device)
     # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
     tokenizer = AutoTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
 
