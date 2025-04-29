@@ -107,7 +107,7 @@ parser.add_argument('--file_dir', required=True, type=str)
 parser.add_argument('--ckpt_dir', required=True, type=str)
 
 parser.add_argument('--seed', type=int, default=42)
-parser.add_argument('--bsize', type=int, default=12)
+parser.add_argument('--bsize', type=int, default=6)
 parser.add_argument('--n_epochs', type=int, default=20)
 parser.add_argument('--clip', type=float, default=1.0)
 parser.add_argument('--lr', type=float, default=1e-5)
