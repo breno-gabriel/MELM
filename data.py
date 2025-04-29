@@ -52,9 +52,6 @@ class MultiLabelTextProcessor():
                     text.append('<' + row[-1] + '>')
                     label.append('O')
             elif text != []:
-                print("textos e rótulos")
-                print(text)
-                print(label)
                 examples.append(
                     InputExample(guid=guid, text=text, label=label))
                 guid += 1
@@ -87,8 +84,6 @@ class Data():
         for dsplit in ['train', 'dev']:
             print(f"Generating dataloader for {dsplit}")
             examples = processor.get_examples(dsplit)
-            print("Array de exemples")
-            print(examples)
             features = self.convert_examples_to_features(examples, self.tokenizer, is_train=(dsplit == 'train'))
             input_ids = torch.tensor([f.input_ids for f in features], dtype=torch.long)
             input_mask = torch.tensor([f.input_mask for f in features], dtype=torch.long)
@@ -136,8 +131,10 @@ class Data():
                 # Mask named entities in sentence, and generate entity mask
                 if label != "O":
                     same_class_labels = ['B-'+label[2:], 'I-'+label[2:]]
-                    diff_class_labels = [l for l in ['O', 'B-PER', 'I-PER', 'B-LOC', 'I-LOC', 'B-ORG', 'I-ORG', 'B-MISC', 'I-MISC'] if l not in same_class_labels]
-                    assert len(diff_class_labels) == 7
+                    diff_class_labels = [l for l in ['O', 'B-DATA', 'I-DATA', 'B-EVENTO', 'I-EVENTO', 'B-ORGANIZACAO',
+                                                      'I-ORGANIZACAO', 'B-LOCA', 'I-LOCAL', 'B-FUNDAMENTO', 'I-FUNDAMENTO',
+                                                      'B-PESSOA', 'I-PESSOA', 'B-PRODUTODELEI', 'I-PRODUTODELEI'] if l not in same_class_labels]
+                    # assert len(diff_class_labels) == 13
 
                     for count in range(subword_len[i]):
                         if subword_start[i]+count >= max_seq_length:
@@ -188,6 +185,8 @@ class Data():
 
     def label_to_token_id(self,label):
         label = '<' + label + '>'
-        assert label in ['<O>', '<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>']
+        assert label in ['<O>', '<B-DATA>', '<I-DATA>', '<B-EVENTO>', '<I-EVENTO>', '<B-LOCAL>', '<I-LOCAL>', '<B-FUNDAMENTO>', 
+                         '<I-FUNDAMENTO>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', '<B-PESSOA>', '<I-PESSOA>', '<B-PRODUTODELEI>', 
+                         '<I-PRODUTODELEI>']
 
         return self.tokenizer.convert_tokens_to_ids(label)
