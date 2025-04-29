@@ -15,8 +15,13 @@ from tqdm import tqdm
 from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer, AutoModelForTokenClassification
 from data import Data
 
-label_map = {"PAD":0, "O": 1, "B-PER":2, "I-PER":3, "B-ORG":4, "I-ORG":5,
-             "B-LOC":6, "I-LOC":7, "B-MISC":8, "I-MISC":9}
+label_map = {
+    "PAD": 0, "O": 1, "B-PESSOA": 2, "I-PESSOA": 3, 
+    "B-ORGANIZACAO": 4, "I-ORGANIZACAO": 5, "B-PRODUTODELEI": 6, 
+    "I-PRODUTODELEI": 7, "B-DATA": 8, "I-DATA": 9, "B-EVENTO": 10, 
+    "I-EVENTO": 11, "B-FUNDAMENTO": 12, "I-FUNDAMENTO": 13, 
+    "B-LOCAL": 14, "I-LOCAL": 15
+}
 
 def train(model, iterator, optimizer, clip, grad_acc):
 
