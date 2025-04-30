@@ -150,9 +150,9 @@ if True:
     # # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
     # tokenizer = XLMRobertaTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
 
-    model = AutoModelForMaskedLM.from_pretrained("joelniklaus/legal-portuguese-roberta-base").to(device)
+    model = AutoModelForMaskedLM.from_pretrained("Luciano/xlm-roberta-large-finetuned-lener-br").to(device)
     # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
-    tokenizer = AutoTokenizer.from_pretrained('joelniklaus/legal-portuguese-roberta-base', do_lower_case=False)
+    tokenizer = AutoTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<Pt>'], special_tokens=True)
