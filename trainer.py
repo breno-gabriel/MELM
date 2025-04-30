@@ -12,7 +12,7 @@ import os, sys
 from torch.utils.data import DataLoader, RandomSampler
 from tqdm import tqdm
 
-from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer, AutoModelForTokenClassification
+from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer, AutoModelForTokenClassification, XLMRobertaForMaskedLM, XLMRobertaTokenizer
 from data import Data
 
 label_map = {
@@ -146,18 +146,22 @@ if True:
 
     print("Initializing transformer model and tokenizer...")
 
+    # model = XLMRobertaForMaskedLM.from_pretrained("Luciano/xlm-roberta-large-finetuned-lener-br").to(device)
+    # # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
+    # tokenizer = XLMRobertaTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
+
     model = AutoModelForMaskedLM.from_pretrained("Luciano/xlm-roberta-large-finetuned-lener-br").to(device)
     # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
     tokenizer = AutoTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
 
     # Add entity labels as special tokens
-    tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
+    tokenizer.add_tokens(['<Pt>'], special_tokens=True)
     tokenizer.add_tokens(['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>','<O>'],
                          special_tokens=True)
     model.resize_token_embeddings(len(tokenizer))
 
-    # with torch.no_grad():
-    #     # label tokens
+    # with torch.no_grad():'
+    #     # label tokens'
     #     model.roberta.embeddings.word_embeddings.weight[-1, :] += model.roberta.embeddings.word_embeddings.weight[1810, :].clone()
     #     model.roberta.embeddings.word_embeddings.weight[-2, :] += model.roberta.embeddings.word_embeddings.weight[27060, :].clone()
     #     model.roberta.embeddings.word_embeddings.weight[-3, :] += model.roberta.embeddings.word_embeddings.weight[27060, :].clone()
