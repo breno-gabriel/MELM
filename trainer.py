@@ -12,11 +12,16 @@ import os, sys
 from torch.utils.data import DataLoader, RandomSampler
 from tqdm import tqdm
 
-from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer
+from transformers import RobertaForMaskedLM, RobertaTokenizer, AutoModelForMaskedLM, AutoTokenizer, AutoModelForTokenClassification, XLMRobertaForMaskedLM, XLMRobertaTokenizer
 from data import Data
 
-label_map = {"PAD":0, "O": 1, "B-PER":2, "I-PER":3, "B-ORG":4, "I-ORG":5,
-             "B-LOC":6, "I-LOC":7, "B-MISC":8, "I-MISC":9}
+label_map = {
+    "PAD": 0, "O": 1, "B-PESSOA": 2, "I-PESSOA": 3, 
+    "B-ORGANIZACAO": 4, "I-ORGANIZACAO": 5, "B-PRODUTODELEI": 6, 
+    "I-PRODUTODELEI": 7, "B-DATA": 8, "I-DATA": 9, "B-EVENTO": 10, 
+    "I-EVENTO": 11, "B-FUNDAMENTO": 12, "I-FUNDAMENTO": 13, 
+    "B-LOCAL": 14, "I-LOCAL": 15
+}
 
 def train(model, iterator, optimizer, clip, grad_acc):
 
@@ -102,7 +107,7 @@ parser.add_argument('--file_dir', required=True, type=str)
 parser.add_argument('--ckpt_dir', required=True, type=str)
 
 parser.add_argument('--seed', type=int, default=42)
-parser.add_argument('--bsize', type=int, default=12)
+parser.add_argument('--bsize', type=int, default=6)
 parser.add_argument('--n_epochs', type=int, default=20)
 parser.add_argument('--clip', type=float, default=1.0)
 parser.add_argument('--lr', type=float, default=1e-5)
@@ -141,18 +146,26 @@ if True:
 
     print("Initializing transformer model and tokenizer...")
 
+    # model = XLMRobertaForMaskedLM.from_pretrained("Luciano/xlm-roberta-large-finetuned-lener-br").to(device)
+    # # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
+    # tokenizer = XLMRobertaTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
+
+    # model = AutoModelForMaskedLM.from_pretrained("Luciano/xlm-roberta-large-finetuned-lener-br").to(device)
+    # # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
+    # tokenizer = AutoTokenizer.from_pretrained('Luciano/xlm-roberta-large-finetuned-lener-br', do_lower_case=False)
+
     model = AutoModelForMaskedLM.from_pretrained("thegoodfellas/tgf-xlm-roberta-base-pt-br").to(device)
     # model = RobertaForMaskedLM.from_pretrained('FacebookAI/roberta-base', return_dict=True).to(device)
     tokenizer = AutoTokenizer.from_pretrained('thegoodfellas/tgf-xlm-roberta-base-pt-br', do_lower_case=False)
 
     # Add entity labels as special tokens
-    tokenizer.add_tokens(['<En>', '<De>', '<Es>', '<Nl>'], special_tokens=True)
+    tokenizer.add_tokens(['<Pt>'], special_tokens=True)
     tokenizer.add_tokens(['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>','<O>'],
                          special_tokens=True)
     model.resize_token_embeddings(len(tokenizer))
 
-    # with torch.no_grad():
-    #     # label tokens
+    # with torch.no_grad():'
+    #     # label tokens'
     #     model.roberta.embeddings.word_embeddings.weight[-1, :] += model.roberta.embeddings.word_embeddings.weight[1810, :].clone()
     #     model.roberta.embeddings.word_embeddings.weight[-2, :] += model.roberta.embeddings.word_embeddings.weight[27060, :].clone()
     #     model.roberta.embeddings.word_embeddings.weight[-3, :] += model.roberta.embeddings.word_embeddings.weight[27060, :].clone()
