@@ -40,7 +40,7 @@ class MultiLabelTextProcessor():
             if not pd.isna(row[-1]):
                 # Add leading label special token
                 if row[-1] != 'O':
-                    if row[1] in ['<Pt>']: # Add language prefix if they are present
+                    if row[1] in ['En', 'De', 'Es', 'Nl']: # Add language prefix if they are present
                         text.append('<' + row[1] + '>')
                         label.append('O')
                     text.append('<' + row[-1] + '>')
@@ -187,6 +187,6 @@ class Data():
         label = '<' + label + '>'
         assert label in ['<O>', '<B-DATA>', '<I-DATA>', '<B-EVENTO>', '<I-EVENTO>', '<B-LOCAL>', '<I-LOCAL>', '<B-FUNDAMENTO>', 
                          '<I-FUNDAMENTO>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', '<B-PESSOA>', '<I-PESSOA>', '<B-PRODUTODELEI>', 
-                         '<I-PRODUTODELEI>']    
+                         '<I-PRODUTODELEI>']
 
         return self.tokenizer.convert_tokens_to_ids(label)
