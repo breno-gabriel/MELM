@@ -160,8 +160,13 @@ if True:
 
     # Add entity labels as special tokens
     tokenizer.add_tokens(['<Pt>'], special_tokens=True)
-    tokenizer.add_tokens(['<B-PER>', '<I-PER>', '<B-ORG>', '<I-ORG>', '<B-LOC>', '<I-LOC>', '<B-MISC>', '<I-MISC>','<O>'],
-                         special_tokens=True)
+    tokenizer.add_tokens(
+        ['<B-PESSOA>', '<I-PESSOA>', '<B-ORGANIZACAO>', '<I-ORGANIZACAO>', 
+         '<B-PRODUTODELEI>', '<I-PRODUTODELEI>', '<B-DATA>', '<I-DATA>', 
+         '<B-EVENTO>', '<I-EVENTO>', '<B-FUNDAMENTO>', '<I-FUNDAMENTO>', 
+         '<B-LOCAL>', '<I-LOCAL>', '<O>'], 
+        special_tokens=True
+    )
     model.resize_token_embeddings(len(tokenizer))
 
     # with torch.no_grad():'
